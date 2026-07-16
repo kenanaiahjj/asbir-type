@@ -1267,7 +1267,7 @@ main {
 
 @media (max-width: 600px) {
   .site-header { min-height: 64px; padding-inline: 16px; gap: 10px; position: relative; }
-  .brand-logo { width: 106px; }
+  .brand-logo { height: 16px; width: auto; }
   .brand-context { display: none; }
   .header-family { position: absolute; left: 50%; display: flex; transform: translateX(-50%); }
   .header-family span { display: none; }
