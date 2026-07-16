@@ -4,3 +4,5 @@ dist/
 .vercel/
 .build/
 *.log
+.vercel
+.env*
