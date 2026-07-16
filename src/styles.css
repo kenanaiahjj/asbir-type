@@ -7,6 +7,14 @@
 }
 
 @font-face {
+  font-family: 'Asbir Sans Review';
+  src: url('/downloads/AsbirSans-Review-Italic-VF.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'Asbir Serif Review';
   src: url('/downloads/AsbirSerif-Review-VF.ttf') format('truetype');
   font-weight: 100 900;
@@ -19,6 +27,14 @@
   src: url('/downloads/AsbirMono-Review-VF.ttf') format('truetype');
   font-weight: 100 900;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Asbir Mono Review';
+  src: url('/downloads/AsbirMono-Review-Italic-VF.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
   font-display: swap;
 }
 

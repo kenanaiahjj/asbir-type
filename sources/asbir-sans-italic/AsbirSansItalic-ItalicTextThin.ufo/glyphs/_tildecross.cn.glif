@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tildecross.cn" format="2">
+  <advance width="670"/>
+  <anchor x="381" y="870" name="top"/>
+  <anchor x="370" y="768" name="_cross"/>
+  <outline>
+    <component base="tildecomb" xOffset="-278" yOffset="-628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tildecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

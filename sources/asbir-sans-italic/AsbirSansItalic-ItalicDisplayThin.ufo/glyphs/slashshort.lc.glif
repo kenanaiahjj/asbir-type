@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshort.lc" format="2">
+  <advance width="382"/>
+  <unicode hex="EEE0"/>
+  <anchor x="231" y="768" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="44" y="788" type="line"/>
+      <point x="463" y="1010" type="line"/>
+      <point x="471.144" y="1064" type="line"/>
+      <point x="52.392" y="842" type="line"/>
+    </contour>
+  </outline>
+</glyph>

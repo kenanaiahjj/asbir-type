@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe.sc" format="2">
+  <advance width="1695"/>
+  <unicode hex="0276"/>
+  <anchor x="1132" y="0" name="bottom"/>
+  <anchor x="1134" y="0" name="cedilla"/>
+  <anchor x="1566" y="0" name="ogonek"/>
+  <anchor x="879" y="1117" name="tonos"/>
+  <anchor x="1317" y="1117" name="top"/>
+  <outline>
+    <contour>
+      <point x="694" y="0" type="line"/>
+      <point x="1566" y="0" type="line"/>
+      <point x="1618" y="319" type="line"/>
+      <point x="1147" y="319" type="line"/>
+      <point x="1162" y="411" type="line"/>
+      <point x="1597" y="411" type="line"/>
+      <point x="1649" y="721" type="line"/>
+      <point x="1214" y="721" type="line"/>
+      <point x="1227" y="799" type="line"/>
+      <point x="1708" y="799" type="line"/>
+      <point x="1760" y="1117" type="line"/>
+      <point x="879" y="1117" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="0" type="curve"/>
+      <point x="842" y="0" type="line"/>
+      <point x="897" y="321" type="line"/>
+      <point x="558" y="321" type="line"/>
+      <point x="492" y="321"/>
+      <point x="435" y="326"/>
+      <point x="472" y="556" type="curve"/>
+      <point x="508" y="781"/>
+      <point x="567" y="797"/>
+      <point x="637" y="797" type="curve"/>
+      <point x="973" y="797" type="line"/>
+      <point x="1028" y="1117" type="line"/>
+      <point x="690" y="1117" type="line"/>
+      <point x="401" y="1116"/>
+      <point x="126" y="959"/>
+      <point x="61" y="556" type="curve"/>
+      <point x="-4" y="153"/>
+      <point x="213" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

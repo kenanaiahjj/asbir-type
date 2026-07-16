@@ -1,9 +1,100 @@
 {
+  "sans": {
+    "masters": [
+      "AsbirSans-TextThin.ufo",
+      "AsbirSans-DisplayThin.ufo",
+      "AsbirSans-TextRegular.ufo",
+      "AsbirSans-DisplayRegular.ufo",
+      "AsbirSans-TextBlack.ufo",
+      "AsbirSans-DisplayBlack.ufo"
+    ],
+    "glyphs": 3017,
+    "cmap": 2852,
+    "checks": {
+      "at_least_three_designspace_masters": true,
+      "at_least_basic_latin_source": true,
+      "source_glyph_count": true,
+      "notdef_present": true,
+      "nbspace_present": true,
+      "latin_1_letters_present": true,
+      "latin_extended_a_letters_present": false,
+      "romanian_comma_letters_present": true,
+      "vietnamese_letters_present": true,
+      "core_greek_letters_present": false,
+      "core_cyrillic_letters_present": false,
+      "feature_code_present": true,
+      "zero_alternate_source": true,
+      "compatible_masters": true,
+      "ligature_sources_present": false,
+      "ligature_caret_anchors": false,
+      "proportional_and_oldstyle_figures": false
+    },
+    "failures": []
+  },
+  "sans-italic": {
+    "masters": [
+      "AsbirSansItalic-ItalicTextThin.ufo",
+      "AsbirSansItalic-ItalicDisplayThin.ufo",
+      "AsbirSansItalic-ItalicTextRegular.ufo",
+      "AsbirSansItalic-ItalicDisplayRegular.ufo",
+      "AsbirSansItalic-ItalicTextBlack.ufo",
+      "AsbirSansItalic-ItalicDisplayBlack.ufo"
+    ],
+    "glyphs": 3017,
+    "cmap": 2852,
+    "checks": {
+      "at_least_three_designspace_masters": true,
+      "at_least_basic_latin_source": true,
+      "source_glyph_count": true,
+      "notdef_present": true,
+      "nbspace_present": true,
+      "latin_1_letters_present": true,
+      "latin_extended_a_letters_present": false,
+      "romanian_comma_letters_present": true,
+      "vietnamese_letters_present": true,
+      "core_greek_letters_present": false,
+      "core_cyrillic_letters_present": false,
+      "feature_code_present": true,
+      "zero_alternate_source": true,
+      "compatible_masters": true,
+      "ligature_sources_present": false,
+      "ligature_caret_anchors": false,
+      "proportional_and_oldstyle_figures": false
+    },
+    "failures": []
+  },
   "mono": {
     "masters": [
       "AsbirMono-Thin.ufo",
       "AsbirMono-Regular.ufo",
       "AsbirMono-Black.ufo"
+    ],
+    "glyphs": 1170,
+    "cmap": 897,
+    "checks": {
+      "at_least_three_designspace_masters": true,
+      "at_least_basic_latin_source": true,
+      "source_glyph_count": true,
+      "notdef_present": true,
+      "nbspace_present": true,
+      "latin_1_letters_present": true,
+      "latin_extended_a_letters_present": false,
+      "romanian_comma_letters_present": true,
+      "vietnamese_letters_present": true,
+      "core_greek_letters_present": false,
+      "core_cyrillic_letters_present": false,
+      "feature_code_present": true,
+      "zero_alternate_source": true,
+      "compatible_masters": true,
+      "monospaced_advances": true
+    },
+    "failures": []
+  },
+  "mono-italic": {
+    "masters": [
+      "AsbirMonoItalic-ItalicThin.ufo",
+      "AsbirMonoItalic-ItalicRegular.ufo",
+      "AsbirMonoItalic-ItalicBlack.ufo"
     ],
     "glyphs": 1170,
     "cmap": 897,

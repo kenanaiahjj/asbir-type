@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Trthook" format="2">
+  <advance width="1251"/>
+  <unicode hex="01AE"/>
+  <anchor x="539" y="0" name="bottom"/>
+  <anchor x="629" y="0" name="bottomr"/>
+  <anchor x="539" y="0" name="cedilla"/>
+  <anchor x="666" y="768" name="cross"/>
+  <anchor x="629" y="0" name="cyrtic"/>
+  <anchor x="579" y="0" name="right"/>
+  <anchor x="786" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="628.59" y="0" type="line"/>
+      <point x="448.59" y="0" type="line"/>
+      <point x="428.393" y="-122" type="line" smooth="yes"/>
+      <point x="395.608" y="-314"/>
+      <point x="527.225" y="-419"/>
+      <point x="689.391" y="-418" type="curve"/>
+      <point x="789.391" y="-418" type="line"/>
+      <point x="815.879" y="-258" type="line"/>
+      <point x="759.879" y="-258" type="line"/>
+      <point x="666.713" y="-259"/>
+      <point x="589.521" y="-236"/>
+      <point x="608.724" y="-120" type="curve" smooth="yes"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

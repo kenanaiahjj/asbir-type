@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotbelow.2.ss07" format="2">
+  <advance width="1171"/>
+  <anchor x="557.0" y="0" name="bottom"/>
+  <anchor x="1146.9" y="5" name="ogonek"/>
+  <anchor x="759.24" y="1118" name="top"/>
+  <outline>
+    <component base="a.2" yxScale="0.18"/>
+    <component base="dotbelow.ss07" yxScale="0.18" xOffset="309.0"/>
+  </outline>
+</glyph>

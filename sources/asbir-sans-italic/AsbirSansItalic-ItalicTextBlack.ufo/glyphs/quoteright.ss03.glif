@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright.ss03" format="2">
+  <advance width="788"/>
+  <unicode hex="EE8E"/>
+  <outline>
+    <contour>
+      <point x="285" y="785" type="line"/>
+      <point x="581" y="878"/>
+      <point x="694" y="1051"/>
+      <point x="731" y="1275" type="curve" smooth="yes"/>
+      <point x="758" y="1438"/>
+      <point x="669" y="1514"/>
+      <point x="547" y="1514" type="curve" smooth="yes"/>
+      <point x="422" y="1514"/>
+      <point x="320" y="1431"/>
+      <point x="301" y="1314" type="curve" smooth="yes"/>
+      <point x="281" y="1199"/>
+      <point x="349" y="1118"/>
+      <point x="465" y="1118" type="curve" smooth="yes"/>
+      <point x="579" y="1118"/>
+      <point x="624" y="1200"/>
+      <point x="643" y="1314" type="curve"/>
+      <point x="586" y="1314" type="line"/>
+      <point x="579" y="1277"/>
+      <point x="573" y="1240"/>
+      <point x="567" y="1203" type="curve" smooth="yes"/>
+      <point x="549" y="1094"/>
+      <point x="481" y="989"/>
+      <point x="264" y="922" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

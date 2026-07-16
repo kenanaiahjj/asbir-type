@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="1528"/>
+  <unicode hex="20B2"/>
+  <anchor x="773.0" y="0" name="bottom"/>
+  <anchor x="1221.56" y="392" name="cross"/>
+  <anchor x="1045.2" y="1490" name="top"/>
+  <anchor x="1573.14" y="1023" name="topr"/>
+  <outline>
+    <contour>
+      <point x="671.76" y="-218" type="line"/>
+      <point x="791.76" y="-218" type="line"/>
+      <point x="1138.44" y="1708" type="line"/>
+      <point x="1018.44" y="1708" type="line"/>
+    </contour>
+    <component base="G" yxScale="0.18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

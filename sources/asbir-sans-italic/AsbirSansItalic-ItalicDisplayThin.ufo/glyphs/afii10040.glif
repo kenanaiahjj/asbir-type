@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10040" format="2">
+  <advance width="1317"/>
+  <unicode hex="0426"/>
+  <anchor x="1079" y="0" name="cyrtic"/>
+  <anchor x="582" y="0" name="cyrtic_center"/>
+  <outline>
+    <component base="Pe-cy.turn"/>
+    <component base="_part.cyrtic" xOffset="1076"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>right</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.cyrtic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

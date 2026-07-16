@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveeighths" format="2">
+  <advance width="600"/>
+  <unicode hex="215D"/>
+  <outline>
+    <contour>
+      <point x="166" y="315" type="curve" smooth="yes"/>
+      <point x="284" y="315"/>
+      <point x="337" y="372"/>
+      <point x="337" y="452" type="curve" smooth="yes"/>
+      <point x="337" y="488"/>
+      <point x="325" y="514"/>
+      <point x="267" y="522" type="curve"/>
+      <point x="344" y="537"/>
+      <point x="359" y="576"/>
+      <point x="359" y="624" type="curve" smooth="yes"/>
+      <point x="359" y="675"/>
+      <point x="326" y="718"/>
+      <point x="236" y="718" type="curve" smooth="yes"/>
+      <point x="136" y="718"/>
+      <point x="86" y="678"/>
+      <point x="70" y="598" type="curve"/>
+      <point x="189" y="592" type="line"/>
+      <point x="193" y="618"/>
+      <point x="202" y="630"/>
+      <point x="218" y="630" type="curve" smooth="yes"/>
+      <point x="231" y="630"/>
+      <point x="241" y="620"/>
+      <point x="241" y="597" type="curve" smooth="yes"/>
+      <point x="241" y="569"/>
+      <point x="229" y="555"/>
+      <point x="205" y="555" type="curve" smooth="yes"/>
+      <point x="179" y="555" type="line"/>
+      <point x="163" y="479" type="line"/>
+      <point x="191" y="479" type="line" smooth="yes"/>
+      <point x="206" y="479"/>
+      <point x="219" y="470"/>
+      <point x="219" y="446" type="curve" smooth="yes"/>
+      <point x="219" y="415"/>
+      <point x="203" y="403"/>
+      <point x="184" y="403" type="curve" smooth="yes"/>
+      <point x="167" y="403"/>
+      <point x="158" y="413"/>
+      <point x="158" y="437" type="curve"/>
+      <point x="37" y="433" type="line"/>
+      <point x="35" y="341"/>
+      <point x="74" y="315"/>
+    </contour>
+    <contour>
+      <point x="374" y="-8" type="curve" smooth="yes"/>
+      <point x="473" y="-8"/>
+      <point x="566" y="27"/>
+      <point x="566" y="122" type="curve" smooth="yes"/>
+      <point x="566" y="163"/>
+      <point x="541" y="192"/>
+      <point x="500" y="207" type="curve"/>
+      <point x="550" y="222"/>
+      <point x="586" y="244"/>
+      <point x="586" y="303" type="curve" smooth="yes"/>
+      <point x="586" y="353"/>
+      <point x="551" y="395"/>
+      <point x="454" y="395" type="curve" smooth="yes"/>
+      <point x="345" y="395"/>
+      <point x="283" y="354"/>
+      <point x="283" y="279" type="curve" smooth="yes"/>
+      <point x="283" y="242"/>
+      <point x="309" y="219"/>
+      <point x="348" y="207" type="curve"/>
+      <point x="279" y="189"/>
+      <point x="238" y="149"/>
+      <point x="238" y="85" type="curve" smooth="yes"/>
+      <point x="238" y="28"/>
+      <point x="274" y="-8"/>
+    </contour>
+    <contour>
+      <point x="394" y="80" type="curve" smooth="yes"/>
+      <point x="370" y="80"/>
+      <point x="358" y="94"/>
+      <point x="358" y="116" type="curve" smooth="yes"/>
+      <point x="358" y="147"/>
+      <point x="378" y="171"/>
+      <point x="408" y="171" type="curve" smooth="yes"/>
+      <point x="432" y="171"/>
+      <point x="446" y="156"/>
+      <point x="446" y="131" type="curve" smooth="yes"/>
+      <point x="446" y="97"/>
+      <point x="420" y="80"/>
+    </contour>
+    <contour>
+      <point x="430" y="237" type="curve" smooth="yes"/>
+      <point x="413" y="237"/>
+      <point x="401" y="246"/>
+      <point x="401" y="267" type="curve" smooth="yes"/>
+      <point x="401" y="294"/>
+      <point x="419" y="307"/>
+      <point x="439" y="307" type="curve" smooth="yes"/>
+      <point x="457" y="307"/>
+      <point x="468" y="295"/>
+      <point x="468" y="277" type="curve" smooth="yes"/>
+      <point x="468" y="249"/>
+      <point x="450" y="237"/>
+    </contour>
+    <component base="fraction" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCPPP</string>
+    </dict>
+  </lib>
+</glyph>

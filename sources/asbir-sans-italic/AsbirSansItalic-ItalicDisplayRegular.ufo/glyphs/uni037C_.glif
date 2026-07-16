@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni037C" format="2">
+  <advance width="1071"/>
+  <unicode hex="037C"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="473" y="0" name="cedilla"/>
+  <anchor x="562" y="528" name="center"/>
+  <anchor x="641" y="1056" name="top"/>
+  <anchor x="1037" y="712" name="topr"/>
+  <outline>
+    <contour>
+      <point x="543.206" y="412" type="curve" smooth="yes"/>
+      <point x="607.206" y="412"/>
+      <point x="667.815" y="464"/>
+      <point x="678.41" y="528" type="curve" smooth="yes"/>
+      <point x="689.005" y="592"/>
+      <point x="645.614" y="644"/>
+      <point x="581.614" y="644" type="curve" smooth="yes"/>
+      <point x="517.614" y="644"/>
+      <point x="457.005" y="592"/>
+      <point x="446.41" y="528" type="curve" smooth="yes"/>
+      <point x="435.815" y="464"/>
+      <point x="479.206" y="412"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

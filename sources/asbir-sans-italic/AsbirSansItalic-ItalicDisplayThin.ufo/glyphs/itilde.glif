@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="315"/>
+  <unicode hex="0129"/>
+  <anchor x="70" y="0" name="bottom"/>
+  <anchor x="166" y="582" name="cross"/>
+  <anchor x="93" y="0" name="ogonek"/>
+  <anchor x="317" y="1490" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="tildecomb" xOffset="-290"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

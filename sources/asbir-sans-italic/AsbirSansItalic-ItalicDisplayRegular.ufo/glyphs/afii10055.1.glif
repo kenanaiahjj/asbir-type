@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10055.1" format="2">
+  <advance width="695"/>
+  <unicode hex="E02A"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="387" y="768" name="cross"/>
+  <anchor x="527" y="0" name="ogonek"/>
+  <anchor x="543" y="0" name="right"/>
+  <anchor x="256" y="1490" name="tonos"/>
+  <anchor x="507" y="1490" name="top"/>
+  <outline>
+    <component base="I.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

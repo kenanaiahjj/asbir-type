@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="492"/>
+  <unicode hex="1E6D"/>
+  <anchor x="310.0" y="0" name="bottom"/>
+  <anchor x="310.0" y="0" name="cedilla"/>
+  <anchor x="452.72" y="4" name="lfthook"/>
+  <anchor x="446.12" y="1384" name="top"/>
+  <anchor x="390.68" y="1526" name="raccent"/>
+  <outline>
+    <component base="t" yxScale="0.18"/>
+    <component base="dotbelow" yxScale="0.18" xOffset="124.0"/>
+  </outline>
+</glyph>

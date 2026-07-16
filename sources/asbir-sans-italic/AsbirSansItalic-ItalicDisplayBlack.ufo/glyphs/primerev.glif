@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primerev" format="2">
+  <advance width="620"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="562.935" y="884" type="line"/>
+      <point x="611.258" y="1490" type="line"/>
+      <point x="273.258" y="1490" type="line"/>
+      <point x="296.935" y="884" type="line"/>
+    </contour>
+  </outline>
+</glyph>

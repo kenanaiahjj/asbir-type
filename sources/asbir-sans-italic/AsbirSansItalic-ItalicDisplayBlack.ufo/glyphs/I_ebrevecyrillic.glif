@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iebrevecyrillic" format="2">
+  <advance width="1289"/>
+  <unicode hex="04D6"/>
+  <anchor x="570" y="0" name="bottom"/>
+  <anchor x="568" y="0" name="cedilla"/>
+  <anchor x="1147" y="0" name="ogonek"/>
+  <anchor x="240" y="1490" name="tonos"/>
+  <anchor x="892" y="1941" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="brevecomb" xOffset="249" yOffset="434"/>
+  </outline>
+</glyph>

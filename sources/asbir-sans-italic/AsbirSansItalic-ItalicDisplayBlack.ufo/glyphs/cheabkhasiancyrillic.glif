@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasiancyrillic" format="2">
+  <advance width="1550"/>
+  <unicode hex="04BD"/>
+  <anchor x="897" y="0" name="bottom"/>
+  <anchor x="894" y="0" name="cedilla"/>
+  <anchor x="1481" y="360" name="ogonek"/>
+  <anchor x="1068" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="413" y="415" type="curve"/>
+      <point x="450" y="643" type="line"/>
+      <point x="320" y="643"/>
+      <point x="280" y="717"/>
+      <point x="307" y="878" type="curve"/>
+      <point x="39" y="878" type="line"/>
+      <point x="-10" y="579"/>
+      <point x="114" y="415"/>
+    </contour>
+    <component base="e" xOffset="350"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

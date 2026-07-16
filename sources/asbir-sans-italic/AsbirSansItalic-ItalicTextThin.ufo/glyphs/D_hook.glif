@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dhook" format="2">
+  <advance width="1620"/>
+  <unicode hex="018A"/>
+  <anchor x="657" y="0" name="bottom"/>
+  <anchor x="563" y="745" name="cross"/>
+  <anchor x="946" y="1490" name="top"/>
+  <anchor x="546" y="1490" name="topl"/>
+  <outline>
+    <component base="D" xOffset="160"/>
+    <component base="_part.top_left_hook" xOffset="21"/>
+  </outline>
+</glyph>

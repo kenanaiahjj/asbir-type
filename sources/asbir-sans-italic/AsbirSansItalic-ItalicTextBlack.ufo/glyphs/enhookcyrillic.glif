@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enhookcyrillic" format="2">
+  <advance width="1331"/>
+  <unicode hex="04C8"/>
+  <anchor x="573" y="0" name="bottom"/>
+  <anchor x="1136" y="0" name="cyrtic"/>
+  <anchor x="734" y="0" name="lfthook"/>
+  <anchor x="758" y="1118" name="top"/>
+  <outline>
+    <component base="encyrillic"/>
+    <component base="_part.bottom_lfthook" xOffset="480"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="640"/>
+  <unicode hex="0074"/>
+  <anchor x="347.0" y="0" name="bottom"/>
+  <anchor x="401.0" y="0" name="cedilla"/>
+  <anchor x="600.08" y="6" name="lfthook"/>
+  <anchor x="497.12" y="1384" name="top"/>
+  <anchor x="735.16" y="1562" name="raccent"/>
+  <outline>
+    <contour>
+      <point x="769.24" y="1118" type="line"/>
+      <point x="441.24" y="1118" type="line"/>
+      <point x="413.52" y="964" type="line"/>
+      <point x="741.52" y="964" type="line"/>
+    </contour>
+    <component base="_part.t_base" yxScale="0.18" xOffset="-74.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.asbir.identitySource</key>
+      <string>t.1</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

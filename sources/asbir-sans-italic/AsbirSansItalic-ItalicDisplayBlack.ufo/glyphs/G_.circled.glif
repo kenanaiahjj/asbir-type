@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G.circled" format="2">
+  <advance width="2846"/>
+  <unicode hex="24BC"/>
+  <anchor x="1417.0" y="0" name="bottom"/>
+  <anchor x="1917.76" y="432" name="cross"/>
+  <anchor x="1689.2" y="1490" name="top"/>
+  <anchor x="2289.68" y="976" name="topr"/>
+  <outline>
+    <component base="largeCircle" yxScale="0.18"/>
+    <component base="G" yxScale="0.18" xOffset="665.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>largeCircle</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>G</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

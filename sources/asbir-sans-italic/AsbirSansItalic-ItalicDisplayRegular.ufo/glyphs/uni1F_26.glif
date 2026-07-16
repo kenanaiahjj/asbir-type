@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F26" format="2">
+  <advance width="1121"/>
+  <unicode hex="1F26"/>
+  <anchor x="124" y="0" name="bottom"/>
+  <anchor x="784" y="1783" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="psiliperispomeni" xOffset="291"/>
+  </outline>
+</glyph>

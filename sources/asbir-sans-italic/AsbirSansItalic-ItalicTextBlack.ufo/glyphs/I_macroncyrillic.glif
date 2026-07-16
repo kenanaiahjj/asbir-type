@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacroncyrillic" format="2">
+  <advance width="1576"/>
+  <unicode hex="04E2"/>
+  <anchor x="695" y="0" name="bottom"/>
+  <anchor x="1291" y="0" name="cyrtic"/>
+  <anchor x="1387" y="0" name="lfthook"/>
+  <anchor x="3" y="0" name="lfthook2"/>
+  <anchor x="963" y="1904" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="macroncomb" xOffset="385" yOffset="372"/>
+  </outline>
+</glyph>

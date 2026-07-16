@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="1205"/>
+  <unicode hex="20A3"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="278" y="350" name="cross"/>
+  <anchor x="130" y="0" name="lfthook"/>
+  <anchor x="846" y="1490" name="top"/>
+  <outline>
+    <component base="F" xOffset="69"/>
+    <component base="_part.crossbar_compact" xOffset="-102" yOffset="-395"/>
+  </outline>
+</glyph>

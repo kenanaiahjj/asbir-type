@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsigncyrillic" format="2">
+  <advance width="1320"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="89" y="972" type="line"/>
+      <point x="481" y="972" type="line"/>
+      <point x="505" y="1118" type="line"/>
+      <point x="113" y="1118" type="line"/>
+    </contour>
+    <component base="softsigncyrillic" xOffset="175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

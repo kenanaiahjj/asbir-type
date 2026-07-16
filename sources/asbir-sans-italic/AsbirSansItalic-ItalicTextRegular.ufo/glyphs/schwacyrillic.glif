@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwacyrillic" format="2">
+  <advance width="1179"/>
+  <unicode hex="04D9"/>
+  <anchor x="672" y="1118" name="top"/>
+  <anchor x="663.0" y="1118.0" name="cedilla"/>
+  <anchor x="149.0" y="857.0" name="ogonek"/>
+  <anchor x="486" y="0" name="bottom"/>
+  <outline>
+    <component base="schwa"/>
+  </outline>
+</glyph>

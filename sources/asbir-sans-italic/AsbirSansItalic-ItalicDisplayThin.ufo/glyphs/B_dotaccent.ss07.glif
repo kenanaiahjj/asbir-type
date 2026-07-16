@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bdotaccent.ss07" format="2">
+  <advance width="1236"/>
+  <unicode hex="E1E8"/>
+  <anchor x="512" y="0" name="bottom"/>
+  <anchor x="191" y="390" name="cross"/>
+  <anchor x="789" y="1785" name="top"/>
+  <anchor x="327" y="1490" name="topl"/>
+  <outline>
+    <component base="B"/>
+    <component base="dotaccentcomb.ss07" xOffset="527" yOffset="423"/>
+  </outline>
+</glyph>

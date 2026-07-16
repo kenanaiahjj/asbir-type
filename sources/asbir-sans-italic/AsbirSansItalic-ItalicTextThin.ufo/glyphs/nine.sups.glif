@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.sups" format="2">
+  <advance width="809"/>
+  <unicode hex="2079"/>
+  <outline>
+    <contour>
+      <point x="550.0799999999999" y="906" type="curve" smooth="yes"/>
+      <point x="783.0799999999999" y="906"/>
+      <point x="893.26" y="1107"/>
+      <point x="934.3" y="1335" type="curve" smooth="yes"/>
+      <point x="972.8199999999999" y="1549"/>
+      <point x="902.74" y="1693"/>
+      <point x="701.9200000000001" y="1694" type="curve" smooth="yes"/>
+      <point x="533.0999999999999" y="1695"/>
+      <point x="399.58" y="1581"/>
+      <point x="375.82" y="1449" type="curve" smooth="yes"/>
+      <point x="350.79999999999995" y="1310"/>
+      <point x="458.9" y="1205"/>
+      <point x="614.9" y="1205" type="curve" smooth="yes"/>
+      <point x="720.9" y="1205"/>
+      <point x="831.54" y="1253"/>
+      <point x="880.3199999999999" y="1324" type="curve"/>
+      <point x="885.3199999999999" y="1324" type="line"/>
+      <point x="841.3" y="1085"/>
+      <point x="730.0" y="950"/>
+      <point x="558.0" y="950" type="curve" smooth="yes"/>
+      <point x="434.0" y="950"/>
+      <point x="372.41999999999996" y="1019"/>
+      <point x="378.34000000000003" y="1113" type="curve"/>
+      <point x="330.34000000000003" y="1113" type="line"/>
+      <point x="319.2" y="990"/>
+      <point x="401.08" y="906"/>
+    </contour>
+    <contour>
+      <point x="627.8199999999999" y="1249" type="curve" smooth="yes"/>
+      <point x="492.82" y="1249"/>
+      <point x="403.65999999999997" y="1337"/>
+      <point x="424.0" y="1450" type="curve" smooth="yes"/>
+      <point x="443.62" y="1559"/>
+      <point x="558.8199999999999" y="1649"/>
+      <point x="693.8199999999999" y="1649" type="curve" smooth="yes"/>
+      <point x="814.8199999999999" y="1649"/>
+      <point x="890.14" y="1573"/>
+      <point x="894.44" y="1458" type="curve" smooth="yes"/>
+      <point x="898.64" y="1348"/>
+      <point x="768.8199999999999" y="1249"/>
+    </contour>
+  </outline>
+</glyph>

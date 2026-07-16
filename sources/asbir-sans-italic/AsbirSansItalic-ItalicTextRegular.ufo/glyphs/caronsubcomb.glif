@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronsubcomb" format="2">
+  <advance width="847"/>
+  <unicode hex="E109"/>
+  <anchor x="231" y="-604" name="_top"/>
+  <anchor x="304" y="-164" name="top"/>
+  <outline>
+    <component base="caroncomb" xOffset="-285" yOffset="-1722"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>caroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

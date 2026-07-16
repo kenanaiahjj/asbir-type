@@ -35,8 +35,11 @@ def glyph_signature(glyph):
     return contours, components
 
 
-def check_family(family):
+def check_family(family, italic=False):
     folder, prefix = FAMILIES[family]
+    if italic:
+        folder = f'{folder}-italic'
+        prefix = f'{prefix}Italic'
     source = ROOT / 'sources' / folder
     designspace_path = source / f'{prefix}.designspace'
     document = DesignSpaceDocument.fromfile(designspace_path)
@@ -129,7 +132,11 @@ def main():
     parser.add_argument('--family', choices=tuple(FAMILIES), action='append')
     args = parser.parse_args()
     selected = args.family or list(FAMILIES)
-    report = {family: check_family(family) for family in selected}
+    report = {}
+    for family in selected:
+        report[family] = check_family(family)
+        if family in ('sans', 'mono'):
+            report[f'{family}-italic'] = check_family(family, italic=True)
     report_path = ROOT / 'reports' / 'source-qa.json'
     report_path.parent.mkdir(exist_ok=True)
     report_path.write_text(json.dumps(report, indent=2) + '\n')

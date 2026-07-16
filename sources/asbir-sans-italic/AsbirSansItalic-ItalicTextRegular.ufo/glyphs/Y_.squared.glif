@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F148"/>
+  <anchor x="1335" y="0" name="bottom"/>
+  <anchor x="1399" y="388" name="cross"/>
+  <anchor x="1430" y="0" name="ogonek"/>
+  <anchor x="939" y="1490" name="tonos"/>
+  <anchor x="1582" y="1490" name="top"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="Y" xOffset="733"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>whiteLargeSquare</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

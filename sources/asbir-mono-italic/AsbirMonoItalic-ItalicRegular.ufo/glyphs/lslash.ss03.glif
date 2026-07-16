@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss03" format="2">
+  <advance width="600"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="342" y="396" name="center"/>
+  <anchor x="374" y="710" name="top"/>
+  <anchor x="466" y="530" name="topright"/>
+  <outline>
+    <component base="l.ss03"/>
+    <component base="slashshortcomb" xOffset="16" yOffset="7"/>
+  </outline>
+</glyph>

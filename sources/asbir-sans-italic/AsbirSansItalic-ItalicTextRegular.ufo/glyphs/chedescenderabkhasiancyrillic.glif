@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescenderabkhasiancyrillic" format="2">
+  <advance width="1419"/>
+  <unicode hex="04BF"/>
+  <anchor x="761" y="0" name="bottom"/>
+  <anchor x="756" y="0" name="cedilla"/>
+  <anchor x="1270" y="261" name="ogonek"/>
+  <anchor x="945" y="1118" name="top"/>
+  <outline>
+    <component base="cheabkhasiancyrillic"/>
+    <component base="cedillacomb" xOffset="583"/>
+  </outline>
+</glyph>

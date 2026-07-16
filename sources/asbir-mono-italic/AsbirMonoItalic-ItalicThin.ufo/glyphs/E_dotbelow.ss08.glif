@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotbelow.ss08" format="2">
+  <advance width="600"/>
+  <anchor x="209" y="-146" name="bottom"/>
+  <anchor x="454" y="0" name="ogonek"/>
+  <anchor x="391" y="710" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb.ss08" xOffset="-4"/>
+  </outline>
+</glyph>

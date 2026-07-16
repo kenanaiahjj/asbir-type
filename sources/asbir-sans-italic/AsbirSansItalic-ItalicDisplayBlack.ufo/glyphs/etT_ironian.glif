@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etTironian" format="2">
+  <advance width="1145"/>
+  <unicode hex="204A"/>
+  <outline>
+    <contour>
+      <point x="338" y="-418" type="line"/>
+      <point x="659" y="-418" type="line"/>
+      <point x="1072" y="1056" type="line"/>
+      <point x="187" y="1056" type="line"/>
+      <point x="134" y="736" type="line"/>
+      <point x="662" y="736" type="line"/>
+    </contour>
+  </outline>
+</glyph>

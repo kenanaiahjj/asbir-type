@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahook-cy" format="2">
+  <advance width="913"/>
+  <unicode hex="04FD"/>
+  <outline>
+    <contour>
+      <point x="475" y="-416" type="curve" smooth="yes"/>
+      <point x="599" y="-416"/>
+      <point x="709" y="-311"/>
+      <point x="732" y="-172" type="curve" smooth="yes"/>
+      <point x="748" y="-72"/>
+      <point x="721" y="35"/>
+      <point x="618" y="252" type="curve" smooth="yes"/>
+      <point x="472" y="558" type="line"/>
+      <point x="921" y="1118" type="line"/>
+      <point x="865" y="1118" type="line"/>
+      <point x="451" y="600" type="line"/>
+      <point x="209" y="1118" type="line"/>
+      <point x="153" y="1118" type="line"/>
+      <point x="416" y="558" type="line"/>
+      <point x="-32" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="437" y="516" type="line"/>
+      <point x="573" y="226" type="line" smooth="yes"/>
+      <point x="673" y="13"/>
+      <point x="700" y="-82"/>
+      <point x="686" y="-170" type="curve" smooth="yes"/>
+      <point x="666" y="-287"/>
+      <point x="580" y="-370"/>
+      <point x="481" y="-370" type="curve" smooth="yes"/>
+      <point x="463" y="-370"/>
+      <point x="440" y="-367"/>
+      <point x="416" y="-360" type="curve"/>
+      <point x="409" y="-402" type="line"/>
+      <point x="424" y="-411"/>
+      <point x="448" y="-416"/>
+    </contour>
+  </outline>
+</glyph>

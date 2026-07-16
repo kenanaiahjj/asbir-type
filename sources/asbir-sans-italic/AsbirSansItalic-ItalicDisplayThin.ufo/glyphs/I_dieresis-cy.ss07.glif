@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis-cy.ss07" format="2">
+  <advance width="1453"/>
+  <unicode hex="E291"/>
+  <anchor x="639" y="0" name="bottom"/>
+  <anchor x="1197" y="0" name="cyrtic"/>
+  <anchor x="1197" y="0" name="lfthook"/>
+  <anchor x="81" y="0" name="lfthook2"/>
+  <anchor x="937" y="1796" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="dieresiscomb.ss07" xOffset="265" yOffset="434"/>
+  </outline>
+</glyph>

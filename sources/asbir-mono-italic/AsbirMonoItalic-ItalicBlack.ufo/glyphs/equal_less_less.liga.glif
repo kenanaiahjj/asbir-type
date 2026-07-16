@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_less_less.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-1212" y="141" type="line"/>
+      <point x="-55" y="141" type="line"/>
+      <point x="-6" y="271" type="line"/>
+      <point x="-1185" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1166" y="357" type="line"/>
+      <point x="13" y="357" type="line"/>
+      <point x="18" y="486" type="line"/>
+      <point x="-1139" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="-6" y="56" type="line"/>
+      <point x="154" y="56" type="line"/>
+      <point x="-6" y="271" type="line"/>
+      <point x="-165" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="-141" y="374" type="line"/>
+      <point x="13" y="357" type="line"/>
+      <point x="282" y="581" type="line"/>
+      <point x="92" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="56" type="line"/>
+      <point x="242" y="314" type="line"/>
+      <point x="562" y="581" type="line"/>
+      <point x="372" y="581" type="line"/>
+      <point x="70" y="313" type="line"/>
+      <point x="274" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

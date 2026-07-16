@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubar" format="2">
+  <advance width="1166"/>
+  <unicode hex="0289"/>
+  <anchor x="491" y="0" name="bottom"/>
+  <anchor x="891" y="0" name="ogonek"/>
+  <anchor x="1030" y="1118" name="rtophorn"/>
+  <anchor x="676" y="1118" name="top"/>
+  <outline>
+    <contour>
+      <point x="1162.992" y="604" type="line"/>
+      <point x="16.992" y="604" type="line"/>
+      <point x="10" y="559" type="line"/>
+      <point x="1156" y="559" type="line"/>
+    </contour>
+    <component base="u" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

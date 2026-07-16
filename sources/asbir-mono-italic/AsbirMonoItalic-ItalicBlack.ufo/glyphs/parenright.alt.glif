@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.alt" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="184" y="-146" type="line"/>
+      <point x="436" y="80" type="line"/>
+      <point x="436" y="627" type="line"/>
+      <point x="186" y="850" type="line"/>
+      <point x="114" y="772" type="line"/>
+      <point x="326" y="583" type="line"/>
+      <point x="326" y="124" type="line"/>
+      <point x="113" y="-68" type="line"/>
+    </contour>
+  </outline>
+</glyph>

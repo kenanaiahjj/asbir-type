@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.tcurl_base" format="2">
+  <advance width="841"/>
+  <anchor x="561" y="398" name="bottomr"/>
+  <outline>
+    <contour>
+      <point x="161" y="398" type="line"/>
+      <point x="561" y="398" type="line"/>
+      <point x="717" y="1344" type="line"/>
+      <point x="317" y="1344" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="752" type="line"/>
+      <point x="837" y="752" type="line"/>
+      <point x="888" y="1056" type="line"/>
+      <point x="108" y="1056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

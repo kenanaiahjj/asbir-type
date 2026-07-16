@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="2154"/>
+  <unicode hex="0152"/>
+  <anchor x="1420" y="0" name="bottom"/>
+  <anchor x="1422" y="0" name="cedilla"/>
+  <anchor x="1953" y="0" name="ogonek"/>
+  <anchor x="1130" y="1490" name="tonos"/>
+  <anchor x="1667" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="668" y="0" type="curve"/>
+      <point x="1034" y="0" type="line"/>
+      <point x="1090" y="326" type="line"/>
+      <point x="722" y="326" type="line"/>
+      <point x="561" y="326"/>
+      <point x="456" y="413"/>
+      <point x="510" y="742" type="curve"/>
+      <point x="563" y="1068"/>
+      <point x="697" y="1164"/>
+      <point x="860" y="1164" type="curve"/>
+      <point x="1226" y="1164" type="line"/>
+      <point x="1282" y="1490" type="line"/>
+      <point x="914" y="1490" type="line"/>
+      <point x="529" y="1489"/>
+      <point x="182" y="1251"/>
+      <point x="100" y="742" type="curve"/>
+      <point x="17" y="236"/>
+      <point x="281" y="0"/>
+    </contour>
+    <component base="E" xOffset="880"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

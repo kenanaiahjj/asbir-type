@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_slash_greater.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-677" y="-153" type="line"/>
+      <point x="-517" y="-153" type="line"/>
+      <point x="77" y="723" type="line"/>
+      <point x="-83" y="723" type="line"/>
+    </contour>
+    <component base="less" xScale="1.2" xOffset="-1069"/>
+    <component base="greater" xScale="1.2" xOffset="-253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>less</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>greater</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

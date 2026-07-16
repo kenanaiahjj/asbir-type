@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEB" format="2">
+  <advance width="1663"/>
+  <unicode hex="1FEB"/>
+  <anchor x="917" y="0" name="bottom"/>
+  <anchor x="982" y="392" name="cross"/>
+  <anchor x="1007" y="0" name="ogonek"/>
+  <anchor x="526" y="1490" name="tonos"/>
+  <anchor x="1164" y="1490" name="top"/>
+  <outline>
+    <component base="Y" xOffset="347"/>
+    <component base="tonos" xOffset="-80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tonos</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

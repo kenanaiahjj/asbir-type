@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.numr" format="2">
+  <advance width="381"/>
+  <outline>
+    <component base="period" xScale="0.7" yxScale="0.126" yScale="0.7" xOffset="110.33999999999999" yOffset="613"/>
+  </outline>
+</glyph>

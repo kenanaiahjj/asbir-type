@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EFA" format="2">
+  <advance width="1550"/>
+  <unicode hex="1EFA"/>
+  <anchor x="924" y="0" name="bottom"/>
+  <anchor x="827" y="745" name="cross"/>
+  <anchor x="1047" y="797" name="dot"/>
+  <anchor x="1174" y="1490" name="raccent"/>
+  <anchor x="827" y="1490" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="L" xOffset="398"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mturndescend" format="2">
+  <advance width="1932"/>
+  <unicode hex="0270"/>
+  <anchor x="1056" y="1118" name="top"/>
+  <anchor x="597.0" y="1118.0" name="lfthook"/>
+  <anchor x="874" y="0" name="bottom"/>
+  <anchor x="1737" y="0" name="bottomr"/>
+  <outline>
+    <component base="mturn"/>
+    <component base="_part.bottomr_descend" xOffset="1348"/>
+  </outline>
+</glyph>

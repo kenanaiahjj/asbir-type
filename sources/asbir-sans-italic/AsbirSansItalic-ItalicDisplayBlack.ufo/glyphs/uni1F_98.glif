@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F98" format="2">
+  <advance width="1878"/>
+  <unicode hex="1F98"/>
+  <anchor x="1046" y="0" name="bottom"/>
+  <anchor x="590" y="0" name="cedilla"/>
+  <anchor x="1710" y="0" name="cyrtic"/>
+  <anchor x="1294" y="0" name="lfthook"/>
+  <anchor x="1710" y="0" name="right"/>
+  <anchor x="629" y="1490" name="tonos"/>
+  <anchor x="1293" y="1490" name="top"/>
+  <outline>
+    <component base="H" xOffset="389"/>
+    <component base="uni1FBE" xOffset="845"/>
+    <component base="koronisaccentleft.cn" xOffset="-46" yOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

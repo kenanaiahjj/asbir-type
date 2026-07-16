@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.bottomr_descend" format="2">
+  <advance width="584"/>
+  <anchor x="389" y="0" name="_bottomr"/>
+  <outline>
+    <contour>
+      <point x="-60" y="-418" type="line"/>
+      <point x="320" y="-418" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="9" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

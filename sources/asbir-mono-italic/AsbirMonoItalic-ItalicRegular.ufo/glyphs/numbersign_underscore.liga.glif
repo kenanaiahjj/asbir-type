@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_underscore.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-327" y="-68" type="line"/>
+      <point x="-255" y="-68" type="line"/>
+      <point x="-111" y="710" type="line"/>
+      <point x="-183" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-562" y="197" type="line"/>
+      <point x="-114" y="197" type="line"/>
+      <point x="-102" y="267" type="line"/>
+      <point x="-550" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="-512" y="0" type="line"/>
+      <point x="-440" y="0" type="line"/>
+      <point x="-308" y="710" type="line"/>
+      <point x="-380" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-257" y="-68" type="line"/>
+      <point x="491" y="-68" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="-257" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-522" y="440" type="line"/>
+      <point x="-74" y="440" type="line"/>
+      <point x="-62" y="510" type="line"/>
+      <point x="-510" y="510" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

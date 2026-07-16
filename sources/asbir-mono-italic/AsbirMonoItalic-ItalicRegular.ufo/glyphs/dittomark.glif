@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dittomark" format="2">
+  <advance width="600"/>
+  <unicode hex="3003"/>
+  <outline>
+    <contour>
+      <point x="288" y="281" type="line"/>
+      <point x="353" y="281" type="line"/>
+      <point x="486" y="481" type="line"/>
+      <point x="393" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="281" type="line"/>
+      <point x="228" y="281" type="line"/>
+      <point x="361" y="481" type="line"/>
+      <point x="269" y="481" type="line"/>
+    </contour>
+  </outline>
+</glyph>

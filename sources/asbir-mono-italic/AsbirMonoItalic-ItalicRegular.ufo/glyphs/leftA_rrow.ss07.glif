@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow.ss07" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="192" y="193" type="line"/>
+      <point x="260" y="515" type="line"/>
+      <point x="33" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="315" type="line"/>
+      <point x="613" y="393" type="line"/>
+      <point x="111" y="393" type="line"/>
+      <point x="94" y="315" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="600"/>
+  <unicode hex="00A5"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="388" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="23" y="111" type="line"/>
+      <point x="523" y="111" type="line"/>
+      <point x="543" y="205" type="line"/>
+      <point x="43" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="268" type="line"/>
+      <point x="557" y="268" type="line"/>
+      <point x="577" y="362" type="line"/>
+      <point x="77" y="362" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

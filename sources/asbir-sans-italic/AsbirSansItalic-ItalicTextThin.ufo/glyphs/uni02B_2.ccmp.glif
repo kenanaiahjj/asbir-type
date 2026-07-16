@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02B2.ccmp" format="2">
+  <advance width="222"/>
+  <unicode hex="E0F5"/>
+  <outline>
+    <contour>
+      <point x="296" y="1440" type="line"/>
+      <point x="136" y="494" type="line" smooth="yes"/>
+      <point x="123" y="409"/>
+      <point x="89" y="364"/>
+      <point x="30" y="364" type="curve" smooth="yes"/>
+      <point x="16" y="364"/>
+      <point x="-3" y="366"/>
+      <point x="-14" y="370" type="curve"/>
+      <point x="-20" y="328" type="line"/>
+      <point x="-7" y="322"/>
+      <point x="17" y="317"/>
+      <point x="42" y="318" type="curve" smooth="yes"/>
+      <point x="118" y="317"/>
+      <point x="163" y="372"/>
+      <point x="184" y="494" type="curve" smooth="yes"/>
+      <point x="342" y="1440" type="line"/>
+    </contour>
+  </outline>
+</glyph>

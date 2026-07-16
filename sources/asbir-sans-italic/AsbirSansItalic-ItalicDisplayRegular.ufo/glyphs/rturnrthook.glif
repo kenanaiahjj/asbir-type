@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rturnrthook" format="2">
+  <advance width="660"/>
+  <unicode hex="027B"/>
+  <anchor x="535" y="1056" name="top"/>
+  <anchor x="451.0" y="1056.0" name="topr"/>
+  <anchor x="446.0" y="520.0" name="cross"/>
+  <anchor x="290" y="0" name="bottom"/>
+  <anchor x="446" y="0" name="bottomr"/>
+  <outline>
+    <component base="rturn"/>
+    <component base="_part.bottom_rthook_r" xOffset="307"/>
+  </outline>
+</glyph>

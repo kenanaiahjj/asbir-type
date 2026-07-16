@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent.ss03" format="2">
+  <advance width="1455"/>
+  <unicode hex="EE79"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="61" y="0" name="lfthook"/>
+  <anchor x="1219" y="0" name="lfthook2"/>
+  <anchor x="887" y="1490" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="commaaccent.ss03" xOffset="488"/>
+  </outline>
+</glyph>

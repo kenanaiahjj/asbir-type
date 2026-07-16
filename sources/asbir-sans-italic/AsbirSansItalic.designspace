@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="opsz" name="Optical size" minimum="14" maximum="32" default="14"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+      <map input="100" output="100"/>
+      <map input="400" output="400"/>
+      <map input="500" output="490"/>
+      <map input="600" output="580"/>
+      <map input="700" output="670"/>
+      <map input="800" output="780"/>
+      <map input="900" output="900"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="AsbirSansItalic-ItalicTextThin.ufo" name="Asbir Sans Italic Text Thin" familyname="Asbir Sans" stylename="Italic Text Thin">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AsbirSansItalic-ItalicDisplayThin.ufo" name="Asbir Sans Italic Display Thin" familyname="Asbir Sans" stylename="Italic Display Thin">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AsbirSansItalic-ItalicTextRegular.ufo" name="Asbir Sans Italic Text Regular" familyname="Asbir Sans" stylename="Italic Text Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="AsbirSansItalic-ItalicDisplayRegular.ufo" name="Asbir Sans Italic Display Regular" familyname="Asbir Sans" stylename="Italic Display Regular">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="AsbirSansItalic-ItalicTextBlack.ufo" name="Asbir Sans Italic Text Black" familyname="Asbir Sans" stylename="Italic Text Black">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="AsbirSansItalic-ItalicDisplayBlack.ufo" name="Asbir Sans Italic Display Black" familyname="Asbir Sans" stylename="Italic Display Black">
+      <location>
+        <dimension name="Optical size" xvalue="32"/>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Asbir Sans Italic Thin" familyname="Asbir Sans" stylename="Italic Thin" filename="AsbirSansItalic-Thin.ufo" postscriptfontname="AsbirSansItalic-Thin" stylemapfamilyname="Asbir Sans Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic ExtraLight" familyname="Asbir Sans" stylename="Italic ExtraLight" filename="AsbirSansItalic-ExtraLight.ufo" postscriptfontname="AsbirSansItalic-ExtraLight" stylemapfamilyname="Asbir Sans ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic Light" familyname="Asbir Sans" stylename="Italic Light" filename="AsbirSansItalic-Light.ufo" postscriptfontname="AsbirSansItalic-Light" stylemapfamilyname="Asbir Sans Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic Regular" familyname="Asbir Sans" stylename="Italic Regular" filename="AsbirSansItalic-Regular.ufo" postscriptfontname="AsbirSansItalic-Regular" stylemapfamilyname="Asbir Sans Regular" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic Medium" familyname="Asbir Sans" stylename="Italic Medium" filename="AsbirSansItalic-Medium.ufo" postscriptfontname="AsbirSansItalic-Medium" stylemapfamilyname="Asbir Sans Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="490"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic SemiBold" familyname="Asbir Sans" stylename="Italic SemiBold" filename="AsbirSansItalic-SemiBold.ufo" postscriptfontname="AsbirSansItalic-SemiBold" stylemapfamilyname="Asbir Sans SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="580"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic Bold" familyname="Asbir Sans" stylename="Italic Bold" filename="AsbirSansItalic-Bold.ufo" postscriptfontname="AsbirSansItalic-Bold" stylemapfamilyname="Asbir Sans Bold" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="670"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic ExtraBold" familyname="Asbir Sans" stylename="Italic ExtraBold" filename="AsbirSansItalic-ExtraBold.ufo" postscriptfontname="AsbirSansItalic-ExtraBold" stylemapfamilyname="Asbir Sans ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="780"/>
+      </location>
+    </instance>
+    <instance name="Asbir Sans Italic Black" familyname="Asbir Sans" stylename="Italic Black" filename="AsbirSansItalic-Black.ufo" postscriptfontname="AsbirSansItalic-Black" stylemapfamilyname="Asbir Sans Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

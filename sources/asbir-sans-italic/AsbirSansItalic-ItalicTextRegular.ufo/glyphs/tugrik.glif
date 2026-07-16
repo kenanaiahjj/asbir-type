@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="1324"/>
+  <unicode hex="20AE"/>
+  <anchor x="571" y="0" name="bottom"/>
+  <anchor x="666" y="0" name="bottomr"/>
+  <anchor x="572" y="0" name="cedilla"/>
+  <anchor x="697" y="763" name="cross"/>
+  <anchor x="666" y="0" name="cyrtic"/>
+  <anchor x="616" y="0" name="right"/>
+  <anchor x="818" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="1100" y="1086" type="line"/>
+      <point x="344" y="800" type="line"/>
+      <point x="318" y="652" type="line"/>
+      <point x="1074" y="930" type="line"/>
+    </contour>
+    <contour>
+      <point x="1050" y="780" type="line"/>
+      <point x="290" y="494" type="line"/>
+      <point x="268" y="346" type="line"/>
+      <point x="1024" y="626" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

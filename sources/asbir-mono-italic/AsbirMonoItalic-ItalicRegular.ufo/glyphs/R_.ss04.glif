@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.ss04" format="2">
+  <advance width="600"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="350" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="151" y="286" type="line"/>
+      <point x="298" y="286" type="line" smooth="yes"/>
+      <point x="436" y="286"/>
+      <point x="576" y="362"/>
+      <point x="576" y="536" type="curve" smooth="yes"/>
+      <point x="576" y="649"/>
+      <point x="511" y="710"/>
+      <point x="365" y="710" type="curve" smooth="yes"/>
+      <point x="155" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="377" y="303" type="line"/>
+      <point x="286" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="370" type="line"/>
+      <point x="224" y="626" type="line"/>
+      <point x="358" y="626" type="line" smooth="yes"/>
+      <point x="452" y="626"/>
+      <point x="486" y="592"/>
+      <point x="486" y="528" type="curve" smooth="yes"/>
+      <point x="486" y="434"/>
+      <point x="425" y="370"/>
+      <point x="309" y="370" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

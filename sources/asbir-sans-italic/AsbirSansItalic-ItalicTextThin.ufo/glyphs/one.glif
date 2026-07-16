@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="744"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="466.0" y="0" type="line"/>
+      <point x="512.0" y="0" type="line"/>
+      <point x="780.2" y="1490" type="line"/>
+      <point x="740.2" y="1490" type="line"/>
+      <point x="669.72" y="1304"/>
+      <point x="492.91999999999996" y="1244"/>
+      <point x="363.91999999999996" y="1244" type="curve" smooth="yes"/>
+      <point x="361.91999999999996" y="1244" type="line"/>
+      <point x="353.64" y="1198" type="line"/>
+      <point x="461.64" y="1198"/>
+      <point x="612.66" y="1237"/>
+      <point x="713.62" y="1359" type="curve"/>
+      <point x="710.98" y="1361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.asbir.identitySource</key>
+      <string>one.ss01</string>
+    </dict>
+  </lib>
+</glyph>

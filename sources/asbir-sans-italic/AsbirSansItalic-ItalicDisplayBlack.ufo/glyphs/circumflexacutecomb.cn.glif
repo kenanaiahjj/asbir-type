@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacutecomb.cn" format="2">
+  <advance width="856"/>
+  <anchor x="647" y="1831" name="top"/>
+  <anchor x="519" y="1056" name="_top"/>
+  <outline>
+    <component base="circumflexcomb"/>
+    <component base="acute_compact" xScale="0.8" yScale="0.9" xOffset="585" yOffset="473"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute_compact</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

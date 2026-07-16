@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildedieresis" format="2">
+  <advance width="1123"/>
+  <unicode hex="1E4F"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="562" y="528" name="center"/>
+  <anchor x="1052" y="526" name="ogonek"/>
+  <anchor x="757" y="1760" name="top"/>
+  <anchor x="653" y="1080" name="tophorn"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildedieresiscomb.lc" xOffset="81"/>
+  </outline>
+</glyph>

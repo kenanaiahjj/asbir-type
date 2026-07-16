@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northWestArrow.ss07" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="484" y="204" type="line"/>
+      <point x="551" y="259" type="line"/>
+      <point x="215" y="688" type="line"/>
+      <point x="148" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="459" type="line"/>
+      <point x="388" y="687" type="line"/>
+      <point x="143" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

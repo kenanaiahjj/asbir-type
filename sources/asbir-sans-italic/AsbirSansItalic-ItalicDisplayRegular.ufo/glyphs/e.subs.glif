@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e.subs" format="2">
+  <advance width="746"/>
+  <unicode hex="2091"/>
+  <anchor x="315.32" y="-326" name="bottom"/>
+  <anchor x="319.32" y="-326" name="cedilla"/>
+  <anchor x="649.08" y="-144" name="ogonek"/>
+  <anchor x="419.0" y="250" name="top"/>
+  <outline>
+    <component base="e.sups" yxScale="0.18" xOffset="-216.0" yOffset="-1200"/>
+  </outline>
+</glyph>

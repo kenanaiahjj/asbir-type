@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonesix" format="2">
+  <advance width="1611"/>
+  <unicode hex="0184"/>
+  <anchor x="732" y="1179" name="cross"/>
+  <outline>
+    <contour>
+      <point x="274" y="950" type="line"/>
+      <point x="665" y="1490" type="line"/>
+      <point x="459" y="1490" type="line"/>
+      <point x="131" y="1037" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="282"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Softsign-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

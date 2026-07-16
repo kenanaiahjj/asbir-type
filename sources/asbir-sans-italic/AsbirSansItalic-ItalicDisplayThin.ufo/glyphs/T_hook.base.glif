@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thook.base" format="2">
+  <advance width="1122"/>
+  <unicode hex="EE0C"/>
+  <anchor x="517" y="1490" name="topl"/>
+  <outline>
+    <contour>
+      <point x="509" y="1444" type="line"/>
+      <point x="687" y="1444" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="733" y="1444" type="line"/>
+      <point x="1213" y="1444" type="line"/>
+      <point x="1221" y="1490" type="line"/>
+      <point x="517" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

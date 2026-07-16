@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightDoubleArrow" format="2">
+  <advance width="2714"/>
+  <unicode hex="21D4"/>
+  <outline>
+    <contour>
+      <point x="1632.076" y="-136" type="line"/>
+      <point x="2548.528" y="652" type="line"/>
+      <point x="1892.65" y="1438" type="line"/>
+      <point x="1650.878" y="1234" type="line"/>
+      <point x="2136.528" y="652" type="line"/>
+      <point x="1458.179" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="864.076" y="-136" type="line"/>
+      <point x="1104.179" y="70" type="line"/>
+      <point x="618.528" y="652" type="line"/>
+      <point x="1296.878" y="1234" type="line"/>
+      <point x="1124.65" y="1438" type="line"/>
+      <point x="206.528" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="695.593" y="296" type="line"/>
+      <point x="1949.593" y="296" type="line"/>
+      <point x="2273.271" y="584" type="line"/>
+      <point x="453.271" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="475.454" y="718" type="line"/>
+      <point x="2295.454" y="718" type="line"/>
+      <point x="2067.132" y="1006" type="line"/>
+      <point x="813.132" y="1006" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni217D" format="2">
+  <advance width="1050"/>
+  <unicode hex="217D"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="379" y="0" name="cedilla"/>
+  <anchor x="468" y="528" name="center"/>
+  <anchor x="547" y="1056" name="top"/>
+  <anchor x="943" y="712" name="topr"/>
+  <outline>
+    <component base="c" xOffset="-94"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.top_r_hook_C" format="2">
+  <advance width="384"/>
+  <anchor x="187" y="1024" name="_topr"/>
+  <outline>
+    <contour>
+      <point x="140.522" y="1024" type="line"/>
+      <point x="186.522" y="1024" type="line"/>
+      <point x="261.681" y="1478" type="line" smooth="yes"/>
+      <point x="279.726" y="1587"/>
+      <point x="328.845" y="1630"/>
+      <point x="424.845" y="1630" type="curve" smooth="yes"/>
+      <point x="441.845" y="1630"/>
+      <point x="471.845" y="1630"/>
+      <point x="496.845" y="1630" type="curve"/>
+      <point x="504.46" y="1676" type="line"/>
+      <point x="481.46" y="1676"/>
+      <point x="450.46" y="1676"/>
+      <point x="432.46" y="1676" type="curve" smooth="yes"/>
+      <point x="309.46" y="1676"/>
+      <point x="238.196" y="1614"/>
+      <point x="215.681" y="1478" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

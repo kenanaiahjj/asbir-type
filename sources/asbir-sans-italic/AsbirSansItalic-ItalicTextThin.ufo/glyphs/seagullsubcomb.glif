@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seagullsubcomb" format="2">
+  <unicode hex="EEC5"/>
+  <outline>
+    <contour>
+      <point x="-638" y="-350" type="line"/>
+      <point x="-625" y="-269"/>
+      <point x="-572" y="-225"/>
+      <point x="-490" y="-226" type="curve" smooth="yes"/>
+      <point x="-410" y="-225"/>
+      <point x="-369" y="-269"/>
+      <point x="-382" y="-350" type="curve"/>
+      <point x="-336" y="-350" type="line"/>
+      <point x="-319" y="-244"/>
+      <point x="-375" y="-179"/>
+      <point x="-482" y="-178" type="curve" smooth="yes"/>
+      <point x="-591" y="-179"/>
+      <point x="-668" y="-244"/>
+      <point x="-686" y="-350" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-942" y="-350" type="line"/>
+      <point x="-928" y="-269"/>
+      <point x="-874" y="-225"/>
+      <point x="-792" y="-226" type="curve" smooth="yes"/>
+      <point x="-713" y="-225"/>
+      <point x="-672" y="-269"/>
+      <point x="-686" y="-350" type="curve"/>
+      <point x="-638" y="-350" type="line"/>
+      <point x="-621" y="-244"/>
+      <point x="-678" y="-179"/>
+      <point x="-786" y="-178" type="curve" smooth="yes"/>
+      <point x="-893" y="-179"/>
+      <point x="-970" y="-244"/>
+      <point x="-988" y="-350" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

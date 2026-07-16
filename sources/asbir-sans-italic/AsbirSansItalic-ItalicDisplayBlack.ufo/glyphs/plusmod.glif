@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusmod" format="2">
+  <advance width="812"/>
+  <unicode hex="02D6"/>
+  <outline>
+    <contour>
+      <point x="542" y="674" type="line"/>
+      <point x="312" y="674" type="line"/>
+      <point x="210" y="62" type="line"/>
+      <point x="440" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="480" type="line"/>
+      <point x="80" y="262" type="line"/>
+      <point x="636" y="262" type="line"/>
+      <point x="674" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

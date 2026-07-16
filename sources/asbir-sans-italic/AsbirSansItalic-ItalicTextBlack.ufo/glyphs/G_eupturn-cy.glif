@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Geupturn-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="0490"/>
+  <anchor x="390" y="745" name="cross"/>
+  <anchor x="407" y="0" name="cyrtic"/>
+  <anchor x="792" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="912" y="1490" type="line"/>
+      <point x="1298" y="1490" type="line"/>
+      <point x="1347" y="1788" type="line"/>
+      <point x="961" y="1788" type="line"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

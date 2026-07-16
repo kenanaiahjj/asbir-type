@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04FE" format="2">
+  <advance width="1518"/>
+  <unicode hex="04FE"/>
+  <anchor x="672" y="0" name="bottom"/>
+  <anchor x="799" y="766" name="cross"/>
+  <anchor x="1404" y="0" name="cyrtic"/>
+  <anchor x="919" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="161" y="654" type="line"/>
+      <point x="1397" y="654" type="line"/>
+      <point x="1434" y="878" type="line"/>
+      <point x="198" y="878" type="line"/>
+    </contour>
+    <component base="X"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

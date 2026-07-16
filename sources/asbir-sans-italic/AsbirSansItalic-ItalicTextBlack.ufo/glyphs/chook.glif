@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chook" format="2">
+  <advance width="1233"/>
+  <unicode hex="0188"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="547" y="0" name="cedilla"/>
+  <anchor x="640" y="559" name="center"/>
+  <anchor x="733" y="1118" name="top"/>
+  <anchor x="1200" y="707" name="topr"/>
+  <outline>
+    <component base="c"/>
+    <component base="_part.top_r_hook_c" xOffset="712"/>
+  </outline>
+</glyph>

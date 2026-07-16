@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upWhiteArrow" format="2">
+  <advance width="2342"/>
+  <unicode hex="21E7"/>
+  <outline>
+    <contour>
+      <point x="124" y="558" type="line"/>
+      <point x="636" y="558" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="1614" y="0" type="line"/>
+      <point x="1706" y="558" type="line"/>
+      <point x="2218" y="558" type="line"/>
+      <point x="1344" y="1606" type="line"/>
+    </contour>
+    <contour>
+      <point x="768" y="776" type="line"/>
+      <point x="1304" y="1236" type="line"/>
+      <point x="1688" y="776" type="line"/>
+      <point x="1438" y="776" type="line"/>
+      <point x="1344" y="218" type="line"/>
+      <point x="884" y="218" type="line"/>
+      <point x="976" y="776" type="line"/>
+    </contour>
+  </outline>
+</glyph>

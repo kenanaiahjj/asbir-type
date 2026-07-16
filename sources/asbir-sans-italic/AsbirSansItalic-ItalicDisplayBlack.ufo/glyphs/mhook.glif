@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mhook" format="2">
+  <advance width="1888"/>
+  <unicode hex="0271"/>
+  <anchor x="857" y="0" name="bottom"/>
+  <anchor x="1315" y="0" name="lfthook"/>
+  <anchor x="1031" y="1056" name="top"/>
+  <outline>
+    <component base="m"/>
+    <component base="_part.bottom_lfthook" xOffset="1055"/>
+  </outline>
+</glyph>

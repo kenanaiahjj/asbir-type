@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="769"/>
+  <unicode hex="02C9"/>
+  <anchor x="516" y="1056" name="_top"/>
+  <anchor x="579" y="1436" name="top"/>
+  <outline>
+    <component base="macroncomb" xOffset="44"/>
+  </outline>
+</glyph>

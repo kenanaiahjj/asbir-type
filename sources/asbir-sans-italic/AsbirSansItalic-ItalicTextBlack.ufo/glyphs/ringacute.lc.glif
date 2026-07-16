@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacute.lc" format="2">
+  <advance width="698"/>
+  <unicode hex="EECE"/>
+  <anchor x="462" y="1246" name="_top"/>
+  <outline>
+    <contour>
+      <point x="422" y="1652" type="line"/>
+      <point x="658" y="1652" type="line"/>
+      <point x="914" y="1882" type="line"/>
+      <point x="606" y="1882" type="line"/>
+    </contour>
+    <component base="ringcomb.uc" yScale="0.95" xOffset="-164" yOffset="-336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

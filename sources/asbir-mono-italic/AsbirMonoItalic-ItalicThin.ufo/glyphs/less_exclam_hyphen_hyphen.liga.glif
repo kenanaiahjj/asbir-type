@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_exclam_hyphen_hyphen.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-829" y="292" type="line"/>
+      <point x="535" y="292" type="line"/>
+      <point x="541" y="324" type="line"/>
+      <point x="-823" y="324" type="line"/>
+    </contour>
+    <component base="leftArrow" xOffset="-1748"/>
+    <component base="exclam" xOffset="-1303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

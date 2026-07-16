@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="righthalfringabovecomb" format="2">
+  <unicode hex="0357"/>
+  <anchor x="243" y="1056" name="_top"/>
+  <outline>
+    <contour>
+      <point x="203" y="1227" type="line"/>
+      <point x="289" y="1227"/>
+      <point x="370" y="1295"/>
+      <point x="384" y="1378" type="curve" smooth="yes"/>
+      <point x="398" y="1461"/>
+      <point x="339" y="1529"/>
+      <point x="253" y="1529" type="curve"/>
+      <point x="246" y="1483" type="line"/>
+      <point x="307" y="1483"/>
+      <point x="348" y="1436"/>
+      <point x="338" y="1378" type="curve" smooth="yes"/>
+      <point x="329" y="1320"/>
+      <point x="272" y="1273"/>
+      <point x="211" y="1273" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>328</integer>
+    </dict>
+  </lib>
+</glyph>

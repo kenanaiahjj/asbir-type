@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Oslash" format="2">
+  <advance width="1142"/>
+  <anchor x="607" y="745" name="_center"/>
+  <outline>
+    <contour>
+      <point x="44" y="-12" type="line"/>
+      <point x="1206" y="1478" type="line"/>
+      <point x="1171" y="1502" type="line"/>
+      <point x="8" y="12" type="line"/>
+    </contour>
+  </outline>
+</glyph>

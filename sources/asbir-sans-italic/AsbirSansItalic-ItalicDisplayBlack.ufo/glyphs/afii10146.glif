@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10146" format="2">
+  <advance width="1335"/>
+  <unicode hex="0462"/>
+  <anchor x="477" y="1218" name="cross"/>
+  <outline>
+    <component base="Softsign-cy"/>
+    <component base="crossbar.uc" xOffset="-89" yOffset="473"/>
+  </outline>
+</glyph>

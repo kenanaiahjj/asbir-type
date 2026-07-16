@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronsub" format="2">
+  <advance width="768"/>
+  <unicode hex="02CD"/>
+  <anchor x="296" y="0" name="_bottom"/>
+  <outline>
+    <component base="macroncomb" xOffset="-281" yOffset="-1700"/>
+  </outline>
+</glyph>

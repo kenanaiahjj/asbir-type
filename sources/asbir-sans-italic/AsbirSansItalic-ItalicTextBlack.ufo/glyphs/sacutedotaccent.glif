@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacutedotaccent" format="2">
+  <advance width="1202"/>
+  <unicode hex="1E65"/>
+  <anchor x="506" y="0" name="bottom"/>
+  <anchor x="513" y="0" name="cedilla"/>
+  <anchor x="17" y="348" name="rthook"/>
+  <anchor x="688" y="1118" name="top"/>
+  <anchor x="849" y="2092" name="mkmktop_acc"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutedotcomb.lc" xOffset="372"/>
+  </outline>
+</glyph>

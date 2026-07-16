@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FE5" format="2">
+  <advance width="1156"/>
+  <unicode hex="1FE5"/>
+  <anchor x="147" y="-186" name="cross"/>
+  <anchor x="693" y="1056" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="dasia" xOffset="381"/>
+  </outline>
+</glyph>

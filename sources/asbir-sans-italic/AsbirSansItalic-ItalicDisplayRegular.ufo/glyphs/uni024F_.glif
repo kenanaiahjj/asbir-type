@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni024F" format="2">
+  <advance width="1054"/>
+  <unicode hex="024F"/>
+  <anchor x="709" y="0" name="bottom"/>
+  <anchor x="517" y="0" name="ogonek"/>
+  <anchor x="603" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="1068.698" y="798" type="line"/>
+      <point x="90.698" y="798" type="line"/>
+      <point x="68.515" y="664" type="line"/>
+      <point x="1046.515" y="664" type="line"/>
+    </contour>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

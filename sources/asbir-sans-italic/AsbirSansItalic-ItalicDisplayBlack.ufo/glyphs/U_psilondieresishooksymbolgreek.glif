@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondieresishooksymbolgreek" format="2">
+  <advance width="1486"/>
+  <unicode hex="03D4"/>
+  <anchor x="199" y="1490" name="tonos"/>
+  <anchor x="973" y="1924" name="top"/>
+  <outline>
+    <component base="Upsilonhooksymbol"/>
+    <component base="dieresiscomb" xOffset="181" yOffset="434"/>
+  </outline>
+</glyph>

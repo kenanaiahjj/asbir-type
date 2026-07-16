@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehookcyrillic" format="2">
+  <advance width="1043"/>
+  <unicode hex="0495"/>
+  <anchor x="301" y="558" name="cross"/>
+  <anchor x="209" y="0" name="cyrtic"/>
+  <anchor x="554" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="290" y="-322" type="line"/>
+      <point x="378" y="-322" type="line" smooth="yes"/>
+      <point x="637" y="-322"/>
+      <point x="865" y="-123"/>
+      <point x="907" y="135" type="curve" smooth="yes"/>
+      <point x="949" y="386"/>
+      <point x="808.005" y="592"/>
+      <point x="575.005" y="592" type="curve" smooth="yes"/>
+      <point x="329.005" y="592"/>
+      <point x="183" y="364"/>
+      <point x="145" y="135" type="curve"/>
+      <point x="230" y="135" type="line"/>
+      <point x="261" y="318"/>
+      <point x="376" y="432"/>
+      <point x="533" y="432" type="curve" smooth="yes"/>
+      <point x="690" y="432"/>
+      <point x="768" y="318"/>
+      <point x="737" y="135" type="curve" smooth="yes"/>
+      <point x="707" y="-47"/>
+      <point x="571" y="-162"/>
+      <point x="396" y="-162" type="curve" smooth="yes"/>
+      <point x="316" y="-162" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ge-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

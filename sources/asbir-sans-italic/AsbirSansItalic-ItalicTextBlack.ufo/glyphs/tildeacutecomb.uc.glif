@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildeacutecomb.uc" format="2">
+  <advance width="1025"/>
+  <unicode hex="E12A"/>
+  <anchor x="741.4" y="1892.6" name="top"/>
+  <anchor x="604" y="1118" name="_top"/>
+  <outline>
+    <component base="tildeacute.lc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tildeacute.lc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

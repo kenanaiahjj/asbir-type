@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance width="1352"/>
+  <unicode hex="052F"/>
+  <anchor x="522" y="0" name="bottom"/>
+  <anchor x="1098" y="0" name="cyrtic"/>
+  <anchor x="785" y="1056" name="top"/>
+  <outline>
+    <component base="elcyrillic"/>
+    <component base="_part.cyrtic" xOffset="785"/>
+  </outline>
+</glyph>

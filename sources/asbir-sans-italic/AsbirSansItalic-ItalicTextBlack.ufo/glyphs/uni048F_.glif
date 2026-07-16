@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni048F" format="2">
+  <advance width="1254"/>
+  <unicode hex="048F"/>
+  <anchor x="155" y="-402" name="bottom"/>
+  <anchor x="189" y="-162" name="cross"/>
+  <anchor x="829" y="1118" name="top"/>
+  <anchor x="605" y="1118" name="topr"/>
+  <outline>
+    <contour>
+      <point x="684" y="532" type="line"/>
+      <point x="574" y="462" type="line"/>
+      <point x="920" y="-78" type="line"/>
+      <point x="1032" y="-8" type="line"/>
+    </contour>
+    <component base="p" xOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

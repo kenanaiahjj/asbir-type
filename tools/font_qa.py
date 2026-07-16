@@ -31,21 +31,45 @@ STATIC_INSTANCES = {
 }
 
 
-def production_signoff_present():
-    """A release cannot self-certify via automated outline checks alone."""
-    path = ROOT / 'reports' / 'production-signoff.json'
+def production_signoff_present(family='sans'):
+    """A release cannot self-certify via automated outline checks alone.
+
+    Signoff is family-scoped so a Sans approval cannot satisfy the Mono gate.
+    """
+    base_family = family.split('-', 1)[0]
+    filename = 'mono-production-signoff.json' if base_family == 'mono' else 'production-signoff.json'
+    path = ROOT / 'reports' / filename
     if not path.exists():
         return False
     try:
         signoff = json.loads(path.read_text())
     except json.JSONDecodeError:
         return False
-    return signoff.get('approved') is True and bool(signoff.get('reviewer')) and bool(signoff.get('date'))
+    return (
+        signoff.get('approved') is True
+        and signoff.get('family') == base_family
+        and bool(signoff.get('reviewer'))
+        and bool(signoff.get('date'))
+    )
 
 
-def font_paths(spec):
+def font_paths(spec, mode='review'):
     prefix = spec['prefix']
-    return [ROOT / f'public/downloads/{prefix}-Review-{style}.{extension}' for style in STATIC_INSTANCES for extension in ('ttf', 'otf')] + [ROOT / f'public/downloads/{prefix}-Review-VF.ttf']
+    if mode == 'production':
+        release = ROOT / 'release' / f'{prefix}-1.0.0'
+        paths = [release / 'TTF' / f'{prefix}-{style}.ttf' for style in STATIC_INSTANCES]
+        paths += [release / 'OTF' / f'{prefix}-{style}.otf' for style in STATIC_INSTANCES]
+        paths += [release / 'Variable' / f'{prefix}-Variable.ttf']
+        paths += [release / 'Italic' / f'{prefix}-Italic-{style}.ttf' for style in STATIC_INSTANCES]
+        paths += [release / 'Italic' / f'{prefix}-Italic-{style}.otf' for style in STATIC_INSTANCES]
+        paths += [release / 'Italic' / f'{prefix}-Italic-Variable.ttf']
+        return paths
+    paths = [ROOT / f'public/downloads/{prefix}-Review-{style}.{extension}' for style in STATIC_INSTANCES for extension in ('ttf', 'otf')]
+    paths.append(ROOT / f'public/downloads/{prefix}-Review-VF.ttf')
+    if prefix in {'AsbirSans', 'AsbirMono'}:
+        paths += [ROOT / f'public/downloads/{prefix}-Review-Italic-{style}.{extension}' for style in STATIC_INSTANCES for extension in ('ttf', 'otf')]
+        paths.append(ROOT / f'public/downloads/{prefix}-Review-Italic-VF.ttf')
+    return paths
 
 
 def encoded_glyph_groups(font):
@@ -100,6 +124,8 @@ def outline_checks(font):
 
 def check_font(path, spec):
     font = TTFont(path, lazy=False)
+    is_italic = '-Italic-' in path.stem or path.stem.endswith('-Italic')
+    spec = {**spec, 'italic': is_italic}
     cmap = font.getBestCmap() or {}
     names = {record.nameID: record.toUnicode() for record in font['name'].names if record.platformID == 3}
     os2 = font['OS/2']
@@ -120,6 +146,15 @@ def check_font(path, spec):
         # conventional ``zero`` alternate feature.
         'zero_feature_present': ('ss09' in feature_tags) if spec['prefix'] == 'AsbirMono' else ('zero' in feature_tags),
         'vertical_figure_features_present': {'numr', 'dnom', 'sups', 'subs', 'ordn'}.issubset(feature_tags),
+        'italic_metadata_consistent': (
+            not is_italic
+            or (
+                names.get(2, '').startswith('Italic')
+                and font['post'].italicAngle != 0
+                and bool(font['head'].macStyle & (1 << 1))
+                and bool(os2.fsSelection & 1)
+            )
+        ),
     }
     checks.update(outline_checks(font))
     if spec['prefix'] in ('AsbirSans', 'AsbirSerif'):
@@ -157,6 +192,8 @@ def check_font(path, spec):
         checks['monospaced_advances'] = advances == {600}
     else:
         style = path.stem.removeprefix(f"{spec['prefix']}-Review-")
+        if style.startswith('Italic-'):
+            style = style.removeprefix('Italic-')
         if style in STATIC_INSTANCES:
             checks['static_weight_matches_name'] = os2.usWeightClass == STATIC_INSTANCES[style]
     return {
@@ -180,7 +217,7 @@ def check_font(path, spec):
                 if spec['prefix'] == 'AsbirMono' else ('GPOS' in font or 'kern' in font)
             ),
             'not_review_named': 'Review' not in names.get(1, ''),
-            'human_production_signoff': production_signoff_present(),
+            'human_production_signoff': production_signoff_present(spec['prefix'].removeprefix('Asbir').lower()),
         },
     }
 
@@ -191,7 +228,7 @@ def main():
     parser.add_argument('--family', choices=tuple(FAMILIES), action='append')
     args = parser.parse_args()
     selected = args.family or list(FAMILIES)
-    report = {family: [check_font(path, FAMILIES[family]) for path in font_paths(FAMILIES[family])] for family in selected}
+    report = {family: [check_font(path, FAMILIES[family]) for path in font_paths(FAMILIES[family], args.mode)] for family in selected}
     report_path = ROOT / 'reports/font-qa.json'
     report_path.parent.mkdir(exist_ok=True)
     report_path.write_text(json.dumps({'mode': args.mode, 'families': report}, indent=2) + '\n')

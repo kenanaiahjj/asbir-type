@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma.dnom" format="2">
+  <advance width="371"/>
+  <outline>
+    <component base="comma" xScale="0.7" yxScale="0.126" yScale="0.7" xOffset="-10.0"/>
+  </outline>
+</glyph>

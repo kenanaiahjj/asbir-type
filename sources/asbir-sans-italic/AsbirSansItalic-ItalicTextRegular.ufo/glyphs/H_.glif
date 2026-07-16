@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="1522"/>
+  <unicode hex="0048"/>
+  <anchor x="667" y="0" name="bottom"/>
+  <anchor x="184" y="0" name="cedilla"/>
+  <anchor x="1249" y="0" name="cyrtic"/>
+  <anchor x="1059" y="0" name="lfthook"/>
+  <anchor x="1249" y="0" name="right"/>
+  <anchor x="334" y="1490" name="tonos"/>
+  <anchor x="914" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="389" y="678" type="line"/>
+      <point x="1172" y="678" type="line"/>
+      <point x="1059" y="0" type="line"/>
+      <point x="1249" y="0" type="line"/>
+      <point x="1496" y="1490" type="line"/>
+      <point x="1306" y="1490" type="line"/>
+      <point x="1199" y="846" type="line"/>
+      <point x="417" y="846" type="line"/>
+      <point x="524" y="1490" type="line"/>
+      <point x="334" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kacute" format="2">
+  <advance width="998"/>
+  <unicode hex="1E31"/>
+  <anchor x="445" y="0" name="bottom"/>
+  <anchor x="452" y="1929" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="acutecomb" xOffset="210" yOffset="372"/>
+  </outline>
+</glyph>

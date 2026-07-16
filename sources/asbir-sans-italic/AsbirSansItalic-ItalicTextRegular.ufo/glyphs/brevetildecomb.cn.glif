@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetildecomb.cn" format="2">
+  <advance width="769"/>
+  <anchor x="598" y="1846" name="top"/>
+  <anchor x="477" y="1118" name="_top"/>
+  <outline>
+    <contour>
+      <point x="499" y="1249" type="curve" smooth="yes"/>
+      <point x="659" y="1249"/>
+      <point x="804" y="1372"/>
+      <point x="830" y="1529" type="curve"/>
+      <point x="702" y="1529" type="line"/>
+      <point x="687" y="1437"/>
+      <point x="611" y="1373"/>
+      <point x="519" y="1373" type="curve" smooth="yes"/>
+      <point x="427" y="1373"/>
+      <point x="373" y="1437"/>
+      <point x="388" y="1529" type="curve"/>
+      <point x="260" y="1529" type="line"/>
+      <point x="234" y="1372"/>
+      <point x="339" y="1249"/>
+    </contour>
+    <component base="tildecomb" xOffset="-69" yOffset="329"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tildecomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

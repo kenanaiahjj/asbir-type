@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shchacyrillic" format="2">
+  <advance width="1907"/>
+  <unicode hex="0449"/>
+  <anchor x="1632" y="0" name="cyrtic"/>
+  <anchor x="1006" y="1118" name="top"/>
+  <outline>
+    <component base="shacyrillic"/>
+    <component base="_part.cyrtic" xOffset="1325"/>
+  </outline>
+</glyph>

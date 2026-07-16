@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgesubcomb" format="2">
+  <unicode hex="EEAF"/>
+  <anchor x="-760" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-1072" y="-466" type="line"/>
+      <point x="-1026" y="-466" type="line"/>
+      <point x="-966" y="-110" type="line"/>
+      <point x="-1012" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="-994" y="-158" type="line"/>
+      <point x="-580" y="-158" type="line"/>
+      <point x="-574" y="-110" type="line"/>
+      <point x="-986" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="-648" y="-466" type="line"/>
+      <point x="-600" y="-466" type="line"/>
+      <point x="-542" y="-110" type="line"/>
+      <point x="-588" y="-110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

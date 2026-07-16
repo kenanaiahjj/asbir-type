@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.q_big" format="2">
+  <advance width="1535"/>
+  <anchor x="1299" y="0" name="bottomr"/>
+  <outline>
+    <contour>
+      <point x="1545.668" y="1490" type="line"/>
+      <point x="1375.668" y="1490" type="line"/>
+      <point x="1337.592" y="1260" type="line"/>
+      <point x="1335.348" y="1260" type="line"/>
+      <point x="1289.997" y="1412.744"/>
+      <point x="1120.991" y="1514"/>
+      <point x="911.641" y="1514" type="curve" smooth="yes"/>
+      <point x="532.257" y="1514"/>
+      <point x="199.736" y="1188.383"/>
+      <point x="126.334" y="745" type="curve" smooth="yes"/>
+      <point x="52.987" y="301.948"/>
+      <point x="277.927" y="-24"/>
+      <point x="657.027" y="-24" type="curve" smooth="yes"/>
+      <point x="869.119" y="-24"/>
+      <point x="1067.491" y="77.321"/>
+      <point x="1166.563" y="236.432" type="curve"/>
+      <point x="1168.07" y="236" type="line"/>
+      <point x="1129" y="0" type="line"/>
+      <point x="1299" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="684.839" y="144" type="curve" smooth="yes"/>
+      <point x="400.669" y="144"/>
+      <point x="245.431" y="389.196"/>
+      <point x="304.334" y="745" type="curve" smooth="yes"/>
+      <point x="362.617" y="1097.058"/>
+      <point x="603.479" y="1346"/>
+      <point x="885.829" y="1346" type="curve" smooth="yes"/>
+      <point x="1171.393" y="1346"/>
+      <point x="1315.044" y="1111.718"/>
+      <point x="1254.334" y="745" type="curve" smooth="yes"/>
+      <point x="1194.498" y="383.561"/>
+      <point x="967.495" y="144"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

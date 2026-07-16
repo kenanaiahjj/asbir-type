@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwadieresiscyrillic" format="2">
+  <advance width="1493"/>
+  <unicode hex="04DA"/>
+  <anchor x="643" y="0" name="bottom"/>
+  <anchor x="962" y="1924" name="top"/>
+  <outline>
+    <component base="Schwacyrillic"/>
+    <component base="dieresiscomb" xOffset="242" yOffset="434"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.subs" format="2">
+  <advance width="821"/>
+  <unicode hex="E0AB"/>
+  <anchor x="353.72" y="-346" name="bottom"/>
+  <anchor x="691.72" y="-346" name="bottomr"/>
+  <anchor x="625.06" y="367" name="cross"/>
+  <anchor x="912.28" y="496" name="raccent"/>
+  <anchor x="361.46" y="397" name="top"/>
+  <anchor x="843.28" y="496" name="topbar"/>
+  <outline>
+    <component base="d.sups" yxScale="0.18" xOffset="-216.0" yOffset="-1200"/>
+  </outline>
+</glyph>

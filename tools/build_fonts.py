@@ -40,12 +40,26 @@ FAMILIES = {
         'xheight': 530, 'capheight': 710, 'ascender': 800, 'descender': -150,
         'win_ascent': 1088, 'win_descent': 394,
     },
+    'sans-italic': {
+        'folder': 'asbir-sans-italic', 'prefix': 'AsbirSans', 'name': 'Asbir Sans',
+        'instance_prefix': 'AsbirSansItalic', 'designspace': 'AsbirSansItalic.designspace',
+        'output_prefix': 'AsbirSans-Review-Italic', 'italic': True, 'variable_style': 'Italic',
+        'xheight': 1118, 'capheight': 1490, 'ascender': 1984, 'descender': -494,
+        'win_ascent': 2310, 'win_descent': 710,
+    },
+    'mono-italic': {
+        'folder': 'asbir-mono-italic', 'prefix': 'AsbirMono', 'name': 'Asbir Mono Review',
+        'instance_prefix': 'AsbirMonoItalic', 'designspace': 'AsbirMonoItalic.designspace',
+        'output_prefix': 'AsbirMono-Review-Italic', 'italic': True, 'variable_style': 'Italic',
+        'xheight': 530, 'capheight': 710, 'ascender': 800, 'descender': -150,
+        'win_ascent': 1088, 'win_descent': 394,
+    },
 }
 SANS_STATIC_INSTANCES = (
     ('Thin', 100), ('ExtraLight', 200), ('Light', 300), ('Regular', 400),
     ('Medium', 500), ('SemiBold', 600), ('Bold', 700), ('ExtraBold', 800), ('Black', 900),
 )
-STATIC_INSTANCES = {'sans': SANS_STATIC_INSTANCES, 'serif': SANS_STATIC_INSTANCES, 'mono': SANS_STATIC_INSTANCES}
+STATIC_INSTANCES = {key: SANS_STATIC_INSTANCES for key in FAMILIES}
 
 
 def run_fontmake(*args):
@@ -67,17 +81,17 @@ def replace_name(font, name_id, value):
     set_windows_name(font, name_id, value)
 
 
-def set_release_names(font, path, metrics, variable):
+def set_release_names(font, path, metrics, variable, style_name=None):
     family = metrics['name']
     prefix = metrics['prefix']
     if variable:
-        style = 'Variable'
-        subfamily = 'Regular'
-        postscript = f'{prefix}-Variable'
+        style = style_name or 'Variable'
+        subfamily = 'Italic' if style_name == 'Italic' else 'Regular'
+        postscript = f"{prefix}-{'-'.join(style.split())}"
     else:
-        style = path.stem.removeprefix(f'{prefix}-Review-')
+        style = style_name or path.stem.removeprefix(f'{prefix}-Review-').replace('-', ' ')
         subfamily = style
-        postscript = f'{prefix}-{style}'
+        postscript = f"{prefix}-{'-'.join(style.split())}"
     full_name = f'{family} {style}'
     # Asbir Sans is a renamed OFL derivative; no Inter family, full, preferred,
     # PostScript, or trademark name may leak into a distributed binary. Preserve
@@ -91,6 +105,10 @@ def set_release_names(font, path, metrics, variable):
     if prefix in {'AsbirSans', 'AsbirMono'}:
         font['name'].names = [record for record in font['name'].names if record.nameID != 7]
     font['name'].names = [record for record in font['name'].names if record.platformID != 1]
+    if 'CFF ' in font:
+        font['CFF '].cff.fontNames = [postscript]
+        for top_dict in font['CFF '].cff.topDictIndex:
+            top_dict.FontName = postscript
 
 
 def setup_gasp(font):
@@ -103,7 +121,7 @@ def setup_smart_dropout(font):
     font['prep'] = prep
 
 
-def patch_common(path, metrics, variable=False, weight=400, instances=SANS_STATIC_INSTANCES):
+def patch_common(path, metrics, variable=False, weight=400, instances=SANS_STATIC_INSTANCES, style_name=None):
     font = TTFont(path)
     font['head'].fontRevision = float(FONT_VERSION)
     font['head'].created = FONT_TIMESTAMP; font['head'].modified = FONT_TIMESTAMP
@@ -116,7 +134,15 @@ def patch_common(path, metrics, variable=False, weight=400, instances=SANS_STATI
     # line spacing; the 840 ascender covers the tallest interpolated accents.
     os2.fsSelection |= 1 << 7
     font['hhea'].ascent = metrics['ascender']; font['hhea'].descent = metrics['descender']; font['hhea'].lineGap = 0
-    set_release_names(font, path, metrics, variable)
+    if metrics.get('italic') or style_name and style_name.startswith('Italic'):
+        # Mark the binaries as a real italic face for platform style linking.
+        # The outlines are already italic masters; these records keep OS/2/head/
+        # post metadata in agreement for CSS, desktop installers, and QA tools.
+        os2.fsSelection |= 1
+        os2.fsSelection &= ~(1 << 6)
+        font['head'].macStyle |= 1 << 1
+        font['post'].italicAngle = -12.0
+    set_release_names(font, path, metrics, variable, style_name=style_name)
     if 'glyf' in font:
         setup_gasp(font); setup_smart_dropout(font)
     if metrics['prefix'] == 'AsbirMono':
@@ -169,24 +195,41 @@ def patch_common(path, metrics, variable=False, weight=400, instances=SANS_STATI
         if metrics['prefix'] == 'AsbirMono':
             for instance in font['fvar'].instances:
                 instance.postscriptNameID = 0xFFFF
+    if variable and metrics.get('italic') and 'fvar' in font:
+        # Keep the dedicated italic variable's named instances discoverable by
+        # platform tooling (Regular Italic/Bold Italic conventions), while
+        # making the default instance point to the file's own name IDs.
+        weight_names = {value: style for style, value in instances}
+        for instance in font['fvar'].instances:
+            weight = round(instance.coordinates.get('wght', 400))
+            weight_name = weight_names.get(weight, 'Regular')
+            instance_style = 'Italic' if weight == 400 else f'{weight_name} Italic'
+            if weight == 400:
+                instance.subfamilyNameID = 2
+                instance.postscriptNameID = 6 if metrics['prefix'] == 'AsbirSans' else 0xFFFF
+            else:
+                replace_name(font, instance.subfamilyNameID, instance_style)
+                if instance.postscriptNameID != 0xFFFF:
+                    replace_name(font, instance.postscriptNameID, f"{metrics['prefix']}-{'-'.join(instance_style.split())}")
     font.save(path)
 
 
 def build_family(key, spec):
     source = ROOT / 'sources' / spec['folder']
-    designspace = source / f"{spec['prefix']}.designspace"
+    designspace = source / spec.get('designspace', f"{spec['prefix']}.designspace")
     if not designspace.exists():
         raise SystemExit(f'Missing editable Asbir {key} sources in {source}.')
-    variable = OUT / f"{spec['prefix']}-Review-VF.ttf"
+    output_prefix = spec.get('output_prefix', f"{spec['prefix']}-Review")
+    variable = OUT / f"{output_prefix}-VF.ttf"
     variable_filters = ()
-    if key in {'sans', 'mono'}:
+    if spec['prefix'] in {'AsbirSans', 'AsbirMono'}:
         # Variable-font renderers have historically been less robust with
         # nested or transformed components. Decompose them at compile time;
         # static instances already receive the equivalent processing.
         variable_filters = ('--filter', '...', '--filter', 'DecomposeComponentsFilter')
     run_fontmake('-m', str(designspace), '-o', 'variable', '--output-path', str(variable), *variable_filters)
     instances = STATIC_INSTANCES[key]
-    patch_common(variable, spec, variable=True, instances=instances)
+    patch_common(variable, spec, variable=True, instances=instances, style_name=spec.get('variable_style'))
     # Build every named static instance from the same designspace. This creates
     # real CFF OTFs and TrueType TTFs, not renamed copies of a single Regular.
     with TemporaryDirectory(prefix=f'{spec["prefix"]}-instances-') as temp_dir:
@@ -199,23 +242,28 @@ def build_family(key, spec):
                 # metadata even after family/postscript records are renamed.
                 # Fontmake uses that filename only for its temporary output;
                 # every copied review binary is renamed and patched below.
-                if not built.exists() and key == 'mono':
+                if not built.exists() and spec['prefix'] == 'AsbirMono':
                     built = instance_dir / f'GeistMono-{style}.{extension}'
-                target = OUT / f'{spec["prefix"]}-Review-{style}.{extension}'
+                target = OUT / f'{output_prefix}-{style}.{extension}'
                 if not built.exists():
                     raise SystemExit(f'Missing {style} {extension} instance from {designspace}.')
                 copy2(built, target)
-                patch_common(target, spec, weight=weight, instances=instances)
+                static_style = f"Italic {style}" if spec.get('italic') else None
+                patch_common(target, spec, weight=weight, instances=instances, style_name=static_style)
     print(f'Compiled {key} review fonts from {source}')
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--family', choices=tuple(FAMILIES), action='append')
+    parser.add_argument('--italic', action='store_true', help='Build italic variants for Sans and Mono too')
     args = parser.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
     normalize_designspace_instances()
-    for key in args.family or FAMILIES:
+    selected = list(args.family or ('sans', 'serif', 'mono'))
+    if args.italic:
+        selected.extend(f'{base}-italic' for base in tuple(selected) if f'{base}-italic' in FAMILIES)
+    for key in selected:
         spec = FAMILIES[key]
         build_family(key, spec)
 

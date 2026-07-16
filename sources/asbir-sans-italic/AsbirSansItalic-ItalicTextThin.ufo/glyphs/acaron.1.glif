@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acaron.1" format="2">
+  <advance width="1190"/>
+  <unicode hex="E034"/>
+  <anchor x="600.0" y="0" name="bottom"/>
+  <anchor x="992.0" y="0" name="bottomr"/>
+  <anchor x="992.0" y="0" name="ogonek"/>
+  <anchor x="862.26" y="1557" name="top"/>
+  <anchor x="1193.24" y="1118" name="topr"/>
+  <outline>
+    <component base="a.1" yxScale="0.18"/>
+    <component base="caroncomb" yxScale="0.18" xOffset="150.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

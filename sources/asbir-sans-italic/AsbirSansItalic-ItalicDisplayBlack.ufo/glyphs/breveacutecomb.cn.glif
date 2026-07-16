@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacutecomb.cn" format="2">
+  <advance width="960"/>
+  <anchor x="695" y="1830" name="top"/>
+  <anchor x="567" y="1056" name="_top"/>
+  <outline>
+    <component base="brevecomb"/>
+    <component base="acute_compact" xScale="0.8" yScale="0.9" xOffset="399" yOffset="473"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevecomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute_compact</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

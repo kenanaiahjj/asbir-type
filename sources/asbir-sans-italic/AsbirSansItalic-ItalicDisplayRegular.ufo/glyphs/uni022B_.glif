@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni022B" format="2">
+  <advance width="1123"/>
+  <unicode hex="022B"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="562" y="528" name="center"/>
+  <anchor x="1052" y="526" name="ogonek"/>
+  <anchor x="778.0" y="1687.4" name="top"/>
+  <anchor x="653" y="1080" name="tophorn"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresismacroncomb.lc" xOffset="-6"/>
+  </outline>
+</glyph>

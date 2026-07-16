@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescendercyrillic" format="2">
+  <advance width="896"/>
+  <unicode hex="049B"/>
+  <anchor x="719" y="0" name="cyrtic"/>
+  <anchor x="510" y="1056" name="top"/>
+  <outline>
+    <component base="kacyrillic"/>
+    <component base="_part.cyrtic" xOffset="716"/>
+  </outline>
+</glyph>

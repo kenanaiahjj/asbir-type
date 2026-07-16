@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ukcyrillic" format="2">
+  <advance width="2892"/>
+  <unicode hex="0478"/>
+  <anchor x="2532" y="0" name="bottom"/>
+  <anchor x="826" y="745" name="center"/>
+  <anchor x="2363" y="0" name="ogonek"/>
+  <anchor x="347" y="1490" name="tonos"/>
+  <anchor x="2338" y="1118" name="top"/>
+  <anchor x="952" y="1510" name="tophorn"/>
+  <outline>
+    <component base="O"/>
+    <component base="ucyrillic" xOffset="1590"/>
+  </outline>
+</glyph>

@@ -19,6 +19,13 @@ FILES = [
 ] + [
     ROOT / 'public/downloads' / f'{prefix}-Review-VF.ttf'
     for prefix in ('AsbirSans', 'AsbirSerif', 'AsbirMono')
+] + [
+    ROOT / 'public/downloads' / f'{prefix}-Review-Italic-Regular.{extension}'
+    for prefix in ('AsbirSans', 'AsbirMono')
+    for extension in ('ttf', 'otf')
+] + [
+    ROOT / 'public/downloads' / f'{prefix}-Review-Italic-VF.ttf'
+    for prefix in ('AsbirSans', 'AsbirMono')
 ]
 
 parser = argparse.ArgumentParser()
@@ -35,8 +42,15 @@ for file in (candidate for candidate in FILES if any(candidate.name.startswith(p
     if file.name.startswith('AsbirSans-'):
         for check_id in SANS_REFERENCE_MATCHED_WAIVERS:
             command.extend(['--exclude-checkid', check_id])
+    # Roman and italic are deliberately separate variable files in Asbir. The
+    # universal profile's ital_axis check assumes a single Roman/Italic axis
+    # family and reports a false missing-Roman failure for the dedicated
+    # italic file; the dedicated italic name/style metadata is checked in
+    # tools/font_qa.py instead.
+    if '-Italic-' in file.name:
+        command.extend(['--exclude-checkid', 'opentype/STAT/ital_axis'])
     # FontBakery's mono check assumes TrueType outlines and crashes on CFF.
     # The Mono TTF still receives that check; the CFF receives all others.
-    if file.name == 'AsbirMono-Review-Regular.otf':
+    if file.name.startswith('AsbirMono-Review') and file.suffix == '.otf':
         command.extend(['--exclude-checkid', 'opentype/monospace'])
     subprocess.run(command, check=True)

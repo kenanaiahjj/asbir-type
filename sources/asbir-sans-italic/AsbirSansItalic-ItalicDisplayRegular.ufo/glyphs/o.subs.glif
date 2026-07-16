@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o.subs" format="2">
+  <advance width="768"/>
+  <unicode hex="2092"/>
+  <anchor x="325.32" y="-326" name="bottom"/>
+  <anchor x="377.16" y="-38" name="center"/>
+  <anchor x="694.98" y="-39" name="ogonek"/>
+  <anchor x="429.0" y="250" name="top"/>
+  <anchor x="431.34" y="263" name="tophorn"/>
+  <outline>
+    <component base="o.sups" yxScale="0.18" xOffset="-216.0" yOffset="-1200"/>
+  </outline>
+</glyph>

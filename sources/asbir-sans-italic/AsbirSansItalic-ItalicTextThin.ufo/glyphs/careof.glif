@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="careof" format="2">
+  <advance width="1865"/>
+  <unicode hex="2105"/>
+  <anchor x="1359" y="0" name="bottom"/>
+  <anchor x="472" y="916" name="cedilla"/>
+  <anchor x="1408" y="291" name="center"/>
+  <anchor x="1456" y="583" name="top"/>
+  <anchor x="802" y="1382" name="topr"/>
+  <anchor x="1719" y="289" name="ogonek"/>
+  <anchor x="1457" y="590" name="tophorn"/>
+  <outline>
+    <component base="c.sups"/>
+    <component base="fraction" xOffset="764"/>
+    <component base="o.subs" xOffset="1087" yOffset="284"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c.sups</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>o.subs</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

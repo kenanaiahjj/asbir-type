@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe-cy" format="2">
+  <advance width="1742"/>
+  <unicode hex="040B"/>
+  <anchor x="989" y="0" name="bottom"/>
+  <anchor x="785" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="1186" y="908" type="curve" smooth="yes"/>
+      <point x="995" y="908"/>
+      <point x="840" y="851"/>
+      <point x="700" y="775" type="curve"/>
+      <point x="670" y="590" type="line"/>
+      <point x="817" y="686"/>
+      <point x="979" y="746"/>
+      <point x="1146" y="746" type="curve" smooth="yes"/>
+      <point x="1339" y="746"/>
+      <point x="1457" y="655"/>
+      <point x="1420" y="434" type="curve" smooth="yes"/>
+      <point x="1348" y="0" type="line"/>
+      <point x="1528" y="0" type="line"/>
+      <point x="1600" y="434" type="line" smooth="yes"/>
+      <point x="1655" y="763"/>
+      <point x="1495" y="908"/>
+    </contour>
+    <contour>
+      <point x="853" y="1362" type="line"/>
+      <point x="673" y="1362" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="1330" type="line"/>
+      <point x="1389" y="1330" type="line"/>
+      <point x="1416" y="1490" type="line"/>
+      <point x="210" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

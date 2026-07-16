@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yerudieresiscyrillic" format="2">
+  <advance width="1619"/>
+  <unicode hex="04F9"/>
+  <anchor x="1245" y="0" name="bottom"/>
+  <anchor x="1343" y="594" name="cross"/>
+  <anchor x="1445" y="0" name="ogonek"/>
+  <anchor x="968" y="1490" name="top"/>
+  <outline>
+    <component base="yericyrillic"/>
+    <component base="dieresiscomb" xOffset="176"/>
+  </outline>
+</glyph>

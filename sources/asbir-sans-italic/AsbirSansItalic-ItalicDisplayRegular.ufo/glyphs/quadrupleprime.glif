@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quadrupleprime" format="2">
+  <advance width="1544"/>
+  <unicode hex="2057"/>
+  <outline>
+    <component base="prime"/>
+    <component base="prime" xOffset="386"/>
+    <component base="prime" xOffset="772"/>
+    <component base="prime" xOffset="1158"/>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="1530"/>
+  <unicode hex="20A6"/>
+  <anchor x="719" y="0" name="bottom"/>
+  <anchor x="27" y="0" name="lfthook"/>
+  <anchor x="1411" y="0" name="lfthook2"/>
+  <anchor x="966" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="1570" y="946" type="line"/>
+      <point x="88" y="946" type="line"/>
+      <point x="64" y="800" type="line"/>
+      <point x="1548" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="1518" y="632" type="line"/>
+      <point x="34" y="632" type="line"/>
+      <point x="12" y="486" type="line"/>
+      <point x="1496" y="486" type="line"/>
+    </contour>
+    <component base="N" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

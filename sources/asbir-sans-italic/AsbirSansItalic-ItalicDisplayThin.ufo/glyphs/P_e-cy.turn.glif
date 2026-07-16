@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe-cy.turn" format="2">
+  <advance width="1335"/>
+  <unicode hex="EE87"/>
+  <anchor x="1079" y="0" name="cyrtic"/>
+  <anchor x="582" y="0" name="cyrtic_center"/>
+  <outline>
+    <contour>
+      <point x="1079" y="0" type="line"/>
+      <point x="1326" y="1490" type="line"/>
+      <point x="1280" y="1490" type="line"/>
+      <point x="1041" y="48" type="line"/>
+      <point x="137" y="48" type="line"/>
+      <point x="376" y="1490" type="line"/>
+      <point x="328" y="1490" type="line"/>
+      <point x="81" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

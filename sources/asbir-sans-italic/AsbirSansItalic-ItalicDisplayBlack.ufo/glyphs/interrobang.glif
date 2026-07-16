@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="interrobang" format="2">
+  <advance width="1206"/>
+  <unicode hex="203D"/>
+  <outline>
+    <contour>
+      <point x="411.736" y="466" type="line"/>
+      <point x="715.736" y="466" type="line"/>
+      <point x="721.365" y="500" type="line" smooth="yes"/>
+      <point x="741.568" y="616"/>
+      <point x="805.17" y="674"/>
+      <point x="920.434" y="736" type="curve" smooth="yes"/>
+      <point x="1077.175" y="819"/>
+      <point x="1190.392" y="923"/>
+      <point x="1220.694" y="1100" type="curve" smooth="yes"/>
+      <point x="1264.889" y="1373"/>
+      <point x="1057.569" y="1510"/>
+      <point x="746.569" y="1510" type="curve" smooth="yes"/>
+      <point x="463.569" y="1510"/>
+      <point x="207.385" y="1376"/>
+      <point x="151.41" y="1056" type="curve"/>
+      <point x="523.41" y="1056" type="line"/>
+      <point x="537.316" y="1140"/>
+      <point x="614.083" y="1199"/>
+      <point x="692.918" y="1198" type="curve" smooth="yes"/>
+      <point x="765.083" y="1199"/>
+      <point x="820.806" y="1149"/>
+      <point x="808.721" y="1076" type="curve" smooth="yes"/>
+      <point x="796.139" y="1000"/>
+      <point x="740.723" y="925"/>
+      <point x="640.604" y="882" type="curve" smooth="yes"/>
+      <point x="513.334" y="826"/>
+      <point x="456.096" y="740"/>
+      <point x="417.365" y="500" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="413.736" y="466" type="line"/>
+      <point x="577.736" y="466" type="line"/>
+      <point x="666.139" y="1000" type="line"/>
+      <point x="410.139" y="1000" type="line"/>
+    </contour>
+    <component base="period" xOffset="272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

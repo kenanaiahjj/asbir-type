@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotbelow.ss07" format="2">
+  <advance width="1200"/>
+  <unicode hex="E239"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="544" y="0" name="cedilla"/>
+  <anchor x="1131" y="360" name="ogonek"/>
+  <anchor x="718" y="1056" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotbelow.ss07" xOffset="315"/>
+  </outline>
+</glyph>

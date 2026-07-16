@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde.ss02" format="2">
+  <advance width="600"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="533" y="0" name="ogonek"/>
+  <anchor x="380" y="750" name="top"/>
+  <outline>
+    <component base="a.ss02"/>
+    <component base="tildecomb" xOffset="-22"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wdotbelow" format="2">
+  <advance width="1656"/>
+  <unicode hex="1E89"/>
+  <anchor x="736" y="0" name="bottom"/>
+  <anchor x="921" y="1118" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="dotbelow" xOffset="643"/>
+  </outline>
+</glyph>

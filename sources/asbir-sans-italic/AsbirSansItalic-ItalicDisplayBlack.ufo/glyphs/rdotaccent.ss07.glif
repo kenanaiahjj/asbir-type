@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotaccent.ss07" format="2">
+  <advance width="853"/>
+  <unicode hex="E256"/>
+  <anchor x="199" y="0" name="bottom"/>
+  <anchor x="399" y="0" name="bottomr"/>
+  <anchor x="287" y="528" name="cross"/>
+  <anchor x="626" y="1490" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="dotaccentcomb.ss07" xOffset="147"/>
+  </outline>
+</glyph>

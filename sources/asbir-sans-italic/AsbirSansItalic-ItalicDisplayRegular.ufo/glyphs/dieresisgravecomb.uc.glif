@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisgravecomb.uc" format="2">
+  <advance width="1136"/>
+  <unicode hex="E124"/>
+  <anchor x="828" y="2228" name="top"/>
+  <anchor x="728" y="1490" name="_top"/>
+  <outline>
+    <component base="dieresisgravecomb.lc" xOffset="72" yOffset="434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dieresisgravecomb.lc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

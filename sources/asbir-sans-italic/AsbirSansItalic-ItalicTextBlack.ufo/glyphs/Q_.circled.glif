@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.circled" format="2">
+  <advance width="2847"/>
+  <unicode hex="24C6"/>
+  <anchor x="1319" y="45" name="bottom"/>
+  <anchor x="1443" y="790" name="center"/>
+  <anchor x="2177" y="937" name="ogonek"/>
+  <anchor x="964" y="1535" name="tonos"/>
+  <anchor x="1566" y="1535" name="top"/>
+  <anchor x="1569" y="1555" name="tophorn"/>
+  <outline>
+    <component base="largeCircle"/>
+    <component base="Q" xOffset="617" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>largeCircle</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Q</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="warningSign" format="2">
+  <advance width="2100"/>
+  <unicode hex="26A0"/>
+  <outline>
+    <contour>
+      <point x="-29" y="0" type="line"/>
+      <point x="1943" y="0" type="line"/>
+      <point x="1234" y="1676" type="line"/>
+    </contour>
+    <contour>
+      <point x="988" y="189" type="curve" smooth="yes"/>
+      <point x="914" y="189"/>
+      <point x="864" y="249"/>
+      <point x="876" y="323" type="curve" smooth="yes"/>
+      <point x="889" y="399"/>
+      <point x="959" y="460"/>
+      <point x="1033" y="460" type="curve" smooth="yes"/>
+      <point x="1109" y="460"/>
+      <point x="1159" y="399"/>
+      <point x="1146" y="323" type="curve" smooth="yes"/>
+      <point x="1134" y="249"/>
+      <point x="1064" y="189"/>
+    </contour>
+    <contour>
+      <point x="970" y="623" type="line"/>
+      <point x="1039" y="1118" type="line"/>
+      <point x="1245" y="1118" type="line"/>
+      <point x="1151" y="623" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkircyrillic" format="2">
+  <advance width="1443"/>
+  <unicode hex="04A1"/>
+  <anchor x="1288" y="0" name="cyrtic"/>
+  <anchor x="909" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="57" y="752" type="line"/>
+      <point x="455" y="752" type="line"/>
+      <point x="506" y="1056" type="line"/>
+      <point x="108" y="1056" type="line"/>
+    </contour>
+    <component base="kacyrillic" xOffset="205"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

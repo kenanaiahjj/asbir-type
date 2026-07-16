@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexacute" format="2">
+  <advance width="1060"/>
+  <unicode hex="1EA5"/>
+  <anchor x="524.0" y="0" name="bottom"/>
+  <anchor x="934.0" y="0" name="ogonek"/>
+  <anchor x="841.7" y="1765" name="top"/>
+  <outline>
+    <component base="a" yxScale="0.18"/>
+    <component base="circumflexacutecomb.cn" yxScale="0.18" xOffset="124.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexacutecomb.cn</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

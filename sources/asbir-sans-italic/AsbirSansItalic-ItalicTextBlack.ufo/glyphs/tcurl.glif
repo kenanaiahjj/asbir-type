@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcurl" format="2">
+  <advance width="1050"/>
+  <unicode hex="0236"/>
+  <anchor x="538" y="397" name="bottomr"/>
+  <outline>
+    <component base="_part.tcurl_base"/>
+    <component base="_part.curl_sw" xOffset="-150" yOffset="397"/>
+  </outline>
+</glyph>

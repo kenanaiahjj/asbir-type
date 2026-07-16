@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_exclam_hyphen_hyphen_hyphen.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-1426" y="292" type="line"/>
+      <point x="538" y="292" type="line"/>
+      <point x="538" y="324" type="line"/>
+      <point x="-1426" y="324" type="line"/>
+    </contour>
+    <component base="leftArrow" xOffset="-2348"/>
+    <component base="exclam" xOffset="-1883"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

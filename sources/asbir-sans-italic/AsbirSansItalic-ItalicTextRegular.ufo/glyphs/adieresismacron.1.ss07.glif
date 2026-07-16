@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresismacron.1.ss07" format="2">
+  <advance width="1254"/>
+  <unicode hex="E278"/>
+  <anchor x="614.0" y="0" name="bottom"/>
+  <anchor x="1096.0" y="0" name="bottomr"/>
+  <anchor x="1096.0" y="0" name="ogonek"/>
+  <anchor x="816.24" y="1118" name="top"/>
+  <anchor x="1297.24" y="1118" name="topr"/>
+  <outline>
+    <component base="a.1" yxScale="0.18"/>
+    <component base="dieresismacroncomb.lc.ss07" yxScale="0.18" xOffset="15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresismacroncomb.lc.ss07</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

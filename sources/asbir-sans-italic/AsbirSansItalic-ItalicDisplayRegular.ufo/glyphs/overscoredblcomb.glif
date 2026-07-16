@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overscoredblcomb" format="2">
+  <unicode hex="EEC1"/>
+  <outline>
+    <contour>
+      <point x="24" y="1644" type="line"/>
+      <point x="-902" y="1644" type="line"/>
+      <point x="-928" y="1484" type="line"/>
+      <point x="-2" y="1484" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="1900" type="line"/>
+      <point x="-862" y="1900" type="line"/>
+      <point x="-888" y="1740" type="line"/>
+      <point x="38" y="1740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

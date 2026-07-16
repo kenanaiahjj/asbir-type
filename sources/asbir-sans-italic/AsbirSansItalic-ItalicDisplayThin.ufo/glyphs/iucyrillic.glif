@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iucyrillic" format="2">
+  <advance width="1541"/>
+  <unicode hex="044E"/>
+  <anchor x="926" y="0" name="bottom"/>
+  <anchor x="1013" y="528" name="center"/>
+  <anchor x="1475" y="528" name="ogonek"/>
+  <anchor x="1100" y="1056" name="top"/>
+  <anchor x="1103" y="1072" name="tophorn"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="268" y="1056" type="line"/>
+      <point x="222" y="1056" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="505" type="line"/>
+      <point x="571" y="505" type="line"/>
+      <point x="578" y="551" type="line"/>
+      <point x="168" y="551" type="line"/>
+    </contour>
+    <component base="o" xOffset="483"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

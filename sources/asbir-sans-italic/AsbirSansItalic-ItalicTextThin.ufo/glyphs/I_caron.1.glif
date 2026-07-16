@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icaron.1" format="2">
+  <advance width="769"/>
+  <unicode hex="E019"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="418" y="768" name="cross"/>
+  <anchor x="556" y="0" name="ogonek"/>
+  <anchor x="581" y="0" name="right"/>
+  <anchor x="315" y="1490" name="tonos"/>
+  <anchor x="612" y="1929" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="caroncomb" xOffset="15" yOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="1320"/>
+  <unicode hex="E072"/>
+  <outline>
+    <contour>
+      <point x="169.0" y="0" type="line"/>
+      <point x="1200.0" y="0" type="line"/>
+      <point x="1257.96" y="322" type="line"/>
+      <point x="226.96" y="322" type="line"/>
+    </contour>
+    <component base="one" yxScale="0.18" xOffset="151.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

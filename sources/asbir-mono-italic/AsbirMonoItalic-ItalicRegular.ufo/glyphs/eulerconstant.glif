@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eulerconstant" format="2">
+  <advance width="600"/>
+  <unicode hex="2107"/>
+  <outline>
+    <contour>
+      <point x="307" y="-16" type="curve" smooth="yes"/>
+      <point x="406" y="-16"/>
+      <point x="510" y="27"/>
+      <point x="562" y="88" type="curve"/>
+      <point x="508" y="159" type="line"/>
+      <point x="460" y="102"/>
+      <point x="375" y="64"/>
+      <point x="307" y="64" type="curve" smooth="yes"/>
+      <point x="205" y="64"/>
+      <point x="139" y="120"/>
+      <point x="139" y="202" type="curve" smooth="yes"/>
+      <point x="139" y="286"/>
+      <point x="205" y="341"/>
+      <point x="307" y="339" type="curve"/>
+      <point x="361" y="338" type="line"/>
+      <point x="361" y="417" type="line"/>
+      <point x="307" y="416" type="line"/>
+      <point x="240" y="415"/>
+      <point x="163" y="449"/>
+      <point x="163" y="541" type="curve" smooth="yes"/>
+      <point x="163" y="605"/>
+      <point x="218" y="646"/>
+      <point x="307" y="646" type="curve" smooth="yes"/>
+      <point x="368" y="646"/>
+      <point x="441" y="610"/>
+      <point x="483" y="561" type="curve"/>
+      <point x="539" y="630" type="line"/>
+      <point x="490" y="686"/>
+      <point x="395" y="726"/>
+      <point x="307" y="726" type="curve" smooth="yes"/>
+      <point x="170" y="726"/>
+      <point x="75" y="650"/>
+      <point x="75" y="541" type="curve" smooth="yes"/>
+      <point x="75" y="450"/>
+      <point x="129" y="395"/>
+      <point x="237" y="375" type="curve"/>
+      <point x="236" y="392" type="line"/>
+      <point x="114" y="370"/>
+      <point x="51" y="297"/>
+      <point x="51" y="195" type="curve" smooth="yes"/>
+      <point x="51" y="71"/>
+      <point x="154" y="-16"/>
+    </contour>
+  </outline>
+</glyph>

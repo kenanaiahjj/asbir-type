@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonefive" format="2">
+  <advance width="1347"/>
+  <unicode hex="01BC"/>
+  <outline>
+    <contour>
+      <point x="532" y="1490" type="line"/>
+      <point x="210" y="1490" type="line"/>
+      <point x="156" y="1166" type="line"/>
+      <point x="478" y="1166" type="line"/>
+    </contour>
+    <component base="five" xOffset="22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

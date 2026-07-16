@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacutecomb.uc" format="2">
+  <advance width="1330"/>
+  <unicode hex="E121"/>
+  <anchor x="959.4" y="2264.6" name="top"/>
+  <anchor x="819" y="1490" name="_top"/>
+  <outline>
+    <component base="dieresisacutecomb.lc" xOffset="62" yOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dieresisacutecomb.lc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

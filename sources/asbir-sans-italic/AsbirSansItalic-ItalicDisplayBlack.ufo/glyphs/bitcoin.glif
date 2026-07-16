@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="1331"/>
+  <unicode hex="20BF"/>
+  <anchor x="561" y="0" name="bottom"/>
+  <anchor x="301" y="459" name="cross"/>
+  <anchor x="809" y="1490" name="top"/>
+  <anchor x="239" y="1490" name="topl"/>
+  <outline>
+    <contour>
+      <point x="518" y="1414" type="line"/>
+      <point x="718" y="1414" type="line"/>
+      <point x="761" y="1676" type="line"/>
+      <point x="561" y="1676" type="line"/>
+    </contour>
+    <contour>
+      <point x="818" y="1414" type="line"/>
+      <point x="1018" y="1414" type="line"/>
+      <point x="1061" y="1676" type="line"/>
+      <point x="861" y="1676" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="-186" type="line"/>
+      <point x="453" y="-186" type="line"/>
+      <point x="497" y="76" type="line"/>
+      <point x="297" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="-186" type="line"/>
+      <point x="753" y="-186" type="line"/>
+      <point x="797" y="76" type="line"/>
+      <point x="597" y="76" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

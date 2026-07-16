@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FE8" format="2">
+  <advance width="1390"/>
+  <unicode hex="1FE8"/>
+  <anchor x="602" y="0" name="bottom"/>
+  <anchor x="666" y="388" name="cross"/>
+  <anchor x="697" y="0" name="ogonek"/>
+  <anchor x="206" y="1490" name="tonos"/>
+  <anchor x="922" y="1930" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="brevecomb" xOffset="368" yOffset="372"/>
+  </outline>
+</glyph>

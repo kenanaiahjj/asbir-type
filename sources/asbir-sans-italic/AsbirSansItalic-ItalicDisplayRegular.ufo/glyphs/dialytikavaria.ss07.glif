@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikavaria.ss07" format="2">
+  <advance width="1312"/>
+  <unicode hex="E2BC"/>
+  <anchor x="751" y="1056" name="_top"/>
+  <anchor x="1103" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="873" y="1328" type="line"/>
+      <point x="883" y="1626" type="line"/>
+      <point x="713" y="1626" type="line"/>
+      <point x="753" y="1328" type="line"/>
+    </contour>
+    <contour>
+      <point x="1162" y="1298" type="line"/>
+      <point x="1194" y="1490" type="line"/>
+      <point x="1012" y="1490" type="line"/>
+      <point x="980" y="1298" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="1298" type="line"/>
+      <point x="618" y="1490" type="line"/>
+      <point x="436" y="1490" type="line"/>
+      <point x="404" y="1298" type="line"/>
+    </contour>
+  </outline>
+</glyph>

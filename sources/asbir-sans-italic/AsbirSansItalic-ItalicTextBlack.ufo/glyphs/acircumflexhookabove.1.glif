@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexhookabove.1" format="2">
+  <advance width="1322"/>
+  <unicode hex="E039"/>
+  <anchor x="656.0" y="0" name="bottom"/>
+  <anchor x="1220.0" y="0" name="bottomr"/>
+  <anchor x="1220.0" y="0" name="ogonek"/>
+  <anchor x="871.24" y="1118" name="top"/>
+  <anchor x="1421.24" y="1118" name="topr"/>
+  <outline>
+    <component base="a.1" yxScale="0.18"/>
+    <component base="circumflexhookcomb.cn" yxScale="0.18" xOffset="158.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexhookcomb.cn</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.brackquill_left" format="2">
+  <advance width="715"/>
+  <anchor x="146" y="636" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="447" y="709" type="line"/>
+      <point x="158" y="709" type="line"/>
+      <point x="134" y="563" type="line"/>
+      <point x="423" y="563" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

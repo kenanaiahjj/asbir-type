@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zeta" format="2">
+  <advance width="1290"/>
+  <unicode hex="0396"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="1074" y="0" name="bottomr"/>
+  <anchor x="675" y="745" name="cross"/>
+  <anchor x="800" y="1490" name="top"/>
+  <outline>
+    <component base="Z"/>
+  </outline>
+</glyph>

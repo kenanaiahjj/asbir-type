@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.bottom_rthook_s" format="2">
+  <advance width="511"/>
+  <anchor x="29" y="316" name="_rthook"/>
+  <outline>
+    <contour>
+      <point x="190" y="-418" type="curve" smooth="yes"/>
+      <point x="235" y="-418"/>
+      <point x="262" y="-418"/>
+      <point x="290" y="-418" type="curve"/>
+      <point x="314" y="-270" type="line"/>
+      <point x="293" y="-270"/>
+      <point x="234" y="-270"/>
+      <point x="214" y="-270" type="curve" smooth="yes"/>
+      <point x="129" y="-270"/>
+      <point x="99" y="-241"/>
+      <point x="111" y="-170" type="curve" smooth="yes"/>
+      <point x="191" y="316" type="line"/>
+      <point x="29" y="316" type="line"/>
+      <point x="-51" y="-170" type="line" smooth="yes"/>
+      <point x="-78" y="-332"/>
+      <point x="5" y="-418"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="henghook" format="2">
+  <advance width="1197"/>
+  <unicode hex="0267"/>
+  <anchor x="506" y="0" name="bottom"/>
+  <anchor x="906" y="0" name="bottomr"/>
+  <anchor x="860" y="0" name="lfthook"/>
+  <anchor x="693" y="1118" name="top"/>
+  <anchor x="337" y="1118" name="topr"/>
+  <outline>
+    <component base="hhook"/>
+    <component base="_part.bottom_lfthook" xOffset="678"/>
+  </outline>
+</glyph>

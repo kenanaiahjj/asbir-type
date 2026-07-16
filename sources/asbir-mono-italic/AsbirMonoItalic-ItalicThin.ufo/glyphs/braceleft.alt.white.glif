@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft.alt.white" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="180" y="233" type="line"/>
+      <point x="340" y="233" type="line"/>
+      <point x="340" y="666" type="line"/>
+      <point x="483" y="666" type="line"/>
+      <point x="483" y="826" type="line"/>
+      <point x="180" y="826" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="263" type="line"/>
+      <point x="212" y="796" type="line"/>
+      <point x="451" y="796" type="line"/>
+      <point x="451" y="696" type="line"/>
+      <point x="308" y="696" type="line"/>
+      <point x="308" y="263" type="line"/>
+    </contour>
+  </outline>
+</glyph>

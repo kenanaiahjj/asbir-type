@@ -1,0 +1,34 @@
+/* Asbir web loading kit. Self-host these files beside this stylesheet. */
+@font-face {
+  font-family: 'Asbir Sans';
+  src: url('./AsbirSans-Variable.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  font-optical-sizing: auto;
+}
+
+@font-face {
+  font-family: 'Asbir Sans';
+  src: url('./AsbirSans-Italic-Variable.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  font-optical-sizing: auto;
+}
+
+@font-face {
+  font-family: 'Asbir Sans';
+  src: url('./AsbirSans-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Asbir Sans';
+  src: url('./AsbirSans-Italic-Regular.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}

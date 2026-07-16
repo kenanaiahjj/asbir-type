@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelowmacron.ss07" format="2">
+  <advance width="1158"/>
+  <unicode hex="E1FC"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <anchor x="429" y="745" name="cross"/>
+  <anchor x="649" y="797" name="dot"/>
+  <anchor x="776" y="1490" name="raccent"/>
+  <anchor x="491" y="1863" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelow.ss07" xOffset="370"/>
+    <component base="macroncomb" xOffset="-152" yOffset="372"/>
+  </outline>
+</glyph>

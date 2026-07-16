@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigmalunatesymbolgreek" format="2">
+  <advance width="1070"/>
+  <unicode hex="03F2"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="473" y="0" name="cedilla"/>
+  <anchor x="562" y="528" name="center"/>
+  <anchor x="641" y="1056" name="top"/>
+  <anchor x="1037" y="712" name="topr"/>
+  <outline>
+    <component base="c"/>
+  </outline>
+</glyph>

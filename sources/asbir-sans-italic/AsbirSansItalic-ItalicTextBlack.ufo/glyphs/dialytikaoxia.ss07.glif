@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikaoxia.ss07" format="2">
+  <advance width="1582"/>
+  <unicode hex="E2BD"/>
+  <anchor x="888" y="1118" name="_top"/>
+  <anchor x="613" y="1586" name="top"/>
+  <outline>
+    <component base="dieresistonos.ss07"/>
+  </outline>
+</glyph>

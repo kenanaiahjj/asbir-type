@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Khook" format="2">
+  <advance width="1214"/>
+  <unicode hex="0198"/>
+  <outline>
+    <contour>
+      <point x="80.59" y="0" type="line"/>
+      <point x="128.59" y="0" type="line"/>
+      <point x="209.047" y="486" type="line"/>
+      <point x="474.103" y="734" type="line"/>
+      <point x="1040.59" y="0" type="line"/>
+      <point x="1104.59" y="0" type="line"/>
+      <point x="511.732" y="768" type="line"/>
+      <point x="1178.372" y="1388" type="line" smooth="yes"/>
+      <point x="1248.464" y="1455"/>
+      <point x="1314.782" y="1469"/>
+      <point x="1375.67" y="1420" type="curve"/>
+      <point x="1412.636" y="1450" type="line"/>
+      <point x="1360.225" y="1520"/>
+      <point x="1233.741" y="1505"/>
+      <point x="1147.67" y="1420" type="curve"/>
+      <point x="227.629" y="562" type="line"/>
+      <point x="221.629" y="562" type="line"/>
+      <point x="375.258" y="1490" type="line"/>
+      <point x="327.258" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

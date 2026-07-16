@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgravecomb.cn" format="2">
+  <advance width="866"/>
+  <anchor x="605" y="1764" name="top"/>
+  <anchor x="488" y="1056" name="_top"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-4" yOffset="-26"/>
+    <component base="grave_compact" xOffset="359" yOffset="249"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grave_compact</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="published" format="2">
+  <advance width="1873"/>
+  <unicode hex="2117"/>
+  <outline>
+    <contour>
+      <point x="693" y="350" type="line"/>
+      <point x="740" y="350" type="line"/>
+      <point x="861" y="1082" type="line"/>
+      <point x="1077" y="1082" type="line" smooth="yes"/>
+      <point x="1208" y="1082"/>
+      <point x="1277" y="1002"/>
+      <point x="1259" y="892" type="curve" smooth="yes"/>
+      <point x="1240" y="782"/>
+      <point x="1145" y="703"/>
+      <point x="1014" y="703" type="curve" smooth="yes"/>
+      <point x="783" y="703" type="line"/>
+      <point x="776" y="659" type="line"/>
+      <point x="1008" y="659" type="line" smooth="yes"/>
+      <point x="1166" y="659"/>
+      <point x="1283" y="757"/>
+      <point x="1306" y="892" type="curve" smooth="yes"/>
+      <point x="1328" y="1026"/>
+      <point x="1243" y="1125"/>
+      <point x="1085" y="1125" type="curve" smooth="yes"/>
+      <point x="821" y="1125" type="line"/>
+    </contour>
+    <component base="circlewhite"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

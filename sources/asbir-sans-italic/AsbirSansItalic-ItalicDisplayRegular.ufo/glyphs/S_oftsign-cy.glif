@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Softsign-cy" format="2">
+  <advance width="1267"/>
+  <unicode hex="042C"/>
+  <anchor x="418" y="1176" name="cross"/>
+  <outline>
+    <contour>
+      <point x="343" y="896" type="line"/>
+      <point x="317" y="736" type="line"/>
+      <point x="733" y="736" type="line" smooth="yes"/>
+      <point x="933" y="736"/>
+      <point x="1033" y="628"/>
+      <point x="1004" y="456" type="curve" smooth="yes"/>
+      <point x="974" y="274"/>
+      <point x="829" y="160"/>
+      <point x="629" y="160" type="curve" smooth="yes"/>
+      <point x="267" y="160" type="line"/>
+      <point x="488" y="1490" type="line"/>
+      <point x="308" y="1490" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="619" y="0" type="line" smooth="yes"/>
+      <point x="930" y="0"/>
+      <point x="1138" y="176"/>
+      <point x="1184" y="456" type="curve" smooth="yes"/>
+      <point x="1229" y="726"/>
+      <point x="1070" y="896"/>
+      <point x="759" y="896" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

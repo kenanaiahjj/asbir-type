@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotcomb.lc.ss07" format="2">
+  <advance width="355"/>
+  <unicode hex="E2CA"/>
+  <anchor x="302" y="1718" name="top"/>
+  <anchor x="189" y="1056" name="_top"/>
+  <anchor x="319" y="1844" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="160" y="1254" type="line"/>
+      <point x="208" y="1254" type="line"/>
+      <point x="482" y="1536" type="line"/>
+      <point x="424" y="1536" type="line"/>
+    </contour>
+    <component base="dotaccentcomb.ss07" xOffset="40" yOffset="356"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

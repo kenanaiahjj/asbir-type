@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10059" format="2">
+  <advance width="2250"/>
+  <unicode hex="040A"/>
+  <anchor x="1392" y="1218" name="cross"/>
+  <outline>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="521" y="678" type="line"/>
+      <point x="1191" y="678" type="line"/>
+      <point x="1246" y="1006" type="line"/>
+      <point x="576" y="1006" type="line"/>
+      <point x="656" y="1490" type="line"/>
+      <point x="240" y="1490" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="915"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

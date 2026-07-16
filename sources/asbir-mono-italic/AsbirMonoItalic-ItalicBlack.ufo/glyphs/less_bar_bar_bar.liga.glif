@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_bar_bar.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="less_bar.liga" xOffset="-1149"/>
+    <component base="bar" yScale="0.8256" xOffset="-87" yOffset="91"/>
+    <component base="bar" yScale="0.8256" xOffset="-596" yOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>bar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>bar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.numr" format="2">
+  <advance width="794"/>
+  <outline>
+    <component base="equal.dnom" yxScale="0.18" xOffset="122.03999999999999" yOffset="678"/>
+  </outline>
+</glyph>

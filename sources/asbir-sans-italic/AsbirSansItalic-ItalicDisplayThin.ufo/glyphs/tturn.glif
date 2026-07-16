@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tturn" format="2">
+  <advance width="472"/>
+  <unicode hex="0287"/>
+  <anchor x="405.08" y="1056" name="top"/>
+  <anchor x="361.08" y="1056.0" name="cedilla"/>
+  <anchor x="220.08" y="1056.0" name="lfthook"/>
+  <anchor x="232.16" y="-288" name="bottom"/>
+  <anchor x="41.88" y="-434.0" name="raccent"/>
+  <outline>
+    <component base="t" xScale="-1.0" yxScale="-0.18" yScale="-1.0" xOffset="662.0799999999999" yOffset="1056"/>
+  </outline>
+</glyph>

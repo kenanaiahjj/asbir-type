@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="1222"/>
+  <unicode hex="01FB"/>
+  <anchor x="602.0" y="0" name="bottom"/>
+  <anchor x="1120.0" y="0" name="ogonek"/>
+  <anchor x="817.24" y="1118" name="top"/>
+  <outline>
+    <component base="a" yxScale="0.18"/>
+    <component base="ringacute.lc" yxScale="0.18" xOffset="184.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringacute.lc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

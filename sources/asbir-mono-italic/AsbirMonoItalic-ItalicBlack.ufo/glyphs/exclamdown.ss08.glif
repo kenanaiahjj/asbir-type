@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown.ss08" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="exclam.ss08" xScale="-1.0" yScale="-1.0" xOffset="617" yOffset="548"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclam.ss08</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

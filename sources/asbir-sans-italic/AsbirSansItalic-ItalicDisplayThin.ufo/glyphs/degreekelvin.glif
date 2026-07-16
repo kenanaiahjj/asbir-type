@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degreekelvin" format="2">
+  <advance width="1120"/>
+  <unicode hex="212A"/>
+  <anchor x="511" y="0" name="bottom"/>
+  <anchor x="758" y="1490" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dz" format="2">
+  <advance width="2189"/>
+  <unicode hex="01F3"/>
+  <anchor x="1514" y="0" name="bottom"/>
+  <anchor x="1970" y="0" name="bottomr"/>
+  <anchor x="1612" y="558" name="cross"/>
+  <anchor x="1394" y="1490" name="raccent"/>
+  <anchor x="1705" y="1118" name="top"/>
+  <anchor x="1251" y="1490" name="topbar"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="1058"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

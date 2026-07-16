@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase.ss03" format="2">
+  <advance width="1369"/>
+  <outline>
+    <component base="quotedblright.ss03" xOffset="-188" yOffset="-1134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quotedblright.ss03</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

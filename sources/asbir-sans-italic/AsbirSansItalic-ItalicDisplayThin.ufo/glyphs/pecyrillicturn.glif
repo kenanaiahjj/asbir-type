@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pecyrillicturn" format="2">
+  <advance width="1049"/>
+  <unicode hex="EED3"/>
+  <anchor x="827" y="0" name="cyrtic"/>
+  <anchor x="437" y="0" name="cyrtic_center"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="827" y="0" type="line"/>
+      <point x="1002" y="1056" type="line"/>
+      <point x="956" y="1056" type="line"/>
+      <point x="789" y="46" type="line"/>
+      <point x="101" y="46" type="line"/>
+      <point x="268" y="1056" type="line"/>
+      <point x="222" y="1056" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+    </dict>
+  </lib>
+</glyph>

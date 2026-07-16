@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent.1" format="2">
+  <advance width="509"/>
+  <unicode hex="E018"/>
+  <anchor x="167" y="0" name="bottom"/>
+  <anchor x="293" y="768" name="cross"/>
+  <anchor x="351" y="0" name="ogonek"/>
+  <anchor x="361" y="0" name="right"/>
+  <anchor x="278" y="1490" name="tonos"/>
+  <anchor x="475" y="1859" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="dotaccentcomb" xOffset="204" yOffset="434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

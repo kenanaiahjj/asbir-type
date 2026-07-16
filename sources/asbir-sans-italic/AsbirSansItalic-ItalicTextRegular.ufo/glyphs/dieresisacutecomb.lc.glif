@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacutecomb.lc" format="2">
+  <advance width="1200"/>
+  <unicode hex="E106"/>
+  <anchor x="835" y="1891" name="top"/>
+  <anchor x="692" y="1118" name="_top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="-5" yOffset="-28"/>
+    <component base="acute_compact" xOffset="422" yOffset="333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dieresiscomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute_compact</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf.slash" format="2">
+  <advance width="1320"/>
+  <unicode hex="E07B"/>
+  <anchor x="928.2" y="1490" name="top"/>
+  <outline>
+    <component base="zero.tf" yxScale="0.18"/>
+    <component base="_part.zeroslash" yxScale="0.18" xOffset="32.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zero.tf</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.zeroslash</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

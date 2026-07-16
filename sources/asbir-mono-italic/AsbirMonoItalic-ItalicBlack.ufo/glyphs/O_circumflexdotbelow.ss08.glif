@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexdotbelow.ss08" format="2">
+  <advance width="600"/>
+  <anchor x="208" y="-162" name="bottom"/>
+  <anchor x="318" y="355" name="center"/>
+  <anchor x="334" y="0" name="ogonek"/>
+  <anchor x="438" y="923" name="top"/>
+  <anchor x="454" y="710" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb.ss08"/>
+    <component base="circumflexcomb" xOffset="36" yOffset="170"/>
+  </outline>
+</glyph>

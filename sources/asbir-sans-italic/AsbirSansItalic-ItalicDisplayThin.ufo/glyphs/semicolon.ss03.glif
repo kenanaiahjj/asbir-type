@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.ss03" format="2">
+  <advance width="400"/>
+  <unicode hex="EE89"/>
+  <outline>
+    <component base="comma.ss03"/>
+    <component base="period" xOffset="146" yOffset="912"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>comma.ss03</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

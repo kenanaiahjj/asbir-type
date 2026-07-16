@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezh" format="2">
+  <advance width="1213"/>
+  <unicode hex="0292"/>
+  <anchor x="678" y="1056" name="top"/>
+  <outline>
+    <component base="dzeabkhasiancyrillic"/>
+  </outline>
+</glyph>

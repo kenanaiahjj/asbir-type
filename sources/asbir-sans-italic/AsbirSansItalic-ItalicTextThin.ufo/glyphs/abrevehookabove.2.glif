@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevehookabove.2" format="2">
+  <advance width="1082"/>
+  <anchor x="530.0" y="0" name="bottom"/>
+  <anchor x="1052.54" y="3" name="ogonek"/>
+  <anchor x="727.24" y="1118" name="top"/>
+  <outline>
+    <component base="a.2" yxScale="0.18"/>
+    <component base="brevecomb_hookabovecomb" yxScale="0.18" xOffset="174.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.2</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb_hookabovecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

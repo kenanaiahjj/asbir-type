@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.sc" format="2">
+  <advance width="993"/>
+  <unicode hex="1D00"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="851" y="0" name="ogonek"/>
+  <anchor x="514" y="1117" name="tonos"/>
+  <anchor x="589" y="1117" name="top"/>
+  <outline>
+    <contour>
+      <point x="-44" y="0" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="461" y="844" type="line" smooth="yes"/>
+      <point x="505" y="926"/>
+      <point x="549" y="1010"/>
+      <point x="595" y="1100" type="curve"/>
+      <point x="580" y="1100" type="line"/>
+      <point x="597" y="1005"/>
+      <point x="607" y="950"/>
+      <point x="629" y="844" type="curve" smooth="yes"/>
+      <point x="805" y="0" type="line"/>
+      <point x="851" y="0" type="line"/>
+      <point x="618" y="1117" type="line"/>
+      <point x="558" y="1117" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="366" type="line"/>
+      <point x="743" y="366" type="line"/>
+      <point x="750" y="410" type="line"/>
+      <point x="193" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

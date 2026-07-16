@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus.dnom" format="2">
+  <advance width="746"/>
+  <unicode hex="E0C9"/>
+  <outline>
+    <contour>
+      <point x="686.08" y="406" type="line"/>
+      <point x="206.07999999999998" y="406" type="line"/>
+      <point x="197.8" y="360" type="line"/>
+      <point x="677.8" y="360" type="line"/>
+    </contour>
+  </outline>
+</glyph>

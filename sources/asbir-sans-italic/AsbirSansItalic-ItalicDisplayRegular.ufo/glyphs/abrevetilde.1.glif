@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde.1" format="2">
+  <advance width="1160"/>
+  <unicode hex="E033"/>
+  <anchor x="558.0" y="0" name="bottom"/>
+  <anchor x="1034.0" y="0" name="bottomr"/>
+  <anchor x="1034.0" y="0" name="ogonek"/>
+  <anchor x="872.28" y="1746" name="top"/>
+  <anchor x="1224.08" y="1056" name="topr"/>
+  <outline>
+    <component base="a.1" yxScale="0.18"/>
+    <component base="brevetildecomb.cn" yxScale="0.18" xOffset="158.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevetildecomb.cn</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

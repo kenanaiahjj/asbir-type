@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetsecyrillic" format="2">
+  <advance width="1827"/>
+  <unicode hex="04B4"/>
+  <anchor x="1544" y="0" name="cyrtic"/>
+  <anchor x="989" y="0" name="cyrtic_center"/>
+  <outline>
+    <contour>
+      <point x="183" y="1330" type="line"/>
+      <point x="1301" y="1330" type="line"/>
+      <point x="1328" y="1490" type="line"/>
+      <point x="210" y="1490" type="line"/>
+    </contour>
+    <component base="afii10040" xOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringbelow" format="2">
+  <advance width="1060"/>
+  <unicode hex="1E01"/>
+  <anchor x="524.0" y="0" name="bottom"/>
+  <anchor x="934.0" y="0" name="ogonek"/>
+  <anchor x="714.08" y="1056" name="top"/>
+  <outline>
+    <component base="a" yxScale="0.18"/>
+    <component base="uni02F3" yxScale="0.18" xOffset="236.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni02F3</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

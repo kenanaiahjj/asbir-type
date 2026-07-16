@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.topbar" format="2">
+  <advance width="1093"/>
+  <anchor x="282" y="1490" name="_topbar"/>
+  <outline>
+    <contour>
+      <point x="350" y="1337" type="line"/>
+      <point x="1094" y="1337" type="line"/>
+      <point x="1119" y="1490" type="line"/>
+      <point x="282" y="1490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

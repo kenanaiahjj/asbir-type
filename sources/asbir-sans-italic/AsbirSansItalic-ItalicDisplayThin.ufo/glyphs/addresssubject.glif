@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="addresssubject" format="2">
+  <advance width="1573"/>
+  <unicode hex="2101"/>
+  <anchor x="1167" y="-3" name="bottom"/>
+  <anchor x="708" y="952" name="bottomr"/>
+  <anchor x="708" y="952" name="ogonek"/>
+  <anchor x="1258" y="541" name="top"/>
+  <anchor x="798" y="1496" name="topr"/>
+  <anchor x="1169" y="-3" name="cedilla"/>
+  <anchor x="962" y="160" name="rthook"/>
+  <outline>
+    <component base="a.sups" xOffset="11" yOffset="66"/>
+    <component base="fraction" xOffset="692"/>
+    <component base="s.subs" xOffset="987" yOffset="311"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.sups</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>s.subs</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

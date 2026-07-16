@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F2F" format="2">
+  <advance width="2033"/>
+  <unicode hex="1F2F"/>
+  <anchor x="1178" y="0" name="bottom"/>
+  <anchor x="695" y="0" name="cedilla"/>
+  <anchor x="1760" y="0" name="cyrtic"/>
+  <anchor x="1570" y="0" name="lfthook"/>
+  <anchor x="1760" y="0" name="right"/>
+  <anchor x="845" y="1490" name="tonos"/>
+  <anchor x="1425" y="1490" name="top"/>
+  <outline>
+    <component base="H" xOffset="511"/>
+    <component base="uni1FDF.tonos" xOffset="89" yOffset="-70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FDF.tonos</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

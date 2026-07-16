@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04CD" format="2">
+  <advance width="1850"/>
+  <unicode hex="04CD"/>
+  <anchor x="828" y="0" name="bottom"/>
+  <anchor x="1573" y="0" name="cyrtic"/>
+  <anchor x="1075" y="1490" name="top"/>
+  <outline>
+    <component base="M"/>
+    <component base="_part.cyrtail" xOffset="1375"/>
+  </outline>
+</glyph>

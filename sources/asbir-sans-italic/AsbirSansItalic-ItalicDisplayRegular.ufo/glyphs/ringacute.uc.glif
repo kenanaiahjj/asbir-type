@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacute.uc" format="2">
+  <advance width="551"/>
+  <unicode hex="EECF"/>
+  <anchor x="423" y="1490" name="_top"/>
+  <outline>
+    <contour>
+      <point x="457" y="2103" type="line"/>
+      <point x="597" y="2103" type="line"/>
+      <point x="815" y="2283" type="line"/>
+      <point x="633" y="2283" type="line"/>
+    </contour>
+    <component base="ringcomb.uc" xOffset="-24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ringcomb.uc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

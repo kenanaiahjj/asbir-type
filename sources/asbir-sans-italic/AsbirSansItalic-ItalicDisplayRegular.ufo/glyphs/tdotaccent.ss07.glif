@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotaccent.ss07" format="2">
+  <advance width="637"/>
+  <unicode hex="E25F"/>
+  <anchor x="387.0" y="0" name="bottom"/>
+  <anchor x="401.0" y="0" name="cedilla"/>
+  <anchor x="587.0" y="0" name="lfthook"/>
+  <anchor x="608.04" y="1778" name="top"/>
+  <anchor x="767.2" y="1490" name="raccent"/>
+  <outline>
+    <component base="t" yxScale="0.18"/>
+    <component base="dotaccentcomb.ss07" yxScale="0.18" xOffset="127.84" yOffset="288"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="049B"/>
+  <anchor x="335" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="408" y="-120" type="line"/>
+      <point x="438" y="-120" type="line"/>
+      <point x="469" y="28" type="line"/>
+      <point x="412" y="28" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+    </contour>
+    <component base="ka-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

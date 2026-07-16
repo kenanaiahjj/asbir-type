@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.sc" format="2">
+  <advance width="965"/>
+  <unicode hex="028F"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="445" y="303" name="cross"/>
+  <anchor x="418" y="0" name="ogonek"/>
+  <anchor x="122" y="1056" name="tonos"/>
+  <anchor x="569" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="372" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="500" y="491" type="line"/>
+      <point x="1017" y="1056" type="line"/>
+      <point x="957" y="1056" type="line"/>
+      <point x="635" y="705" type="line" smooth="yes"/>
+      <point x="580" y="645"/>
+      <point x="545" y="606"/>
+      <point x="468" y="520" type="curve"/>
+      <point x="487" y="520" type="line"/>
+      <point x="452" y="582"/>
+      <point x="417" y="644"/>
+      <point x="381" y="705" type="curve" smooth="yes"/>
+      <point x="174" y="1056" type="line"/>
+      <point x="122" y="1056" type="line"/>
+      <point x="453" y="491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

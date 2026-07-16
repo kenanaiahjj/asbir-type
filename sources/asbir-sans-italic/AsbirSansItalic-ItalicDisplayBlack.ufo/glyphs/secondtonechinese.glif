@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="secondtonechinese" format="2">
+  <advance width="801"/>
+  <unicode hex="02CA"/>
+  <anchor x="325" y="1056" name="_top"/>
+  <anchor x="400" y="1507" name="top"/>
+  <outline>
+    <component base="acutecomb" xOffset="44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

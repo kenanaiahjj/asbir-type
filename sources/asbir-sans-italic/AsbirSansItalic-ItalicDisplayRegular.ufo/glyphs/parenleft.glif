@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="612"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="158.595" y="592" type="curve" smooth="yes"/>
+      <point x="107.275" y="282"/>
+      <point x="140.451" y="-25"/>
+      <point x="253.919" y="-294" type="curve"/>
+      <point x="419.919" y="-294" type="line"/>
+      <point x="312.55" y="36"/>
+      <point x="284.573" y="314"/>
+      <point x="330.595" y="592" type="curve" smooth="yes"/>
+      <point x="381.584" y="900"/>
+      <point x="533.334" y="1273"/>
+      <point x="727.84" y="1566" type="curve"/>
+      <point x="561.84" y="1566" type="line"/>
+      <point x="381.101" y="1332"/>
+      <point x="214.716" y="931"/>
+    </contour>
+  </outline>
+</glyph>

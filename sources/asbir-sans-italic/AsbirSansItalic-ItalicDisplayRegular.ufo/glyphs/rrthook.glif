@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rrthook" format="2">
+  <advance width="660"/>
+  <unicode hex="E05D"/>
+  <anchor x="123" y="0" name="bottom"/>
+  <anchor x="209" y="0" name="bottomr"/>
+  <anchor x="214" y="536" name="cross"/>
+  <anchor x="455" y="1056" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="_part.bottom_rthook" xOffset="-2"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yerudieresis-cy.ss07" format="2">
+  <advance width="1889"/>
+  <unicode hex="E296"/>
+  <anchor x="1644" y="788" name="cross"/>
+  <anchor x="1513" y="0" name="bottom"/>
+  <anchor x="1721" y="0" name="ogonek"/>
+  <anchor x="1747" y="0" name="right"/>
+  <anchor x="1552" y="1490" name="tonos"/>
+  <anchor x="1137" y="1924" name="top"/>
+  <outline>
+    <component base="afii10045"/>
+    <component base="dieresiscomb.ss07" xOffset="345" yOffset="434"/>
+  </outline>
+</glyph>

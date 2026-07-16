@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.dnom" format="2">
+  <advance width="762"/>
+  <unicode hex="E0C8"/>
+  <outline>
+    <contour>
+      <point x="383.0" y="150" type="line"/>
+      <point x="432.0" y="150" type="line"/>
+      <point x="515.7" y="615" type="line"/>
+      <point x="466.7" y="615" type="line"/>
+    </contour>
+    <contour>
+      <point x="200.8" y="360" type="line"/>
+      <point x="690.8" y="360" type="line"/>
+      <point x="698.9" y="405" type="line"/>
+      <point x="208.89999999999998" y="405" type="line"/>
+    </contour>
+  </outline>
+</glyph>

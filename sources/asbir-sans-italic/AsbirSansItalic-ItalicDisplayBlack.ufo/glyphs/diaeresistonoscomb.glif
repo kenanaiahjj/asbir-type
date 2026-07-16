@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diaeresistonoscomb" format="2">
+  <advance width="1441"/>
+  <unicode hex="EEB4"/>
+  <anchor x="813" y="1056" name="_top"/>
+  <outline>
+    <component base="dieresistonos"/>
+  </outline>
+</glyph>

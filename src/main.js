@@ -39,7 +39,7 @@ const families = {
     description: 'A coding and data companion with a generous lowercase, stable 600-unit rhythm, and precise differentiation where source code needs it most.',
     attributes: ['x-height 75%', 'wght 100–900', 'slashed zero / 600-unit grid'],
     comparisons: [
-      ['asbir-mono', 'Asbir Mono', 'Geist-derived review build', 'Two-storey a / slashed zero / fixed 600-unit grid.'],
+      ['asbir-mono', 'Asbir Mono', 'Approved production family', 'Two-storey a / slashed zero / fixed 600-unit grid.'],
       ['plex-mono', 'IBM Plex Mono', 'Reference', 'Reliable humanist coding forms.'],
       ['geist-mono', 'Geist Mono', 'Reference', 'Contemporary developer mono foundation.'],
     ],
@@ -116,16 +116,17 @@ function render() {
   const trackingLabel = state.tracking > 0 ? `+${state.tracking}` : state.tracking;
   const isMono = state.family === 'mono';
   const isSans = state.family === 'sans';
+  const hasItalic = isSans || isMono;
   const heroDownload = isSans
     ? '<a class="hero-download" href="/downloads/AsbirSans-1.0.0.zip" download>Download Asbir Sans 1.0.0 ZIP <b>↓</b></a>'
-    : '<a class="hero-download" href="/downloads/AsbirMono-Review-1.0.0.zip" download>Download Mono review ZIP <b>↓</b></a>';
+    : '<a class="hero-download" href="/downloads/AsbirMono-1.0.0.zip" download>Download Asbir Mono 1.0.0 ZIP <b>↓</b></a>';
   app.className = `app-${state.family}`;
   app.innerHTML = `
     <header class="site-header">
       <a class="wordmark" href="#top" aria-label="Asbir Tech type studio"><img class="brand-logo" src="https://asbir.tech/assets/asbirtechlogo-BptLBLy6.png" alt="Asbir Tech"><span class="brand-context">/ Type</span></a>
       <div class="header-family">
         <strong>${family.name}</strong>
-        <span>Typeface specimen / ${isSans ? '1.0.0' : 'review'}</span>
+        <span>Typeface specimen / ${isSans || isMono ? '1.0.0' : 'review'}</span>
       </div>
       <div class="header-actions"><button class="text-button" id="guide-toggle" aria-pressed="${state.guides}">${state.guides ? 'Hide guides' : 'Show guides'} <span class="button-key">G</span></button></div>
     </header>
@@ -195,17 +196,17 @@ function renderFamilyContent(family) {
     intro: 'Asbir Mono brings the Asbir voice into code, logs, tables, and technical UI without turning utility into costume.',
     label: 'Asbir Mono',
     lede: 'A stable code grid with enough character to belong to Asbir.',
-    paragraphs: ['The Geist Mono foundation supplies a dependable variable structure and a complete nine-weight range. Asbir keeps the coding system deliberately distinct from Sans: a two-storey a and a slashed zero.', 'The result stays quiet in a terminal and structured in a table. I, l, and 1 are purposefully distinct; punctuation has enough presence to scan quickly; every encoded visible character keeps the same 600-unit advance.', 'This review build is for real proofing before release. It is not presented as approved production software yet.'],
-    foot: ['600-unit advance / slashed zero', 'Code + data + technical UI', 'Asbir Mono / review'],
+    paragraphs: ['The Geist Mono foundation supplies a dependable variable structure and a complete nine-weight range. Asbir keeps the coding system deliberately distinct from Sans: a two-storey a and a slashed zero.', 'The result stays quiet in a terminal and structured in a table. I, l, and 1 are purposefully distinct; punctuation has enough presence to scan quickly; every encoded visible character keeps the same 600-unit advance.', 'Asbir Mono is now approved for production, with Roman and true italic families, clean release binaries, and a separately packaged terminal companion.'],
+    foot: ['600-unit advance / slashed zero', 'Code + data + technical UI', 'Asbir Mono / 1.0.0'],
   } : {
     heading: 'Built for products. Drawn for presence.', intro: 'Asbir Sans brings the clarity of a product UI into the wider Asbir Tech identity, without flattening the character out of it.', label: 'Asbir Sans', lede: 'One type system for the interface and the identity around it.',
     paragraphs: ['Asbir Sans began with a straightforward need: a clearer, more expressive voice for Asbir products. Instead of separating the functional from the recognizable, the family was developed as one system, quietly precise in the UI and more present in brand moments.', 'Its high x-height and open apertures give dense interface text room to breathe. Measured spacing keeps the texture steady across navigation, tables, and product copy; at display scale, the proportions open into something bolder and more editorial.', 'The result is a family that can carry a button label and a launch headline with the same underlying logic: clear enough to use every day, distinctive enough to belong to Asbir Tech.'],
     foot: ['High lowercase / open apertures', 'Product UI + brand identity', 'Asbir Sans / 1.0.0'],
   };
   const release = isMono ? {
-    heading: 'Asbir Mono is ready for design review.', description: 'A complete variable and static review build with default coding ligatures, technical Unicode arrows, and a separately named Nerd Font / Powerline terminal TTF. Production release remains gated on signoff.',
-    action: '<a class="release-download" href="/downloads/AsbirMono-Review-1.0.0.zip" download>Download complete Mono review ZIP <b>↓</b></a>',
-    status: 'Review build', axes: 'wght 100—900', coverage: 'Latin / Cyrillic<br>Vietnamese / symbols', license: 'Asbir Mono is an OFL-compliant derivative of Geist Mono. It may be used, studied, modified, embedded, and redistributed under the terms of the license.',
+    heading: 'Asbir Mono 1.0.0 is ready to ship.', description: 'The approved Asbir Mono release: Roman and true italic families, default coding ligatures, technical Unicode arrows, clean production binaries, and a separately named Nerd Font / Powerline terminal TTF.',
+    action: '<a class="release-download" href="/downloads/AsbirMono-1.0.0.zip" download>Download all Asbir Mono files <b>↓</b></a>',
+    status: '1.0.0 · approved', axes: 'wght 100—900', coverage: 'Latin / Cyrillic<br>Vietnamese / symbols', license: 'Asbir Mono is an OFL-compliant derivative of Geist Mono. It may be used, studied, modified, embedded, and redistributed under the terms of the license.',
   } : {
     heading: 'Asbir Sans 1.0.0 is ready to ship.', description: 'The approved Asbir Sans release for product, brand, and engineering. Download the complete family or choose a format below.',
     action: '<a class="release-download" href="/downloads/AsbirSans-1.0.0.zip" download>Download all Asbir Sans files <b>↓</b></a>',
@@ -270,11 +271,11 @@ function renderFamilyContent(family) {
       <div class="story-foot">${story.foot.map(item => `<span>${item}</span>`).join('')}</div>
     </section>`}
     <section class="family-section release-section" aria-labelledby="release-heading">
-      <div class="section-heading"><div><span class="section-index">${isMono ? '06' : '07'} / ${isMono ? 'Review files' : 'Release files'}</span><h2 id="release-heading">${release.heading}</h2></div><div class="release-heading-side"><p>${release.description}</p>${release.action}</div></div>
-      <div class="release-grid ${isMono ? 'is-mono' : ''}"><a class="release-card is-primary" href="/downloads/${prefix}-Review-VF.ttf" download><span class="release-type">Variable TTF</span><strong>${family.name} Variable</strong><small>${release.axes.replace('<br>', ' · ')} <b>↓</b></small></a><a class="release-card" href="/downloads/${prefix}-Review-Regular.ttf" download><span class="release-type">Static TTF</span><strong>${family.name} Regular</strong><small>TrueType · Regular 400 <b>↓</b></small></a><a class="release-card" href="/downloads/${prefix}-Review-Regular.otf" download><span class="release-type">CFF OTF</span><strong>${family.name} Regular</strong><small>OpenType · CFF outlines <b>↓</b></small></a>${isMono ? '<a class="release-card" href="/downloads/AsbirMono-NerdFont-Review-Regular.ttf" download><span class="release-type">Terminal TTF</span><strong>Asbir Mono Nerd Font</strong><small>Powerline / icons · Regular 400 <b>↓</b></small></a>' : ''}</div>
+      <div class="section-heading"><div><span class="section-index">${isMono ? '06' : '07'} / Release files</span><h2 id="release-heading">${release.heading}</h2></div><div class="release-heading-side"><p>${release.description}</p>${release.action}</div></div>
+      <div class="release-grid ${isMono ? 'is-mono' : ''}"><a class="release-card is-primary" href="/downloads/${prefix}-Review-VF.ttf" download><span class="release-type">Variable TTF</span><strong>${family.name} Variable</strong><small>${release.axes.replace('<br>', ' · ')} · Roman <b>↓</b></small></a>${hasItalic ? `<a class="release-card" href="/downloads/${prefix}-Review-Italic-VF.ttf" download><span class="release-type">Italic variable</span><strong>${family.name} Italic</strong><small>${release.axes.replace('<br>', ' · ')} · True italic <b>↓</b></small></a>` : ''}<a class="release-card" href="/downloads/${prefix}-Review-Regular.ttf" download><span class="release-type">Static TTF</span><strong>${family.name} Regular</strong><small>TrueType · Regular 400 <b>↓</b></small></a><a class="release-card" href="/downloads/${prefix}-Review-Regular.otf" download><span class="release-type">CFF OTF</span><strong>${family.name} Regular</strong><small>OpenType · CFF outlines <b>↓</b></small></a>${hasItalic ? `<a class="release-card" href="/downloads/web/${prefix}/${prefix}.css" download><span class="release-type">Web loading kit</span><strong>${family.name} CSS</strong><small>WOFF2 · normal + italic <b>↓</b></small></a>` : ''}${isMono ? '<a class="release-card" href="/downloads/AsbirMono-NerdFont-Review-Regular.ttf" download><span class="release-type">Terminal TTF</span><strong>Asbir Mono Nerd Font</strong><small>Powerline / icons · Regular 400 <b>↓</b></small></a>' : ''}</div>
     </section>
     <section class="family-section details-section" aria-labelledby="details-heading">
-      <div class="section-heading"><div><span class="section-index">${isMono ? '07' : '08'} / Details &amp; license</span><h2 id="details-heading">${isMono ? 'What to review before release.' : 'Everything you need to ship it.'}</h2></div><p>${isMono ? 'Review the ambiguous forms, code rhythm, data alignment, and changes across the variable axis before approving a production package.' : 'One approved release, documented clearly for design, engineering, and anyone responsible for putting the family into the world.'}</p></div>
+      <div class="section-heading"><div><span class="section-index">${isMono ? '07' : '08'} / Details &amp; license</span><h2 id="details-heading">${isMono ? 'Everything you need to ship it.' : 'Everything you need to ship it.'}</h2></div><p>${isMono ? 'Roman and true italic families, fixed-cell metrics, terminal companion, and web loading files are included in the approved production package.' : 'One approved release, documented clearly for design, engineering, and anyone responsible for putting the family into the world.'}</p></div>
       <div class="details-layout"><div class="details-grid"><div class="detail-item"><span>Family</span><strong>${family.name}</strong></div><div class="detail-item"><span>Version</span><strong>${release.status}</strong></div><div class="detail-item"><span>Axes</span><strong>${release.axes}</strong></div><div class="detail-item"><span>Coverage</span><strong>${release.coverage}</strong></div><div class="detail-item"><span>Formats</span><strong>Variable TTF<br>Static TTF / CFF OTF</strong></div><div class="detail-item"><span>Designed by</span><strong>Asbir Tech<br>Product Design Department</strong></div></div><aside class="license-panel"><span>License</span><h3>SIL Open Font License 1.1</h3><p>${release.license}</p><a href="https://scripts.sil.org/OFL" target="_blank" rel="noreferrer">Read third-party notices <b>↗</b></a></aside></div>
     </section>`;
 }

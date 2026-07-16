@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisgravecomb.lc.ss07" format="2">
+  <advance width="1137"/>
+  <unicode hex="E2D1"/>
+  <anchor x="717" y="1424" name="top"/>
+  <anchor x="657" y="1056" name="_top"/>
+  <outline>
+    <component base="grave_compact" xOffset="264" yOffset="279"/>
+    <component base="dieresiscomb.ss07" xOffset="-2" yOffset="-66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>grave_compact</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb.ss07</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

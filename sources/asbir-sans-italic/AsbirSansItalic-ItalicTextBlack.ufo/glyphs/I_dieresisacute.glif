@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresisacute" format="2">
+  <advance width="596"/>
+  <unicode hex="1E2E"/>
+  <anchor x="203" y="0" name="bottom"/>
+  <anchor x="333" y="788" name="cross"/>
+  <anchor x="407" y="0" name="ogonek"/>
+  <anchor x="433" y="0" name="right"/>
+  <anchor x="250" y="1490" name="tonos"/>
+  <anchor x="594.4" y="2264.6" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresisacutecomb.uc" xOffset="-365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresisacutecomb.uc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

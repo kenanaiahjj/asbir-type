@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.ss02" format="2">
+  <advance width="924"/>
+  <unicode hex="E058"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="534" y="745" name="centerr"/>
+  <anchor x="339" y="788" name="cross"/>
+  <anchor x="774" y="1490" name="raccent"/>
+  <anchor x="457" y="1490" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="commaaccentright.cn" xOffset="494"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.ss02</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

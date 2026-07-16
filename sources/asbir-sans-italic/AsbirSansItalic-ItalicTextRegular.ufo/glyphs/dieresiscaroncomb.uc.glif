@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb.uc" format="2">
+  <advance width="1200"/>
+  <unicode hex="E117"/>
+  <anchor x="890" y="2263" name="top"/>
+  <anchor x="754" y="1490" name="_top"/>
+  <outline>
+    <component base="dieresiscaroncomb.lc" xOffset="62" yOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dieresiscaroncomb.lc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.sups" format="2">
+  <advance width="891"/>
+  <unicode hex="207F"/>
+  <anchor x="606.64" y="898" name="bottom"/>
+  <anchor x="935.64" y="898" name="bottomr"/>
+  <anchor x="278.64" y="898" name="lfthook"/>
+  <anchor x="718.06" y="1517" name="top"/>
+  <anchor x="561.06" y="1517" name="topr"/>
+  <outline>
+    <contour>
+      <point x="515.52" y="1264" type="line" smooth="yes"/>
+      <point x="528.48" y="1336"/>
+      <point x="604.12" y="1384"/>
+      <point x="699.12" y="1384" type="curve" smooth="yes"/>
+      <point x="791.12" y="1384"/>
+      <point x="842.84" y="1338"/>
+      <point x="829.52" y="1264" type="curve" smooth="yes"/>
+      <point x="763.64" y="898" type="line"/>
+      <point x="935.64" y="898" type="line"/>
+      <point x="1007.28" y="1296" type="line" smooth="yes"/>
+      <point x="1031.58" y="1431"/>
+      <point x="944.14" y="1523"/>
+      <point x="790.14" y="1523" type="curve" smooth="yes"/>
+      <point x="664.14" y="1523"/>
+      <point x="572.44" y="1458"/>
+      <point x="521.88" y="1366" type="curve"/>
+      <point x="525.88" y="1366" type="line"/>
+      <point x="550.06" y="1517" type="line"/>
+      <point x="390.06" y="1517" type="line"/>
+      <point x="278.64" y="898" type="line"/>
+      <point x="449.64" y="898" type="line"/>
+    </contour>
+  </outline>
+</glyph>

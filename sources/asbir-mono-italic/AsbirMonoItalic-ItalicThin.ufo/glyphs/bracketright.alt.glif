@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.alt" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="160" y="-63" type="curve"/>
+      <point x="405" y="-63" type="line"/>
+      <point x="405" y="825" type="line"/>
+      <point x="160" y="825" type="line"/>
+      <point x="340" y="539"/>
+      <point x="340" y="224"/>
+    </contour>
+  </outline>
+</glyph>

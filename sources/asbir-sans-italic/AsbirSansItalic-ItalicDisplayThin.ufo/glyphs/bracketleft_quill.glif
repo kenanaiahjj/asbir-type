@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft_quill" format="2">
+  <advance width="518"/>
+  <unicode hex="2045"/>
+  <anchor x="232.879" y="636.0" name="cross"/>
+  <outline>
+    <component base="bracketleft"/>
+    <component base="_part.brackquill_left" xOffset="87"/>
+  </outline>
+</glyph>

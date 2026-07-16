@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.blackCircled" format="2">
+  <advance width="600"/>
+  <unicode hex="277C"/>
+  <outline>
+    <contour>
+      <point x="233" y="160" type="line"/>
+      <point x="258" y="279"/>
+      <point x="344" y="417"/>
+      <point x="449" y="519" type="curve"/>
+      <point x="212" y="519" type="line"/>
+      <point x="218" y="547" type="line"/>
+      <point x="486" y="547" type="line"/>
+      <point x="480" y="519" type="line"/>
+      <point x="376" y="419"/>
+      <point x="291" y="282"/>
+      <point x="265" y="160" type="curve"/>
+    </contour>
+    <component base="blackCircled"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

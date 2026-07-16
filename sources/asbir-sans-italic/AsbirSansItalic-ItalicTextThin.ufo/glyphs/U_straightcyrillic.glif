@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightcyrillic" format="2">
+  <advance width="1312"/>
+  <unicode hex="04AE"/>
+  <anchor x="563" y="0" name="bottom"/>
+  <anchor x="635" y="438" name="cross"/>
+  <anchor x="587" y="0" name="ogonek"/>
+  <anchor x="220" y="1490" name="tonos"/>
+  <anchor x="810" y="1490" name="top"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+</glyph>

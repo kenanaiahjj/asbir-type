@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mturn" format="2">
+  <advance width="1646"/>
+  <unicode hex="026F"/>
+  <anchor x="911" y="1056" name="top"/>
+  <anchor x="267.0" y="1056.0" name="lfthook"/>
+  <anchor x="736" y="0" name="bottom"/>
+  <anchor x="1425" y="0" name="bottomr"/>
+  <outline>
+    <component base="m" xScale="-1.0" yScale="-1.0" xOffset="1646" yOffset="1056"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.divfrac" format="2">
+  <advance width="1218"/>
+  <anchor x="604" y="745" name="_center"/>
+  <outline>
+    <contour>
+      <point x="103" y="178" type="line"/>
+      <point x="1209" y="1279" type="line"/>
+      <point x="1176" y="1312" type="line"/>
+      <point x="70" y="211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghook.sc" format="2">
+  <advance width="1349"/>
+  <unicode hex="029B"/>
+  <anchor x="531" y="0" name="bottom"/>
+  <anchor x="927" y="346" name="cross"/>
+  <anchor x="719" y="1117" name="top"/>
+  <anchor x="1181" y="739" name="topr"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="_part.top_r_hook_g_sc" xOffset="680"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

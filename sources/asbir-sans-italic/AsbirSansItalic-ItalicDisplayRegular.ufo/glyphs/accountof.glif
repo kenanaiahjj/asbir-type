@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accountof" format="2">
+  <advance width="1593"/>
+  <unicode hex="2100"/>
+  <anchor x="1149" y="-4" name="bottom"/>
+  <anchor x="758" y="928" name="bottomr"/>
+  <anchor x="758" y="928" name="ogonek"/>
+  <anchor x="1241" y="572" name="top"/>
+  <anchor x="1501" y="354" name="topr"/>
+  <anchor x="1148" y="-4" name="cedilla"/>
+  <anchor x="1199" y="284" name="center"/>
+  <outline>
+    <component base="a.sups" xOffset="9" yOffset="54"/>
+    <component base="fraction" xOffset="719"/>
+    <component base="c.subs" xOffset="910" yOffset="322"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.sups</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>c.subs</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

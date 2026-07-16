@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrosstail.ss07" format="2">
+  <advance width="646"/>
+  <unicode hex="E2D9"/>
+  <anchor x="176.438" y="-460.0" name="bottom"/>
+  <anchor x="447" y="594" name="cross"/>
+  <anchor x="433" y="0" name="ogonek"/>
+  <anchor x="595" y="1490" name="top"/>
+  <outline>
+    <component base="jcrosstail.ccmp"/>
+    <component base="dotaccentcomb.ss07" xOffset="224"/>
+  </outline>
+</glyph>

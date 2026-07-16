@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02F5" format="2">
+  <advance width="1284"/>
+  <unicode hex="02F5"/>
+  <anchor x="864" y="1118" name="_top"/>
+  <anchor x="941" y="1582" name="top"/>
+  <outline>
+    <component base="dblgravecmb" xOffset="26"/>
+  </outline>
+</glyph>

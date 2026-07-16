@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clockwiseOpenCircleArrow" format="2">
+  <advance width="1826"/>
+  <unicode hex="21BB"/>
+  <outline>
+    <contour>
+      <point x="820" y="0" type="curve" smooth="yes"/>
+      <point x="1232" y="0"/>
+      <point x="1622" y="333"/>
+      <point x="1688" y="744" type="curve"/>
+      <point x="1642" y="744" type="line"/>
+      <point x="1580" y="359"/>
+      <point x="1215" y="47"/>
+      <point x="830" y="46" type="curve" smooth="yes"/>
+      <point x="442" y="47"/>
+      <point x="182" y="359"/>
+      <point x="246" y="744" type="curve" smooth="yes"/>
+      <point x="311" y="1132"/>
+      <point x="673" y="1443"/>
+      <point x="1060" y="1442" type="curve"/>
+      <point x="1068" y="1490" type="line"/>
+      <point x="655" y="1489"/>
+      <point x="269" y="1156"/>
+      <point x="200" y="744" type="curve" smooth="yes"/>
+      <point x="131" y="333"/>
+      <point x="409" y="0"/>
+    </contour>
+    <contour>
+      <point x="956" y="1096" type="line"/>
+      <point x="1404" y="1456" type="line"/>
+      <point x="1074" y="1816" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,10 +1,8 @@
-# Asbir Sans Studio
+# Asbir Type Studio
 
-A local type-production workspace centered on **Asbir Sans**: an OFL-compliant,
-high-x-height geometric grotesk derived from Inter 4.001, with an authored Asbir
-character system. The browser app provides a live editable proof and
-Inter/Geist comparison. Asbir Sans is the approved production release; Asbir
-Mono is an active review build for coding and data use. Serif remains paused.
+Local type-production workspace for the Asbir Sans and Asbir Mono families. The
+browser studio provides editable proofs, language samples, OpenType checks, and
+download links. Asbir Serif remains paused.
 
 ## Run
 
@@ -14,59 +12,57 @@ npm install
 npm run dev
 ```
 
-`python3 tools/build_fonts.py --family sans` generates the current Sans review
-artifacts before the web app is bundled:
+## Build and package
 
-- `*-Review-{Thin,ExtraLight,Light,Regular,Medium,SemiBold,Bold,ExtraBold,Black}.ttf`
-- `*-Review-{Thin,ExtraLight,Light,Regular,Medium,SemiBold,Bold,ExtraBold,Black}.otf` (CFF)
-- `*-Review-VF.ttf` (a true `wght` variable TTF)
-
-## Editable Sans source
-
-The source of truth is `sources/asbir-sans/AsbirSans.designspace`, with six
-UFO masters (Text/Display at Thin, Regular, and Black) for further drawing in
-Glyphs, RoboFont, FontLab, or another UFO-compatible editor. It builds a true
-two-axis variable TTF: `opsz` 14–32 and `wght` 100–900, plus the nine static
-weights in TTF and CFF OTF.
-
-The proof artifacts retain **Review** filenames so the local studio stays
-isolated from the distributable files. The approved production package lives
-in `release/AsbirSans-1.0.0/`. It includes practical modern Latin, Greek, Cyrillic, and Vietnamese
-coverage, kerning, figure systems (`pnum`, `tnum`, `zero`), and numerator,
-denominator, superior, inferior, and ordinal features. See
-[FONT_AUDIT.md](FONT_AUDIT.md) for evidence and release blockers.
-
-## Font QA
-
-Use these Sans-only gates while Sans is active:
+Roman and true italic families are compiled from editable UFO/designspace
+sources. Italics are separate masters and variable files, not a CSS or outline
+skew of the Roman family.
 
 ```sh
-python3 tools/source_qa.py --family sans
-python3 tools/build_fonts.py --family sans
-python3 tools/font_qa.py --mode review --family sans
-python3 tools/shaping_qa.py --family sans
-python3 tools/run_fontbakery.py --family sans
-```
-
-The approved human signoff is recorded in `reports/production-signoff.json`.
-Automated review success is release evidence, not a claim of typeface-quality
-parity with an established family's full design and maintenance program.
-
-## Asbir Mono review build
-
-Asbir Mono is a Geist Mono-derived coding/data review build with a two-storey
-`a`, slashed zero, fixed 600-unit cell, default ligatures for common coding
-operators, and Unicode `⇐ ⇒ ⇔`. Build and verify it with:
-
-```sh
-python3 tools/build_fonts.py --family mono
+python3 tools/build_fonts.py --family sans --family mono --italic
 python3 tools/build_mono_nerd_font.py
-python3 tools/source_qa.py --family mono
-python3 tools/font_qa.py --mode review --family mono
-python3 tools/shaping_qa.py --family mono
-python3 tools/run_fontbakery.py --family mono
+python3 tools/package_webfonts.py
+python3 tools/package_asbir_sans_release.py
+python3 tools/package_asbir_mono_release.py
 ```
 
-`AsbirMono-NerdFont-Review-Regular.ttf` is a separately named Regular TTF for
-terminal use. It adds Nerd Fonts/Powerline symbols without bloating the core
-Mono variable or static fonts. See `THIRD_PARTY_NOTICES.md` for attribution.
+The outputs include nine static TTF and CFF OTF weights plus separate Roman and
+italic variable TTFs. Sans exposes `opsz` 14–32 and `wght` 100–900; Mono exposes
+`wght` 100–900 and keeps its 600-unit cell. Web kits live in
+`public/downloads/web/AsbirSans/` and `public/downloads/web/AsbirMono/`, with
+normal and italic WOFF2 faces plus CSS loading files.
+
+Production archives:
+
+- `public/downloads/AsbirSans-1.0.0.zip`
+- `public/downloads/AsbirMono-1.0.0.zip`
+
+The Mono archive also includes the separately named Nerd Font / Powerline
+terminal companion in `Terminal/`.
+
+## Editable sources
+
+- `sources/asbir-sans/AsbirSans.designspace` — Roman Sans, six Text/Display masters.
+- `sources/asbir-sans-italic/AsbirSansItalic.designspace` — true Sans Italic masters.
+- `sources/asbir-mono/AsbirMono.designspace` — Roman Mono masters.
+- `sources/asbir-mono-italic/AsbirMonoItalic.designspace` — true Mono Italic masters.
+
+## Verification
+
+```sh
+python3 -m unittest discover -s tests -v
+python3 tools/source_qa.py --family sans --family mono
+python3 tools/font_qa.py --mode review --family sans --family mono
+python3 tools/font_qa.py --mode production --family sans --family mono
+python3 tools/shaping_qa.py --family sans --family mono
+python3 tools/run_fontbakery.py --family sans --family mono
+npm run build
+```
+
+Family-scoped approval records live in `reports/production-signoff.json` and
+`reports/mono-production-signoff.json`. The proof artifacts retain `Review`
+filenames; the production archives contain clean release names.
+
+Both families are OFL-compliant derivatives. See
+`THIRD_PARTY_NOTICES.md` and `FONTBAKERY_WAIVERS.md` for attribution and QA
+notes.

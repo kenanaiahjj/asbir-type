@@ -23,7 +23,7 @@
     "sources:expand-symbols": "python3 tools/expand_symbols.py",
     "test:sources": "python3 tools/source_qa.py",
     "test:shaping": "python3 tools/shaping_qa.py",
-    "build:fonts": "python3 tools/build_fonts.py",
+    "build:fonts": "python3 tools/build_fonts.py --italic",
     "test:fonts": "npm run test:sources && npm run build:fonts && python3 tools/font_qa.py --mode review && npm run test:shaping",
     "test:fonts:production": "npm run build:fonts && python3 tools/font_qa.py --mode production",
     "test:fontbakery": "npm run build:fonts && python3 tools/run_fontbakery.py"

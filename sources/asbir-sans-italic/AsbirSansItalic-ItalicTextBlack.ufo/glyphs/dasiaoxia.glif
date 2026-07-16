@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia" format="2">
+  <advance width="1061"/>
+  <unicode hex="1FDE"/>
+  <anchor x="590" y="1118" name="_top"/>
+  <outline>
+    <component base="dasia"/>
+    <component base="oxia" xScale="0.8656" yScale="1.0407" xOffset="348" yOffset="-51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dasia</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>oxia</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

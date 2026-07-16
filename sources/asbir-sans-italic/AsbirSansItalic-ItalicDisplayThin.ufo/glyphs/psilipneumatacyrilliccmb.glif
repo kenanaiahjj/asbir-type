@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilipneumatacyrilliccmb" format="2">
+  <unicode hex="0486"/>
+  <outline>
+    <contour>
+      <point x="-306" y="1470" type="line"/>
+      <point x="-290" y="1570" type="line"/>
+      <point x="-336" y="1570" type="line"/>
+      <point x="-352" y="1466" type="line"/>
+      <point x="-408" y="1384" type="line"/>
+      <point x="-388" y="1362" type="line"/>
+    </contour>
+  </outline>
+</glyph>

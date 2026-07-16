@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresiscaron.ss07" format="2">
+  <advance width="1440"/>
+  <unicode hex="E215"/>
+  <anchor x="633" y="0" name="bottom"/>
+  <anchor x="1295" y="500" name="ogonek"/>
+  <anchor x="717" y="0" name="right"/>
+  <anchor x="1279" y="1490" name="rtophorn"/>
+  <anchor x="940" y="1858" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscaroncomb.uc.ss07" xOffset="152"/>
+  </outline>
+</glyph>

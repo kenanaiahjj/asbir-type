@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="topHalfWhiteSquare" format="2">
+  <advance width="1744"/>
+  <unicode hex="2B13"/>
+  <outline>
+    <contour>
+      <point x="149.351" y="512" type="line"/>
+      <point x="141.736" y="466" type="line"/>
+      <point x="1585.736" y="466" type="line"/>
+      <point x="1593.351" y="512" type="line"/>
+    </contour>
+    <component base="whiteRoundedCornersSquare"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -31,6 +31,14 @@ FILES = [
 ] + [
     ROOT / 'public' / 'downloads' / f'{prefix}-Review-VF.ttf'
     for prefix in ('AsbirSans', 'AsbirSerif', 'AsbirMono')
+] + [
+    ROOT / 'public' / 'downloads' / f'{prefix}-Review-Italic-{style}.{extension}'
+    for prefix in ('AsbirSans', 'AsbirMono')
+    for style in ('Thin', 'ExtraLight', 'Light', 'Regular', 'Medium', 'SemiBold', 'Bold', 'ExtraBold', 'Black')
+    for extension in ('ttf', 'otf')
+] + [
+    ROOT / 'public' / 'downloads' / f'{prefix}-Review-Italic-VF.ttf'
+    for prefix in ('AsbirSans', 'AsbirMono')
 ]
 
 

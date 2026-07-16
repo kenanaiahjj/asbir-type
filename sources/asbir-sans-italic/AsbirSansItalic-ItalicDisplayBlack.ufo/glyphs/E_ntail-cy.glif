@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Entail-cy" format="2">
+  <advance width="1489"/>
+  <unicode hex="04C9"/>
+  <anchor x="657" y="0" name="bottom"/>
+  <anchor x="201" y="0" name="cedilla"/>
+  <anchor x="1321" y="0" name="cyrtic"/>
+  <anchor x="905" y="0" name="lfthook"/>
+  <anchor x="1321" y="0" name="right"/>
+  <anchor x="240" y="1490" name="tonos"/>
+  <anchor x="904" y="1490" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="_part.cyrtail" xOffset="976"/>
+  </outline>
+</glyph>

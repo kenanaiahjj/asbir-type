@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringogonek" format="2">
+  <advance width="1257"/>
+  <unicode hex="EE04"/>
+  <anchor x="528" y="0" name="bottom"/>
+  <anchor x="1006" y="0" name="bottomr"/>
+  <anchor x="1006" y="0" name="ogonek"/>
+  <anchor x="720" y="1118" name="top"/>
+  <anchor x="1191" y="1118" name="topr"/>
+  <outline>
+    <component base="aring"/>
+    <component base="ogonekcomb" xOffset="657"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghecyrillic" format="2">
+  <advance width="1938"/>
+  <unicode hex="04A4"/>
+  <anchor x="638" y="0" name="bottom"/>
+  <anchor x="154" y="0" name="cedilla"/>
+  <anchor x="1215" y="0" name="cyrtic"/>
+  <anchor x="1035" y="0" name="lfthook"/>
+  <anchor x="1217" y="0" name="right"/>
+  <anchor x="308" y="1490" name="tonos"/>
+  <anchor x="885" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="2047.258" y="1490" type="line"/>
+      <point x="1285.258" y="1490" type="line"/>
+      <point x="1386.77" y="1330" type="line"/>
+      <point x="2020.77" y="1330" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

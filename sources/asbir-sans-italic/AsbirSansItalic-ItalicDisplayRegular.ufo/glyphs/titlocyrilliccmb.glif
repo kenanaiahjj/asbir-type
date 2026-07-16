@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="titlocyrilliccmb" format="2">
+  <unicode hex="0483"/>
+  <outline>
+    <contour>
+      <point x="-122" y="1312" type="line"/>
+      <point x="-88" y="1534" type="line"/>
+      <point x="-262" y="1534" type="line"/>
+      <point x="-280" y="1426" type="line"/>
+      <point x="-826" y="1426" type="line"/>
+      <point x="-864" y="1186" type="line"/>
+      <point x="-686" y="1186" type="line"/>
+      <point x="-666" y="1312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

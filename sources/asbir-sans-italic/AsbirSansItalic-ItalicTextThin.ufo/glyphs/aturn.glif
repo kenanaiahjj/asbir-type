@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aturn" format="2">
+  <advance width="1076"/>
+  <unicode hex="0250"/>
+  <anchor x="753.24" y="1118" name="top"/>
+  <anchor x="399.24" y="1118.0" name="ogonek"/>
+  <anchor x="556.0" y="0" name="bottom"/>
+  <outline>
+    <component base="a" xScale="-1.0" yxScale="-0.18" yScale="-1.0" xOffset="1277.24" yOffset="1118"/>
+  </outline>
+</glyph>

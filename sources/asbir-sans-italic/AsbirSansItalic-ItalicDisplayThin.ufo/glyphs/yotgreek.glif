@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yotgreek" format="2">
+  <advance width="321"/>
+  <unicode hex="03F3"/>
+  <anchor x="359" y="0" name="_right"/>
+  <anchor x="-26" y="-442" name="bottom"/>
+  <anchor x="180" y="628" name="cross"/>
+  <anchor x="312" y="1425" name="top"/>
+  <outline>
+    <component base="j"/>
+  </outline>
+</glyph>

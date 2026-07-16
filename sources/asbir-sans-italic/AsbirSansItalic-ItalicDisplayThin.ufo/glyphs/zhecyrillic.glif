@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhecyrillic" format="2">
+  <advance width="1424"/>
+  <unicode hex="0436"/>
+  <anchor x="1262" y="0" name="cyrtic"/>
+  <anchor x="800" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="-52" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="653" y="504" type="line"/>
+      <point x="685" y="504" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="731" y="504" type="line"/>
+      <point x="775" y="504" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="1302" y="0" type="line"/>
+      <point x="815" y="526" type="line"/>
+      <point x="1467" y="1056" type="line"/>
+      <point x="1398" y="1056" type="line"/>
+      <point x="772" y="550" type="line"/>
+      <point x="739" y="550" type="line"/>
+      <point x="823" y="1056" type="line"/>
+      <point x="777" y="1056" type="line"/>
+      <point x="693" y="550" type="line"/>
+      <point x="648" y="550" type="line"/>
+      <point x="190" y="1056" type="line"/>
+      <point x="131" y="1056" type="line"/>
+      <point x="609" y="526" type="line"/>
+    </contour>
+  </outline>
+</glyph>

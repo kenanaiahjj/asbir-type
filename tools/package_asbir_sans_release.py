@@ -28,13 +28,29 @@ def main():
         copy_font(f'AsbirSans-Review-{weight}.ttf', 'TTF', f'AsbirSans-{weight}.ttf')
         copy_font(f'AsbirSans-Review-{weight}.otf', 'OTF', f'AsbirSans-{weight}.otf')
     copy_font('AsbirSans-Review-VF.ttf', 'Variable', 'AsbirSans-Variable.ttf')
+    italic_variable = SOURCE / 'AsbirSans-Review-Italic-VF.ttf'
+    if italic_variable.exists():
+        for weight in WEIGHTS:
+            copy_font(f'AsbirSans-Review-Italic-{weight}.ttf', 'Italic', f'AsbirSans-Italic-{weight}.ttf')
+            copy_font(f'AsbirSans-Review-Italic-{weight}.otf', 'Italic', f'AsbirSans-Italic-{weight}.otf')
+        copy_font('AsbirSans-Review-Italic-VF.ttf', 'Italic', 'AsbirSans-Italic-Variable.ttf')
+    web_source = SOURCE / 'web' / 'AsbirSans'
+    if web_source.exists():
+        for path in sorted(web_source.iterdir()):
+            if path.is_file():
+                destination = TARGET / 'web' / 'AsbirSans' / path.name
+                destination.parent.mkdir(parents=True, exist_ok=True)
+                copy2(path, destination)
     copy2(NOTICES, TARGET / 'THIRD_PARTY_NOTICES.md')
     (TARGET / 'README.md').write_text(
         '# Asbir Sans 1.0.0\n\n'
-        'Approved production release. Includes nine static weights in TTF and CFF OTF, '
-        'plus a variable TTF with `wght` (100–900) and `opsz` (14–32) axes.\n\n'
+        'Approved production release. Includes nine static Roman and true italic weights '
+        'in TTF and CFF OTF, plus separate Roman and italic variable TTFs. The Sans '
+        'variable files expose `wght` (100–900) and `opsz` (14–32) axes.\n\n'
         'Install the static fonts for fixed-weight environments, or use '
-        '`Variable/AsbirSans-Variable.ttf` in variable-font-capable software.\n\n'
+        '`Variable/AsbirSans-Variable.ttf` or `Italic/AsbirSans-Italic-Variable.ttf` '
+        'in variable-font-capable software. The `web/AsbirSans/` folder contains the '
+        'WOFF2 and CSS loading kit.\n\n'
         'License and derivative attribution are in `THIRD_PARTY_NOTICES.md`.\n'
     )
     with ZipFile(ARCHIVE, 'w', ZIP_DEFLATED) as archive:

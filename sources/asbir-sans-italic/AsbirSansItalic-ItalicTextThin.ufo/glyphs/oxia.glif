@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oxia" format="2">
+  <advance width="327"/>
+  <unicode hex="1FFD"/>
+  <anchor x="227" y="1118" name="_top"/>
+  <outline>
+    <contour>
+      <point x="240" y="1283" type="line"/>
+      <point x="276" y="1283" type="line"/>
+      <point x="373" y="1557" type="line"/>
+      <point x="324" y="1557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

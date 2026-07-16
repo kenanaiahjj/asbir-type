@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F140"/>
+  <anchor x="1310" y="45" name="bottom"/>
+  <anchor x="1434" y="790" name="center"/>
+  <anchor x="2168" y="937" name="ogonek"/>
+  <anchor x="955" y="1535" name="tonos"/>
+  <anchor x="1557" y="1535" name="top"/>
+  <anchor x="1560" y="1555" name="tophorn"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="Q" xOffset="608" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>whiteLargeSquare</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Q</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

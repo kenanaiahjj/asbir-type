@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdieresis.ss07" format="2">
+  <advance width="472"/>
+  <unicode hex="E25E"/>
+  <anchor x="308.0" y="0" name="bottom"/>
+  <anchor x="301.0" y="0" name="cedilla"/>
+  <anchor x="442.0" y="0" name="lfthook"/>
+  <anchor x="484.0" y="1650" name="top"/>
+  <anchor x="620.2" y="1490" name="raccent"/>
+  <outline>
+    <component base="t" yxScale="0.18"/>
+    <component base="dieresiscomb.ss07" yxScale="0.18" xOffset="-295.16" yOffset="288"/>
+  </outline>
+</glyph>

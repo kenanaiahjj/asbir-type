@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acyrillic.2" format="2">
+  <advance width="1072"/>
+  <anchor x="524.0" y="0" name="bottom"/>
+  <anchor x="1047.0" y="0" name="ogonek"/>
+  <anchor x="714.08" y="1056" name="top"/>
+  <outline>
+    <component base="a.2" yxScale="0.18"/>
+  </outline>
+</glyph>

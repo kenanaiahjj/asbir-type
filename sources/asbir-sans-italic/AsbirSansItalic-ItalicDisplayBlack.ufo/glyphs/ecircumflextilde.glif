@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflextilde" format="2">
+  <advance width="1200"/>
+  <unicode hex="1EC5"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="544" y="0" name="cedilla"/>
+  <anchor x="1131" y="360" name="ogonek"/>
+  <anchor x="875.0" y="1842.2" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflextildecomb.cn" xOffset="199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflextildecomb.cn</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

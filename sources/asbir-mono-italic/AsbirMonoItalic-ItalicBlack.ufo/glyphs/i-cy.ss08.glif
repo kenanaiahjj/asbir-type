@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i-cy.ss08" format="2">
+  <advance width="600"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="523" y="0" name="ogonek"/>
+  <anchor x="135" y="530" name="top"/>
+  <outline>
+    <component base="i.ss08"/>
+  </outline>
+</glyph>

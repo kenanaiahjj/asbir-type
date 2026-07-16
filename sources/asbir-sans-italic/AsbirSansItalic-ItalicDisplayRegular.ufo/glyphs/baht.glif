@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baht" format="2">
+  <advance width="1307"/>
+  <unicode hex="0E3F"/>
+  <anchor x="549" y="0" name="bottom"/>
+  <anchor x="254" y="419" name="cross"/>
+  <anchor x="787" y="1490" name="top"/>
+  <anchor x="307" y="1490" name="topl"/>
+  <outline>
+    <contour>
+      <point x="430" y="-222" type="line"/>
+      <point x="590" y="-222" type="line"/>
+      <point x="910" y="1712" type="line"/>
+      <point x="750" y="1712" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

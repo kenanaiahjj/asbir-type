@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="770"/>
+  <unicode hex="0165"/>
+  <anchor x="377.0" y="0" name="bottom"/>
+  <anchor x="431.0" y="0" name="cedilla"/>
+  <anchor x="630.08" y="6" name="lfthook"/>
+  <anchor x="527.12" y="1384" name="top"/>
+  <anchor x="765.16" y="1562" name="raccent"/>
+  <outline>
+    <component base="t" yxScale="0.18"/>
+    <component base="commaaccentright.cn" yxScale="0.18" xOffset="298.96" yOffset="72"/>
+  </outline>
+</glyph>

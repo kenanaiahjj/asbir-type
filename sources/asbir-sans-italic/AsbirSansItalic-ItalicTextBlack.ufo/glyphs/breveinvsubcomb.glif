@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvsubcomb" format="2">
+  <advance width="1024"/>
+  <unicode hex="EEAC"/>
+  <anchor x="419" y="0" name="_bottom"/>
+  <outline>
+    <component base="breveinvcomb" xOffset="-293" yOffset="-1768"/>
+  </outline>
+</glyph>

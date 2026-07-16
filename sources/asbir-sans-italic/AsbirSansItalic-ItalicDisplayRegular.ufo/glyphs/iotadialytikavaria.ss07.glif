@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadialytikavaria.ss07" format="2">
+  <advance width="470"/>
+  <unicode hex="E2A4"/>
+  <anchor x="650" y="1490" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dialytikavaria.ss07" xOffset="-453"/>
+  </outline>
+</glyph>

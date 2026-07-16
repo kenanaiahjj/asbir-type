@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright_quill" format="2">
+  <advance width="612"/>
+  <unicode hex="2046"/>
+  <anchor x="385.879" y="636.0" name="cross"/>
+  <outline>
+    <component base="bracketright"/>
+    <component base="_part.brackquill_right" xOffset="-49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketright</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

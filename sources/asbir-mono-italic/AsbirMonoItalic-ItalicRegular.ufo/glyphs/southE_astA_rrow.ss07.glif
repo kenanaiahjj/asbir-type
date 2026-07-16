@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southEastArrow.ss07" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="423" y="23" type="line"/>
+      <point x="490" y="78" type="line"/>
+      <point x="155" y="507" type="line"/>
+      <point x="88" y="452" type="line"/>
+    </contour>
+    <contour>
+      <point x="496" y="1" type="line"/>
+      <point x="526" y="251" type="line"/>
+      <point x="250" y="24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

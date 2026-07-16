@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="600"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="370" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="504" y="67" type="line"/>
+      <point x="557" y="67" type="line"/>
+      <point x="576" y="157" type="line"/>
+      <point x="523" y="157" type="line"/>
+      <point x="572" y="387" type="line"/>
+      <point x="432" y="387" type="line"/>
+      <point x="223" y="151" type="line"/>
+      <point x="205" y="67" type="line"/>
+      <point x="384" y="67" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="157" type="line"/>
+      <point x="425" y="255" type="line"/>
+      <point x="403" y="157" type="line"/>
+    </contour>
+    <component base="three.numr" xOffset="-138"/>
+    <component base="fraction" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>three.numr</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hooksubpalatcomb" format="2">
+  <unicode hex="EEB9"/>
+  <outline>
+    <contour>
+      <point x="-500" y="152" type="line"/>
+      <point x="-542" y="-90" type="line" smooth="yes"/>
+      <point x="-561" y="-212"/>
+      <point x="-608" y="-271"/>
+      <point x="-704" y="-270" type="curve" smooth="yes"/>
+      <point x="-721" y="-271"/>
+      <point x="-748" y="-271"/>
+      <point x="-768" y="-264" type="curve"/>
+      <point x="-794" y="-422" type="line"/>
+      <point x="-762" y="-431"/>
+      <point x="-710" y="-436"/>
+      <point x="-680" y="-436" type="curve" smooth="yes"/>
+      <point x="-492" y="-436"/>
+      <point x="-378" y="-314"/>
+      <point x="-340" y="-90" type="curve" smooth="yes"/>
+      <point x="-300" y="152" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="1193"/>
+  <unicode hex="00A2"/>
+  <anchor x="559" y="217" name="bottom"/>
+  <anchor x="559" y="217" name="cedilla"/>
+  <anchor x="654" y="745" name="center"/>
+  <anchor x="733" y="1273" name="top"/>
+  <anchor x="1201" y="835" name="topr"/>
+  <outline>
+    <contour>
+      <point x="477" y="0" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="828" y="1490" type="line"/>
+      <point x="724" y="1490" type="line"/>
+    </contour>
+    <component base="c" xOffset="36" yOffset="217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

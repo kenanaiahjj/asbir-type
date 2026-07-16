@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0249" format="2">
+  <advance width="455"/>
+  <unicode hex="0249"/>
+  <anchor x="417" y="0" name="_right"/>
+  <anchor x="32" y="-442" name="bottom"/>
+  <anchor x="237" y="628" name="cross"/>
+  <anchor x="377" y="1467" name="top"/>
+  <outline>
+    <component base="uni0249.ccmp" xOffset="-1"/>
+    <component base="dotaccentcomb" xOffset="40"/>
+  </outline>
+</glyph>

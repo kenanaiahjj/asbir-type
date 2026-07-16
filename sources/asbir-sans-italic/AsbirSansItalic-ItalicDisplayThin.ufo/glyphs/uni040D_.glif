@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni040D" format="2">
+  <advance width="1453"/>
+  <unicode hex="040D"/>
+  <anchor x="639" y="0" name="bottom"/>
+  <anchor x="1197" y="0" name="cyrtic"/>
+  <anchor x="1197" y="0" name="lfthook"/>
+  <anchor x="81" y="0" name="lfthook2"/>
+  <anchor x="958" y="1924" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="gravecomb" xOffset="477" yOffset="434"/>
+  </outline>
+</glyph>

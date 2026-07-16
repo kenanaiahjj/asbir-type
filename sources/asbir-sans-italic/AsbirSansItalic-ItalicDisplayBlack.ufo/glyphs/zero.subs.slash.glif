@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.subs.slash" format="2">
+  <advance width="895"/>
+  <anchor x="461.5" y="75" name="center"/>
+  <anchor x="537.28" y="496" name="top"/>
+  <outline>
+    <component base="zero.sups.slash" yxScale="0.18" xOffset="-216.0" yOffset="-1200"/>
+  </outline>
+</glyph>

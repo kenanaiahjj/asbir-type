@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="759"/>
+  <unicode hex="E0B6"/>
+  <anchor x="498.42" y="369" name="cross"/>
+  <anchor x="528.56" y="842" name="top"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="0" type="line"/>
+      <point x="700.0" y="0" type="line"/>
+      <point x="734.02" y="189" type="line"/>
+      <point x="427.02" y="189" type="line"/>
+      <point x="427.2" y="190" type="line"/>
+      <point x="566.74" y="293" type="line" smooth="yes"/>
+      <point x="691.3" y="385"/>
+      <point x="781.8" y="460"/>
+      <point x="804.48" y="586" type="curve" smooth="yes"/>
+      <point x="834.72" y="754"/>
+      <point x="717.9" y="855"/>
+      <point x="532.9" y="855" type="curve" smooth="yes"/>
+      <point x="329.9" y="855"/>
+      <point x="182.94" y="733"/>
+      <point x="147.3" y="535" type="curve"/>
+      <point x="371.3" y="535" type="line"/>
+      <point x="386.6" y="620"/>
+      <point x="437.24" y="668"/>
+      <point x="499.24" y="668" type="curve" smooth="yes"/>
+      <point x="554.24" y="668"/>
+      <point x="584.22" y="629"/>
+      <point x="573.96" y="572" type="curve" smooth="yes"/>
+      <point x="560.8199999999999" y="499"/>
+      <point x="491.08" y="456"/>
+      <point x="446.32" y="424" type="curve" smooth="yes"/>
+      <point x="90.6" y="170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescendercyrillic" format="2">
+  <advance width="1300"/>
+  <unicode hex="04B2"/>
+  <anchor x="542" y="0" name="bottom"/>
+  <anchor x="667" y="756" name="cross"/>
+  <anchor x="1085" y="0" name="cyrtic"/>
+  <anchor x="789" y="1490" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="_part.cyrtic" xOffset="1082"/>
+  </outline>
+</glyph>

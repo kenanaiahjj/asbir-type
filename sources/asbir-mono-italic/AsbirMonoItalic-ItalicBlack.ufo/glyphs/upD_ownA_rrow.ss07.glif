@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow.ss07" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="240" y="-12" type="line"/>
+      <point x="466" y="203" type="line"/>
+      <point x="351" y="203" type="line"/>
+      <point x="429" y="570" type="line"/>
+      <point x="544" y="570" type="line"/>
+      <point x="410" y="785" type="line"/>
+      <point x="184" y="569" type="line"/>
+      <point x="299" y="569" type="line"/>
+      <point x="221" y="204" type="line"/>
+      <point x="106" y="204" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koroniscmb" format="2">
+  <unicode hex="0343"/>
+  <anchor x="353" y="1396" name="_bottom"/>
+  <outline>
+    <component base="commaaccent" xOffset="163" yOffset="1396"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>347</integer>
+    </dict>
+  </lib>
+</glyph>

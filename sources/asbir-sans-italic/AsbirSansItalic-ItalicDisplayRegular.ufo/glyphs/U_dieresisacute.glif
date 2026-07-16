@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisacute" format="2">
+  <advance width="1440"/>
+  <unicode hex="01D7"/>
+  <anchor x="633" y="0" name="bottom"/>
+  <anchor x="1295" y="500" name="ogonek"/>
+  <anchor x="717" y="0" name="right"/>
+  <anchor x="1279" y="1490" name="rtophorn"/>
+  <anchor x="1011" y="2228" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresisacutecomb.uc" xOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresisacutecomb.uc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

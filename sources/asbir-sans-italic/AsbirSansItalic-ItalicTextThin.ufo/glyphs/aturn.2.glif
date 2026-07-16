@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aturn.2" format="2">
+  <advance width="1082"/>
+  <anchor x="753.24" y="1118" name="top"/>
+  <anchor x="230.7" y="1115.0" name="ogonek"/>
+  <anchor x="556.0" y="0" name="bottom"/>
+  <outline>
+    <component base="a.2" xScale="-1.0" yxScale="-0.18" yScale="-1.0" xOffset="1283.24" yOffset="1118"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+    </dict>
+  </lib>
+</glyph>

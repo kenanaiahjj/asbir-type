@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <advance width="600"/>
+  <anchor x="354" y="530" name="_top"/>
+  <anchor x="419" y="839" name="top"/>
+  <outline>
+    <contour>
+      <point x="365" y="731" type="line"/>
+      <point x="433" y="731" type="line"/>
+      <point x="521" y="839" type="line"/>
+      <point x="435" y="839" type="line"/>
+    </contour>
+    <component base="brevecomb" xOffset="-2" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

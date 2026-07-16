@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticalTabulationControl" format="2">
+  <advance width="600"/>
+  <unicode hex="240B"/>
+  <outline>
+    <contour>
+      <point x="153" y="300" type="line"/>
+      <point x="207" y="300" type="line"/>
+      <point x="308" y="630" type="line"/>
+      <point x="274" y="630" type="line"/>
+      <point x="184" y="326" type="line"/>
+      <point x="177" y="326" type="line"/>
+      <point x="86" y="630" type="line"/>
+      <point x="52" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="71" type="line"/>
+      <point x="443" y="71" type="line"/>
+      <point x="443" y="371" type="line"/>
+      <point x="548" y="371" type="line"/>
+      <point x="548" y="401" type="line"/>
+      <point x="307" y="401" type="line"/>
+      <point x="307" y="371" type="line"/>
+      <point x="412" y="371" type="line"/>
+    </contour>
+  </outline>
+</glyph>

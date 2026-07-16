@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0247" format="2">
+  <advance width="1080"/>
+  <unicode hex="0247"/>
+  <anchor x="480" y="0" name="bottom"/>
+  <anchor x="489" y="0" name="cedilla"/>
+  <anchor x="978" y="315" name="ogonek"/>
+  <anchor x="644" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="-54.609" y="-418" type="line"/>
+      <point x="85.391" y="-418" type="line"/>
+      <point x="1163.258" y="1490" type="line"/>
+      <point x="1025.258" y="1490" type="line"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

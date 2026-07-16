@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ascript_uni02DE" format="2">
+  <advance width="1673"/>
+  <unicode hex="E10A"/>
+  <anchor x="575" y="0" name="bottom_1"/>
+  <anchor x="1099" y="0" name="bottomr_1"/>
+  <anchor x="1099" y="0" name="ogonek_1"/>
+  <anchor x="740" y="1056" name="top_1"/>
+  <anchor x="1274" y="1056" name="topr_1"/>
+  <anchor x="1036" y="536" name="rhotichook_1"/>
+  <outline>
+    <component base="ascript"/>
+    <component base="rhotichookmod" xOffset="1086" yOffset="-116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>rhotichookmod</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

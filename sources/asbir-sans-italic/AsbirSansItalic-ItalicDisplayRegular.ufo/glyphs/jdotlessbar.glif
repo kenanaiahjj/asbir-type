@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotlessbar" format="2">
+  <advance width="422"/>
+  <unicode hex="025F"/>
+  <anchor x="354" y="0" name="_right"/>
+  <anchor x="-10" y="-460" name="bottom"/>
+  <anchor x="229" y="648" name="cross"/>
+  <anchor x="298" y="1056" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="crossbar" xOffset="-255" yOffset="-97"/>
+  </outline>
+</glyph>

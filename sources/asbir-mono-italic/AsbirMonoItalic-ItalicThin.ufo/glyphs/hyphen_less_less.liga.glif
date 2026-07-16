@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_less_less.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-1141" y="292" type="line"/>
+      <point x="111" y="292" type="line"/>
+      <point x="117" y="324" type="line"/>
+      <point x="-1135" y="324" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="44" type="line"/>
+      <point x="125" y="306" type="line"/>
+      <point x="445" y="572" type="line"/>
+      <point x="401" y="572" type="line"/>
+      <point x="83" y="308" type="line"/>
+      <point x="291" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="44" type="line"/>
+      <point x="273" y="306" type="line"/>
+      <point x="593" y="572" type="line"/>
+      <point x="549" y="572" type="line"/>
+      <point x="231" y="308" type="line"/>
+      <point x="439" y="44" type="line"/>
+    </contour>
+  </outline>
+</glyph>

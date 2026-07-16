@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotcomb.lc" format="2">
+  <advance width="521"/>
+  <unicode hex="EECB"/>
+  <anchor x="241" y="1056" name="_top"/>
+  <anchor x="387" y="1938" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="163" y="1240" type="line"/>
+      <point x="323" y="1240" type="line"/>
+      <point x="648" y="1536" type="line"/>
+      <point x="406" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="1726" type="curve" smooth="yes"/>
+      <point x="227" y="1664"/>
+      <point x="261" y="1618"/>
+      <point x="334" y="1618" type="curve" smooth="yes"/>
+      <point x="409" y="1618"/>
+      <point x="457" y="1664"/>
+      <point x="468" y="1726" type="curve" smooth="yes"/>
+      <point x="477" y="1783"/>
+      <point x="448" y="1836"/>
+      <point x="370" y="1836" type="curve" smooth="yes"/>
+      <point x="297" y="1836"/>
+      <point x="248" y="1786"/>
+    </contour>
+  </outline>
+</glyph>

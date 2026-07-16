@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.zeroslash" format="2">
+  <advance width="1283"/>
+  <anchor x="672" y="745" name="_center"/>
+  <outline>
+    <contour>
+      <point x="352" y="155" type="line"/>
+      <point x="1079" y="1263" type="line"/>
+      <point x="987" y="1336" type="line"/>
+      <point x="264" y="236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

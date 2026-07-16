@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DDB" format="2">
+  <unicode hex="1DDB"/>
+  <outline>
+    <contour>
+      <point x="-598" y="1192" type="curve" smooth="yes"/>
+      <point x="-431" y="1193"/>
+      <point x="-355" y="1236"/>
+      <point x="-304" y="1282" type="curve"/>
+      <point x="-264" y="1522" type="line"/>
+      <point x="-548" y="1522" type="line"/>
+      <point x="-566" y="1414" type="line"/>
+      <point x="-462" y="1414" type="line"/>
+      <point x="-472" y="1342" type="line"/>
+      <point x="-492" y="1332"/>
+      <point x="-512" y="1332"/>
+      <point x="-574" y="1332" type="curve" smooth="yes"/>
+      <point x="-637" y="1332"/>
+      <point x="-672" y="1379"/>
+      <point x="-668" y="1428" type="curve" smooth="yes"/>
+      <point x="-642" y="1570" type="line" smooth="yes"/>
+      <point x="-634" y="1615"/>
+      <point x="-588" y="1661"/>
+      <point x="-528" y="1662" type="curve" smooth="yes"/>
+      <point x="-477" y="1661"/>
+      <point x="-451" y="1649"/>
+      <point x="-450" y="1598" type="curve"/>
+      <point x="-264" y="1598" type="line"/>
+      <point x="-253" y="1748"/>
+      <point x="-346" y="1801"/>
+      <point x="-504" y="1800" type="curve" smooth="yes"/>
+      <point x="-669" y="1801"/>
+      <point x="-803" y="1702"/>
+      <point x="-828" y="1560" type="curve" smooth="yes"/>
+      <point x="-848" y="1434" type="line" smooth="yes"/>
+      <point x="-870" y="1292"/>
+      <point x="-768" y="1193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>8</integer>
+    </dict>
+  </lib>
+</glyph>

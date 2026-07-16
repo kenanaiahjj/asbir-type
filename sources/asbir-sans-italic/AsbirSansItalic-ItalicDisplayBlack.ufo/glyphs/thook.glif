@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thook" format="2">
+  <advance width="853"/>
+  <unicode hex="01AD"/>
+  <anchor x="674" y="1056" name="_topr"/>
+  <anchor x="389" y="0" name="bottom"/>
+  <anchor x="556" y="1542" name="top"/>
+  <anchor x="674" y="1056" name="topr"/>
+  <outline>
+    <contour>
+      <point x="497" y="0" type="curve" smooth="yes"/>
+      <point x="587" y="0"/>
+      <point x="681" y="0"/>
+      <point x="717" y="0" type="curve"/>
+      <point x="767" y="304" type="line"/>
+      <point x="745" y="304"/>
+      <point x="693" y="304"/>
+      <point x="657" y="304" type="curve" smooth="yes"/>
+      <point x="578" y="304"/>
+      <point x="554" y="333"/>
+      <point x="567" y="410" type="curve" smooth="yes"/>
+      <point x="653" y="928" type="line"/>
+      <point x="253" y="928" type="line"/>
+      <point x="155" y="340" type="line" smooth="yes"/>
+      <point x="116" y="104"/>
+      <point x="221" y="0"/>
+    </contour>
+    <contour>
+      <point x="61" y="752" type="line"/>
+      <point x="841" y="752" type="line"/>
+      <point x="892" y="1056" type="line"/>
+      <point x="112" y="1056" type="line"/>
+    </contour>
+    <component base="_part.top_r_hook" xOffset="103"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

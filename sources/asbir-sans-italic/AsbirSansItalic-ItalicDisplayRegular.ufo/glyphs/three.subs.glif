@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.subs" format="2">
+  <advance width="822"/>
+  <unicode hex="2083"/>
+  <anchor x="503.48" y="486" name="top"/>
+  <outline>
+    <component base="three.sups" yxScale="0.18" xOffset="-216.0" yOffset="-1200"/>
+  </outline>
+</glyph>

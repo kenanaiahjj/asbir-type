@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overscorecomb" format="2">
+  <unicode hex="EEC0"/>
+  <anchor x="-578" y="1919" name="_bottom"/>
+  <outline>
+    <component base="underscore" xOffset="-968" yOffset="1676"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>underscore</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

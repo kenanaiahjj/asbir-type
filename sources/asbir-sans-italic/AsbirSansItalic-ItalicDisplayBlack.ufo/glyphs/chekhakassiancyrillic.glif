@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chekhakassiancyrillic" format="2">
+  <advance width="1318"/>
+  <unicode hex="04CC"/>
+  <anchor x="604" y="443" name="cross"/>
+  <anchor x="1064" y="0" name="cyrtic"/>
+  <anchor x="706" y="1056" name="top"/>
+  <outline>
+    <component base="checyrillic"/>
+    <component base="_part.cyrtic_left" xOffset="507"/>
+  </outline>
+</glyph>

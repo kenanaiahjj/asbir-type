@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.1" format="2">
+  <advance width="517"/>
+  <unicode hex="EE06"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="242" y="0" name="cedilla"/>
+  <anchor x="385" y="4" name="lfthook"/>
+  <anchor x="358" y="1384" name="top"/>
+  <anchor x="552" y="1562" name="raccent"/>
+  <outline>
+    <contour>
+      <point x="568" y="1118" type="line"/>
+      <point x="313" y="1118" type="line"/>
+      <point x="305" y="1072" type="line"/>
+      <point x="560" y="1072" type="line"/>
+    </contour>
+    <component base="_part.t_base" xOffset="-70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

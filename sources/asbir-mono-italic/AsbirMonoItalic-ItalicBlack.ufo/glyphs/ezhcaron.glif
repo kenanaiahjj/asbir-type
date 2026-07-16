@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezhcaron" format="2">
+  <advance width="600"/>
+  <unicode hex="01EF"/>
+  <anchor x="332" y="743" name="top"/>
+  <outline>
+    <component base="ezh"/>
+    <component base="caroncomb" xOffset="-71" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

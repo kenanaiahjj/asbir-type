@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonetwo" format="2">
+  <advance width="1314"/>
+  <unicode hex="01A7"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="562" y="0" name="cedilla"/>
+  <anchor x="811" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="560" y="-26" type="curve" smooth="yes"/>
+      <point x="885" y="-26"/>
+      <point x="1111" y="141"/>
+      <point x="1170" y="390" type="curve"/>
+      <point x="975" y="390" type="line"/>
+      <point x="932" y="222"/>
+      <point x="749" y="144"/>
+      <point x="573" y="144" type="curve" smooth="yes"/>
+      <point x="374" y="144"/>
+      <point x="249" y="246"/>
+      <point x="275" y="408" type="curve" smooth="yes"/>
+      <point x="298" y="553"/>
+      <point x="444" y="606"/>
+      <point x="610" y="651" type="curve" smooth="yes"/>
+      <point x="799" y="702" type="line" smooth="yes"/>
+      <point x="1040" y="767"/>
+      <point x="1209" y="887"/>
+      <point x="1243" y="1090" type="curve" smooth="yes"/>
+      <point x="1285" y="1341"/>
+      <point x="1090" y="1510"/>
+      <point x="800" y="1510" type="curve" smooth="yes"/>
+      <point x="507" y="1510"/>
+      <point x="273" y="1340"/>
+      <point x="227" y="1114" type="curve"/>
+      <point x="413" y="1114" type="line"/>
+      <point x="453" y="1256"/>
+      <point x="613" y="1342"/>
+      <point x="794" y="1342" type="curve" smooth="yes"/>
+      <point x="980" y="1342"/>
+      <point x="1082" y="1246"/>
+      <point x="1060" y="1103" type="curve" smooth="yes"/>
+      <point x="1036" y="946"/>
+      <point x="854" y="890"/>
+      <point x="736" y="859" type="curve" smooth="yes"/>
+      <point x="580" y="818" type="line" smooth="yes"/>
+      <point x="409" y="773"/>
+      <point x="136" y="683"/>
+      <point x="90" y="406" type="curve" smooth="yes"/>
+      <point x="50" y="165"/>
+      <point x="212" y="-26"/>
+    </contour>
+  </outline>
+</glyph>

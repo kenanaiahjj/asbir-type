@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="04E9"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="300" y="265" name="center"/>
+  <anchor x="319" y="0" name="ogonek"/>
+  <anchor x="356" y="530" name="top"/>
+  <anchor x="420" y="530" name="topright"/>
+  <outline>
+    <contour>
+      <point x="86" y="252" type="line"/>
+      <point x="503" y="252" type="line"/>
+      <point x="510" y="280" type="line"/>
+      <point x="93" y="280" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

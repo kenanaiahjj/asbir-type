@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzaltone" format="2">
+  <advance width="2185"/>
+  <unicode hex="02A3"/>
+  <anchor x="494" y="0" name="bottom"/>
+  <anchor x="1004" y="0" name="bottomr"/>
+  <anchor x="1045" y="1304" name="cross"/>
+  <anchor x="1394" y="1490" name="raccent"/>
+  <anchor x="705" y="1304" name="top"/>
+  <anchor x="1251" y="1490" name="topbar"/>
+  <outline>
+    <contour>
+      <point x="1090" y="0" type="line"/>
+      <point x="1966" y="0" type="line"/>
+      <point x="1992" y="160" type="line"/>
+      <point x="1356" y="160" type="line"/>
+      <point x="1358" y="172" type="line"/>
+      <point x="2110" y="980" type="line"/>
+      <point x="2132" y="1118" type="line"/>
+      <point x="1108" y="1118" type="line"/>
+      <point x="1082" y="958" type="line"/>
+      <point x="1886" y="958" type="line"/>
+      <point x="1882" y="946" type="line"/>
+      <point x="1114" y="130" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>
