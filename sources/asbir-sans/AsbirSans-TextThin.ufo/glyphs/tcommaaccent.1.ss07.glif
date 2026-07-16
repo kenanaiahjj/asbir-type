@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcommaaccent.1.ss07" format="2">
+  <advance width="516"/>
+  <anchor x="334" y="0" name="bottom"/>
+  <anchor x="334" y="0" name="cedilla"/>
+  <anchor x="476" y="4" name="lfthook"/>
+  <anchor x="221" y="1384" name="top"/>
+  <anchor x="386" y="1562" name="raccent"/>
+  <outline>
+    <component base="t.1"/>
+    <component base="commaaccent.ss07" xOffset="83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent.ss07</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

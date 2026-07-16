@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
+  <advance width="600"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="76.24000000000001" y="0" type="curve"/>
+      <point x="101.75999999999999" y="0" type="line"/>
+      <point x="110.72910433999999" y="0"/>
+      <point x="118" y="7.270895660000001"/>
+      <point x="118" y="16.240000000000002" type="curve"/>
+      <point x="118" y="743.76" type="line"/>
+      <point x="118" y="752.72910434"/>
+      <point x="110.72910433999999" y="760"/>
+      <point x="101.75999999999999" y="760" type="curve"/>
+      <point x="76.24000000000001" y="760" type="line"/>
+      <point x="67.27089566000001" y="760"/>
+      <point x="60" y="752.72910434"/>
+      <point x="60" y="743.76" type="curve"/>
+      <point x="60" y="16.240000000000002" type="line"/>
+      <point x="60" y="7.270895660000001"/>
+      <point x="67.27089566000001" y="0"/>
+    </contour>
+    <contour>
+      <point x="430" y="278" type="curve"/>
+      <point x="430" y="431.53516049999996"/>
+      <point x="349.411255" y="556"/>
+      <point x="250" y="556" type="curve"/>
+      <point x="150.58874500000002" y="556"/>
+      <point x="70" y="431.53516049999996"/>
+      <point x="70" y="278" type="curve"/>
+      <point x="70" y="124.46483950000001"/>
+      <point x="150.58874500000002" y="0"/>
+      <point x="250" y="0" type="curve"/>
+      <point x="349.411255" y="0"/>
+      <point x="430" y="124.46483950000001"/>
+    </contour>
+    <contour>
+      <point x="372" y="278" type="curve"/>
+      <point x="372" y="156.497355"/>
+      <point x="317.3787395" y="58"/>
+      <point x="250" y="58" type="curve"/>
+      <point x="182.6212605" y="58"/>
+      <point x="128" y="156.497355"/>
+      <point x="128" y="278" type="curve"/>
+      <point x="128" y="399.50264500000003"/>
+      <point x="182.6212605" y="498"/>
+      <point x="250" y="498" type="curve"/>
+      <point x="317.3787395" y="498"/>
+      <point x="372" y="399.50264500000003"/>
+    </contour>
+  </outline>
+</glyph>

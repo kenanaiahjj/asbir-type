@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.ss08" format="2">
+  <anchor x="301" y="530" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb.ss08" xOffset="-80"/>
+    <component base="dotaccentcomb.ss08" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

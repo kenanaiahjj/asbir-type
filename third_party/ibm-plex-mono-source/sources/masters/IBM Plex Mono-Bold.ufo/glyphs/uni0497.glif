@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0497" format="2">
+  <advance width="600"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="506" y="-140" type="line"/>
+      <point x="612" y="-140" type="line"/>
+      <point x="612" y="108" type="line"/>
+      <point x="545" y="108" type="line"/>
+      <point x="530" y="170" type="line" smooth="yes"/>
+      <point x="517" y="223"/>
+      <point x="497" y="250"/>
+      <point x="449" y="262" type="curve"/>
+      <point x="449" y="269" type="line"/>
+      <point x="487" y="281"/>
+      <point x="509" y="305"/>
+      <point x="521" y="351" type="curve" smooth="yes"/>
+      <point x="564" y="516" type="line"/>
+      <point x="443" y="516" type="line"/>
+      <point x="390" y="313" type="line"/>
+      <point x="345" y="313" type="line"/>
+      <point x="345" y="516" type="line"/>
+      <point x="227" y="516" type="line"/>
+      <point x="227" y="313" type="line"/>
+      <point x="182" y="313" type="line"/>
+      <point x="130" y="516" type="line"/>
+      <point x="8" y="516" type="line"/>
+      <point x="51" y="351" type="line" smooth="yes"/>
+      <point x="63" y="305"/>
+      <point x="85" y="281"/>
+      <point x="123" y="269" type="curve"/>
+      <point x="123" y="262" type="line"/>
+      <point x="75" y="250"/>
+      <point x="55" y="223"/>
+      <point x="42" y="170" type="curve" smooth="yes"/>
+      <point x="0" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="178" y="210" type="line"/>
+      <point x="227" y="210" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="210" type="line"/>
+      <point x="394" y="210" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMDgiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjIxMC
+      Igd2lkdGg9IjEwMyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTE2IiB3aWR0aD0iLTIxIiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSIyMjciIHdpZHRoPSIxMTgiIC8+CiAgICAgIDx2c3Rl
+      bSBwb3M9IjUwNiIgd2lkdGg9IjEwNiIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZ
+      XRMaXN0Pgo=
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.468s7J5AvX</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

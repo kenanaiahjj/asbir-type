@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="600"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="170" y="-151" type="line"/>
+      <point x="280" y="-151" type="line"/>
+      <point x="417" y="174" type="line"/>
+      <point x="227" y="174" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNTEiIHdpZHRoPSIzMjUiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ij
+      E3MCIgd2lkdGg9IjI0NyIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo
+      =
+      </data>
+    </dict>
+  </lib>
+</glyph>

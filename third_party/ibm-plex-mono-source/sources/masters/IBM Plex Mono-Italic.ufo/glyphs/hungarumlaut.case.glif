@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="368" y="911" type="line"/>
+      <point x="303" y="948" type="line"/>
+      <point x="196" y="782" type="line"/>
+      <point x="240" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="911" type="line"/>
+      <point x="464" y="948" type="line"/>
+      <point x="357" y="782" type="line"/>
+      <point x="401" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ijc1NiIgd2lkdGg9IjE5MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMT
+      k2IiB3aWR0aD0iMzMzIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+    </dict>
+  </lib>
+</glyph>

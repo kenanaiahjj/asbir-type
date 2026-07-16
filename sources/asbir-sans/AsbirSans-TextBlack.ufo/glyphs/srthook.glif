@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="srthook" format="2">
+  <advance width="1204"/>
+  <unicode hex="0282"/>
+  <anchor x="601" y="0" name="bottom"/>
+  <anchor x="608" y="0" name="cedilla"/>
+  <anchor x="52" y="335" name="rthook"/>
+  <anchor x="597" y="1118" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="_part.bottom_rthook_s" yOffset="-1"/>
+  </outline>
+</glyph>

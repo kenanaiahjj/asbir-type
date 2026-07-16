@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam.ss08" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="235" y="243" type="curve"/>
+      <point x="365" y="243" type="line"/>
+      <point x="376" y="326"/>
+      <point x="395" y="423"/>
+      <point x="395" y="507" type="curve"/>
+      <point x="395" y="710" type="line"/>
+      <point x="205" y="710" type="line"/>
+      <point x="205" y="507" type="line"/>
+      <point x="205" y="423"/>
+      <point x="224" y="326"/>
+    </contour>
+    <component base="period.ss08"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period.ss08</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

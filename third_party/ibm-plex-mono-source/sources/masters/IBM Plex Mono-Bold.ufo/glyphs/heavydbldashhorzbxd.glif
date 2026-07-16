@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavydbldashhorzbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="254D"/>
+  <outline>
+    <contour>
+      <point x="75" y="232" type="line"/>
+      <point x="225" y="232" type="line"/>
+      <point x="225" y="368" type="line"/>
+      <point x="75" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="232" type="line"/>
+      <point x="525" y="232" type="line"/>
+      <point x="525" y="368" type="line"/>
+      <point x="375" y="368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNz
+      UiIHdpZHRoPSIxNTAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjM3NSIgd2lkdGg9IjE1MCI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni254D</string>
+      <key>com.type-invaders.name.production</key>
+      <string>heavydbldashhorzbxd</string>
+    </dict>
+  </lib>
+</glyph>

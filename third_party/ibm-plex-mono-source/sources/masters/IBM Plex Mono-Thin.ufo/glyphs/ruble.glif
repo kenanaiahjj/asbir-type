@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="600"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="420" y="173" type="line"/>
+      <point x="420" y="193" type="line"/>
+      <point x="173" y="193" type="line"/>
+      <point x="173" y="322" type="line"/>
+      <point x="385" y="322" type="line" smooth="yes"/>
+      <point x="499" y="322"/>
+      <point x="559" y="397"/>
+      <point x="559" y="510" type="curve" smooth="yes"/>
+      <point x="559" y="624"/>
+      <point x="499" y="698"/>
+      <point x="385" y="698" type="curve" smooth="yes"/>
+      <point x="151" y="698" type="line"/>
+      <point x="151" y="342" type="line"/>
+      <point x="46" y="342" type="line"/>
+      <point x="46" y="322" type="line"/>
+      <point x="151" y="322" type="line"/>
+      <point x="151" y="193" type="line"/>
+      <point x="46" y="193" type="line"/>
+      <point x="46" y="173" type="line"/>
+      <point x="151" y="173" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="173" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="678" type="line"/>
+      <point x="385" y="678" type="line" smooth="yes"/>
+      <point x="488" y="678"/>
+      <point x="535" y="608"/>
+      <point x="535" y="533" type="curve" smooth="yes"/>
+      <point x="535" y="487" type="line" smooth="yes"/>
+      <point x="535" y="412"/>
+      <point x="488" y="342"/>
+      <point x="385" y="342" type="curve" smooth="yes"/>
+      <point x="173" y="342" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjE3My
+      Igd2lkdGg9IjIwIiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMjIiIHdpZHRoPSIyMCIgLz4
+      KICAgICAgPGhzdGVtIHBvcz0iNjc4IiB3aWR0aD0iMjAiIC8+CiAgICAgIDx2c3RlbSBw
+      b3M9IjE1MSIgd2lkdGg9IjIyIiAvPgogICAgICA8dnN0ZW0gcG9zPSI1MzUiIHdpZHRoP
+      SIyNCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20BD</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ruble</string>
+    </dict>
+  </lib>
+</glyph>

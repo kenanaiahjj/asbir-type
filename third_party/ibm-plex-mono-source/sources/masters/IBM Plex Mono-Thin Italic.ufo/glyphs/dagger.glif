@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="600"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="235" y="-200" type="line"/>
+      <point x="351" y="497" type="line"/>
+      <point x="563" y="497" type="line"/>
+      <point x="566" y="516" type="line"/>
+      <point x="354" y="516" type="line"/>
+      <point x="391" y="740" type="line"/>
+      <point x="370" y="740" type="line"/>
+      <point x="333" y="516" type="line"/>
+      <point x="121" y="516" type="line"/>
+      <point x="118" y="497" type="line"/>
+      <point x="330" y="497" type="line"/>
+      <point x="214" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0yMDAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      Q5NyIgd2lkdGg9IjE5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI3NDAiIHdpZHRoPSItMjE
+      iIC8+CiAgICAgIDx2c3RlbSBwb3M9IjExOCIgd2lkdGg9IjQ0OCIgLz4KICAgIDwvaGlu
+      dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

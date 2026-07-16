@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pagedown" format="2">
+  <advance width="962"/>
+  <unicode hex="21DF"/>
+  <outline>
+    <contour>
+      <point x="482" y="-16" type="line"/>
+      <point x="840" y="372" type="line"/>
+      <point x="122" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="698" type="line"/>
+      <point x="784" y="698" type="line"/>
+      <point x="784" y="744" type="line"/>
+      <point x="178" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="240" type="line"/>
+      <point x="504" y="240" type="line"/>
+      <point x="504" y="1490" type="line"/>
+      <point x="458" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="1024" type="line"/>
+      <point x="784" y="1024" type="line"/>
+      <point x="784" y="1070" type="line"/>
+      <point x="178" y="1070" type="line"/>
+    </contour>
+  </outline>
+</glyph>

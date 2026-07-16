@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="600"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="319" y="444" type="line"/>
+      <point x="343" y="444" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="534" y="270" type="line"/>
+      <point x="594" y="270" type="line"/>
+      <point x="609" y="361" type="line"/>
+      <point x="552" y="361" type="line"/>
+      <point x="567" y="437" type="line"/>
+      <point x="622" y="437" type="line"/>
+      <point x="637" y="529" type="line"/>
+      <point x="585" y="529" type="line"/>
+      <point x="620" y="698" type="line"/>
+      <point x="497" y="698" type="line"/>
+      <point x="467" y="522" type="line"/>
+      <point x="224" y="522" type="line"/>
+      <point x="254" y="698" type="line"/>
+      <point x="128" y="698" type="line"/>
+      <point x="105" y="529" type="line"/>
+      <point x="53" y="529" type="line"/>
+      <point x="38" y="437" type="line"/>
+      <point x="93" y="437" type="line"/>
+      <point x="82" y="361" type="line"/>
+      <point x="26" y="361" type="line"/>
+      <point x="11" y="270" type="line"/>
+      <point x="70" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="93" type="line"/>
+      <point x="203" y="444" type="line"/>
+      <point x="253" y="444" type="line"/>
+      <point x="170" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="93" type="line"/>
+      <point x="412" y="444" type="line"/>
+      <point x="462" y="444" type="line"/>
+      <point x="404" y="93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI5MyIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjcwIi
+      B3aWR0aD0iOTEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQzNyIgd2lkdGg9IjkyIiAvPgo
+      gICAgICA8aHN0ZW0gcG9zPSI2OTgiIHdpZHRoPSItMjEiIC8+CiAgICAgIDx2c3RlbSBw
+      b3M9IjExIiB3aWR0aD0iNjI2IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc
+      3Q+Cg==
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20A9</string>
+      <key>com.type-invaders.name.production</key>
+      <string>won</string>
+    </dict>
+  </lib>
+</glyph>

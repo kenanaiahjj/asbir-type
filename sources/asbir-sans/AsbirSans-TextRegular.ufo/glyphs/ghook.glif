@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghook" format="2">
+  <advance width="1256"/>
+  <unicode hex="0260"/>
+  <anchor x="624" y="-441" name="bottom"/>
+  <anchor x="1012" y="564" name="cross"/>
+  <anchor x="605" y="1118" name="top"/>
+  <anchor x="1098" y="1118" name="topr"/>
+  <outline>
+    <component base="g"/>
+    <component base="_part.top_r_hook" xOffset="766"/>
+  </outline>
+</glyph>

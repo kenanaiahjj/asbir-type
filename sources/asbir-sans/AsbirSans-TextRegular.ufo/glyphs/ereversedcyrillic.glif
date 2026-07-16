@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ereversedcyrillic" format="2">
+  <advance width="1170"/>
+  <unicode hex="044D"/>
+  <anchor x="559" y="1118" name="top"/>
+  <outline>
+    <component base="ecyrillic" xScale="-1" xOffset="1170"/>
+  </outline>
+</glyph>

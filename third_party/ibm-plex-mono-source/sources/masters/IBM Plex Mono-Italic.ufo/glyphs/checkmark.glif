@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkmark" format="2">
+  <advance width="600"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="594" y="687" type="line"/>
+      <point x="523" y="712" type="line"/>
+      <point x="359" y="305" type="line"/>
+      <point x="276" y="89" type="line"/>
+      <point x="271" y="89" type="line"/>
+      <point x="196" y="305" type="line"/>
+      <point x="122" y="506" type="line"/>
+      <point x="46" y="484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI4OSIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDYiIH
+      dpZHRoPSI1NDgiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2713</string>
+      <key>com.type-invaders.name.production</key>
+      <string>checkmark</string>
+    </dict>
+  </lib>
+</glyph>

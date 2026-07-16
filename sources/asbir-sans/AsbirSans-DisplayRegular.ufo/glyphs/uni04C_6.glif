@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04C6" format="2">
+  <advance width="1133"/>
+  <unicode hex="04C6"/>
+  <anchor x="573" y="0" name="bottom"/>
+  <anchor x="1007" y="0" name="cyrtic"/>
+  <anchor x="613" y="1056" name="top"/>
+  <outline>
+    <component base="elcyrillic"/>
+    <component base="_part.cyrtail" xOffset="727"/>
+  </outline>
+</glyph>

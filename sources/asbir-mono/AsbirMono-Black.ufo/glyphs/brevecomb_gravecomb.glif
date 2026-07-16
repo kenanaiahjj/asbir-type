@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="300" y="540" name="_top"/>
+  <anchor x="300" y="898" name="top"/>
+  <outline>
+    <contour>
+      <point x="237" y="758" type="line"/>
+      <point x="363" y="758" type="line"/>
+      <point x="305" y="898" type="line"/>
+      <point x="149" y="898" type="line"/>
+    </contour>
+    <component base="brevecomb" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

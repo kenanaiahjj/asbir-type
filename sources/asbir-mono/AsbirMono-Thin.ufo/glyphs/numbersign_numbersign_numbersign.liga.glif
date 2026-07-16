@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_numbersign_numbersign.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="numbersign" xOffset="-599"/>
+    <component base="numbersign" xOffset="-158"/>
+    <component base="numbersign" xOffset="-1040"/>
+  </outline>
+</glyph>

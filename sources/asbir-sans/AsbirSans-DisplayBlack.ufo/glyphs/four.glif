@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="1414"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="64" y="288" type="line"/>
+      <point x="1348" y="288" type="line"/>
+      <point x="1348" y="594" type="line"/>
+      <point x="471" y="594" type="line"/>
+      <point x="471" y="596" type="line"/>
+      <point x="1074" y="1490" type="line"/>
+      <point x="671" y="1490" type="line"/>
+      <point x="64" y="602" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="0" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="1174" y="928" type="line"/>
+      <point x="792" y="928" type="line"/>
+      <point x="792" y="522" type="line"/>
+      <point x="792" y="384" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.asbir.identitySource</key>
+      <string>four.ss01</string>
+    </dict>
+  </lib>
+</glyph>

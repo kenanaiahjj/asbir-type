@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow.ss07" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="219" y="183" type="line"/>
+      <point x="219" y="298" type="line"/>
+      <point x="381" y="298" type="line"/>
+      <point x="381" y="183" type="line"/>
+      <point x="596" y="363" type="line"/>
+      <point x="380" y="542" type="line"/>
+      <point x="380" y="427" type="line"/>
+      <point x="220" y="427" type="line"/>
+      <point x="220" y="542" type="line"/>
+      <point x="4" y="363" type="line"/>
+    </contour>
+  </outline>
+</glyph>

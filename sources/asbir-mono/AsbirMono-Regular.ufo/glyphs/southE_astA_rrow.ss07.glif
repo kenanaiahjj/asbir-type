@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southEastArrow.ss07" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="upArrow.ss07" xScale="-0.7071067811865475" xyScale="-0.7071067811865476" yxScale="0.7071067811865476" yScale="-0.7071067811865475" xOffset="264" yOffset="704"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>upArrow.ss07</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

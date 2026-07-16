@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Istroke" format="2">
+  <advance width="756"/>
+  <unicode hex="0197"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="378" y="788" name="cross"/>
+  <anchor x="586" y="0" name="ogonek"/>
+  <anchor x="612" y="0" name="right"/>
+  <anchor x="170" y="1490" name="tonos"/>
+  <anchor x="378" y="1490" name="top"/>
+  <outline>
+    <component base="I" xOffset="90"/>
+    <component base="_part.crossbar_compact" xOffset="-21" yOffset="43"/>
+  </outline>
+</glyph>

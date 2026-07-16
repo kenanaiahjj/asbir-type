@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eightsuperior" format="2">
+  <advance width="600"/>
+  <unicode hex="2078"/>
+  <outline>
+    <contour>
+      <point x="324" y="323" type="curve" smooth="yes"/>
+      <point x="412" y="323"/>
+      <point x="472" y="373"/>
+      <point x="472" y="444" type="curve" smooth="yes"/>
+      <point x="472" y="485"/>
+      <point x="450" y="507"/>
+      <point x="411" y="520" type="curve"/>
+      <point x="412" y="525" type="line"/>
+      <point x="456" y="538"/>
+      <point x="488" y="569"/>
+      <point x="488" y="615" type="curve" smooth="yes"/>
+      <point x="488" y="668"/>
+      <point x="442" y="704"/>
+      <point x="372" y="704" type="curve" smooth="yes"/>
+      <point x="288" y="704"/>
+      <point x="234" y="655"/>
+      <point x="234" y="597" type="curve" smooth="yes"/>
+      <point x="234" y="560"/>
+      <point x="256" y="536"/>
+      <point x="287" y="525" type="curve"/>
+      <point x="286" y="520" type="line"/>
+      <point x="230" y="510"/>
+      <point x="196" y="472"/>
+      <point x="196" y="418" type="curve" smooth="yes"/>
+      <point x="196" y="362"/>
+      <point x="243" y="323"/>
+    </contour>
+    <contour>
+      <point x="354" y="542" type="curve" smooth="yes"/>
+      <point x="318" y="542"/>
+      <point x="293" y="559"/>
+      <point x="293" y="588" type="curve" smooth="yes"/>
+      <point x="293" y="592"/>
+      <point x="293" y="597"/>
+      <point x="294" y="603" type="curve" smooth="yes"/>
+      <point x="300" y="639"/>
+      <point x="323" y="657"/>
+      <point x="368" y="657" type="curve" smooth="yes"/>
+      <point x="404" y="657"/>
+      <point x="429" y="640"/>
+      <point x="429" y="611" type="curve" smooth="yes"/>
+      <point x="429" y="607"/>
+      <point x="429" y="602"/>
+      <point x="428" y="596" type="curve" smooth="yes"/>
+      <point x="422" y="560"/>
+      <point x="399" y="542"/>
+    </contour>
+    <contour>
+      <point x="327" y="370" type="curve" smooth="yes"/>
+      <point x="285" y="370"/>
+      <point x="257" y="390"/>
+      <point x="257" y="418" type="curve" smooth="yes"/>
+      <point x="257" y="424"/>
+      <point x="257" y="429"/>
+      <point x="258" y="435" type="curve" smooth="yes"/>
+      <point x="264" y="471"/>
+      <point x="284" y="498"/>
+      <point x="341" y="498" type="curve" smooth="yes"/>
+      <point x="383" y="498"/>
+      <point x="411" y="478"/>
+      <point x="411" y="450" type="curve" smooth="yes"/>
+      <point x="411" y="444"/>
+      <point x="411" y="439"/>
+      <point x="410" y="433" type="curve" smooth="yes"/>
+      <point x="404" y="397"/>
+      <point x="384" y="370"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjMyMyIgd2lkdGg9IjQ3IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0OT
+      giIHdpZHRoPSI0NCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjU3IiB3aWR0aD0iNDciIC8
+      +CiAgICAgIDx2c3RlbSBwb3M9IjIzNCIgd2lkdGg9IjU5IiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSI0MjkiIHdpZHRoPSI1OSIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0I
+      HBvaW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iMzIzIiB3aWR0aD0iNDciIC
+      8+CiAgICAgIDxoc3RlbSBwb3M9IjQ5OCIgd2lkdGg9IjQ0IiAvPgogICAgICA8aHN0ZW0
+      gcG9zPSI2NTciIHdpZHRoPSI0NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTk2IiB3aWR0
+      aD0iNjEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQxMSIgd2lkdGg9IjYxIiAvPgogICAgP
+      C9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW
+      0gcG9zPSIzMjMiIHdpZHRoPSI0NyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDk4IiB3aWR
+      0aD0iNDQiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjY1NyIgd2lkdGg9IjQ3IiAvPgogICAg
+      ICA8dnN0ZW0gcG9zPSIyMzQiIHdpZHRoPSI1OSIgLz4KICAgICAgPHZzdGVtIHBvcz0iN
+      DI5IiB3aWR0aD0iNTkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludF
+      RhZz0iaHIwNCI+CiAgICAgIDxoc3RlbSBwb3M9IjMyMyIgd2lkdGg9IjQ3IiAvPgogICA
+      gICA8aHN0ZW0gcG9zPSI0OTgiIHdpZHRoPSI0NCIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+      NjU3IiB3aWR0aD0iNDciIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE5NiIgd2lkdGg9IjYxI
+      iAvPgogICAgICA8dnN0ZW0gcG9zPSI0MTEiIHdpZHRoPSI2MSIgLz4KICAgIDwvaGludH
+      NldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2078</string>
+      <key>com.type-invaders.name.production</key>
+      <string>eightsuperior</string>
+    </dict>
+  </lib>
+</glyph>

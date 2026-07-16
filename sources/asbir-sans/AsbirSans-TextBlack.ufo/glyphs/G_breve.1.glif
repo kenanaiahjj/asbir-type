@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gbreve.1" format="2">
+  <advance width="1562"/>
+  <unicode hex="E006"/>
+  <anchor x="782" y="0" name="bottom"/>
+  <anchor x="1201" y="434" name="cross"/>
+  <anchor x="786" y="1954" name="top"/>
+  <anchor x="1452" y="998" name="topr"/>
+  <outline>
+    <component base="G.1"/>
+    <component base="brevecomb" xOffset="306" yOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

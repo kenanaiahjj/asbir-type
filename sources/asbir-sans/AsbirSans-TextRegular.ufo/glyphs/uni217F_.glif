@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni217F" format="2">
+  <advance width="1794"/>
+  <unicode hex="217F"/>
+  <anchor x="896" y="0" name="bottom"/>
+  <anchor x="1456" y="0" name="lfthook"/>
+  <anchor x="896" y="1118" name="top"/>
+  <outline>
+    <component base="m"/>
+  </outline>
+</glyph>

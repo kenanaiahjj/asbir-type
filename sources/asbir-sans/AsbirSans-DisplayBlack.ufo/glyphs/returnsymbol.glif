@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="returnsymbol" format="2">
+  <advance width="2082"/>
+  <unicode hex="23CE"/>
+  <outline>
+    <contour>
+      <point x="734" y="118" type="line"/>
+      <point x="734" y="1186" type="line"/>
+      <point x="186" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="500" type="line"/>
+      <point x="1890" y="500" type="line"/>
+      <point x="1890" y="802" type="line"/>
+      <point x="554" y="802" type="line"/>
+    </contour>
+    <contour>
+      <point x="1598" y="500" type="line"/>
+      <point x="1896" y="500" type="line"/>
+      <point x="1896" y="1490" type="line"/>
+      <point x="1598" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1218" y="1186" type="line"/>
+      <point x="1890" y="1186" type="line"/>
+      <point x="1890" y="1490" type="line"/>
+      <point x="1218" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

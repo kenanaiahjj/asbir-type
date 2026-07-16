@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overscoredblcomb" format="2">
+  <unicode hex="EEC1"/>
+  <outline>
+    <contour>
+      <point x="-254" y="1666" type="line"/>
+      <point x="-1200" y="1666" type="line"/>
+      <point x="-1200" y="1518" type="line"/>
+      <point x="-254" y="1518" type="line"/>
+    </contour>
+    <contour>
+      <point x="-254" y="1978" type="line"/>
+      <point x="-1200" y="1978" type="line"/>
+      <point x="-1200" y="1832" type="line"/>
+      <point x="-254" y="1832" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

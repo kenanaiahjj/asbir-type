@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lighttrpldashhorzbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2504"/>
+  <outline>
+    <contour>
+      <point x="33" y="266" type="line"/>
+      <point x="167" y="266" type="line"/>
+      <point x="167" y="334" type="line"/>
+      <point x="33" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="266" type="line"/>
+      <point x="367" y="266" type="line"/>
+      <point x="367" y="334" type="line"/>
+      <point x="233" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="266" type="line"/>
+      <point x="567" y="266" type="line"/>
+      <point x="567" y="334" type="line"/>
+      <point x="433" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0zIHN0ZW0zTG
+      lzdD0iMzMsMTM0LDIzMywxMzQsNDMzLDEzNCIgLz4KICAgIDwvaGludHNldD4KICA8L2h
+      pbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2504</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lighttrpldashhorzbxd</string>
+    </dict>
+  </lib>
+</glyph>

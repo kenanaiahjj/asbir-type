@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="600"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="290" y="0" type="line" smooth="yes"/>
+      <point x="460" y="0"/>
+      <point x="544" y="120"/>
+      <point x="544" y="349" type="curve" smooth="yes"/>
+      <point x="544" y="578"/>
+      <point x="460" y="698"/>
+      <point x="290" y="698" type="curve" smooth="yes"/>
+      <point x="102" y="698" type="line"/>
+      <point x="102" y="400" type="line"/>
+      <point x="22" y="400" type="line"/>
+      <point x="22" y="336" type="line"/>
+      <point x="102" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="73" type="line"/>
+      <point x="186" y="336" type="line"/>
+      <point x="327" y="336" type="line"/>
+      <point x="327" y="400" type="line"/>
+      <point x="186" y="400" type="line"/>
+      <point x="186" y="625" type="line"/>
+      <point x="286" y="625" type="line" smooth="yes"/>
+      <point x="397" y="625"/>
+      <point x="455" y="543"/>
+      <point x="455" y="403" type="curve" smooth="yes"/>
+      <point x="455" y="295" type="line" smooth="yes"/>
+      <point x="455" y="155"/>
+      <point x="397" y="73"/>
+      <point x="286" y="73" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3MyIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzM2Ii
+      B3aWR0aD0iNjQiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjYyNSIgd2lkdGg9IjczIiAvPgo
+      gICAgICA8dnN0ZW0gcG9zPSIxMDIiIHdpZHRoPSI4NCIgLz4KICAgICAgPHZzdGVtIHBv
+      cz0iNDU1IiB3aWR0aD0iODkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzd
+      D4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

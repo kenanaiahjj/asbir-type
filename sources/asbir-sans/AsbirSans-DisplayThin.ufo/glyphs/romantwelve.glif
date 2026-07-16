@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romantwelve" format="2">
+  <advance width="1952"/>
+  <unicode hex="216B"/>
+  <anchor x="1761" y="0" name="bottom"/>
+  <anchor x="1761" y="768" name="cross"/>
+  <anchor x="1134" y="0" name="cyrtic"/>
+  <anchor x="1761" y="1490" name="top"/>
+  <anchor x="1784" y="0" name="ogonek"/>
+  <anchor x="1792" y="0" name="right"/>
+  <anchor x="1738" y="1490" name="tonos"/>
+  <outline>
+    <component base="X"/>
+    <component base="I" xOffset="1188"/>
+    <component base="I" xOffset="1570"/>
+  </outline>
+</glyph>

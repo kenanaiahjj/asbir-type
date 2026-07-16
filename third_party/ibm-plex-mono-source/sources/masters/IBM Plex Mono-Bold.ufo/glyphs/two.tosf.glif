@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="64" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="115" type="line"/>
+      <point x="257" y="115" type="line"/>
+      <point x="322" y="147" type="line" smooth="yes"/>
+      <point x="409" y="190"/>
+      <point x="510" y="248"/>
+      <point x="510" y="363" type="curve" smooth="yes"/>
+      <point x="510" y="486"/>
+      <point x="424" y="548"/>
+      <point x="287" y="548" type="curve" smooth="yes"/>
+      <point x="164" y="548"/>
+      <point x="89" y="484"/>
+      <point x="54" y="416" type="curve"/>
+      <point x="154" y="351" type="line"/>
+      <point x="175" y="394"/>
+      <point x="210" y="432"/>
+      <point x="269" y="432" type="curve" smooth="yes"/>
+      <point x="314" y="432"/>
+      <point x="356" y="408"/>
+      <point x="356" y="356" type="curve" smooth="yes"/>
+      <point x="356" y="343" type="line" smooth="yes"/>
+      <point x="356" y="306"/>
+      <point x="322" y="267"/>
+      <point x="256" y="229" type="curve" smooth="yes"/>
+      <point x="64" y="119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQzMi
+      Igd2lkdGg9IjExNiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzU2IiB3aWR0aD0iMTU0IiA
+      vPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

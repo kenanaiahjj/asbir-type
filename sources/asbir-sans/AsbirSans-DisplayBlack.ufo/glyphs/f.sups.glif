@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.sups" format="2">
+  <advance width="593"/>
+  <unicode hex="1DA0"/>
+  <anchor x="284" y="854" name="bottom"/>
+  <anchor x="284" y="1289" name="cross"/>
+  <anchor x="315" y="1696" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="854" type="line"/>
+      <point x="417" y="854" type="line" name="hr00"/>
+      <point x="417" y="1440" type="line" smooth="yes"/>
+      <point x="417" y="1480"/>
+      <point x="433" y="1495"/>
+      <point x="479" y="1495" type="curve" smooth="yes"/>
+      <point x="502" y="1495"/>
+      <point x="534" y="1495"/>
+      <point x="548" y="1495" type="curve"/>
+      <point x="548" y="1696" type="line"/>
+      <point x="525" y="1696"/>
+      <point x="463" y="1696"/>
+      <point x="403" y="1696" type="curve" smooth="yes"/>
+      <point x="226" y="1696"/>
+      <point x="150" y="1634"/>
+      <point x="150" y="1487" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="548" y="1451" type="line"/>
+      <point x="33" y="1451" type="line"/>
+      <point x="33" y="1250" type="line"/>
+      <point x="548" y="1250" type="line"/>
+    </contour>
+  </outline>
+</glyph>

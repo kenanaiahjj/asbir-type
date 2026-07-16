@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.1.subs" format="2">
+  <advance width="896"/>
+  <anchor x="442" y="-302" name="bottom"/>
+  <anchor x="780" y="-302" name="bottomr"/>
+  <anchor x="780" y="-302" name="ogonek"/>
+  <anchor x="447" y="315" name="top"/>
+  <anchor x="780" y="315" name="topr"/>
+  <outline>
+    <component base="a.1.sups" yOffset="-1200"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0400" format="2">
+  <advance width="1187"/>
+  <unicode hex="0400"/>
+  <anchor x="632" y="0" name="bottom"/>
+  <anchor x="643" y="0" name="cedilla"/>
+  <anchor x="1117" y="0" name="ogonek"/>
+  <anchor x="148" y="1490" name="tonos"/>
+  <anchor x="632" y="1924" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="gravecomb" xOffset="302" yOffset="434"/>
+  </outline>
+</glyph>

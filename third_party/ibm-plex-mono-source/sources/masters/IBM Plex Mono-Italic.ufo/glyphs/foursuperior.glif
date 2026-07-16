@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="600"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="417" y="329" type="line"/>
+      <point x="429" y="402" type="line"/>
+      <point x="480" y="402" type="line"/>
+      <point x="488" y="448" type="line"/>
+      <point x="437" y="448" type="line"/>
+      <point x="479" y="698" type="line"/>
+      <point x="404" y="698" type="line"/>
+      <point x="198" y="455" type="line"/>
+      <point x="189" y="402" type="line"/>
+      <point x="370" y="402" type="line"/>
+      <point x="358" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="448" type="line"/>
+      <point x="253" y="448" type="line"/>
+      <point x="406" y="631" type="line"/>
+      <point x="409" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjMyOSIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0iND
+      AyIiB3aWR0aD0iNDYiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjYzMSIgd2lkdGg9IjY3IiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSIxODkiIHdpZHRoPSIyOTkiIC8+CiAgICA8L2hpbnRz
+      ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2074</string>
+      <key>com.type-invaders.name.production</key>
+      <string>foursuperior</string>
+    </dict>
+  </lib>
+</glyph>

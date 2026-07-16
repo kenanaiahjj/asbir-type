@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="517" y="1118" name="_top"/>
+  <anchor x="517" y="1521" name="top"/>
+  <outline>
+    <contour>
+      <point x="648" y="1313" type="curve" smooth="yes"/>
+      <point x="746" y="1313"/>
+      <point x="804" y="1395"/>
+      <point x="808" y="1521" type="curve"/>
+      <point x="685" y="1521" type="line"/>
+      <point x="678" y="1463"/>
+      <point x="662" y="1440"/>
+      <point x="629" y="1440" type="curve" smooth="yes"/>
+      <point x="562" y="1440"/>
+      <point x="492" y="1525"/>
+      <point x="388" y="1525" type="curve" smooth="yes"/>
+      <point x="281" y="1525"/>
+      <point x="230" y="1437"/>
+      <point x="226" y="1317" type="curve"/>
+      <point x="352" y="1317" type="line"/>
+      <point x="354" y="1356"/>
+      <point x="370" y="1396"/>
+      <point x="405" y="1396" type="curve" smooth="yes"/>
+      <point x="456" y="1396"/>
+      <point x="549" y="1313"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1034</integer>
+    </dict>
+  </lib>
+</glyph>

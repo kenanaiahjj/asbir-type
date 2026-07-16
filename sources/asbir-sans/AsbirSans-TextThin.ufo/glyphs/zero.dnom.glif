@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="713"/>
+  <unicode hex="E0B4"/>
+  <anchor x="356" y="384" name="center"/>
+  <anchor x="356" y="767" name="top"/>
+  <outline>
+    <contour>
+      <point x="357" y="-10" type="curve" smooth="yes"/>
+      <point x="520" y="-10"/>
+      <point x="613" y="134"/>
+      <point x="613" y="383" type="curve" smooth="yes"/>
+      <point x="613" y="634"/>
+      <point x="519" y="778"/>
+      <point x="357" y="778" type="curve" smooth="yes"/>
+      <point x="193" y="778"/>
+      <point x="100" y="632"/>
+      <point x="100" y="383" type="curve" smooth="yes"/>
+      <point x="100" y="133"/>
+      <point x="193" y="-10"/>
+    </contour>
+    <contour>
+      <point x="357" y="37" type="curve" smooth="yes"/>
+      <point x="226" y="37"/>
+      <point x="151" y="163"/>
+      <point x="151" y="383" type="curve" smooth="yes"/>
+      <point x="151" y="604"/>
+      <point x="226" y="731"/>
+      <point x="357" y="731" type="curve" smooth="yes"/>
+      <point x="487" y="731"/>
+      <point x="562" y="604"/>
+      <point x="562" y="383" type="curve" smooth="yes"/>
+      <point x="562" y="164"/>
+      <point x="487" y="37"/>
+    </contour>
+  </outline>
+</glyph>

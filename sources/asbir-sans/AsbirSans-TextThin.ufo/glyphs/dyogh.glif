@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dyogh" format="2">
+  <advance width="1980"/>
+  <unicode hex="02A4"/>
+  <anchor x="560" y="0" name="bottom"/>
+  <anchor x="946" y="1304" name="cross"/>
+  <anchor x="560" y="1304" name="top"/>
+  <anchor x="992" y="1490" name="topbar"/>
+  <anchor x="992" y="0" name="bottomr"/>
+  <anchor x="1122" y="1490" name="raccent"/>
+  <outline>
+    <contour>
+      <point x="996" y="-96" type="curve"/>
+      <point x="950" y="-96" type="line"/>
+      <point x="977" y="-295"/>
+      <point x="1158" y="-434"/>
+      <point x="1390" y="-434" type="curve" smooth="yes"/>
+      <point x="1663" y="-434"/>
+      <point x="1832" y="-237"/>
+      <point x="1832" y="0" type="curve" smooth="yes"/>
+      <point x="1832" y="266"/>
+      <point x="1618" y="432"/>
+      <point x="1311" y="432" type="curve"/>
+      <point x="1311" y="433" type="line"/>
+      <point x="1794" y="1080" type="line"/>
+      <point x="1794" y="1118" type="line"/>
+      <point x="968" y="1118" type="line"/>
+      <point x="968" y="1072" type="line"/>
+      <point x="1729" y="1072" type="line"/>
+      <point x="1729" y="1071" type="line"/>
+      <point x="1256" y="436" type="line"/>
+      <point x="1256" y="391" type="line"/>
+      <point x="1312" y="391" type="line" smooth="yes"/>
+      <point x="1584" y="391"/>
+      <point x="1786" y="245"/>
+      <point x="1786" y="0" type="curve" smooth="yes"/>
+      <point x="1786" y="-207"/>
+      <point x="1641" y="-388"/>
+      <point x="1390" y="-388" type="curve" smooth="yes"/>
+      <point x="1185" y="-388"/>
+      <point x="1024" y="-268"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

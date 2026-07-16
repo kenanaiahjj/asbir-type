@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="righteighthblock" format="2">
+  <advance width="600"/>
+  <unicode hex="2595"/>
+  <outline>
+    <contour>
+      <point x="525" y="-350" type="line"/>
+      <point x="600" y="-350" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="525" y="950" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0zNTAiIHdpZHRoPSIxMzAwIiAvPgogICAgICA8dnN0ZW0gcG9zPS
+      I1MjUiIHdpZHRoPSI3NSIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo
+      =
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2595</string>
+      <key>com.type-invaders.name.production</key>
+      <string>righteighthblock</string>
+    </dict>
+  </lib>
+</glyph>

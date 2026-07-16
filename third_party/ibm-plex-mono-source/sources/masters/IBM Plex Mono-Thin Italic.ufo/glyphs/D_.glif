@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="600"/>
+  <unicode hex="0044"/>
+  <anchor x="242.0" y="0.0" name="bottom"/>
+  <anchor x="345.0" y="698.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="260" y="0" type="line" smooth="yes"/>
+      <point x="472" y="0"/>
+      <point x="552" y="228"/>
+      <point x="552" y="469" type="curve" smooth="yes"/>
+      <point x="552" y="620"/>
+      <point x="466" y="698"/>
+      <point x="343" y="698" type="curve" smooth="yes"/>
+      <point x="181" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="20" type="line"/>
+      <point x="200" y="678" type="line"/>
+      <point x="344" y="678" type="line" smooth="yes"/>
+      <point x="460" y="678"/>
+      <point x="531" y="603"/>
+      <point x="531" y="468" type="curve" smooth="yes"/>
+      <point x="531" y="434"/>
+      <point x="530" y="397"/>
+      <point x="523" y="357" type="curve" smooth="yes"/>
+      <point x="513" y="298" type="line" smooth="yes"/>
+      <point x="482" y="115"/>
+      <point x="389" y="20"/>
+      <point x="260" y="20" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjc4Ii
+      B3aWR0aD0iMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjUzMSIgd2lkdGg9IjIxIiAvPgo
+      gICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

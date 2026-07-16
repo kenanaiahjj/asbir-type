@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowdownright" format="2">
+  <advance width="600"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="558" y="81" type="line"/>
+      <point x="558" y="419" type="line"/>
+      <point x="445" y="419" type="line"/>
+      <point x="445" y="334" type="line"/>
+      <point x="449" y="276" type="line"/>
+      <point x="446" y="274" type="line"/>
+      <point x="392" y="333" type="line"/>
+      <point x="103" y="622" type="line"/>
+      <point x="17" y="536" type="line"/>
+      <point x="306" y="247" type="line"/>
+      <point x="365" y="193" type="line"/>
+      <point x="363" y="190" type="line"/>
+      <point x="305" y="194" type="line"/>
+      <point x="220" y="194" type="line"/>
+      <point x="220" y="81" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjgxIiB3aWR0aD0iMTEzIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0ND
+      UiIHdpZHRoPSIxMTMiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2198</string>
+      <key>com.type-invaders.name.production</key>
+      <string>arrowdownright</string>
+    </dict>
+  </lib>
+</glyph>

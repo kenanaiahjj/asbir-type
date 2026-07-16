@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04FA" format="2">
+  <advance width="1058"/>
+  <unicode hex="04FA"/>
+  <anchor x="356" y="745" name="cross"/>
+  <anchor x="232" y="0" name="cyrtic"/>
+  <anchor x="586" y="1490" name="top"/>
+  <outline>
+    <component base="Ge-cy" xOffset="18"/>
+    <component base="crossbar.uc" xOffset="-26"/>
+    <component base="_part.cyrtic_hook" xOffset="70"/>
+  </outline>
+</glyph>

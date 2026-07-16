@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semisoftsign-cy" format="2">
+  <advance width="1260"/>
+  <unicode hex="048D"/>
+  <outline>
+    <contour>
+      <point x="20" y="972" type="line"/>
+      <point x="795" y="972" type="line"/>
+      <point x="795" y="1118" type="line"/>
+      <point x="20" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="1118" type="line"/>
+      <point x="444" y="1118" type="line"/>
+      <point x="444" y="1384" type="line"/>
+      <point x="274" y="1384" type="line"/>
+    </contour>
+    <component base="softsigncyrillic" xOffset="116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>softsigncyrillic</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCP</string>
+    </dict>
+  </lib>
+</glyph>

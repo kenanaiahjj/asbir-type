@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.numr" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="251" y="363" type="line"/>
+      <point x="314" y="363" type="line"/>
+      <point x="486" y="645" type="line"/>
+      <point x="495" y="698" type="line"/>
+      <point x="252" y="698" type="line"/>
+      <point x="233" y="582" type="line"/>
+      <point x="287" y="582" type="line"/>
+      <point x="298" y="647" type="line"/>
+      <point x="424" y="647" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjM2MyIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNj
+      Q3IiB3aWR0aD0iNTEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIzMyIgd2lkdGg9IjI2MiI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

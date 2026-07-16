@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="1879"/>
+  <unicode hex="0416"/>
+  <anchor x="1790" y="0" name="cyrtic"/>
+  <anchor x="941" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="1031" y="1490" type="line"/>
+      <point x="851" y="1490" type="line"/>
+      <point x="851" y="0" type="line"/>
+      <point x="1031" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="643" y="665" type="line"/>
+      <point x="1239" y="665" type="line"/>
+      <point x="1651" y="0" type="line"/>
+      <point x="1854" y="0" type="line"/>
+      <point x="1375" y="760" type="line"/>
+      <point x="1803" y="1490" type="line"/>
+      <point x="1601" y="1490" type="line"/>
+      <point x="1223" y="825" type="line"/>
+      <point x="663" y="825" type="line"/>
+      <point x="283" y="1490" type="line"/>
+      <point x="81" y="1490" type="line"/>
+      <point x="507" y="762" type="line"/>
+    </contour>
+  </outline>
+</glyph>

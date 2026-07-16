@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nineroman" format="2">
+  <advance width="1614"/>
+  <unicode hex="2178"/>
+  <anchor x="1055" y="0" name="bottom"/>
+  <anchor x="249" y="595" name="cross"/>
+  <anchor x="338" y="0" name="ogonek"/>
+  <anchor x="1055" y="1118" name="top"/>
+  <anchor x="1501" y="0" name="cyrtic"/>
+  <anchor x="1368" y="0" name="right"/>
+  <outline>
+    <component base="i"/>
+    <component base="x" xOffset="496"/>
+  </outline>
+</glyph>

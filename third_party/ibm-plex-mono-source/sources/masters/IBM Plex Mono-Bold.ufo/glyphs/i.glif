@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="600"/>
+  <unicode hex="0069"/>
+  <anchor x="332.0" y="0.0" name="bottom"/>
+  <anchor x="558.0" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="332" y="582" type="curve" smooth="yes"/>
+      <point x="398" y="582"/>
+      <point x="421" y="613"/>
+      <point x="421" y="652" type="curve" smooth="yes"/>
+      <point x="421" y="681" type="line" smooth="yes"/>
+      <point x="421" y="721"/>
+      <point x="398" y="751"/>
+      <point x="332" y="751" type="curve" smooth="yes"/>
+      <point x="266" y="751"/>
+      <point x="243" y="721"/>
+      <point x="243" y="681" type="curve" smooth="yes"/>
+      <point x="243" y="652" type="line" smooth="yes"/>
+      <point x="243" y="613"/>
+      <point x="266" y="582"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="115" type="line"/>
+      <point x="406" y="115" type="line"/>
+      <point x="406" y="516" type="line"/>
+      <point x="94" y="516" type="line"/>
+      <point x="94" y="401" type="line"/>
+      <point x="258" y="401" type="line"/>
+      <point x="258" y="115" type="line"/>
+      <point x="94" y="115" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQwMS
+      Igd2lkdGg9IjExNSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTgyIiB3aWR0aD0iMTY5IiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSIyNTgiIHdpZHRoPSIxNDgiIC8+CiAgICA8L2hpbnRz
+      ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

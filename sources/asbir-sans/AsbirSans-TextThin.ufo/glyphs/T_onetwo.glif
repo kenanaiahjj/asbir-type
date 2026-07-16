@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonetwo" format="2">
+  <advance width="1254"/>
+  <unicode hex="01A7"/>
+  <anchor x="626" y="0" name="bottom"/>
+  <anchor x="626" y="0" name="cedilla"/>
+  <anchor x="626" y="1490" name="top"/>
+  <outline>
+    <component base="S" xScale="-1" xOffset="1254"/>
+  </outline>
+</glyph>

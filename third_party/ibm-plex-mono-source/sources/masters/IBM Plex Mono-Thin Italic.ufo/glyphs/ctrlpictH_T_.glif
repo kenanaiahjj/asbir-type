@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctrlpictHT" format="2">
+  <advance width="600"/>
+  <unicode hex="2409"/>
+  <outline>
+    <contour>
+      <point x="246" y="240" type="line"/>
+      <point x="264" y="240" type="line"/>
+      <point x="264" y="477" type="line"/>
+      <point x="246" y="477" type="line"/>
+      <point x="246" y="368" type="line"/>
+      <point x="154" y="368" type="line"/>
+      <point x="154" y="477" type="line"/>
+      <point x="136" y="477" type="line"/>
+      <point x="136" y="240" type="line"/>
+      <point x="154" y="240" type="line"/>
+      <point x="154" y="352" type="line"/>
+      <point x="246" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="462" type="line"/>
+      <point x="481" y="477" type="line"/>
+      <point x="319" y="477" type="line"/>
+      <point x="319" y="462" type="line"/>
+      <point x="391" y="462" type="line"/>
+      <point x="391" y="240" type="line"/>
+      <point x="409" y="240" type="line"/>
+      <point x="409" y="462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2409</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ctrlpictHT</string>
+    </dict>
+  </lib>
+</glyph>

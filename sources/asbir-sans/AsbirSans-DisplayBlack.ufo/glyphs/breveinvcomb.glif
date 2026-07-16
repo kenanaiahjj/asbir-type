@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvcomb" format="2">
+  <advance width="864"/>
+  <unicode hex="EEAB"/>
+  <anchor x="432" y="1056" name="_top"/>
+  <anchor x="432" y="1507" name="top"/>
+  <outline>
+    <contour>
+      <point x="432" y="1515" type="curve" smooth="yes"/>
+      <point x="208" y="1515"/>
+      <point x="40" y="1368"/>
+      <point x="40" y="1181" type="curve"/>
+      <point x="260" y="1181" type="line"/>
+      <point x="260" y="1265"/>
+      <point x="331" y="1324"/>
+      <point x="432" y="1324" type="curve" smooth="yes"/>
+      <point x="532" y="1324"/>
+      <point x="602" y="1265"/>
+      <point x="602" y="1181" type="curve"/>
+      <point x="824" y="1181" type="line"/>
+      <point x="824" y="1368"/>
+      <point x="656" y="1515"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

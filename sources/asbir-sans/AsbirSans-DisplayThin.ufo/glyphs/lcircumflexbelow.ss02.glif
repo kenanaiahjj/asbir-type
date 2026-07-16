@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcircumflexbelow.ss02" format="2">
+  <advance width="360"/>
+  <unicode hex="E05C"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="180" y="745" name="centerr"/>
+  <anchor x="158" y="768" name="cross"/>
+  <anchor x="318" y="1490" name="raccent"/>
+  <anchor x="157" y="1490" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="circumflexsubcomb" xOffset="754"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.ss02</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

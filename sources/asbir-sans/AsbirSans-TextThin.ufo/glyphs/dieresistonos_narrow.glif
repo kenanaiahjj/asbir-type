@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos_narrow" format="2">
+  <advance width="1028"/>
+  <unicode hex="EE91"/>
+  <anchor x="480" y="1118" name="_top"/>
+  <outline>
+    <contour>
+      <point x="618" y="1373" type="curve" smooth="yes"/>
+      <point x="644" y="1373"/>
+      <point x="665" y="1394"/>
+      <point x="665" y="1420" type="curve" smooth="yes"/>
+      <point x="665" y="1446"/>
+      <point x="644" y="1467"/>
+      <point x="618" y="1467" type="curve" smooth="yes"/>
+      <point x="592" y="1467"/>
+      <point x="571" y="1446"/>
+      <point x="571" y="1420" type="curve" smooth="yes"/>
+      <point x="571" y="1394"/>
+      <point x="592" y="1373"/>
+    </contour>
+    <contour>
+      <point x="342" y="1373" type="curve" smooth="yes"/>
+      <point x="368" y="1373"/>
+      <point x="389" y="1394"/>
+      <point x="389" y="1420" type="curve" smooth="yes"/>
+      <point x="389" y="1446"/>
+      <point x="368" y="1467"/>
+      <point x="342" y="1467" type="curve" smooth="yes"/>
+      <point x="316" y="1467"/>
+      <point x="295" y="1446"/>
+      <point x="295" y="1420" type="curve" smooth="yes"/>
+      <point x="295" y="1394"/>
+      <point x="316" y="1373"/>
+    </contour>
+    <component base="tonos.top" xOffset="336" yOffset="137"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

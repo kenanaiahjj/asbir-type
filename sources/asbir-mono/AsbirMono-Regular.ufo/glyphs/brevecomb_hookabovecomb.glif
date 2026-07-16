@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="300" y="520" name="_top"/>
+  <anchor x="298.2" y="864.2" name="top"/>
+  <outline>
+    <component base="brevecomb" yOffset="-10"/>
+    <component base="hookabovecomb" xScale="0.9" yScale="0.9" xOffset="30" yOffset="182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

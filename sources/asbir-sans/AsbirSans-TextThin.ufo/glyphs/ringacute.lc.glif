@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacute.lc" format="2">
+  <advance width="488"/>
+  <unicode hex="EECE"/>
+  <anchor x="240" y="1118" name="_top"/>
+  <outline>
+    <contour>
+      <point x="218" y="1672" type="line"/>
+      <point x="264" y="1672" type="line"/>
+      <point x="392" y="1812" type="line"/>
+      <point x="334" y="1812" type="line"/>
+    </contour>
+    <component base="ringcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

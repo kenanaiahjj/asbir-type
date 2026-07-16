@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="1518"/>
+  <unicode hex="01AF"/>
+  <anchor x="763" y="0" name="bottom"/>
+  <anchor x="1344" y="507" name="ogonek"/>
+  <anchor x="849" y="0" name="right"/>
+  <anchor x="1154" y="1490" name="rtophorn"/>
+  <anchor x="763" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="1158" y="1346" type="line"/>
+      <point x="1356" y="1346" type="line" smooth="yes"/>
+      <point x="1470" y="1346"/>
+      <point x="1526" y="1402"/>
+      <point x="1526" y="1516" type="curve" smooth="yes"/>
+      <point x="1526" y="1698" type="line"/>
+      <point x="1356" y="1698" type="line"/>
+      <point x="1356" y="1508" type="line" smooth="yes"/>
+      <point x="1356" y="1497"/>
+      <point x="1349" y="1490"/>
+      <point x="1338" y="1490" type="curve" smooth="yes"/>
+      <point x="1158" y="1490" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

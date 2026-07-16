@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.alt" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="320" y="-114" type="line"/>
+      <point x="453" y="-114" type="line"/>
+      <point x="291" y="354" type="line"/>
+      <point x="453" y="821" type="line"/>
+      <point x="320" y="821" type="line"/>
+      <point x="159" y="354" type="line"/>
+    </contour>
+  </outline>
+</glyph>

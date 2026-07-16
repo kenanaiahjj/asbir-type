@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="1654"/>
+  <unicode hex="20A7"/>
+  <anchor x="190" y="1490" name="tonos"/>
+  <anchor x="1359" y="1384" name="top"/>
+  <anchor x="232" y="1490" name="topl"/>
+  <anchor x="1472" y="0" name="bottom"/>
+  <anchor x="1472" y="0" name="cedilla"/>
+  <anchor x="1614" y="4" name="lfthook"/>
+  <anchor x="1278" y="1526" name="raccent"/>
+  <outline>
+    <component base="P"/>
+    <component base="t" xOffset="1162"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

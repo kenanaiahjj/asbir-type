@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <guideline x="0" y="0" angle="80.5" identifier="zbyx0ceFQ1"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-29" y="-218" type="curve" smooth="yes"/>
+      <point x="76" y="-218"/>
+      <point x="123" y="-129"/>
+      <point x="152" y="-67" type="curve"/>
+      <point x="102" y="-46" type="line"/>
+      <point x="75" y="-80" type="line" smooth="yes"/>
+      <point x="32" y="-134"/>
+      <point x="15" y="-155"/>
+      <point x="-27" y="-155" type="curve" smooth="yes"/>
+      <point x="-72" y="-155"/>
+      <point x="-85" y="-130"/>
+      <point x="-107" y="-80" type="curve" smooth="yes"/>
+      <point x="-122" y="-46" type="line"/>
+      <point x="-170" y="-67" type="line"/>
+      <point x="-161" y="-128"/>
+      <point x="-135" y="-218"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni032E</string>
+      <key>com.type-invaders.name.production</key>
+      <string>brevebelowcomb</string>
+      <key>com.typemytype.robofont.guideline.magnetic.zbyx0ceFQ1</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.showMeasurements.zbyx0ceFQ1</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

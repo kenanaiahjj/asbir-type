@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotbelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1EA1"/>
+  <anchor x="524.0" y="0.0" name="bottomright"/>
+  <anchor x="316.0" y="516.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EA1</string>
+      <key>com.type-invaders.name.production</key>
+      <string>adotbelow</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

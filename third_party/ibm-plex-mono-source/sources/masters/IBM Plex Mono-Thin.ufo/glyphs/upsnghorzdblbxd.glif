@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsnghorzdblbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2567"/>
+  <outline>
+    <contour>
+      <point x="-34" y="334" type="line"/>
+      <point x="634" y="334" type="line"/>
+      <point x="634" y="402" type="line"/>
+      <point x="334" y="402" type="line"/>
+      <point x="334" y="950" type="line"/>
+      <point x="266" y="950" type="line"/>
+      <point x="266" y="402" type="line"/>
+      <point x="-34" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-34" y="198" type="line"/>
+      <point x="634" y="198" type="line"/>
+      <point x="634" y="266" type="line"/>
+      <point x="-34" y="266" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjE5OCIgd2lkdGg9IjY4IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMz
+      QiIHdpZHRoPSI2OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjY2IiB3aWR0aD0iNjgiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2567</string>
+      <key>com.type-invaders.name.production</key>
+      <string>upsnghorzdblbxd</string>
+    </dict>
+  </lib>
+</glyph>

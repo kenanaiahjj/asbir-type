@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cstroke" format="2">
+  <advance width="1018"/>
+  <unicode hex="023C"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="530" y="0" name="cedilla"/>
+  <anchor x="530" y="528" name="center"/>
+  <anchor x="530" y="1056" name="top"/>
+  <anchor x="952" y="712" name="topr"/>
+  <outline>
+    <contour>
+      <point x="159" y="-418" type="line"/>
+      <point x="207" y="-418" type="line"/>
+      <point x="876" y="1490" type="line"/>
+      <point x="828" y="1490" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

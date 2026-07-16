@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="1584"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="326" y="824" type="curve" smooth="yes"/>
+      <point x="459" y="824"/>
+      <point x="566" y="931"/>
+      <point x="566" y="1064" type="curve" smooth="yes"/>
+      <point x="566" y="1197"/>
+      <point x="459" y="1304"/>
+      <point x="326" y="1304" type="curve" smooth="yes"/>
+      <point x="193" y="1304"/>
+      <point x="86" y="1197"/>
+      <point x="86" y="1064" type="curve" smooth="yes"/>
+      <point x="86" y="931"/>
+      <point x="193" y="824"/>
+    </contour>
+    <contour>
+      <point x="1258" y="186" type="curve" smooth="yes"/>
+      <point x="1391" y="186"/>
+      <point x="1498" y="293"/>
+      <point x="1498" y="426" type="curve" smooth="yes"/>
+      <point x="1498" y="559"/>
+      <point x="1391" y="666"/>
+      <point x="1258" y="666" type="curve" smooth="yes"/>
+      <point x="1125" y="666"/>
+      <point x="1018" y="559"/>
+      <point x="1018" y="426" type="curve" smooth="yes"/>
+      <point x="1018" y="293"/>
+      <point x="1125" y="186"/>
+    </contour>
+    <component base="fraction" xOffset="552"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCP</string>
+    </dict>
+  </lib>
+</glyph>

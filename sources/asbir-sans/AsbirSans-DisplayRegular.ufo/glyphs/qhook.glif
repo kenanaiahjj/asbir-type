@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qhook" format="2">
+  <advance width="1158"/>
+  <unicode hex="02A0"/>
+  <anchor x="948" y="-418" name="bottom"/>
+  <anchor x="946" y="-162" name="cross"/>
+  <anchor x="580" y="1056" name="top"/>
+  <anchor x="1032" y="1056" name="topr"/>
+  <outline>
+    <component base="q"/>
+    <component base="_part.top_r_hook" xOffset="740"/>
+  </outline>
+</glyph>

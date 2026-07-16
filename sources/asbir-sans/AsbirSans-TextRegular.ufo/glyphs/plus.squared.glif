@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="E155"/>
+  <outline>
+    <contour>
+      <point x="1333" y="73" type="line"/>
+      <point x="1495" y="73" type="line"/>
+      <point x="1495" y="1417" type="line"/>
+      <point x="1333" y="1417" type="line"/>
+    </contour>
+    <contour>
+      <point x="742" y="669" type="line"/>
+      <point x="2086" y="669" type="line"/>
+      <point x="2086" y="821" type="line"/>
+      <point x="742" y="821" type="line"/>
+    </contour>
+    <component base="whiteLargeSquare"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>whiteLargeSquare</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

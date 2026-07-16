@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DE1" format="2">
+  <unicode hex="1DE1"/>
+  <outline>
+    <contour>
+      <point x="-464" y="1242" type="line"/>
+      <point x="-798" y="1798" type="line"/>
+      <point x="-932" y="1754" type="line"/>
+      <point x="-604" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-798" y="1798" type="line"/>
+      <point x="-982" y="1798" type="line"/>
+      <point x="-982" y="1202" type="line"/>
+      <point x="-798" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-420" y="1798" type="line"/>
+      <point x="-604" y="1798" type="line"/>
+      <point x="-604" y="1202" type="line"/>
+      <point x="-420" y="1202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>8</integer>
+    </dict>
+  </lib>
+</glyph>

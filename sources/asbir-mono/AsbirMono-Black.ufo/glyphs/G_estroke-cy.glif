@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestroke-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0492"/>
+  <anchor x="321" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="267" type="line"/>
+      <point x="470" y="267" type="line"/>
+      <point x="470" y="407" type="line"/>
+      <point x="20" y="407" type="line"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

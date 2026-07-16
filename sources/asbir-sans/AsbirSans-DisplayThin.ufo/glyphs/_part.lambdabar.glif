@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.lambdabar" format="2">
+  <advance width="1102"/>
+  <anchor x="394" y="1236" name="_bar"/>
+  <outline>
+    <contour>
+      <point x="197" y="1119" type="line"/>
+      <point x="591" y="1305" type="line"/>
+      <point x="574" y="1348" type="line"/>
+      <point x="180" y="1161" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

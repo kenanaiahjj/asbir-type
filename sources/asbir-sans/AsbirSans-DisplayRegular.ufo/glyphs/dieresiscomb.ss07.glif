@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.ss07" format="2">
+  <unicode hex="E2BF"/>
+  <anchor x="560" y="1056" name="_top"/>
+  <anchor x="560" y="1490" name="top"/>
+  <outline>
+    <component base="dotaccentcomb.ss07" xOffset="156"/>
+    <component base="dotaccentcomb.ss07" xOffset="540"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb.ss07</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1120</integer>
+    </dict>
+  </lib>
+</glyph>

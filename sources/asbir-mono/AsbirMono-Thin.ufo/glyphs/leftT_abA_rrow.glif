@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftTabArrow" format="2">
+  <advance width="600"/>
+  <unicode hex="21E4"/>
+  <outline>
+    <contour>
+      <point x="260" y="193" type="line"/>
+      <point x="259" y="439" type="line"/>
+      <point x="105" y="316" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="119" type="line"/>
+      <point x="70" y="119" type="line"/>
+      <point x="70" y="509" type="line"/>
+      <point x="40" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="299" type="line"/>
+      <point x="560" y="299" type="line"/>
+      <point x="560" y="331" type="line"/>
+      <point x="141" y="331" type="line"/>
+    </contour>
+  </outline>
+</glyph>

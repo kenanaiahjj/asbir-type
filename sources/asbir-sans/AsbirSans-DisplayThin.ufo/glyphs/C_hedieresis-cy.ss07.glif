@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedieresis-cy.ss07" format="2">
+  <advance width="1276"/>
+  <unicode hex="E295"/>
+  <anchor x="622" y="640" name="cross"/>
+  <anchor x="1108" y="0" name="cyrtic"/>
+  <anchor x="620" y="1796" name="top"/>
+  <outline>
+    <component base="Che-cy"/>
+    <component base="dieresiscomb.ss07" xOffset="86" yOffset="434"/>
+  </outline>
+</glyph>

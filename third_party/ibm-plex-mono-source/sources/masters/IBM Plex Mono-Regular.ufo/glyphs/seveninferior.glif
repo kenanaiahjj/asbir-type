@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seveninferior" format="2">
+  <advance width="600"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="292" y="0" type="line"/>
+      <point x="436" y="317" type="line"/>
+      <point x="436" y="369" type="line"/>
+      <point x="164" y="369" type="line"/>
+      <point x="164" y="252" type="line"/>
+      <point x="218" y="252" type="line"/>
+      <point x="218" y="319" type="line"/>
+      <point x="373" y="319" type="line"/>
+      <point x="225" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjMxOS
+      Igd2lkdGg9IjUwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNjQiIHdpZHRoPSI1NCIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2087</string>
+      <key>com.type-invaders.name.production</key>
+      <string>seveninferior</string>
+    </dict>
+  </lib>
+</glyph>

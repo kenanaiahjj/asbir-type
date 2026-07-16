@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.numr" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="186" y="363" type="line"/>
+      <point x="434" y="363" type="line"/>
+      <point x="434" y="432" type="line"/>
+      <point x="359" y="432" type="line"/>
+      <point x="359" y="698" type="line"/>
+      <point x="226" y="698" type="line"/>
+      <point x="149" y="594" type="line"/>
+      <point x="210" y="550" type="line"/>
+      <point x="265" y="626" type="line"/>
+      <point x="271" y="626" type="line"/>
+      <point x="271" y="432" type="line"/>
+      <point x="186" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjM2MyIgd2lkdGg9IjY5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI2Mj
+      YiIHdpZHRoPSI3MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjcxIiB3aWR0aD0iODgiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.WwTjyTKnHf</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

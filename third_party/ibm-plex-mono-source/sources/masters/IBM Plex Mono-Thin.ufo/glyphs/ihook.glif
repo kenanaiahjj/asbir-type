@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ihook" format="2">
+  <advance width="600"/>
+  <unicode hex="1EC9"/>
+  <anchor x="332.0" y="0.0" name="bottom"/>
+  <anchor x="535.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="hookcomb" xOffset="332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EC9</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ihook</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

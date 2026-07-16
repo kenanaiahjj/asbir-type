@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni044A" format="2">
+  <advance width="600"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="314" y="-12" type="curve" smooth="yes"/>
+      <point x="456" y="-12"/>
+      <point x="560" y="82"/>
+      <point x="560" y="222" type="curve" smooth="yes"/>
+      <point x="560" y="318"/>
+      <point x="508" y="366"/>
+      <point x="430" y="366" type="curve" smooth="yes"/>
+      <point x="384" y="366"/>
+      <point x="347" y="348"/>
+      <point x="309" y="316" type="curve"/>
+      <point x="299" y="324" type="line"/>
+      <point x="405" y="450" type="line"/>
+      <point x="415" y="516" type="line"/>
+      <point x="296" y="516" type="line"/>
+      <point x="289" y="474" type="line"/>
+      <point x="283" y="469" type="line"/>
+      <point x="225" y="511"/>
+      <point x="189" y="528"/>
+      <point x="149" y="528" type="curve" smooth="yes"/>
+      <point x="86" y="528"/>
+      <point x="46" y="492"/>
+      <point x="33" y="416" type="curve" smooth="yes"/>
+      <point x="25" y="369" type="line"/>
+      <point x="133" y="369" type="line"/>
+      <point x="139" y="407" type="line"/>
+      <point x="150" y="412" type="line"/>
+      <point x="243" y="395" type="line"/>
+      <point x="209" y="361" type="line" smooth="yes"/>
+      <point x="143" y="295"/>
+      <point x="119" y="236"/>
+      <point x="119" y="159" type="curve" smooth="yes"/>
+      <point x="119" y="62"/>
+      <point x="191" y="-12"/>
+    </contour>
+    <contour>
+      <point x="329" y="94" type="curve" smooth="yes"/>
+      <point x="286" y="94"/>
+      <point x="261" y="116"/>
+      <point x="261" y="158" type="curve" smooth="yes"/>
+      <point x="261" y="169"/>
+      <point x="262" y="177"/>
+      <point x="264" y="188" type="curve" smooth="yes"/>
+      <point x="272" y="233"/>
+      <point x="303" y="267"/>
+      <point x="354" y="267" type="curve" smooth="yes"/>
+      <point x="393" y="267"/>
+      <point x="418" y="248"/>
+      <point x="418" y="208" type="curve" smooth="yes"/>
+      <point x="418" y="199"/>
+      <point x="417" y="190"/>
+      <point x="414" y="175" type="curve" smooth="yes"/>
+      <point x="404" y="121"/>
+      <point x="369" y="94"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMiIgd2lkdGg9IjEwNiIgLz4KICAgICAgPGhzdGVtIHBvcz0iMj
+      Y3IiB3aWR0aD0iOTkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQxMiIgd2lkdGg9IjExNiI
+      gLz4KICAgICAgPHZzdGVtIHBvcz0iMTE5IiB3aWR0aD0iMTQyIiAvPgogICAgICA8dnN0
+      ZW0gcG9zPSI0MTgiIHdpZHRoPSIxNDIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U
+      2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.cVXP64xOND</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.lJWo5kUVz5</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

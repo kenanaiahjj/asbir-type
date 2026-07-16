@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="398" y="-154" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="533" y="108" type="line"/>
+      <point x="449" y="108" type="line"/>
+      <point x="536" y="536" type="line"/>
+      <point x="370" y="536" type="line"/>
+      <point x="4" y="120" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="267" y="-154" type="line"/>
+    </contour>
+    <contour>
+      <point x="318" y="108" type="line"/>
+      <point x="126" y="108" type="line"/>
+      <point x="362" y="376" type="line"/>
+      <point x="373" y="376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNTQiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      AiIHdpZHRoPSIxMDgiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUzNiIgd2lkdGg9Ii0yMSI
+      gLz4KICAgICAgPHZzdGVtIHBvcz0iLTIwIiB3aWR0aD0iNTU2IiAvPgogICAgPC9oaW50
+      c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.HgczQnTN9R</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.Jjhg9kNrBv</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.PN6qv1mc3M</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

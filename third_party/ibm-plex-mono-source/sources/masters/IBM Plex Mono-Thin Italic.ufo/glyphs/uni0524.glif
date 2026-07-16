@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0524" format="2">
+  <advance width="600"/>
+  <unicode hex="0524"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="196" y="678" type="line"/>
+      <point x="535" y="678" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="489" y="-150" type="line"/>
+      <point x="511" y="-150" type="line"/>
+      <point x="539" y="20" type="line"/>
+      <point x="448" y="20" type="line"/>
+      <point x="561" y="698" type="line"/>
+      <point x="177" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjc4Ii
+      B3aWR0aD0iMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjYxIiB3aWR0aD0iNTAwIiAvPgo
+      gICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

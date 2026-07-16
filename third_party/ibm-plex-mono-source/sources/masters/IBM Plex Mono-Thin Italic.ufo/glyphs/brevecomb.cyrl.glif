@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.cyrl" format="2">
+  <anchor x="0.0" y="516.0" name="_top"/>
+  <outline>
+    <component base="breve.cyrl" xOffset="-300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni0306.cyrl</string>
+      <key>com.type-invaders.name.production</key>
+      <string>brevecomb.cyrl</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

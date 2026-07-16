@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedtop" format="2">
+  <advance width="600"/>
+  <unicode hex="02BB"/>
+  <anchor x="300.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="243" y="587" type="line"/>
+      <point x="352" y="587" type="line"/>
+      <point x="380" y="776" type="line"/>
+      <point x="319" y="776" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjU4NyIgd2lkdGg9IjE4OSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMj
+      QzIiB3aWR0aD0iMTM3IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni02BB</string>
+      <key>com.type-invaders.name.production</key>
+      <string>commaturnedtop</string>
+    </dict>
+  </lib>
+</glyph>

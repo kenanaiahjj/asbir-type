@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04B4" format="2">
+  <advance width="600"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="441" y="-150" type="line"/>
+      <point x="583" y="-150" type="line"/>
+      <point x="583" y="123" type="line"/>
+      <point x="515" y="123" type="line"/>
+      <point x="515" y="698" type="line"/>
+      <point x="364" y="698" type="line"/>
+      <point x="364" y="123" type="line"/>
+      <point x="245" y="123" type="line"/>
+      <point x="245" y="575" type="line"/>
+      <point x="330" y="575" type="line"/>
+      <point x="330" y="698" type="line"/>
+      <point x="8" y="698" type="line"/>
+      <point x="8" y="575" type="line"/>
+      <point x="94" y="575" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMjMiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjU3NS
+      Igd2lkdGg9IjEyMyIgLz4KICAgICAgPHZzdGVtIHBvcz0iOTQiIHdpZHRoPSIxNTEiIC8
+      +CiAgICAgIDx2c3RlbSBwb3M9IjM2NCIgd2lkdGg9IjE1MSIgLz4KICAgIDwvaGludHNl
+      dD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iM
+      CIgd2lkdGg9IjEyMyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTc1IiB3aWR0aD0iMTIzIi
+      AvPgogICAgICA8dnN0ZW0gcG9zPSI5NCIgd2lkdGg9IjE1MSIgLz4KICAgICAgPHZzdGV
+      tIHBvcz0iNDQxIiB3aWR0aD0iMTQyIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNl
+      dExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

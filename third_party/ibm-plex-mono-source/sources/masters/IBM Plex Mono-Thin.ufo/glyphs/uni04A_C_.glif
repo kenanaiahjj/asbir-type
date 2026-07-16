@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AC" format="2">
+  <advance width="600"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <contour>
+      <point x="559" y="678" type="line"/>
+      <point x="559" y="698" type="line"/>
+      <point x="41" y="698" type="line"/>
+      <point x="41" y="678" type="line"/>
+      <point x="289" y="678" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="382" y="-150" type="line"/>
+      <point x="404" y="-150" type="line"/>
+      <point x="404" y="20" type="line"/>
+      <point x="311" y="20" type="line"/>
+      <point x="311" y="678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjc4Ii
+      B3aWR0aD0iMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjI4OSIgd2lkdGg9IjIyIiAvPgo
+      gICAgICA8dnN0ZW0gcG9zPSIzODIiIHdpZHRoPSIyMiIgLz4KICAgIDwvaGludHNldD4K
+      ICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

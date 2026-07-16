@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittlecyrillic" format="2">
+  <advance width="1114"/>
+  <unicode hex="0467"/>
+  <outline>
+    <contour>
+      <point x="897" y="0" type="line"/>
+      <point x="1084" y="0" type="line"/>
+      <point x="642" y="1056" type="line"/>
+      <point x="490" y="1056" type="line"/>
+      <point x="600" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="0" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="642" y="200" type="line" smooth="yes"/>
+      <point x="642" y="287"/>
+      <point x="691" y="338"/>
+      <point x="773" y="342" type="curve"/>
+      <point x="773" y="496" type="line"/>
+      <point x="688" y="496"/>
+      <point x="612" y="461"/>
+      <point x="557" y="390" type="curve"/>
+      <point x="502" y="461"/>
+      <point x="426" y="496"/>
+      <point x="341" y="496" type="curve"/>
+      <point x="341" y="342" type="line"/>
+      <point x="423" y="338"/>
+      <point x="472" y="287"/>
+      <point x="472" y="200" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="507" y="730" type="line"/>
+      <point x="620" y="1056" type="line"/>
+      <point x="470" y="1056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

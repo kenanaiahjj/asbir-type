@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F48" format="2">
+  <advance width="1605"/>
+  <unicode hex="1F48"/>
+  <anchor x="905" y="0" name="bottom"/>
+  <anchor x="905" y="745" name="center"/>
+  <anchor x="1521" y="744" name="ogonek"/>
+  <anchor x="409" y="1490" name="tonos"/>
+  <anchor x="905" y="1490" name="top"/>
+  <anchor x="905" y="1506" name="tophorn"/>
+  <outline>
+    <component base="O" xOffset="203"/>
+    <component base="koronisaccentleft.cn" xOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

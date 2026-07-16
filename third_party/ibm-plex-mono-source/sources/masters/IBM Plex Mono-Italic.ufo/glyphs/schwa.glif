@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="600"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="243" y="-12" type="curve" smooth="yes"/>
+      <point x="409" y="-12"/>
+      <point x="527" y="120"/>
+      <point x="527" y="307" type="curve" smooth="yes"/>
+      <point x="527" y="455"/>
+      <point x="453" y="528"/>
+      <point x="323" y="528" type="curve" smooth="yes"/>
+      <point x="214" y="528"/>
+      <point x="144" y="476"/>
+      <point x="86" y="381" type="curve"/>
+      <point x="141" y="347" type="line"/>
+      <point x="199" y="429"/>
+      <point x="242" y="461"/>
+      <point x="316" y="461" type="curve" smooth="yes"/>
+      <point x="424" y="461"/>
+      <point x="445" y="394"/>
+      <point x="445" y="322" type="curve" smooth="yes"/>
+      <point x="445" y="320"/>
+      <point x="445" y="309"/>
+      <point x="444" y="299" type="curve"/>
+      <point x="115" y="290"/>
+      <point x="68" y="200"/>
+      <point x="68" y="127" type="curve" smooth="yes"/>
+      <point x="68" y="37"/>
+      <point x="142" y="-12"/>
+    </contour>
+    <contour>
+      <point x="250" y="53" type="curve" smooth="yes"/>
+      <point x="175" y="53"/>
+      <point x="148" y="88"/>
+      <point x="148" y="130" type="curve" smooth="yes"/>
+      <point x="148" y="180"/>
+      <point x="186" y="237"/>
+      <point x="438" y="245" type="curve"/>
+      <point x="437" y="235" type="line" smooth="yes"/>
+      <point x="422" y="118"/>
+      <point x="354" y="53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMiIgd2lkdGg9IjY1IiAvPgogICAgICA8aHN0ZW0gcG9zPSIyND
+      UiIHdpZHRoPSI1NCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDYxIiB3aWR0aD0iNjciIC8
+      +CiAgICAgIDx2c3RlbSBwb3M9IjY4IiB3aWR0aD0iODAiIC8+CiAgICAgIDx2c3RlbSBw
+      b3M9IjQ0NSIgd2lkdGg9IjgyIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc
+      3Q+Cg==
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni0259</string>
+      <key>com.type-invaders.name.production</key>
+      <string>schwa</string>
+    </dict>
+  </lib>
+</glyph>

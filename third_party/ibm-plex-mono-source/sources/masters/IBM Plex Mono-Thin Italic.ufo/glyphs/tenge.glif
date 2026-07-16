@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="600"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="629" y="678" type="line"/>
+      <point x="632" y="698" type="line"/>
+      <point x="114" y="698" type="line"/>
+      <point x="111" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="529" type="line"/>
+      <point x="607" y="549" type="line"/>
+      <point x="89" y="549" type="line"/>
+      <point x="86" y="529" type="line"/>
+      <point x="334" y="529" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="356" y="529" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUyOS
+      Igd2lkdGg9IjIwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2NzgiIHdpZHRoPSIyMCIgLz4
+      KICAgICAgPHZzdGVtIHBvcz0iODYiIHdpZHRoPSI1NDYiIC8+CiAgICA8L2hpbnRzZXQ+
+      CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20B8</string>
+      <key>com.type-invaders.name.production</key>
+      <string>tenge</string>
+    </dict>
+  </lib>
+</glyph>

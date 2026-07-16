@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="291" y="935" type="line"/>
+      <point x="158" y="794" type="line"/>
+      <point x="197" y="761" type="line"/>
+      <point x="334" y="878" type="line"/>
+      <point x="430" y="761" type="line"/>
+      <point x="476" y="788" type="line"/>
+      <point x="389" y="935" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ijc2MSIgd2lkdGg9IjE3NCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMT
+      U4IiB3aWR0aD0iMzE4IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+    </dict>
+  </lib>
+</glyph>

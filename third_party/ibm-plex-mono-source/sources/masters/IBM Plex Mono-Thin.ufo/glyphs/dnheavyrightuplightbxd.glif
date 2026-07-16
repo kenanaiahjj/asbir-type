@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dnheavyrightuplightbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="251F"/>
+  <outline>
+    <contour>
+      <point x="232" y="-350" type="line"/>
+      <point x="368" y="-350" type="line"/>
+      <point x="368" y="266" type="line"/>
+      <point x="634" y="266" type="line"/>
+      <point x="634" y="334" type="line"/>
+      <point x="334" y="334" type="line"/>
+      <point x="334" y="950" type="line"/>
+      <point x="266" y="950" type="line"/>
+      <point x="266" y="334" type="line"/>
+      <point x="232" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNj
+      YiIHdpZHRoPSI2OCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGF
+      nPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iMjY2IiB3aWR0aD0iNjgiIC8+CiAgICAg
+      IDx2c3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4KICAgIDwvaGludHNldD4KICA8L
+      2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni251F</string>
+      <key>com.type-invaders.name.production</key>
+      <string>dnheavyrightuplightbxd</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECF" format="2">
+  <advance width="540"/>
+  <unicode hex="1ECF"/>
+  <outline>
+    <contour>
+      <point x="233.6952134673021" y="632.2707817229472" type="line"/>
+      <point x="271.6952134673021" y="660.2707817229472" type="line"/>
+      <point x="288.3047865326979" y="637.7292182770528" type="line"/>
+      <point x="250.3047865326979" y="609.7292182770528" type="line"/>
+    </contour>
+    <contour>
+      <point x="302.0" y="603" type="curve" smooth="yes"/>
+      <point x="302.0" y="610.7319865"/>
+      <point x="295.7319865" y="617.0"/>
+      <point x="288.0" y="617.0" type="curve" smooth="yes"/>
+      <point x="280.2680135" y="617.0"/>
+      <point x="274.0" y="610.7319865"/>
+      <point x="274.0" y="603" type="curve" smooth="yes"/>
+      <point x="274.0" y="595.2680135"/>
+      <point x="280.2680135" y="589.0"/>
+      <point x="288.0" y="589.0" type="curve" smooth="yes"/>
+      <point x="295.7319865" y="589.0"/>
+      <point x="302.0" y="595.2680135"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>

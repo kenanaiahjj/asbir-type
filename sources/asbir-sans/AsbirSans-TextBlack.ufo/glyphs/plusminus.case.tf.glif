@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus.case.tf" format="2">
+  <advance width="1320"/>
+  <unicode hex="EE6E"/>
+  <outline>
+    <component base="plusminus.tf" yOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>plusminus.tf</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

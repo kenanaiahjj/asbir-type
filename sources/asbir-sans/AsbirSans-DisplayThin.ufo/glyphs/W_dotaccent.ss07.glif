@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdotaccent.ss07" format="2">
+  <advance width="1810"/>
+  <unicode hex="E21D"/>
+  <anchor x="905" y="0" name="bottom"/>
+  <anchor x="905" y="1796" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dotaccentcomb.ss07" xOffset="782" yOffset="434"/>
+  </outline>
+</glyph>

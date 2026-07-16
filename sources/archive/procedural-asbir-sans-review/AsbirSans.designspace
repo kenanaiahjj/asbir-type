@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="AsbirSans-Thin.ufo" name="Thin" familyname="Asbir Sans Review" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AsbirSans-Regular.ufo" name="Regular" familyname="Asbir Sans Review" stylename="Regular">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="AsbirSans-Black.ufo" name="Black" familyname="Asbir Sans Review" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Asbir Sans Review" stylename="Thin" filename="AsbirSansReview-Thin.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="ExtraLight" filename="AsbirSansReview-ExtraLight.ufo">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="Light" filename="AsbirSansReview-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="Regular" filename="AsbirSansReview-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="Medium" filename="AsbirSansReview-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="SemiBold" filename="AsbirSansReview-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="Bold" filename="AsbirSansReview-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="ExtraBold" filename="AsbirSansReview-ExtraBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance familyname="Asbir Sans Review" stylename="Black" filename="AsbirSansReview-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

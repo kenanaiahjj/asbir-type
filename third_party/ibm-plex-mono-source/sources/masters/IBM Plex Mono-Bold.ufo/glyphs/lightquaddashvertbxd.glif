@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightquaddashvertbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="250A"/>
+  <outline>
+    <contour>
+      <point x="266" y="658" type="line"/>
+      <point x="334" y="658" type="line"/>
+      <point x="334" y="461" type="line"/>
+      <point x="266" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="397" type="line"/>
+      <point x="334" y="397" type="line"/>
+      <point x="334" y="200" type="line"/>
+      <point x="266" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="136" type="line"/>
+      <point x="334" y="136" type="line"/>
+      <point x="334" y="-61" type="line"/>
+      <point x="266" y="-61" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="-121" type="line"/>
+      <point x="334" y="-121" type="line"/>
+      <point x="334" y="-318" type="line"/>
+      <point x="266" y="-318" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="918" type="line"/>
+      <point x="334" y="918" type="line"/>
+      <point x="334" y="721" type="line"/>
+      <point x="266" y="721" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0zMTgiIHdpZHRoPSIxOTciIC8+CiAgICAgIDxoc3RlbSBwb3M9Ii
+      02MSIgd2lkdGg9IjE5NyIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjAwIiB3aWR0aD0iMTk
+      3IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NjEiIHdpZHRoPSIxOTciIC8+CiAgICAgIDxo
+      c3RlbSBwb3M9IjcyMSIgd2lkdGg9IjE5NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjY2I
+      iB3aWR0aD0iNjgiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni250A</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lightquaddashvertbxd</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F6" format="2">
+  <advance width="600"/>
+  <unicode hex="04F6"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="134" y="-150" type="line"/>
+      <point x="267" y="-150" type="line"/>
+      <point x="312" y="122" type="line"/>
+      <point x="234" y="122" type="line"/>
+      <point x="309" y="576" type="line"/>
+      <point x="581" y="576" type="line"/>
+      <point x="602" y="698" type="line"/>
+      <point x="182" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMjIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjU3Ni
+      Igd2lkdGg9IjEyMiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNjYiIHdpZHRoPSI1MzYiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.RSRiHdb8CT</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.UilI3RGRtD</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.bottom_lfthook2_uc" format="2">
+  <advance width="640"/>
+  <anchor x="522" y="0" name="_lfthook2"/>
+  <outline>
+    <component base="_part.bottom_lfthook_uc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

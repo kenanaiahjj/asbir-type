@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0473"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="270" name="center"/>
+  <anchor x="540" y="10" name="ogonek"/>
+  <anchor x="300" y="540" name="top"/>
+  <anchor x="334" y="540" name="topright"/>
+  <outline>
+    <contour>
+      <point x="162" y="170" type="line"/>
+      <point x="188" y="196"/>
+      <point x="217" y="218"/>
+      <point x="246" y="218" type="curve" smooth="yes"/>
+      <point x="291" y="218"/>
+      <point x="337" y="184"/>
+      <point x="378" y="184" type="curve" smooth="yes"/>
+      <point x="400" y="184"/>
+      <point x="427" y="194"/>
+      <point x="449" y="221" type="curve"/>
+      <point x="434" y="351" type="line"/>
+      <point x="413" y="329"/>
+      <point x="397" y="318"/>
+      <point x="372" y="318" type="curve" smooth="yes"/>
+      <point x="325" y="318"/>
+      <point x="291" y="352"/>
+      <point x="241" y="352" type="curve" smooth="yes"/>
+      <point x="214" y="352"/>
+      <point x="180" y="339"/>
+      <point x="152" y="310" type="curve"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightdbldashhorzbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="254C"/>
+  <outline>
+    <contour>
+      <point x="75" y="266" type="line"/>
+      <point x="225" y="266" type="line"/>
+      <point x="225" y="334" type="line"/>
+      <point x="75" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="266" type="line"/>
+      <point x="525" y="266" type="line"/>
+      <point x="525" y="334" type="line"/>
+      <point x="375" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSI3NS
+      Igd2lkdGg9IjE1MCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzc1IiB3aWR0aD0iMTUwIiA
+      vPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni254C</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lightdbldashhorzbxd</string>
+    </dict>
+  </lib>
+</glyph>

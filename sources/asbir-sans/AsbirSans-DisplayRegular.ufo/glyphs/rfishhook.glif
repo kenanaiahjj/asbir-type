@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhook" format="2">
+  <advance width="660"/>
+  <unicode hex="027E"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="296" y="690" type="line" smooth="yes"/>
+      <point x="296" y="869"/>
+      <point x="397" y="905"/>
+      <point x="514" y="905" type="curve" smooth="yes"/>
+      <point x="563" y="905"/>
+      <point x="596" y="903"/>
+      <point x="618" y="901" type="curve"/>
+      <point x="618" y="1063" type="line"/>
+      <point x="604" y="1065"/>
+      <point x="562" y="1069"/>
+      <point x="500" y="1069" type="curve" smooth="yes"/>
+      <point x="322" y="1069"/>
+      <point x="126" y="978"/>
+      <point x="126" y="690" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

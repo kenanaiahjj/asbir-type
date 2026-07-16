@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos.ss07" format="2">
+  <advance width="1592"/>
+  <unicode hex="E2BB"/>
+  <anchor x="796" y="1118" name="_top"/>
+  <anchor x="443" y="1586" name="top"/>
+  <outline>
+    <contour>
+      <point x="273" y="1256" type="line"/>
+      <point x="613" y="1256" type="line"/>
+      <point x="613" y="1586" type="line"/>
+      <point x="273" y="1586" type="line"/>
+    </contour>
+    <contour>
+      <point x="979" y="1256" type="line"/>
+      <point x="1319" y="1256" type="line"/>
+      <point x="1319" y="1586" type="line"/>
+      <point x="979" y="1586" type="line"/>
+    </contour>
+    <component base="tonos.top" xOffset="408" yOffset="235"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

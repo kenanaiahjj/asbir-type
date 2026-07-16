@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hryvnia" format="2">
+  <advance width="600"/>
+  <unicode hex="20B4"/>
+  <outline>
+    <contour>
+      <point x="285" y="-12" type="curve" smooth="yes"/>
+      <point x="360" y="-12"/>
+      <point x="440" y="21"/>
+      <point x="499" y="86" type="curve"/>
+      <point x="452" y="139" type="line"/>
+      <point x="391" y="81"/>
+      <point x="343" y="57"/>
+      <point x="292" y="57" type="curve" smooth="yes"/>
+      <point x="221" y="57"/>
+      <point x="174" y="102"/>
+      <point x="174" y="170" type="curve" smooth="yes"/>
+      <point x="174" y="203"/>
+      <point x="185" y="231"/>
+      <point x="203" y="255" type="curve"/>
+      <point x="572" y="255" type="line"/>
+      <point x="583" y="319" type="line"/>
+      <point x="291" y="319" type="line"/>
+      <point x="292" y="323" type="line"/>
+      <point x="467" y="409" type="line"/>
+      <point x="597" y="409" type="line"/>
+      <point x="608" y="473" type="line"/>
+      <point x="517" y="473" type="line"/>
+      <point x="527" y="492"/>
+      <point x="535" y="517"/>
+      <point x="535" y="549" type="curve" smooth="yes"/>
+      <point x="535" y="644"/>
+      <point x="463" y="710"/>
+      <point x="347" y="710" type="curve" smooth="yes"/>
+      <point x="280" y="710"/>
+      <point x="212" y="688"/>
+      <point x="160" y="642" type="curve"/>
+      <point x="203" y="585" type="line"/>
+      <point x="242" y="623"/>
+      <point x="291" y="641"/>
+      <point x="340" y="641" type="curve" smooth="yes"/>
+      <point x="412" y="641"/>
+      <point x="455" y="602"/>
+      <point x="455" y="535" type="curve" smooth="yes"/>
+      <point x="455" y="508"/>
+      <point x="448" y="489"/>
+      <point x="438" y="473" type="curve"/>
+      <point x="68" y="473" type="line"/>
+      <point x="57" y="409" type="line"/>
+      <point x="344" y="409" type="line"/>
+      <point x="343" y="405" type="line"/>
+      <point x="169" y="319" type="line"/>
+      <point x="42" y="319" type="line"/>
+      <point x="31" y="255" type="line"/>
+      <point x="121" y="255" type="line"/>
+      <point x="107" y="232"/>
+      <point x="95" y="202"/>
+      <point x="95" y="163" type="curve" smooth="yes"/>
+      <point x="95" y="64"/>
+      <point x="172" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMiIgd2lkdGg9IjY5IiAvPgogICAgICA8aHN0ZW0gcG9zPSIyNT
+      UiIHdpZHRoPSI2NCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDA5IiB3aWR0aD0iNjQiIC8
+      +CiAgICAgIDxoc3RlbSBwb3M9IjY0MSIgd2lkdGg9IjY5IiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSI5NSIgd2lkdGg9Ijc5IiAvPgogICAgICA8dnN0ZW0gcG9zPSI0NTUiIHdpZHRoP
+      SI4MCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20B4</string>
+      <key>com.type-invaders.name.production</key>
+      <string>hryvnia</string>
+    </dict>
+  </lib>
+</glyph>

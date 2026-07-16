@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevehook.alt01" format="2">
+  <advance width="600"/>
+  <anchor x="257.0" y="0.0" name="bottom"/>
+  <anchor x="483.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="a.alt01"/>
+    <component base="brevehook" xOffset="340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EB3.alt01</string>
+      <key>com.type-invaders.name.production</key>
+      <string>abrevehook.alt01</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="61" y="627" type="line"/>
+      <point x="40" y="627" type="line"/>
+      <point x="22" y="516" type="line"/>
+      <point x="-58" y="516" type="line"/>
+      <point x="-61" y="498" type="line"/>
+      <point x="10" y="498" type="line" smooth="yes"/>
+      <point x="31" y="498"/>
+      <point x="42" y="507"/>
+      <point x="45" y="527" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjQ5OCIgd2lkdGg9IjE4IiAvPgogICAgICA8dnN0ZW0gcG9zPSItNj
+      EiIHdpZHRoPSIxMjIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni031B</string>
+      <key>com.type-invaders.name.production</key>
+      <string>horncomb</string>
+    </dict>
+  </lib>
+</glyph>

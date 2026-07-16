@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.slash" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="143.4665807565786" y="92.51285355516208" type="line"/>
+      <point x="343.4665807565786" y="612.5128535551621" type="line"/>
+      <point x="356.5334192434214" y="607.4871464448379" type="line"/>
+      <point x="156.5334192434214" y="87.48714644483792" type="line"/>
+    </contour>
+    <component base="uni0030"/>
+  </outline>
+</glyph>

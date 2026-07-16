@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhook" format="2">
+  <advance width="1454"/>
+  <unicode hex="019D"/>
+  <anchor x="727" y="0" name="bottom"/>
+  <anchor x="148" y="0" name="lfthook"/>
+  <anchor x="1306" y="0" name="lfthook2"/>
+  <anchor x="727" y="1490" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="_part.bottom_lfthook_uc" xOffset="-194"/>
+  </outline>
+</glyph>

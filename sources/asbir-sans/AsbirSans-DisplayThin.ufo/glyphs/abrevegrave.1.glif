@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevegrave.1" format="2">
+  <advance width="1118"/>
+  <unicode hex="E031"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="984" y="0" name="bottomr"/>
+  <anchor x="984" y="0" name="ogonek"/>
+  <anchor x="530" y="1764" name="top"/>
+  <anchor x="984" y="1056" name="topr"/>
+  <outline>
+    <component base="a.1"/>
+    <component base="brevegravecomb.cn" xOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevegravecomb.cn</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

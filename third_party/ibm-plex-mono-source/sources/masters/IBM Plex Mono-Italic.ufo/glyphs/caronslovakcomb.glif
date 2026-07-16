@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronslovakcomb" format="2">
+  <unicode hex="0315"/>
+  <anchor x="0.0" y="740.0" name="_topright"/>
+  <outline>
+    <component base="caronslovak" xOffset="-193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni0315</string>
+      <key>com.type-invaders.name.production</key>
+      <string>caronslovakcomb</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

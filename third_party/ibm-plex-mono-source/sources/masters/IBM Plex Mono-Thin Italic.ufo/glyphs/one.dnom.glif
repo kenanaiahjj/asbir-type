@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="386" y="0" type="line"/>
+      <point x="389" y="17" type="line"/>
+      <point x="284" y="17" type="line"/>
+      <point x="336" y="335" type="line"/>
+      <point x="305" y="335" type="line"/>
+      <point x="173" y="238" type="line"/>
+      <point x="183" y="225" type="line"/>
+      <point x="313" y="321" type="line"/>
+      <point x="315" y="321" type="line"/>
+      <point x="265" y="17" type="line"/>
+      <point x="149" y="17" type="line"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxNyIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzM1Ii
+      B3aWR0aD0iLTIxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNDYiIHdpZHRoPSIyNDMiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

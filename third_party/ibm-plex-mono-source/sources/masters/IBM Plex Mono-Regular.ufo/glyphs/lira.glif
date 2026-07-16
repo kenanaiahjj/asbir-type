@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="600"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="538" y="80" type="line"/>
+      <point x="154" y="80" type="line"/>
+      <point x="154" y="85" type="line"/>
+      <point x="186" y="106"/>
+      <point x="222" y="148"/>
+      <point x="233" y="209" type="curve"/>
+      <point x="415" y="209" type="line"/>
+      <point x="415" y="274" type="line"/>
+      <point x="234" y="274" type="line"/>
+      <point x="231" y="303"/>
+      <point x="222" y="329"/>
+      <point x="213" y="356" type="curve"/>
+      <point x="415" y="356" type="line"/>
+      <point x="415" y="421" type="line"/>
+      <point x="193" y="421" type="line"/>
+      <point x="188" y="444"/>
+      <point x="184" y="467"/>
+      <point x="184" y="494" type="curve" smooth="yes"/>
+      <point x="184" y="596"/>
+      <point x="240" y="637"/>
+      <point x="327" y="637" type="curve" smooth="yes"/>
+      <point x="403" y="637"/>
+      <point x="450" y="605"/>
+      <point x="487" y="551" type="curve"/>
+      <point x="550" y="596" type="line"/>
+      <point x="506" y="664"/>
+      <point x="438" y="710"/>
+      <point x="332" y="710" type="curve" smooth="yes"/>
+      <point x="187" y="710"/>
+      <point x="98" y="623"/>
+      <point x="98" y="499" type="curve" smooth="yes"/>
+      <point x="98" y="471"/>
+      <point x="103" y="445"/>
+      <point x="109" y="421" type="curve"/>
+      <point x="52" y="421" type="line"/>
+      <point x="52" y="356" type="line"/>
+      <point x="130" y="356" type="line"/>
+      <point x="139" y="330"/>
+      <point x="147" y="303"/>
+      <point x="151" y="274" type="curve"/>
+      <point x="52" y="274" type="line"/>
+      <point x="52" y="209" type="line"/>
+      <point x="152" y="209" type="line"/>
+      <point x="146" y="161"/>
+      <point x="122" y="124"/>
+      <point x="75" y="105" type="curve"/>
+      <point x="75" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI4MCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjA5Ii
+      B3aWR0aD0iNjUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM1NiIgd2lkdGg9IjY1IiAvPgo
+      gICAgICA8aHN0ZW0gcG9zPSI2MzciIHdpZHRoPSI3MyIgLz4KICAgICAgPHZzdGVtIHBv
+      cz0iOTgiIHdpZHRoPSI4NiIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBva
+      W50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iMCIgd2lkdGg9IjgwIiAvPgogIC
+      AgICA8aHN0ZW0gcG9zPSIyMDkiIHdpZHRoPSI2NSIgLz4KICAgICAgPGhzdGVtIHBvcz0
+      iMzU2IiB3aWR0aD0iNjUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjYzNyIgd2lkdGg9Ijcz
+      IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNTEiIHdpZHRoPSI4MyIgLz4KICAgIDwvaGlud
+      HNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20A4</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lira</string>
+    </dict>
+  </lib>
+</glyph>

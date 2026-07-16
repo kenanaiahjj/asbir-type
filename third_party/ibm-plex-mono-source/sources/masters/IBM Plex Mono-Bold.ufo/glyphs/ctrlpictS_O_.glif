@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctrlpictSO" format="2">
+  <advance width="600"/>
+  <unicode hex="240E"/>
+  <outline>
+    <contour>
+      <point x="196" y="236" type="curve" smooth="yes"/>
+      <point x="251" y="236"/>
+      <point x="279" y="269"/>
+      <point x="279" y="314" type="curve" smooth="yes"/>
+      <point x="279" y="352"/>
+      <point x="256" y="373"/>
+      <point x="225" y="380" type="curve" smooth="yes"/>
+      <point x="204" y="385" type="line" smooth="yes"/>
+      <point x="187" y="389"/>
+      <point x="178" y="395"/>
+      <point x="178" y="411" type="curve" smooth="yes"/>
+      <point x="178" y="429"/>
+      <point x="188" y="438"/>
+      <point x="205" y="438" type="curve" smooth="yes"/>
+      <point x="220" y="438"/>
+      <point x="235" y="430"/>
+      <point x="246" y="417" type="curve"/>
+      <point x="276" y="450" type="line"/>
+      <point x="261" y="469"/>
+      <point x="236" y="481"/>
+      <point x="204" y="481" type="curve" smooth="yes"/>
+      <point x="155" y="481"/>
+      <point x="126" y="455"/>
+      <point x="126" y="409" type="curve" smooth="yes"/>
+      <point x="126" y="374"/>
+      <point x="145" y="349"/>
+      <point x="181" y="341" type="curve" smooth="yes"/>
+      <point x="202" y="336" type="line" smooth="yes"/>
+      <point x="219" y="332"/>
+      <point x="226" y="325"/>
+      <point x="226" y="309" type="curve" smooth="yes"/>
+      <point x="226" y="290"/>
+      <point x="215" y="279"/>
+      <point x="197" y="279" type="curve" smooth="yes"/>
+      <point x="182" y="279"/>
+      <point x="163" y="288"/>
+      <point x="148" y="306" type="curve"/>
+      <point x="117" y="272" type="line"/>
+      <point x="134" y="250"/>
+      <point x="162" y="236"/>
+    </contour>
+    <contour>
+      <point x="400" y="236" type="curve" smooth="yes"/>
+      <point x="458" y="236"/>
+      <point x="486" y="281"/>
+      <point x="486" y="359" type="curve" smooth="yes"/>
+      <point x="486" y="436"/>
+      <point x="458" y="481"/>
+      <point x="400" y="481" type="curve" smooth="yes"/>
+      <point x="342" y="481"/>
+      <point x="314" y="436"/>
+      <point x="314" y="359" type="curve" smooth="yes"/>
+      <point x="314" y="281"/>
+      <point x="342" y="236"/>
+    </contour>
+    <contour>
+      <point x="400" y="279" type="curve" smooth="yes"/>
+      <point x="378" y="279"/>
+      <point x="372" y="301"/>
+      <point x="372" y="338" type="curve" smooth="yes"/>
+      <point x="372" y="380" type="line" smooth="yes"/>
+      <point x="372" y="417"/>
+      <point x="378" y="439"/>
+      <point x="400" y="439" type="curve" smooth="yes"/>
+      <point x="422" y="439"/>
+      <point x="428" y="417"/>
+      <point x="428" y="380" type="curve" smooth="yes"/>
+      <point x="428" y="338" type="line"/>
+      <point x="428" y="301"/>
+      <point x="422" y="279"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni240E</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ctrlpictSO</string>
+    </dict>
+  </lib>
+</glyph>

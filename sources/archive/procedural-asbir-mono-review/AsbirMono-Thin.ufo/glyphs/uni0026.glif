@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0026" format="2">
+  <advance width="600"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="350" y="220" type="curve"/>
+      <point x="350" y="319.411255"/>
+      <point x="291.7970175" y="400"/>
+      <point x="220" y="400" type="curve"/>
+      <point x="148.20298250000002" y="400"/>
+      <point x="90" y="319.411255"/>
+      <point x="90" y="220" type="curve"/>
+      <point x="90" y="120.588745"/>
+      <point x="148.20298250000002" y="40"/>
+      <point x="220" y="40" type="curve"/>
+      <point x="291.7970175" y="40"/>
+      <point x="350" y="120.588745"/>
+    </contour>
+    <contour>
+      <point x="314" y="220" type="curve"/>
+      <point x="314" y="140.470996"/>
+      <point x="271.9147665" y="76"/>
+      <point x="220" y="76" type="curve"/>
+      <point x="168.08523350000002" y="76"/>
+      <point x="126" y="140.470996"/>
+      <point x="126" y="220" type="curve"/>
+      <point x="126" y="299.529004"/>
+      <point x="168.08523350000002" y="364"/>
+      <point x="220" y="364" type="curve"/>
+      <point x="271.9147665" y="364"/>
+      <point x="314" y="299.529004"/>
+    </contour>
+    <contour>
+      <point x="126.20992945456241" y="587.8254831849612" type="line"/>
+      <point x="406.2099294545624" y="7.825483184961165" type="line"/>
+      <point x="373.7900705454376" y="-7.825483184961165" type="line"/>
+      <point x="93.79007054543759" y="572.1745168150388" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="520" type="curve"/>
+      <point x="400" y="586.27417"/>
+      <point x="355.228475" y="640"/>
+      <point x="300" y="640" type="curve"/>
+      <point x="244.771525" y="640"/>
+      <point x="200" y="586.27417"/>
+      <point x="200" y="520" type="curve"/>
+      <point x="200" y="453.72583"/>
+      <point x="244.771525" y="400"/>
+      <point x="300" y="400" type="curve"/>
+      <point x="355.228475" y="400"/>
+      <point x="400" y="453.72583"/>
+    </contour>
+  </outline>
+</glyph>

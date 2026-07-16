@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni024D" format="2">
+  <advance width="660"/>
+  <unicode hex="024D"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="296" y="0" name="bottomr"/>
+  <anchor x="212" y="536" name="cross"/>
+  <anchor x="367" y="1056" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="crossbar" xOffset="-236" yOffset="-209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>crossbar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

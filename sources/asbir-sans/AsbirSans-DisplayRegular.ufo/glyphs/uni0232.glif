@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0232" format="2">
+  <advance width="1316"/>
+  <unicode hex="0232"/>
+  <anchor x="658" y="0" name="bottom"/>
+  <anchor x="658" y="392" name="cross"/>
+  <anchor x="748" y="0" name="ogonek"/>
+  <anchor x="20" y="1490" name="tonos"/>
+  <anchor x="658" y="1850" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="macroncomb" xOffset="242" yOffset="434"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrowToBar" format="2">
+  <advance width="1812"/>
+  <unicode hex="2913"/>
+  <outline>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="1605" y="0" type="line"/>
+      <point x="1605" y="302" type="line"/>
+      <point x="207" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="755" y="1050" type="line" smooth="yes"/>
+      <point x="755" y="936"/>
+      <point x="764" y="798"/>
+      <point x="772" y="708" type="curve"/>
+      <point x="884" y="737" type="line"/>
+      <point x="803" y="825"/>
+      <point x="723" y="922"/>
+      <point x="642" y="1002" type="curve" smooth="yes"/>
+      <point x="391" y="1252" type="line"/>
+      <point x="186" y="1046" type="line"/>
+      <point x="906" y="324" type="line"/>
+      <point x="1626" y="1046" type="line"/>
+      <point x="1421" y="1252" type="line"/>
+      <point x="1170" y="1002" type="line" smooth="yes"/>
+      <point x="1089" y="922"/>
+      <point x="1009" y="825"/>
+      <point x="928" y="737" type="curve"/>
+      <point x="1040" y="708" type="line"/>
+      <point x="1048" y="798"/>
+      <point x="1057" y="936"/>
+      <point x="1057" y="1050" type="curve" smooth="yes"/>
+      <point x="1057" y="1490" type="line"/>
+      <point x="755" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

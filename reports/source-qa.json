@@ -1,0 +1,29 @@
+{
+  "mono": {
+    "masters": [
+      "AsbirMono-Thin.ufo",
+      "AsbirMono-Regular.ufo",
+      "AsbirMono-Black.ufo"
+    ],
+    "glyphs": 1170,
+    "cmap": 897,
+    "checks": {
+      "at_least_three_designspace_masters": true,
+      "at_least_basic_latin_source": true,
+      "source_glyph_count": true,
+      "notdef_present": true,
+      "nbspace_present": true,
+      "latin_1_letters_present": true,
+      "latin_extended_a_letters_present": false,
+      "romanian_comma_letters_present": true,
+      "vietnamese_letters_present": true,
+      "core_greek_letters_present": false,
+      "core_cyrillic_letters_present": false,
+      "feature_code_present": true,
+      "zero_alternate_source": true,
+      "compatible_masters": true,
+      "monospaced_advances": true
+    },
+    "failures": []
+  }
+}

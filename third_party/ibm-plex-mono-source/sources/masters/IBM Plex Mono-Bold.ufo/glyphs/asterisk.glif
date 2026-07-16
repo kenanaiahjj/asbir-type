@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="600"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="300" y="200" type="line"/>
+      <point x="409" y="51" type="line"/>
+      <point x="513" y="120" type="line"/>
+      <point x="399" y="270" type="line"/>
+      <point x="570" y="328" type="line"/>
+      <point x="531" y="443" type="line"/>
+      <point x="364" y="382" type="line"/>
+      <point x="364" y="559" type="line"/>
+      <point x="236" y="559" type="line"/>
+      <point x="236" y="382" type="line"/>
+      <point x="69" y="443" type="line"/>
+      <point x="30" y="328" type="line"/>
+      <point x="201" y="270" type="line"/>
+      <point x="87" y="120" type="line"/>
+      <point x="191" y="51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjQwIiB3aWR0aD0iNTA4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMC
+      Igd2lkdGg9IjU0MCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

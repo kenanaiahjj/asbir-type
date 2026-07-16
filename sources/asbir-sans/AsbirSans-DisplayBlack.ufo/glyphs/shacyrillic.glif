@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shacyrillic" format="2">
+  <advance width="1794"/>
+  <unicode hex="0448"/>
+  <anchor x="1708" y="0" name="cyrtic"/>
+  <anchor x="897" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="86" y="1056" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="1708" y="0" type="line"/>
+      <point x="1708" y="1056" type="line"/>
+      <point x="1308" y="1056" type="line"/>
+      <point x="1308" y="320" type="line"/>
+      <point x="1088" y="320" type="line"/>
+      <point x="1088" y="1056" type="line"/>
+      <point x="706" y="1056" type="line"/>
+      <point x="706" y="320" type="line"/>
+      <point x="486" y="320" type="line"/>
+      <point x="486" y="1056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

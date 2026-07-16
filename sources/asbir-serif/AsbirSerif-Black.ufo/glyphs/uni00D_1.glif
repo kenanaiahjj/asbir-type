@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00D1" format="2">
+  <advance width="540"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="192.50228029164683" y="783.8538852976474" type="line"/>
+      <point x="232.50228029164683" y="811.8538852976474" type="line"/>
+      <point x="271.49771970835315" y="756.1461147023526" type="line"/>
+      <point x="231.49771970835317" y="728.1461147023526" type="line"/>
+    </contour>
+    <contour>
+      <point x="271.49771970835315" y="811.8538852976474" type="line"/>
+      <point x="311.49771970835315" y="783.8538852976474" type="line"/>
+      <point x="272.50228029164685" y="728.1461147023526" type="line"/>
+      <point x="232.50228029164683" y="756.1461147023526" type="line"/>
+    </contour>
+    <contour>
+      <point x="271.8312327063051" y="783.3718984700145" type="line"/>
+      <point x="309.8312327063051" y="811.3718984700145" type="line"/>
+      <point x="350.1687672936949" y="756.6281015299855" type="line"/>
+      <point x="312.1687672936949" y="728.6281015299855" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+</glyph>

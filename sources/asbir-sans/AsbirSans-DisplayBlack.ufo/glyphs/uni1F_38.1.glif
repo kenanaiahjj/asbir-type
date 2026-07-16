@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F38.1" format="2">
+  <advance width="1315"/>
+  <unicode hex="E01E"/>
+  <anchor x="868" y="0" name="bottom"/>
+  <anchor x="868" y="788" name="cross"/>
+  <anchor x="1265" y="0" name="ogonek"/>
+  <anchor x="1291" y="0" name="right"/>
+  <anchor x="471" y="1490" name="tonos"/>
+  <anchor x="868" y="1490" name="top"/>
+  <outline>
+    <component base="I.1" xOffset="421"/>
+    <component base="koronisaccentleft.cn" xOffset="-40" yOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

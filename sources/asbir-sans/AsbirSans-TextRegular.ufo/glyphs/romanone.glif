@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romanone" format="2">
+  <advance width="550"/>
+  <unicode hex="2160"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="275" y="769" name="cross"/>
+  <anchor x="370" y="0" name="ogonek"/>
+  <anchor x="386" y="0" name="right"/>
+  <anchor x="180" y="1490" name="tonos"/>
+  <anchor x="275" y="1490" name="top"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+</glyph>

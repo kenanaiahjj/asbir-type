@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04CA" format="2">
+  <advance width="1060"/>
+  <unicode hex="04CA"/>
+  <anchor x="533" y="0" name="bottom"/>
+  <anchor x="926" y="0" name="cyrtic"/>
+  <anchor x="880" y="0" name="lfthook"/>
+  <anchor x="533" y="1056" name="top"/>
+  <outline>
+    <component base="encyrillic"/>
+    <component base="_part.cyrtail" xOffset="830"/>
+  </outline>
+</glyph>

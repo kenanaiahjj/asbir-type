@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftquarterblock" format="2">
+  <advance width="600"/>
+  <unicode hex="258E"/>
+  <outline>
+    <contour>
+      <point x="0" y="-350" type="line"/>
+      <point x="150" y="-350" type="line"/>
+      <point x="150" y="950" type="line"/>
+      <point x="0" y="950" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0zNTAiIHdpZHRoPSIxMzAwIiAvPgogICAgICA8dnN0ZW0gcG9zPS
+      IwIiB3aWR0aD0iMTUwIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni258E</string>
+      <key>com.type-invaders.name.production</key>
+      <string>leftquarterblock</string>
+    </dict>
+  </lib>
+</glyph>

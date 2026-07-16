@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflextilde" format="2">
+  <advance width="600"/>
+  <unicode hex="1EAA"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="595.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflextilde.case" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EAA</string>
+      <key>com.type-invaders.name.production</key>
+      <string>Acircumflextilde</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

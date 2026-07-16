@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sups" format="2">
+  <advance width="388"/>
+  <unicode hex="1D57"/>
+  <anchor x="236" y="886" name="bottom"/>
+  <anchor x="235" y="886" name="cedilla"/>
+  <anchor x="327" y="886" name="lfthook"/>
+  <anchor x="273" y="1653" name="raccent"/>
+  <anchor x="167" y="1578" name="top"/>
+  <outline>
+    <contour>
+      <point x="144" y="1578" type="line"/>
+      <point x="144" y="996" type="line" smooth="yes"/>
+      <point x="144" y="924"/>
+      <point x="189" y="886"/>
+      <point x="275" y="886" type="curve" smooth="yes"/>
+      <point x="292" y="886"/>
+      <point x="310" y="886"/>
+      <point x="327" y="886" type="curve"/>
+      <point x="327" y="928" type="line"/>
+      <point x="311" y="928"/>
+      <point x="293" y="928"/>
+      <point x="277" y="928" type="curve" smooth="yes"/>
+      <point x="217" y="928"/>
+      <point x="190" y="949"/>
+      <point x="190" y="999" type="curve" smooth="yes"/>
+      <point x="190" y="1578" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="1430" type="line"/>
+      <point x="42" y="1430" type="line"/>
+      <point x="42" y="1388" type="line"/>
+      <point x="327" y="1388" type="line"/>
+    </contour>
+  </outline>
+</glyph>

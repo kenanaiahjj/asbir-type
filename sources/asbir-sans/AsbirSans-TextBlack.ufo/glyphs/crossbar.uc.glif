@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossbar.uc" format="2">
+  <advance width="1020"/>
+  <unicode hex="EEDE"/>
+  <anchor x="510" y="745" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="50" y="621" type="line"/>
+      <point x="970" y="621" type="line"/>
+      <point x="970" y="869" type="line"/>
+      <point x="50" y="869" type="line"/>
+    </contour>
+  </outline>
+</glyph>

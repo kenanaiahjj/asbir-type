@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vdotbelow.ss07" format="2">
+  <advance width="1114"/>
+  <unicode hex="E26A"/>
+  <anchor x="557" y="0" name="bottom"/>
+  <anchor x="557" y="1118" name="top"/>
+  <outline>
+    <component base="v"/>
+    <component base="dotbelow.ss07" xOffset="371"/>
+  </outline>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eightsuperior" format="2">
+  <advance width="600"/>
+  <unicode hex="2078"/>
+  <outline>
+    <contour>
+      <point x="300" y="323" type="curve" smooth="yes"/>
+      <point x="391" y="323"/>
+      <point x="437" y="364"/>
+      <point x="437" y="426" type="curve" smooth="yes"/>
+      <point x="437" y="480"/>
+      <point x="402" y="507"/>
+      <point x="350" y="518" type="curve"/>
+      <point x="350" y="521" type="line"/>
+      <point x="405" y="535"/>
+      <point x="423" y="573"/>
+      <point x="423" y="610" type="curve" smooth="yes"/>
+      <point x="423" y="669"/>
+      <point x="377" y="704"/>
+      <point x="300" y="704" type="curve" smooth="yes"/>
+      <point x="223" y="704"/>
+      <point x="177" y="669"/>
+      <point x="177" y="610" type="curve" smooth="yes"/>
+      <point x="177" y="573"/>
+      <point x="195" y="535"/>
+      <point x="250" y="521" type="curve"/>
+      <point x="250" y="518" type="line"/>
+      <point x="198" y="507"/>
+      <point x="163" y="480"/>
+      <point x="163" y="426" type="curve" smooth="yes"/>
+      <point x="163" y="364"/>
+      <point x="209" y="323"/>
+    </contour>
+    <contour>
+      <point x="300" y="528" type="curve" smooth="yes"/>
+      <point x="229" y="528"/>
+      <point x="197" y="558"/>
+      <point x="197" y="604" type="curve" smooth="yes"/>
+      <point x="197" y="611" type="line" smooth="yes"/>
+      <point x="197" y="657"/>
+      <point x="229" y="687"/>
+      <point x="300" y="687" type="curve" smooth="yes"/>
+      <point x="371" y="687"/>
+      <point x="403" y="657"/>
+      <point x="403" y="611" type="curve" smooth="yes"/>
+      <point x="403" y="604" type="line" smooth="yes"/>
+      <point x="403" y="558"/>
+      <point x="371" y="528"/>
+    </contour>
+    <contour>
+      <point x="300" y="340" type="curve" smooth="yes"/>
+      <point x="224" y="340"/>
+      <point x="183" y="370"/>
+      <point x="183" y="421" type="curve" smooth="yes"/>
+      <point x="183" y="430" type="line" smooth="yes"/>
+      <point x="183" y="481"/>
+      <point x="224" y="511"/>
+      <point x="300" y="511" type="curve" smooth="yes"/>
+      <point x="376" y="511"/>
+      <point x="417" y="481"/>
+      <point x="417" y="430" type="curve" smooth="yes"/>
+      <point x="417" y="421" type="line" smooth="yes"/>
+      <point x="417" y="370"/>
+      <point x="376" y="340"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjMyMyIgd2lkdGg9IjE3IiAvPgogICAgICA8aHN0ZW0gcG9zPSI1MT
+      EiIHdpZHRoPSIxNyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjg3IiB3aWR0aD0iMTciIC8
+      +CiAgICAgIDx2c3RlbSBwb3M9IjE3NyIgd2lkdGg9IjIwIiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSI0MDMiIHdpZHRoPSIyMCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0I
+      HBvaW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iMzIzIiB3aWR0aD0iMTciIC
+      8+CiAgICAgIDxoc3RlbSBwb3M9IjUxMSIgd2lkdGg9IjE3IiAvPgogICAgICA8aHN0ZW0
+      gcG9zPSI2ODciIHdpZHRoPSIxNyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTYzIiB3aWR0
+      aD0iMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQwMyIgd2lkdGg9IjIwIiAvPgogICAgP
+      C9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW
+      0gcG9zPSIzMjMiIHdpZHRoPSIxNyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTExIiB3aWR
+      0aD0iMTciIC8+CiAgICAgIDxoc3RlbSBwb3M9IjY4NyIgd2lkdGg9IjE3IiAvPgogICAg
+      ICA8dnN0ZW0gcG9zPSIxNzciIHdpZHRoPSIyMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iN
+      DAzIiB3aWR0aD0iMjAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludF
+      RhZz0iaHIwNCI+CiAgICAgIDxoc3RlbSBwb3M9IjMyMyIgd2lkdGg9IjE3IiAvPgogICA
+      gICA8aHN0ZW0gcG9zPSI1MTEiIHdpZHRoPSIxNyIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+      Njg3IiB3aWR0aD0iMTciIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE2MyIgd2lkdGg9IjIwI
+      iAvPgogICAgICA8dnN0ZW0gcG9zPSI0MTciIHdpZHRoPSIyMCIgLz4KICAgIDwvaGludH
+      NldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2078</string>
+      <key>com.type-invaders.name.production</key>
+      <string>eightsuperior</string>
+    </dict>
+  </lib>
+</glyph>

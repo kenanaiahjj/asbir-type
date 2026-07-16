@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rturn" format="2">
+  <advance width="660"/>
+  <unicode hex="0279"/>
+  <anchor x="447" y="1056" name="top"/>
+  <anchor x="364.0" y="1056.0" name="topr"/>
+  <anchor x="448.0" y="520.0" name="cross"/>
+  <anchor x="353" y="0" name="bottom"/>
+  <anchor x="534" y="0" name="bottomr"/>
+  <outline>
+    <component base="r" xScale="-1.0" yScale="-1.0" xOffset="660" yOffset="1056"/>
+  </outline>
+</glyph>

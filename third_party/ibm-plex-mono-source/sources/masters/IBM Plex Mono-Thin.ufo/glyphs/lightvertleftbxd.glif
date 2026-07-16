@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightvertleftbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2524"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line"/>
+      <point x="266" y="266" type="line"/>
+      <point x="266" y="-350" type="line"/>
+      <point x="334" y="-350" type="line"/>
+      <point x="334" y="950" type="line"/>
+      <point x="266" y="950" type="line"/>
+      <point x="266" y="334" type="line"/>
+      <point x="-34" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNj
+      YiIHdpZHRoPSI2OCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2524</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lightvertleftbxd</string>
+    </dict>
+  </lib>
+</glyph>

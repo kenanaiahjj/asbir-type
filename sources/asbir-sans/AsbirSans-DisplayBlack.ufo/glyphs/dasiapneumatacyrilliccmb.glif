@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiapneumatacyrilliccmb" format="2">
+  <unicode hex="0485"/>
+  <outline>
+    <contour>
+      <point x="-510" y="1312" type="line"/>
+      <point x="-426" y="1382" type="line"/>
+      <point x="-488" y="1484" type="line"/>
+      <point x="-484" y="1664" type="line"/>
+      <point x="-686" y="1664" type="line"/>
+      <point x="-686" y="1502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>8</integer>
+    </dict>
+  </lib>
+</glyph>

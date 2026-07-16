@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni022D" format="2">
+  <advance width="1280"/>
+  <unicode hex="022D"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="640" y="559" name="center"/>
+  <anchor x="1218" y="556" name="ogonek"/>
+  <anchor x="640" y="1118" name="top"/>
+  <anchor x="640" y="1132" name="tophorn"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildemacroncomb.lc" xOffset="128"/>
+  </outline>
+</glyph>

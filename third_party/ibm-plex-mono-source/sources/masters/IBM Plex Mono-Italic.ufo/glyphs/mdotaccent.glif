@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mdotaccent" format="2">
+  <advance width="600"/>
+  <unicode hex="1E41"/>
+  <anchor x="257.0" y="0.0" name="bottom"/>
+  <outline>
+    <component base="m"/>
+    <component base="dotaccent" xOffset="52"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1E41</string>
+      <key>com.type-invaders.name.production</key>
+      <string>mdotaccent</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

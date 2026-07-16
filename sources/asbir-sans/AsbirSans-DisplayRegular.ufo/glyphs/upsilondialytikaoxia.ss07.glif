@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilondialytikaoxia.ss07" format="2">
+  <advance width="1120"/>
+  <unicode hex="E2A7"/>
+  <anchor x="560" y="0" name="bottom"/>
+  <anchor x="994" y="400" name="ogonek"/>
+  <anchor x="280" y="1490" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dialytikaoxia.ss07" xOffset="-88"/>
+  </outline>
+</glyph>

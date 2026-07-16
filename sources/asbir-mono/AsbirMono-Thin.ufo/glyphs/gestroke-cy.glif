@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestroke-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0493"/>
+  <anchor x="350" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="264" type="line"/>
+      <point x="400" y="264" type="line"/>
+      <point x="400" y="292" type="line"/>
+      <point x="60" y="292" type="line"/>
+    </contour>
+    <component base="ge-cy" xOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="600"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="167" type="line"/>
+      <point x="352" y="167" type="line" smooth="yes"/>
+      <point x="466" y="167"/>
+      <point x="526" y="241"/>
+      <point x="526" y="355" type="curve" smooth="yes"/>
+      <point x="526" y="469"/>
+      <point x="466" y="543"/>
+      <point x="352" y="543" type="curve" smooth="yes"/>
+      <point x="130" y="543" type="line"/>
+      <point x="130" y="698" type="line"/>
+      <point x="108" y="698" type="line"/>
+      <point x="108" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="523" type="line"/>
+      <point x="352" y="523" type="line" smooth="yes"/>
+      <point x="455" y="523"/>
+      <point x="502" y="452"/>
+      <point x="502" y="376" type="curve" smooth="yes"/>
+      <point x="502" y="334" type="line" smooth="yes"/>
+      <point x="502" y="258"/>
+      <point x="455" y="187"/>
+      <point x="352" y="187" type="curve" smooth="yes"/>
+      <point x="130" y="187" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjE2Ny
+      Igd2lkdGg9IjIwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1MjMiIHdpZHRoPSIyMCIgLz4
+      KICAgICAgPGhzdGVtIHBvcz0iNjk4IiB3aWR0aD0iLTIxIiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSI1MDIiIHdpZHRoPSIyNCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMa
+      XN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

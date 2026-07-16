@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstrokecyrillic" format="2">
+  <advance width="1238"/>
+  <unicode hex="04B9"/>
+  <anchor x="619" y="443" name="cross"/>
+  <anchor x="1152" y="0" name="cyrtic"/>
+  <anchor x="619" y="1056" name="top"/>
+  <outline>
+    <component base="checyrillic"/>
+    <component base="_part.crossbar_vert" xOffset="383" yOffset="-302"/>
+  </outline>
+</glyph>

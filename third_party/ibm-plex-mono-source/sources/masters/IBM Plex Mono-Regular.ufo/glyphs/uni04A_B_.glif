@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AB" format="2">
+  <advance width="600"/>
+  <unicode hex="04AB"/>
+  <anchor x="313.0" y="516.0" name="top"/>
+  <outline>
+    <component base="ccedilla"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMCIgd2lkdGg9IjY3IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NT
+      kiIHdpZHRoPSI2OSIgLz4KICAgICAgPHZzdGVtIHBvcz0iODQiIHdpZHRoPSI4NiIgLz4
+      KICAgICAgPHZzdGVtIHBvcz0iMjgyIiB3aWR0aD0iNzMiIC8+CiAgICA8L2hpbnRzZXQ+
+      CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

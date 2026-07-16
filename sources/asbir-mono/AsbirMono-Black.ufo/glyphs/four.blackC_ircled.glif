@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.blackCircled" format="2">
+  <advance width="600"/>
+  <unicode hex="2779"/>
+  <outline>
+    <contour>
+      <point x="310" y="160" type="line"/>
+      <point x="310" y="227" type="line"/>
+      <point x="126" y="227" type="line"/>
+      <point x="126" y="311" type="line"/>
+      <point x="292" y="547" type="line"/>
+      <point x="430" y="547" type="line"/>
+      <point x="430" y="317" type="line"/>
+      <point x="476" y="317" type="line"/>
+      <point x="476" y="227" type="line"/>
+      <point x="430" y="227" type="line"/>
+      <point x="430" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="317" type="line"/>
+      <point x="310" y="317" type="line"/>
+      <point x="310" y="415" type="line"/>
+    </contour>
+    <component base="blackCircled"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

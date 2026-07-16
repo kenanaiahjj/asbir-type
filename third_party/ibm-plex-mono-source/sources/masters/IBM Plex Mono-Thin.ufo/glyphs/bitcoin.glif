@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="600"/>
+  <unicode hex="20BF"/>
+  <outline>
+    <contour>
+      <point x="322" y="-113" type="line"/>
+      <point x="342" y="-113" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="456" y="0"/>
+      <point x="516" y="72"/>
+      <point x="516" y="182" type="curve" smooth="yes"/>
+      <point x="516" y="277"/>
+      <point x="473" y="341"/>
+      <point x="387" y="357" type="curve"/>
+      <point x="387" y="359" type="line"/>
+      <point x="448" y="379"/>
+      <point x="484" y="430"/>
+      <point x="484" y="521" type="curve" smooth="yes"/>
+      <point x="484" y="628"/>
+      <point x="432" y="689"/>
+      <point x="342" y="697" type="curve"/>
+      <point x="342" y="811" type="line"/>
+      <point x="322" y="811" type="line"/>
+      <point x="322" y="698" type="line"/>
+      <point x="225" y="698" type="line"/>
+      <point x="225" y="811" type="line"/>
+      <point x="205" y="811" type="line"/>
+      <point x="205" y="698" type="line"/>
+      <point x="98" y="698" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="-113" type="line"/>
+      <point x="225" y="-113" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="678" type="line"/>
+      <point x="320" y="678" type="line" smooth="yes"/>
+      <point x="416" y="678"/>
+      <point x="460" y="614"/>
+      <point x="460" y="542" type="curve" smooth="yes"/>
+      <point x="460" y="500" type="line" smooth="yes"/>
+      <point x="460" y="428"/>
+      <point x="416" y="364"/>
+      <point x="320" y="364" type="curve" smooth="yes"/>
+      <point x="120" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="344" type="line"/>
+      <point x="342" y="344" type="line" smooth="yes"/>
+      <point x="445" y="344"/>
+      <point x="492" y="276"/>
+      <point x="492" y="203" type="curve" smooth="yes"/>
+      <point x="492" y="161" type="line" smooth="yes"/>
+      <point x="492" y="88"/>
+      <point x="445" y="20"/>
+      <point x="342" y="20" type="curve" smooth="yes"/>
+      <point x="120" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzQ0Ii
+      B3aWR0aD0iMjAiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjY3OCIgd2lkdGg9IjIwIiAvPgo
+      gICAgICA8dnN0ZW0gcG9zPSI5OCIgd2lkdGg9IjIyIiAvPgogICAgICA8dnN0ZW0gcG9z
+      PSIyMDUiIHdpZHRoPSIyMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzIyIiB3aWR0aD0iM
+      jAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQ2MCIgd2lkdGg9IjI0IiAvPgogICAgICA8dn
+      N0ZW0gcG9zPSI0OTIiIHdpZHRoPSIyNCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnR
+      TZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20BF</string>
+      <key>com.type-invaders.name.production</key>
+      <string>bitcoin</string>
+    </dict>
+  </lib>
+</glyph>

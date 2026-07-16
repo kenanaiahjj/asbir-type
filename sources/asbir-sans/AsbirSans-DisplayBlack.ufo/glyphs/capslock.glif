@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="capslock" format="2">
+  <advance width="2342"/>
+  <unicode hex="21EA"/>
+  <outline>
+    <contour>
+      <point x="636" y="218" type="line"/>
+      <point x="1706" y="218" type="line"/>
+      <point x="1706" y="558" type="line"/>
+      <point x="2218" y="558" type="line"/>
+      <point x="1170" y="1606" type="line"/>
+      <point x="124" y="558" type="line"/>
+      <point x="636" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="636" y="-442" type="line"/>
+      <point x="1706" y="-442" type="line"/>
+      <point x="1706" y="92" type="line"/>
+      <point x="636" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="938" y="-238" type="line"/>
+      <point x="938" y="-112" type="line"/>
+      <point x="1404" y="-112" type="line"/>
+      <point x="1404" y="-238" type="line"/>
+    </contour>
+    <contour>
+      <point x="938" y="436" type="line"/>
+      <point x="938" y="776" type="line"/>
+      <point x="710" y="776" type="line"/>
+      <point x="1170" y="1238" type="line"/>
+      <point x="1632" y="776" type="line"/>
+      <point x="1404" y="776" type="line"/>
+      <point x="1404" y="436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

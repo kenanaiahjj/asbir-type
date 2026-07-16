@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04FB" format="2">
+  <advance width="956"/>
+  <unicode hex="04FB"/>
+  <anchor x="370" y="559" name="cross"/>
+  <anchor x="504" y="0" name="cyrtic"/>
+  <anchor x="520" y="1118" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="crossbar" xOffset="-150" yOffset="-186"/>
+    <component base="_part.cyrtic_hook" xOffset="14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>crossbar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_part.cyrtic_hook</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

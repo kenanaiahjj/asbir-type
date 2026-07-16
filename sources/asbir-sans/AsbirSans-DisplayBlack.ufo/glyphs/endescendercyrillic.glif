@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescendercyrillic" format="2">
+  <advance width="1378"/>
+  <unicode hex="04A3"/>
+  <anchor x="649" y="0" name="bottom"/>
+  <anchor x="1212" y="0" name="cyrtic"/>
+  <anchor x="812" y="0" name="lfthook"/>
+  <anchor x="649" y="1056" name="top"/>
+  <outline>
+    <component base="encyrillic"/>
+    <component base="_part.cyrtic" xOffset="826"/>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="somsign" format="2">
+  <advance width="966"/>
+  <unicode hex="20C0"/>
+  <outline>
+    <contour>
+      <point x="78" y="160" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="902" y="0" type="line"/>
+      <point x="902" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="739" y="532" type="line"/>
+      <point x="677" y="470"/>
+      <point x="606" y="444"/>
+      <point x="532" y="444" type="curve"/>
+      <point x="373" y="444"/>
+      <point x="240" y="577"/>
+      <point x="240" y="745" type="curve"/>
+      <point x="240" y="913"/>
+      <point x="373" y="1046"/>
+      <point x="532" y="1046" type="curve"/>
+      <point x="604" y="1046"/>
+      <point x="676" y="1020"/>
+      <point x="740" y="957" type="curve"/>
+      <point x="858" y="1071" type="line"/>
+      <point x="774" y="1154"/>
+      <point x="659" y="1206"/>
+      <point x="532" y="1206" type="curve"/>
+      <point x="278" y="1206"/>
+      <point x="72" y="1000"/>
+      <point x="72" y="745" type="curve"/>
+      <point x="72" y="490"/>
+      <point x="278" y="284"/>
+      <point x="532" y="284" type="curve"/>
+      <point x="660" y="284"/>
+      <point x="775" y="336"/>
+      <point x="858" y="419" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

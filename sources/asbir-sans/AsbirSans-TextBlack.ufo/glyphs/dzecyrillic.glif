@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzecyrillic" format="2">
+  <advance width="1204"/>
+  <unicode hex="0455"/>
+  <anchor x="601" y="0" name="bottom"/>
+  <anchor x="608" y="0" name="cedilla"/>
+  <anchor x="52" y="335" name="rthook"/>
+  <anchor x="597" y="1118" name="top"/>
+  <outline>
+    <component base="s"/>
+  </outline>
+</glyph>

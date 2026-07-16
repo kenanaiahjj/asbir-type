@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>comma.alt01</key>
+    <string>comma.alt01.glif</string>
+    <key>numbersign.alt01</key>
+    <string>numbersign.alt01.glif</string>
+    <key>quoteleft.alt01</key>
+    <string>quoteleft.alt01.glif</string>
+    <key>quoteright.alt01</key>
+    <string>quoteright.alt01.glif</string>
+  </dict>
+</plist>

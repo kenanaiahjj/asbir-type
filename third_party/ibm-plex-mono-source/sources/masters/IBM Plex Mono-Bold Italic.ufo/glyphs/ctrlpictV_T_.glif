@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctrlpictVT" format="2">
+  <advance width="600"/>
+  <unicode hex="240B"/>
+  <outline>
+    <contour>
+      <point x="238" y="240" type="line"/>
+      <point x="291" y="477" type="line"/>
+      <point x="235" y="477" type="line"/>
+      <point x="212" y="356" type="line"/>
+      <point x="202" y="292" type="line"/>
+      <point x="200" y="292" type="line"/>
+      <point x="190" y="356" type="line"/>
+      <point x="167" y="477" type="line"/>
+      <point x="109" y="477" type="line"/>
+      <point x="162" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="483" y="432" type="line"/>
+      <point x="483" y="477" type="line"/>
+      <point x="317" y="477" type="line"/>
+      <point x="317" y="432" type="line"/>
+      <point x="373" y="432" type="line"/>
+      <point x="373" y="240" type="line"/>
+      <point x="427" y="240" type="line"/>
+      <point x="427" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni240B</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ctrlpictVT</string>
+    </dict>
+  </lib>
+</glyph>

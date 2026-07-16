@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twoinferior" format="2">
+  <advance width="600"/>
+  <unicode hex="2082"/>
+  <outline>
+    <contour>
+      <point x="411" y="79" type="line"/>
+      <point x="248" y="79" type="line"/>
+      <point x="316" y="119" type="line" smooth="yes"/>
+      <point x="392" y="164"/>
+      <point x="438" y="202"/>
+      <point x="438" y="264" type="curve" smooth="yes"/>
+      <point x="438" y="334"/>
+      <point x="379" y="375"/>
+      <point x="302" y="375" type="curve" smooth="yes"/>
+      <point x="222" y="375"/>
+      <point x="177" y="331"/>
+      <point x="153" y="278" type="curve"/>
+      <point x="236" y="247" type="line"/>
+      <point x="244" y="269"/>
+      <point x="262" y="294"/>
+      <point x="295" y="294" type="curve" smooth="yes"/>
+      <point x="317" y="294"/>
+      <point x="336" y="282"/>
+      <point x="336" y="260" type="curve" smooth="yes"/>
+      <point x="336" y="255"/>
+      <point x="335" y="250"/>
+      <point x="334" y="244" type="curve" smooth="yes"/>
+      <point x="329" y="213"/>
+      <point x="290" y="190"/>
+      <point x="269" y="176" type="curve" smooth="yes"/>
+      <point x="131" y="84" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3OSIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjk0Ii
+      B3aWR0aD0iODEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjMzNiIgd2lkdGg9IjEwMiIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2082</string>
+      <key>com.type-invaders.name.production</key>
+      <string>twoinferior</string>
+    </dict>
+  </lib>
+</glyph>

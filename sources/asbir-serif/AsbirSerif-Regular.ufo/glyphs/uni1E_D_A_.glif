@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EDA" format="2">
+  <advance width="540"/>
+  <unicode hex="1EDA"/>
+  <outline>
+    <contour>
+      <point x="332.0" y="726" type="line"/>
+      <point x="354.0" y="734" type="line"/>
+      <point x="386.0" y="768" type="line"/>
+      <point x="373.4" y="768" type="line"/>
+      <point x="337.4" y="740" type="line"/>
+      <point x="332.0" y="713.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.9727857659712" y="713.770106176746" type="line"/>
+      <point x="297.9727857659712" y="791.770106176746" type="line"/>
+      <point x="318.0272142340288" y="772.229893823254" type="line"/>
+      <point x="242.0272142340288" y="694.229893823254" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

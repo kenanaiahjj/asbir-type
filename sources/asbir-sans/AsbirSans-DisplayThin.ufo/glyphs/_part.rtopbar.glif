@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.rtopbar" format="2">
+  <advance width="942"/>
+  <anchor x="814" y="1490" name="_topbar"/>
+  <outline>
+    <contour>
+      <point x="790" y="1444" type="line"/>
+      <point x="814" y="1490" type="line"/>
+      <point x="128" y="1490" type="line" name="hr00"/>
+      <point x="128" y="1444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

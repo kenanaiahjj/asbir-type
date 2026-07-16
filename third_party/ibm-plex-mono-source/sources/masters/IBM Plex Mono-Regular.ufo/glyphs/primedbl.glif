@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primedbl" format="2">
+  <advance width="600"/>
+  <unicode hex="2033"/>
+  <outline>
+    <component base="prime" xOffset="-89"/>
+    <component base="prime" xOffset="88"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2033</string>
+      <key>com.type-invaders.name.production</key>
+      <string>primedbl</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

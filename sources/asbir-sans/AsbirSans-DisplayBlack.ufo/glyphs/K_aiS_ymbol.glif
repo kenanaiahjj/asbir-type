@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaiSymbol" format="2">
+  <advance width="1493"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="387" y="213" type="line"/>
+      <point x="804" y="723" type="line"/>
+      <point x="842" y="723" type="line"/>
+      <point x="1465" y="1490" type="line"/>
+      <point x="984" y="1490" type="line"/>
+      <point x="688" y="1107" type="line" smooth="yes"/>
+      <point x="588" y="977"/>
+      <point x="487" y="848"/>
+      <point x="387" y="718" type="curve"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="544" type="line"/>
+      <point x="496" y="741" type="line"/>
+      <point x="496" y="1170" type="line"/>
+      <point x="496" y="1490" type="line"/>
+      <point x="80" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1211" y="-437" type="line"/>
+      <point x="1493" y="0" type="line"/>
+      <point x="906" y="911" type="line"/>
+      <point x="658" y="599" type="line"/>
+      <point x="1034" y="0" type="line"/>
+      <point x="881" y="-244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

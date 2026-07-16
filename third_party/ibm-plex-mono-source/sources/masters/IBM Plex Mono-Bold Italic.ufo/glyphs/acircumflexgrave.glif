@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexgrave" format="2">
+  <advance width="600"/>
+  <unicode hex="1EA7"/>
+  <anchor x="248.0" y="0.0" name="bottom"/>
+  <anchor x="534.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexgrave" xOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EA7</string>
+      <key>com.type-invaders.name.production</key>
+      <string>acircumflexgrave</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

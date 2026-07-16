@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slongstroke" format="2">
+  <advance width="682"/>
+  <unicode hex="EE12"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="285" y="768" name="cross"/>
+  <anchor x="364" y="1490" name="top"/>
+  <outline>
+    <component base="_part.f_base"/>
+    <component base="slashshort.lc" xOffset="29"/>
+  </outline>
+</glyph>

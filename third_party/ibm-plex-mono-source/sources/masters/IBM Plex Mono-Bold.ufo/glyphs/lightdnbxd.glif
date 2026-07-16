@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightdnbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2577"/>
+  <outline>
+    <contour>
+      <point x="266" y="-350" type="line"/>
+      <point x="334" y="-350" type="line"/>
+      <point x="334" y="334" type="line"/>
+      <point x="266" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0zNTAiIHdpZHRoPSI2ODQiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ij
+      I2NiIgd2lkdGg9IjY4IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2577</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lightdnbxd</string>
+    </dict>
+  </lib>
+</glyph>

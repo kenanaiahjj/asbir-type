@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="600"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="467" y="329" type="line"/>
+      <point x="467" y="350" type="line"/>
+      <point x="311" y="273" type="line"/>
+      <point x="311" y="402" type="line"/>
+      <point x="467" y="478" type="line"/>
+      <point x="467" y="499" type="line"/>
+      <point x="311" y="423" type="line"/>
+      <point x="311" y="678" type="line"/>
+      <point x="559" y="678" type="line"/>
+      <point x="559" y="698" type="line"/>
+      <point x="41" y="698" type="line"/>
+      <point x="41" y="678" type="line"/>
+      <point x="289" y="678" type="line"/>
+      <point x="289" y="414" type="line"/>
+      <point x="133" y="338" type="line"/>
+      <point x="133" y="317" type="line"/>
+      <point x="289" y="393" type="line"/>
+      <point x="289" y="264" type="line"/>
+      <point x="133" y="188" type="line"/>
+      <point x="133" y="167" type="line"/>
+      <point x="289" y="243" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="311" y="0" type="line"/>
+      <point x="311" y="252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjY3OC
+      Igd2lkdGg9IjIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyODkiIHdpZHRoPSIyMiIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20AE</string>
+      <key>com.type-invaders.name.production</key>
+      <string>tugrik</string>
+    </dict>
+  </lib>
+</glyph>

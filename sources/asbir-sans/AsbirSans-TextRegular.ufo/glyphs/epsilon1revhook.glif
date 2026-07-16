@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilon1revhook" format="2">
+  <advance width="1426"/>
+  <unicode hex="025D"/>
+  <anchor x="539" y="1118" name="top"/>
+  <outline>
+    <contour>
+      <point x="1278" y="476" type="curve" smooth="yes"/>
+      <point x="1325" y="476"/>
+      <point x="1369" y="491"/>
+      <point x="1406" y="508" type="curve"/>
+      <point x="1380" y="628" type="line"/>
+      <point x="1366" y="622"/>
+      <point x="1334" y="610"/>
+      <point x="1299" y="610" type="curve" smooth="yes"/>
+      <point x="1203" y="610"/>
+      <point x="1178" y="761"/>
+      <point x="1152" y="933" type="curve"/>
+      <point x="876" y="770" type="line"/>
+      <point x="876" y="616" type="line"/>
+      <point x="1044" y="717" type="line"/>
+      <point x="1073" y="579"/>
+      <point x="1113" y="476"/>
+    </contour>
+    <component base="epsilon1rev"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

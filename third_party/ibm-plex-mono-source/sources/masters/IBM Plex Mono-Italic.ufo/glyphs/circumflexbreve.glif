@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexbreve" format="2">
+  <anchor x="0.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-11" y="720" type="line"/>
+      <point x="-141" y="620" type="line"/>
+      <point x="-109" y="584" type="line"/>
+      <point x="28" y="670" type="line"/>
+      <point x="137" y="584" type="line"/>
+      <point x="174" y="618" type="line"/>
+      <point x="80" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="746" type="curve" smooth="yes"/>
+      <point x="138" y="746"/>
+      <point x="188" y="808"/>
+      <point x="215" y="857" type="curve"/>
+      <point x="168" y="882" type="line"/>
+      <point x="143" y="853" type="line" smooth="yes"/>
+      <point x="111" y="816"/>
+      <point x="87" y="804"/>
+      <point x="44" y="804" type="curve" smooth="yes"/>
+      <point x="3" y="804"/>
+      <point x="-20" y="815"/>
+      <point x="-40" y="853" type="curve" smooth="yes"/>
+      <point x="-55" y="882" type="line"/>
+      <point x="-103" y="861" type="line"/>
+      <point x="-91" y="808"/>
+      <point x="-62" y="746"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ijc0NiIgd2lkdGg9IjU4IiAvPgogICAgICA8dnN0ZW0gcG9zPSItMT
+      QxIiB3aWR0aD0iMzU2IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+    </dict>
+  </lib>
+</glyph>

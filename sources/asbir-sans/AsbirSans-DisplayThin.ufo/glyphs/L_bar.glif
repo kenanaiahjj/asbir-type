@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lbar" format="2">
+  <advance width="1062"/>
+  <unicode hex="023D"/>
+  <anchor x="582" y="0" name="bottom"/>
+  <anchor x="356" y="745" name="cross"/>
+  <anchor x="560" y="748" name="dot"/>
+  <anchor x="580" y="1490" name="raccent"/>
+  <anchor x="210" y="1490" name="top"/>
+  <outline>
+    <component base="L" xOffset="18"/>
+    <component base="crossbar_short.uc" xOffset="-26"/>
+  </outline>
+</glyph>

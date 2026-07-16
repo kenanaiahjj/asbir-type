@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romaneight" format="2">
+  <advance width="2364"/>
+  <unicode hex="2167"/>
+  <anchor x="2173" y="0" name="bottom"/>
+  <anchor x="2173" y="1490" name="top"/>
+  <anchor x="2173" y="768" name="cross"/>
+  <anchor x="2196" y="0" name="ogonek"/>
+  <anchor x="2204" y="0" name="right"/>
+  <anchor x="2150" y="1490" name="tonos"/>
+  <outline>
+    <component base="V"/>
+    <component base="I" xOffset="1218"/>
+    <component base="I" xOffset="1600"/>
+    <component base="I" xOffset="1982"/>
+  </outline>
+</glyph>

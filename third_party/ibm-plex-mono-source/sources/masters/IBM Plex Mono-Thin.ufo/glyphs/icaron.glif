@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icaron" format="2">
+  <advance width="600"/>
+  <unicode hex="01D0"/>
+  <anchor x="332.0" y="0.0" name="bottom"/>
+  <anchor x="535.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="caron" xOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni01D0</string>
+      <key>com.type-invaders.name.production</key>
+      <string>icaron</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

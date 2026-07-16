@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctrlpictNAK" format="2">
+  <advance width="600"/>
+  <unicode hex="2415"/>
+  <outline>
+    <contour>
+      <point x="109" y="240" type="line"/>
+      <point x="174" y="240" type="line"/>
+      <point x="174" y="477" type="line"/>
+      <point x="129" y="477" type="line"/>
+      <point x="129" y="328" type="line"/>
+      <point x="125" y="328" type="line"/>
+      <point x="91" y="477" type="line"/>
+      <point x="26" y="477" type="line"/>
+      <point x="26" y="240" type="line"/>
+      <point x="71" y="240" type="line"/>
+      <point x="71" y="389" type="line"/>
+      <point x="75" y="389" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="240" type="line"/>
+      <point x="338" y="477" type="line"/>
+      <point x="262" y="477" type="line"/>
+      <point x="208" y="240" type="line"/>
+      <point x="262" y="240" type="line"/>
+      <point x="273" y="296" type="line"/>
+      <point x="323" y="296" type="line"/>
+      <point x="335" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="339" type="line"/>
+      <point x="281" y="339" type="line"/>
+      <point x="297" y="426" type="line"/>
+      <point x="299" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="538" y="240" type="line"/>
+      <point x="594" y="240" type="line"/>
+      <point x="533" y="377" type="line"/>
+      <point x="591" y="477" type="line"/>
+      <point x="536" y="477" type="line"/>
+      <point x="504" y="420" type="line"/>
+      <point x="482" y="379" type="line"/>
+      <point x="479" y="379" type="line"/>
+      <point x="479" y="477" type="line"/>
+      <point x="428" y="477" type="line"/>
+      <point x="428" y="240" type="line"/>
+      <point x="479" y="240" type="line"/>
+      <point x="479" y="311" type="line"/>
+      <point x="496" y="337" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2415</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ctrlpictNAK</string>
+    </dict>
+  </lib>
+</glyph>

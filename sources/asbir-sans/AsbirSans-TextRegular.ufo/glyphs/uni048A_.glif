@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni048A" format="2">
+  <advance width="1543"/>
+  <unicode hex="048A"/>
+  <anchor x="771" y="0" name="bottom"/>
+  <anchor x="1363" y="0" name="lfthook"/>
+  <anchor x="180" y="0" name="lfthook2"/>
+  <anchor x="772" y="1930" name="top"/>
+  <anchor x="1364" y="0" name="cyrtic"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="brevecomb" xOffset="383" yOffset="372"/>
+    <component base="_part.cyrtail" xOffset="1073"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_part.cyrtail</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

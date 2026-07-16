@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="600"/>
+  <unicode hex="0237"/>
+  <anchor x="405.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="216" y="-212" type="curve" smooth="yes"/>
+      <point x="312" y="-212"/>
+      <point x="365" y="-162"/>
+      <point x="386" y="-37" type="curve" smooth="yes"/>
+      <point x="478" y="516" type="line"/>
+      <point x="143" y="516" type="line"/>
+      <point x="124" y="402" type="line"/>
+      <point x="313" y="402" type="line"/>
+      <point x="230" y="-96" type="line"/>
+      <point x="217" y="-101" type="line"/>
+      <point x="104" y="54" type="line"/>
+      <point x="4" y="-15" type="line"/>
+      <point x="36" y="-65" type="line" smooth="yes"/>
+      <point x="97" y="-160"/>
+      <point x="137" y="-212"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0yMTIiIHdpZHRoPSIxMTEiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      QwMiIgd2lkdGg9IjExNCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNCIgd2lkdGg9IjQ3NCI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni0237</string>
+      <key>com.type-invaders.name.production</key>
+      <string>dotlessj</string>
+    </dict>
+  </lib>
+</glyph>

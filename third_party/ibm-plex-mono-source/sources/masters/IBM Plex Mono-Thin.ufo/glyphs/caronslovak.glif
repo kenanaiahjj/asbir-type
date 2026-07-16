@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronslovak" format="2">
+  <advance width="600"/>
+  <unicode hex="02BC"/>
+  <anchor x="237.0" y="740.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="278" y="740" type="line"/>
+      <point x="253" y="740" type="line"/>
+      <point x="237" y="564" type="line"/>
+      <point x="254" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ijc0MCIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMj
+      M3IiB3aWR0aD0iNDEiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni02BC</string>
+      <key>com.type-invaders.name.production</key>
+      <string>caronslovak</string>
+    </dict>
+  </lib>
+</glyph>

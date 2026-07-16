@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsecyrillic" format="2">
+  <advance width="1428"/>
+  <unicode hex="0446"/>
+  <anchor x="1178" y="0" name="cyrtic"/>
+  <anchor x="632" y="0" name="cyrtic_center"/>
+  <outline>
+    <component base="pecyrillicturn"/>
+    <component base="_part.cyrtic" xOffset="792"/>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="600"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="436" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="518" type="line"/>
+      <point x="590" y="518" type="line"/>
+      <point x="590" y="582" type="line"/>
+      <point x="520" y="582" type="line"/>
+      <point x="520" y="698" type="line"/>
+      <point x="436" y="698" type="line"/>
+      <point x="436" y="582" type="line"/>
+      <point x="164" y="582" type="line"/>
+      <point x="164" y="698" type="line"/>
+      <point x="80" y="698" type="line"/>
+      <point x="80" y="582" type="line"/>
+      <point x="10" y="582" type="line"/>
+      <point x="10" y="518" type="line"/>
+      <point x="80" y="518" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="317" type="line"/>
+      <point x="436" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="390" type="line"/>
+      <point x="164" y="518" type="line"/>
+      <point x="436" y="518" type="line"/>
+      <point x="436" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjMxNy
+      Igd2lkdGg9IjczIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1MTgiIHdpZHRoPSI2NCIgLz4
+      KICAgICAgPGhzdGVtIHBvcz0iNjk4IiB3aWR0aD0iLTIxIiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSI4MCIgd2lkdGg9Ijg0IiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MzYiIHdpZHRoP
+      SI4NCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

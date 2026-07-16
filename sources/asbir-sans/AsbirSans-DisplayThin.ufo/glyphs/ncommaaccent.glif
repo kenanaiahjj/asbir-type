@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent" format="2">
+  <advance width="1068"/>
+  <unicode hex="0146"/>
+  <anchor x="534" y="0" name="bottom"/>
+  <anchor x="934" y="0" name="bottomr"/>
+  <anchor x="134" y="0" name="lfthook"/>
+  <anchor x="536" y="1056" name="top"/>
+  <anchor x="180" y="1056" name="topr"/>
+  <outline>
+    <component base="n"/>
+    <component base="commaaccent" xOffset="318"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

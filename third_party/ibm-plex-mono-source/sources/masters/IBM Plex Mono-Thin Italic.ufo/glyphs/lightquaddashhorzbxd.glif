@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightquaddashhorzbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2508"/>
+  <outline>
+    <contour>
+      <point x="19" y="266" type="line"/>
+      <point x="131" y="266" type="line"/>
+      <point x="131" y="334" type="line"/>
+      <point x="19" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="266" type="line"/>
+      <point x="281" y="266" type="line"/>
+      <point x="281" y="334" type="line"/>
+      <point x="169" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="266" type="line"/>
+      <point x="431" y="266" type="line"/>
+      <point x="431" y="334" type="line"/>
+      <point x="319" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="266" type="line"/>
+      <point x="581" y="266" type="line"/>
+      <point x="581" y="334" type="line"/>
+      <point x="469" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxOS
+      Igd2lkdGg9IjExMiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTY5IiB3aWR0aD0iMTEyIiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSIzMTkiIHdpZHRoPSIxMTIiIC8+CiAgICAgIDx2c3Rl
+      bSBwb3M9IjQ2OSIgd2lkdGg9IjExMiIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZ
+      XRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2508</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lightquaddashhorzbxd</string>
+    </dict>
+  </lib>
+</glyph>

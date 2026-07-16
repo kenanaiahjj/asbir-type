@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F13" format="2">
+  <advance width="972"/>
+  <unicode hex="1F13"/>
+  <anchor x="489" y="1056" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="dasiavaria" xOffset="110"/>
+  </outline>
+</glyph>

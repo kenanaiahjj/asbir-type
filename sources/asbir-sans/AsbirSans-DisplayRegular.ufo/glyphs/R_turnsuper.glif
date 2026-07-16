@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rturnsuper" format="2">
+  <advance width="856"/>
+  <unicode hex="02B6"/>
+  <outline>
+    <contour>
+      <point x="576" y="1108" type="line"/>
+      <point x="788" y="1452" type="line"/>
+      <point x="578" y="1452" type="line"/>
+      <point x="366" y="1108" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="652" type="line"/>
+      <point x="620" y="652"/>
+      <point x="734" y="777"/>
+      <point x="734" y="916" type="curve" smooth="yes"/>
+      <point x="734" y="1059"/>
+      <point x="625" y="1181"/>
+      <point x="440" y="1182" type="curve" smooth="yes"/>
+      <point x="212" y="1182" type="line"/>
+      <point x="212" y="1030" type="line"/>
+      <point x="408" y="1030" type="line" smooth="yes"/>
+      <point x="509" y="1030"/>
+      <point x="550" y="980"/>
+      <point x="550" y="920" type="curve" smooth="yes"/>
+      <point x="550" y="855"/>
+      <point x="503" y="806"/>
+      <point x="390" y="806" type="curve" smooth="yes"/>
+      <point x="250" y="806" type="line"/>
+      <point x="250" y="1452" type="line"/>
+      <point x="66" y="1452" type="line"/>
+      <point x="66" y="652" type="line"/>
+    </contour>
+  </outline>
+</glyph>

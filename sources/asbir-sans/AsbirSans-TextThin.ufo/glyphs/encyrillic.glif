@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="encyrillic" format="2">
+  <advance width="1188"/>
+  <unicode hex="043D"/>
+  <anchor x="597" y="0" name="bottom"/>
+  <anchor x="990" y="0" name="cyrtic"/>
+  <anchor x="944" y="0" name="lfthook"/>
+  <anchor x="597" y="1118" name="top"/>
+  <outline>
+    <component base="h.sc"/>
+  </outline>
+</glyph>

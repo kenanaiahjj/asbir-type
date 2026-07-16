@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_underscore_parenleft.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-847" y="0" type="line"/>
+      <point x="-775" y="0" type="line"/>
+      <point x="-643" y="710" type="line"/>
+      <point x="-715" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-897" y="197" type="line"/>
+      <point x="-449" y="197" type="line"/>
+      <point x="-437" y="267" type="line"/>
+      <point x="-885" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="-857" y="440" type="line"/>
+      <point x="-409" y="440" type="line"/>
+      <point x="-397" y="510" type="line"/>
+      <point x="-845" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="-662" y="-68" type="line"/>
+      <point x="-590" y="-68" type="line"/>
+      <point x="-446" y="710" type="line"/>
+      <point x="-518" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-592" y="-68" type="line"/>
+      <point x="298" y="-68" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="-592" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="curve"/>
+      <point x="298" y="0" type="line"/>
+      <point x="90" y="223"/>
+      <point x="90" y="503"/>
+      <point x="298" y="726" type="curve"/>
+      <point x="220" y="726" type="line"/>
+      <point x="-12" y="503"/>
+      <point x="-12" y="223"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

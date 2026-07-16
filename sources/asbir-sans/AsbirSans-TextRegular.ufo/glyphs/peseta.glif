@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="1978"/>
+  <unicode hex="20A7"/>
+  <anchor x="147" y="1490" name="tonos"/>
+  <anchor x="1586" y="1384" name="top"/>
+  <anchor x="180" y="1490" name="topl"/>
+  <anchor x="1685" y="0" name="bottom"/>
+  <anchor x="1739" y="0" name="cedilla"/>
+  <anchor x="1937" y="6" name="lfthook"/>
+  <anchor x="1792" y="1562" name="raccent"/>
+  <outline>
+    <component base="P"/>
+    <component base="t" xOffset="1308"/>
+  </outline>
+</glyph>

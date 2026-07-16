@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerowidthnbspace" format="2">
+  <unicode hex="FEFF"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uniFEFF</string>
+      <key>com.type-invaders.name.production</key>
+      <string>zerowidthnbspace</string>
+    </dict>
+  </lib>
+</glyph>

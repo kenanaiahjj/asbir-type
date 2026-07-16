@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegravecomb.cn" format="2">
+  <advance width="704"/>
+  <anchor x="352" y="1056" name="_top"/>
+  <anchor x="352" y="1764" name="top"/>
+  <outline>
+    <component base="breveacutecomb.cn" xScale="-1" xOffset="704"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="203" y="261" type="line"/>
+      <point x="180" y="144" type="line"/>
+      <point x="247" y="144" type="line" smooth="yes"/>
+      <point x="305" y="144"/>
+      <point x="340" y="115"/>
+      <point x="340" y="65" type="curve" smooth="yes"/>
+      <point x="340" y="56"/>
+      <point x="340" y="49"/>
+      <point x="338" y="39" type="curve" smooth="yes"/>
+      <point x="327" y="-17"/>
+      <point x="286" y="-52"/>
+      <point x="220" y="-52" type="curve" smooth="yes"/>
+      <point x="147" y="-52"/>
+      <point x="111" y="-15"/>
+      <point x="91" y="38" type="curve"/>
+      <point x="-9" y="-33" type="line"/>
+      <point x="20" y="-103"/>
+      <point x="81" y="-166"/>
+      <point x="213" y="-166" type="curve" smooth="yes"/>
+      <point x="386" y="-166"/>
+      <point x="484" y="-70"/>
+      <point x="484" y="60" type="curve" smooth="yes"/>
+      <point x="484" y="139"/>
+      <point x="442" y="191"/>
+      <point x="371" y="204" type="curve"/>
+      <point x="372" y="209" type="line"/>
+      <point x="471" y="232"/>
+      <point x="535" y="294"/>
+      <point x="535" y="386" type="curve" smooth="yes"/>
+      <point x="535" y="483"/>
+      <point x="454" y="548"/>
+      <point x="326" y="548" type="curve" smooth="yes"/>
+      <point x="211" y="548"/>
+      <point x="147" y="503"/>
+      <point x="85" y="437" type="curve"/>
+      <point x="161" y="351" type="line"/>
+      <point x="205" y="410"/>
+      <point x="250" y="433"/>
+      <point x="303" y="433" type="curve" smooth="yes"/>
+      <point x="355" y="433"/>
+      <point x="386" y="405"/>
+      <point x="386" y="360" type="curve" smooth="yes"/>
+      <point x="386" y="352"/>
+      <point x="384" y="342"/>
+      <point x="382" y="332" type="curve" smooth="yes"/>
+      <point x="374" y="292"/>
+      <point x="335" y="261"/>
+      <point x="264" y="261" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNjYiIHdpZHRoPSIxMTQiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      E0NCIgd2lkdGg9IjExNyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDMzIiB3aWR0aD0iMTE
+      1IiAvPgogICAgICA8dnN0ZW0gcG9zPSIzODYiIHdpZHRoPSIxNDkiIC8+CiAgICA8L2hp
+      bnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.0YkkKHpRDx</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.VfS2Xfqp6G</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.ZFc9jxwog0</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

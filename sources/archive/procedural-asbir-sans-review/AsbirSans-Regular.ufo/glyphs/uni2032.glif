@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2032" format="2">
+  <advance width="250"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="140.1789327688082" y="549.9403557437306" type="line"/>
+      <point x="105.17893276880822" y="444.9403557437306" type="line"/>
+      <point x="74.82106723119178" y="455.0596442562694" type="line"/>
+      <point x="109.82106723119178" y="560.0596442562694" type="line"/>
+    </contour>
+  </outline>
+</glyph>

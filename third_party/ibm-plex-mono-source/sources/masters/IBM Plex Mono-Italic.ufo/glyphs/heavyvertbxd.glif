@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavyvertbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2503"/>
+  <outline>
+    <contour>
+      <point x="232" y="-350" type="line"/>
+      <point x="368" y="-350" type="line"/>
+      <point x="368" y="950" type="line"/>
+      <point x="232" y="950" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0zNTAiIHdpZHRoPSIxMzAwIiAvPgogICAgICA8dnN0ZW0gcG9zPS
+      IyMzIiIHdpZHRoPSIxMzYiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4
+      K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2503</string>
+      <key>com.type-invaders.name.production</key>
+      <string>heavyvertbxd</string>
+    </dict>
+  </lib>
+</glyph>

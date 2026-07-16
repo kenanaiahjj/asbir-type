@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="600"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="151" y="358" type="line"/>
+      <point x="237" y="358" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="264" y="358" type="line"/>
+      <point x="515" y="358" type="line"/>
+      <point x="515" y="378" type="line"/>
+      <point x="263" y="378" type="line"/>
+      <point x="528" y="698" type="line"/>
+      <point x="502" y="698" type="line"/>
+      <point x="237" y="378" type="line"/>
+      <point x="151" y="378" type="line"/>
+      <point x="151" y="698" type="line"/>
+      <point x="129" y="698" type="line"/>
+      <point x="129" y="378" type="line"/>
+      <point x="36" y="378" type="line"/>
+      <point x="36" y="358" type="line"/>
+      <point x="129" y="358" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM1OC
+      Igd2lkdGg9IjIwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2OTgiIHdpZHRoPSItMjEiIC8
+      +CiAgICAgIDx2c3RlbSBwb3M9IjEyOSIgd2lkdGg9IjIyIiAvPgogICAgPC9oaW50c2V0
+      PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20AD</string>
+      <key>com.type-invaders.name.production</key>
+      <string>kip</string>
+    </dict>
+  </lib>
+</glyph>

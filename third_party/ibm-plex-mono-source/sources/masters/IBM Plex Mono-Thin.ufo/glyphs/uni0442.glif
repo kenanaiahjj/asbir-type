@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0442" format="2">
+  <advance width="600"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="289" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="497" type="line"/>
+      <point x="520" y="497" type="line"/>
+      <point x="520" y="516" type="line"/>
+      <point x="79" y="516" type="line"/>
+      <point x="79" y="497" type="line"/>
+      <point x="289" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQ5Ny
+      Igd2lkdGg9IjE5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyODkiIHdpZHRoPSIyMSIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

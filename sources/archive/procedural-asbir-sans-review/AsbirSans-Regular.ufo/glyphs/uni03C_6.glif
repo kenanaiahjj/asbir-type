@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03C6" format="2">
+  <advance width="500"/>
+  <unicode hex="03C6"/>
+  <outline>
+    <contour>
+      <point x="428" y="278" type="curve"/>
+      <point x="428" y="411.65290949999996"/>
+      <point x="348.3066855" y="520"/>
+      <point x="250" y="520" type="curve"/>
+      <point x="151.69331449999999" y="520"/>
+      <point x="72" y="411.65290949999996"/>
+      <point x="72" y="278" type="curve"/>
+      <point x="72" y="144.3470905"/>
+      <point x="151.69331449999999" y="36"/>
+      <point x="250" y="36" type="curve"/>
+      <point x="348.3066855" y="36"/>
+      <point x="428" y="144.3470905"/>
+    </contour>
+    <contour>
+      <point x="364" y="278" type="curve"/>
+      <point x="364" y="179.69331449999999"/>
+      <point x="312.9604615" y="100"/>
+      <point x="250" y="100" type="curve"/>
+      <point x="187.0395385" y="100"/>
+      <point x="136" y="179.69331449999999"/>
+      <point x="136" y="278" type="curve"/>
+      <point x="136" y="376.3066855"/>
+      <point x="187.0395385" y="456"/>
+      <point x="250" y="456" type="curve"/>
+      <point x="312.9604615" y="456"/>
+      <point x="364" y="376.3066855"/>
+    </contour>
+    <contour>
+      <point x="235.92000000000002" y="-210" type="curve"/>
+      <point x="264.08" y="-210" type="line"/>
+      <point x="273.97694272" y="-210"/>
+      <point x="282.0" y="-201.97694271999998"/>
+      <point x="282.0" y="-192.07999999999998" type="curve"/>
+      <point x="282.0" y="742.08" type="line"/>
+      <point x="282.0" y="751.97694272"/>
+      <point x="273.97694272" y="760"/>
+      <point x="264.08" y="760" type="curve"/>
+      <point x="235.92000000000002" y="760" type="line"/>
+      <point x="226.02305728000002" y="760"/>
+      <point x="218.0" y="751.97694272"/>
+      <point x="218.0" y="742.08" type="curve"/>
+      <point x="218.0" y="-192.07999999999998" type="line"/>
+      <point x="218.0" y="-201.97694271999998"/>
+      <point x="226.02305728000002" y="-210"/>
+    </contour>
+  </outline>
+</glyph>

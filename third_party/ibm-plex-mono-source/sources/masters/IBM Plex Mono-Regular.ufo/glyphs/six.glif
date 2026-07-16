@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="600"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="301" y="-12" type="curve" smooth="yes"/>
+      <point x="443" y="-12"/>
+      <point x="536" y="82"/>
+      <point x="536" y="219" type="curve" smooth="yes"/>
+      <point x="536" y="351"/>
+      <point x="449" y="434"/>
+      <point x="327" y="434" type="curve" smooth="yes"/>
+      <point x="240" y="434"/>
+      <point x="189" y="391"/>
+      <point x="155" y="334" type="curve"/>
+      <point x="150" y="336" type="line"/>
+      <point x="189" y="498"/>
+      <point x="273" y="589"/>
+      <point x="425" y="698" type="curve"/>
+      <point x="317" y="698" type="line"/>
+      <point x="203" y="625"/>
+      <point x="64" y="463"/>
+      <point x="64" y="256" type="curve" smooth="yes"/>
+      <point x="64" y="90"/>
+      <point x="154" y="-12"/>
+    </contour>
+    <contour>
+      <point x="300" y="59" type="curve"/>
+      <point x="205" y="59"/>
+      <point x="149" y="114"/>
+      <point x="149" y="208" type="curve" smooth="yes"/>
+      <point x="149" y="216" type="line" smooth="yes"/>
+      <point x="149" y="310"/>
+      <point x="205" y="365"/>
+      <point x="300" y="365" type="curve" smooth="yes"/>
+      <point x="395" y="365"/>
+      <point x="451" y="310"/>
+      <point x="451" y="216" type="curve" smooth="yes"/>
+      <point x="451" y="208" type="line" smooth="yes"/>
+      <point x="451" y="114"/>
+      <point x="395" y="59"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMiIgd2lkdGg9IjcxIiAvPgogICAgICA8aHN0ZW0gcG9zPSIzNj
+      UiIHdpZHRoPSI2OSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjk4IiB3aWR0aD0iLTIxIiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSI2NCIgd2lkdGg9Ijg1IiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSI0NTEiIHdpZHRoPSI4NSIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMa
+      XN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

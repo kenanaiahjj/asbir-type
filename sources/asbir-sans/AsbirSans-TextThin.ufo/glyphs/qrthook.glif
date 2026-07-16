@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qrthook" format="2">
+  <advance width="1190"/>
+  <unicode hex="024B"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="992" y="0" name="bottomr"/>
+  <anchor x="992" y="0" name="ogonek"/>
+  <anchor x="582" y="1118" name="top"/>
+  <anchor x="992" y="1118" name="topr"/>
+  <outline>
+    <component base="a.1"/>
+    <component base="_part.bottom_rthook_d" xOffset="882"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

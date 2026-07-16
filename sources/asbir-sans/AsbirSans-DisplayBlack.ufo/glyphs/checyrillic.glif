@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checyrillic" format="2">
+  <advance width="1238"/>
+  <unicode hex="0447"/>
+  <anchor x="619" y="443" name="cross"/>
+  <anchor x="1152" y="0" name="cyrtic"/>
+  <anchor x="619" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="668" y="276" type="curve" smooth="yes"/>
+      <point x="744" y="276"/>
+      <point x="895" y="307"/>
+      <point x="932" y="330" type="curve"/>
+      <point x="932" y="650" type="line"/>
+      <point x="821" y="613"/>
+      <point x="739" y="596"/>
+      <point x="668" y="596" type="curve" smooth="yes"/>
+      <point x="521" y="596"/>
+      <point x="486" y="618"/>
+      <point x="486" y="718" type="curve" smooth="yes"/>
+      <point x="486" y="1056" type="line"/>
+      <point x="86" y="1056" type="line"/>
+      <point x="86" y="698" type="line" smooth="yes"/>
+      <point x="86" y="413"/>
+      <point x="276" y="276"/>
+    </contour>
+    <contour>
+      <point x="752" y="0" type="line"/>
+      <point x="1152" y="0" type="line"/>
+      <point x="1152" y="1056" type="line"/>
+      <point x="752" y="1056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

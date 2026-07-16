@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gstroke" format="2">
+  <advance width="600"/>
+  <unicode hex="01E5"/>
+  <anchor x="290" y="-150" name="bottom"/>
+  <anchor x="281" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="285" y="266" type="line"/>
+      <point x="570" y="266" type="line"/>
+      <point x="570" y="294" type="line"/>
+      <point x="285" y="294" type="line"/>
+    </contour>
+    <component base="g" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

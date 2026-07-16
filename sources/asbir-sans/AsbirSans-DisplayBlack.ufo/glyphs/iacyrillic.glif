@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacyrillic" format="2">
+  <advance width="1196"/>
+  <unicode hex="044F"/>
+  <outline>
+    <component base="r.sc" xScale="-1" xOffset="1196"/>
+  </outline>
+</glyph>

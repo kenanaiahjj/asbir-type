@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiapneumatacyrilliccmb" format="2">
+  <unicode hex="0485"/>
+  <outline>
+    <contour>
+      <point x="-586" y="1362" type="line"/>
+      <point x="-562" y="1384" type="line"/>
+      <point x="-606" y="1466" type="line"/>
+      <point x="-604" y="1570" type="line"/>
+      <point x="-650" y="1570" type="line"/>
+      <point x="-652" y="1470" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="299" y="548" type="curve" smooth="yes"/>
+      <point x="157" y="548"/>
+      <point x="64" y="454"/>
+      <point x="64" y="317" type="curve" smooth="yes"/>
+      <point x="64" y="185"/>
+      <point x="151" y="102"/>
+      <point x="273" y="102" type="curve" smooth="yes"/>
+      <point x="360" y="102"/>
+      <point x="411" y="145"/>
+      <point x="445" y="202" type="curve"/>
+      <point x="450" y="200" type="line"/>
+      <point x="412" y="42"/>
+      <point x="328" y="-52"/>
+      <point x="181" y="-158" type="curve"/>
+      <point x="289" y="-158" type="line"/>
+      <point x="398" y="-87"/>
+      <point x="536" y="77"/>
+      <point x="536" y="280" type="curve" smooth="yes"/>
+      <point x="536" y="446"/>
+      <point x="446" y="548"/>
+    </contour>
+    <contour>
+      <point x="300" y="173" type="curve" smooth="yes"/>
+      <point x="205" y="173"/>
+      <point x="150" y="226"/>
+      <point x="150" y="320" type="curve" smooth="yes"/>
+      <point x="150" y="328" type="line" smooth="yes"/>
+      <point x="150" y="422"/>
+      <point x="205" y="475"/>
+      <point x="300" y="475" type="curve" smooth="yes"/>
+      <point x="395" y="475"/>
+      <point x="450" y="422"/>
+      <point x="450" y="328" type="curve" smooth="yes"/>
+      <point x="450" y="320" type="line" smooth="yes"/>
+      <point x="450" y="226"/>
+      <point x="395" y="173"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNTgiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      EwMiIgd2lkdGg9IjcxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NzUiIHdpZHRoPSI3MyI
+      gLz4KICAgICAgPHZzdGVtIHBvcz0iNjQiIHdpZHRoPSI4NiIgLz4KICAgICAgPHZzdGVt
+      IHBvcz0iNDUwIiB3aWR0aD0iODYiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0T
+      GlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

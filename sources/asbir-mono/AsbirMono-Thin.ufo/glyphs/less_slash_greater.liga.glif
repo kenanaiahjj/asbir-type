@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_slash_greater.liga" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-520" y="-150" type="line"/>
+      <point x="-487" y="-150" type="line"/>
+      <point x="-91" y="710" type="line"/>
+      <point x="-124" y="710" type="line"/>
+    </contour>
+    <component base="less" xScale="1.2" xOffset="-1036"/>
+    <component base="greater" xScale="1.2" xOffset="-283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

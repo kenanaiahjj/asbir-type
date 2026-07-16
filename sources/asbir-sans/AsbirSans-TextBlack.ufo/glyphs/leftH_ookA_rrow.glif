@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftHookArrow" format="2">
+  <advance width="2398"/>
+  <unicode hex="21A9"/>
+  <outline>
+    <contour>
+      <point x="990" y="-136" type="line"/>
+      <point x="1196" y="70" type="line"/>
+      <point x="945" y="321" type="line" smooth="yes"/>
+      <point x="847" y="419"/>
+      <point x="626" y="571"/>
+      <point x="546" y="627" type="curve"/>
+      <point x="546" y="556" type="line"/>
+      <point x="620" y="540"/>
+      <point x="814" y="500"/>
+      <point x="928" y="500" type="curve" smooth="yes"/>
+      <point x="1684" y="500" type="line" smooth="yes"/>
+      <point x="1998" y="500"/>
+      <point x="2218" y="714"/>
+      <point x="2218" y="1018" type="curve" smooth="yes"/>
+      <point x="2218" y="1322"/>
+      <point x="1998" y="1536"/>
+      <point x="1684" y="1536" type="curve" smooth="yes"/>
+      <point x="1574" y="1536" type="line"/>
+      <point x="1574" y="1234" type="line"/>
+      <point x="1684" y="1234" type="line" smooth="yes"/>
+      <point x="1817" y="1234"/>
+      <point x="1900" y="1151"/>
+      <point x="1900" y="1018" type="curve" smooth="yes"/>
+      <point x="1900" y="885"/>
+      <point x="1817" y="802"/>
+      <point x="1684" y="802" type="curve" smooth="yes"/>
+      <point x="928" y="802" type="line" smooth="yes"/>
+      <point x="814" y="802"/>
+      <point x="620" y="762"/>
+      <point x="546" y="746" type="curve"/>
+      <point x="546" y="674" type="line"/>
+      <point x="626" y="731"/>
+      <point x="833" y="870"/>
+      <point x="945" y="982" type="curve" smooth="yes"/>
+      <point x="1196" y="1234" type="line"/>
+      <point x="990" y="1438" type="line"/>
+      <point x="202" y="652" type="line"/>
+    </contour>
+  </outline>
+</glyph>

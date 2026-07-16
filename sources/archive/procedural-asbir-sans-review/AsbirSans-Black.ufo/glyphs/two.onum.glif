@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.onum" format="2">
+  <advance width="470"/>
+  <outline>
+    <component base="uni0032" xScale="0.78" yScale="0.78" xOffset="40" yOffset="65"/>
+  </outline>
+</glyph>

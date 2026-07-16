@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="190" y="761" type="curve" smooth="yes"/>
+      <point x="250" y="761"/>
+      <point x="271" y="789"/>
+      <point x="271" y="824" type="curve" smooth="yes"/>
+      <point x="271" y="850" type="line" smooth="yes"/>
+      <point x="271" y="885"/>
+      <point x="250" y="912"/>
+      <point x="190" y="912" type="curve" smooth="yes"/>
+      <point x="131" y="912"/>
+      <point x="110" y="885"/>
+      <point x="110" y="850" type="curve" smooth="yes"/>
+      <point x="110" y="824" type="line" smooth="yes"/>
+      <point x="110" y="789"/>
+      <point x="131" y="761"/>
+    </contour>
+    <contour>
+      <point x="410" y="761" type="curve" smooth="yes"/>
+      <point x="469" y="761"/>
+      <point x="490" y="789"/>
+      <point x="490" y="824" type="curve" smooth="yes"/>
+      <point x="490" y="850" type="line" smooth="yes"/>
+      <point x="490" y="885"/>
+      <point x="469" y="912"/>
+      <point x="410" y="912" type="curve" smooth="yes"/>
+      <point x="350" y="912"/>
+      <point x="329" y="885"/>
+      <point x="329" y="850" type="curve" smooth="yes"/>
+      <point x="329" y="824" type="line" smooth="yes"/>
+      <point x="329" y="789"/>
+      <point x="350" y="761"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ijc2MSIgd2lkdGg9IjE1MSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMT
+      EwIiB3aWR0aD0iMTYxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMjkiIHdpZHRoPSIxNjE
+      iIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

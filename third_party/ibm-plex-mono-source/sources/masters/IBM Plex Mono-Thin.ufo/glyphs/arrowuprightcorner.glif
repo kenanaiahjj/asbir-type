@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowuprightcorner" format="2">
+  <advance width="600"/>
+  <unicode hex="21B1"/>
+  <outline>
+    <contour>
+      <point x="559" y="511" type="line"/>
+      <point x="372" y="698" type="line"/>
+      <point x="357" y="683" type="line"/>
+      <point x="468" y="572" type="line"/>
+      <point x="522" y="522" type="line"/>
+      <point x="521" y="520" type="line"/>
+      <point x="413" y="521" type="line"/>
+      <point x="106" y="521" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="501" type="line"/>
+      <point x="413" y="501" type="line"/>
+      <point x="521" y="502" type="line"/>
+      <point x="522" y="500" type="line"/>
+      <point x="468" y="450" type="line"/>
+      <point x="357" y="339" type="line"/>
+      <point x="372" y="324" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUwMS
+      Igd2lkdGg9IjIxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMDYiIHdpZHRoPSIyMCIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni21B1</string>
+      <key>com.type-invaders.name.production</key>
+      <string>arrowuprightcorner</string>
+    </dict>
+  </lib>
+</glyph>

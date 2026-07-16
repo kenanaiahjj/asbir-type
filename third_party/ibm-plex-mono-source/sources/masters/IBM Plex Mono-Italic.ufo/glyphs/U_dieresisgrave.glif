@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisgrave" format="2">
+  <advance width="600"/>
+  <unicode hex="01DB"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="364.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresisgrave.case" xOffset="367"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni01DB</string>
+      <key>com.type-invaders.name.production</key>
+      <string>Udieresisgrave</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

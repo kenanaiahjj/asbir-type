@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thook" format="2">
+  <advance width="1170"/>
+  <unicode hex="01AC"/>
+  <anchor x="607" y="1490" name="top"/>
+  <anchor x="406" y="1490" name="topl"/>
+  <outline>
+    <component base="Thook.base" xOffset="44"/>
+    <component base="_part.top_left_hook" xOffset="36"/>
+  </outline>
+</glyph>

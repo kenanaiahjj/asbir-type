@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hooksubpalatcomb" format="2">
+  <unicode hex="EEB9"/>
+  <outline>
+    <contour>
+      <point x="-468" y="62" type="line"/>
+      <point x="-466" y="-264" type="line" smooth="yes"/>
+      <point x="-466" y="-364"/>
+      <point x="-498" y="-410"/>
+      <point x="-568" y="-410" type="curve" smooth="yes"/>
+      <point x="-580" y="-410"/>
+      <point x="-592" y="-409"/>
+      <point x="-602" y="-406" type="curve"/>
+      <point x="-602" y="-446" type="line"/>
+      <point x="-592" y="-451"/>
+      <point x="-572" y="-454"/>
+      <point x="-554" y="-454" type="curve" smooth="yes"/>
+      <point x="-469" y="-454"/>
+      <point x="-422" y="-388"/>
+      <point x="-422" y="-264" type="curve" smooth="yes"/>
+      <point x="-422" y="62" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

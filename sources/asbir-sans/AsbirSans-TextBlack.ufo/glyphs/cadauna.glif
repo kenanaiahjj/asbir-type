@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cadauna" format="2">
+  <advance width="2323"/>
+  <unicode hex="2106"/>
+  <anchor x="1835" y="0" name="bottom"/>
+  <anchor x="477" y="862" name="cedilla"/>
+  <anchor x="473" y="1189" name="center"/>
+  <anchor x="1828" y="654" name="top"/>
+  <anchor x="835" y="1265" name="topr"/>
+  <anchor x="2213" y="0" name="ogonek"/>
+  <anchor x="1930" y="654" name="rtophorn"/>
+  <outline>
+    <component base="c.sups" yOffset="-24"/>
+    <component base="fraction" xOffset="828"/>
+    <component base="u.subs" xOffset="1330" yOffset="314"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c.sups</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>u.subs</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

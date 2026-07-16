@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EBE" format="2">
+  <advance width="540"/>
+  <unicode hex="1EBE"/>
+  <outline>
+    <contour>
+      <point x="186.29391607923924" y="717.2530278717034" type="line"/>
+      <point x="244.29391607923924" y="784.2530278717034" type="line"/>
+      <point x="295.70608392076076" y="739.7469721282966" type="line"/>
+      <point x="237.70608392076076" y="672.7469721282966" type="line"/>
+    </contour>
+    <contour>
+      <point x="295.70608392076076" y="784.2530278717034" type="line"/>
+      <point x="353.70608392076076" y="717.2530278717034" type="line"/>
+      <point x="302.29391607923924" y="672.7469721282966" type="line"/>
+      <point x="244.29391607923924" y="739.7469721282966" type="line"/>
+    </contour>
+    <contour>
+      <point x="207.64819400307294" y="727.7274007149546" type="line"/>
+      <point x="283.64819400307294" y="805.7274007149546" type="line"/>
+      <point x="332.35180599692706" y="758.2725992850454" type="line"/>
+      <point x="256.35180599692706" y="680.2725992850454" type="line"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+</glyph>

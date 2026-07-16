@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deleteright" format="2">
+  <advance width="2426"/>
+  <unicode hex="2326"/>
+  <outline>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="1544" y="0" type="line"/>
+      <point x="2286" y="744" type="line"/>
+      <point x="1544" y="1490" type="line"/>
+      <point x="154" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="704" y="308" type="line"/>
+      <point x="1470" y="1074" type="line"/>
+      <point x="1364" y="1182" type="line"/>
+      <point x="598" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="1364" y="308" type="line"/>
+      <point x="1470" y="416" type="line"/>
+      <point x="704" y="1182" type="line"/>
+      <point x="598" y="1074" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="160" type="line"/>
+      <point x="312" y="1330" type="line"/>
+      <point x="1480" y="1330" type="line"/>
+      <point x="2062" y="744" type="line"/>
+      <point x="1480" y="160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

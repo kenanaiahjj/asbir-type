@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilondieresis" format="2">
+  <advance width="1196"/>
+  <unicode hex="03CB"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="998" y="368" name="ogonek"/>
+  <anchor x="598" y="1467" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresiscomb"/>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="600"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="20" type="line"/>
+      <point x="315" y="698" type="line"/>
+      <point x="285" y="698" type="line"/>
+      <point x="56" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="20" type="line"/>
+      <point x="78" y="20" type="line"/>
+      <point x="298" y="673" type="line"/>
+      <point x="301" y="673" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjczIi
+      B3aWR0aD0iMjUiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU2IiB3aWR0aD0iNDg4IiAvPgo
+      gICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

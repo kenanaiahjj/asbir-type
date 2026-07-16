@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iicyrillic" format="2">
+  <advance width="1136"/>
+  <unicode hex="0438"/>
+  <anchor x="1010" y="0" name="cyrtic"/>
+  <anchor x="568" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="1010" y="0" type="line"/>
+      <point x="1010" y="1056" type="line"/>
+      <point x="840" y="1056" type="line"/>
+      <point x="299" y="268" type="line"/>
+      <point x="296" y="268" type="line"/>
+      <point x="296" y="1056" type="line"/>
+      <point x="126" y="1056" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="837" y="787" type="line"/>
+      <point x="840" y="787" type="line"/>
+      <point x="840" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

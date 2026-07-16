@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="600"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="69" type="line"/>
+      <point x="392" y="69" type="line"/>
+      <point x="392" y="319" type="line"/>
+      <point x="548" y="319" type="line"/>
+      <point x="548" y="388" type="line"/>
+      <point x="392" y="388" type="line"/>
+      <point x="392" y="629" type="line"/>
+      <point x="560" y="629" type="line"/>
+      <point x="560" y="698" type="line"/>
+      <point x="289" y="698" type="line" smooth="yes"/>
+      <point x="120" y="698"/>
+      <point x="37" y="578"/>
+      <point x="37" y="349" type="curve" smooth="yes"/>
+      <point x="37" y="120"/>
+      <point x="120" y="0"/>
+      <point x="289" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="293" y="69" type="line" smooth="yes"/>
+      <point x="181" y="69"/>
+      <point x="122" y="152"/>
+      <point x="122" y="295" type="curve" smooth="yes"/>
+      <point x="122" y="403" type="line" smooth="yes"/>
+      <point x="122" y="546"/>
+      <point x="181" y="629"/>
+      <point x="293" y="629" type="curve" smooth="yes"/>
+      <point x="312" y="629" type="line"/>
+      <point x="312" y="69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI2OSIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzE5Ii
+      B3aWR0aD0iNjkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjYyOSIgd2lkdGg9IjY5IiAvPgo
+      gICAgICA8dnN0ZW0gcG9zPSIzNyIgd2lkdGg9Ijg1IiAvPgogICAgICA8dnN0ZW0gcG9z
+      PSIzMTIiIHdpZHRoPSI4MCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0P
+      go=
+      </data>
+    </dict>
+  </lib>
+</glyph>

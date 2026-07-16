@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="600"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="285" y="698" type="line"/>
+      <point x="263" y="698" type="line"/>
+      <point x="221" y="459" type="line"/>
+      <point x="57" y="459" type="line"/>
+      <point x="57" y="440" type="line"/>
+      <point x="218" y="440" type="line"/>
+      <point x="186" y="258" type="line"/>
+      <point x="22" y="258" type="line"/>
+      <point x="22" y="239" type="line"/>
+      <point x="182" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="379" y="239" type="line"/>
+      <point x="543" y="239" type="line"/>
+      <point x="543" y="258" type="line"/>
+      <point x="382" y="258" type="line"/>
+      <point x="414" y="440" type="line"/>
+      <point x="578" y="440" type="line"/>
+      <point x="578" y="459" type="line"/>
+      <point x="418" y="459" type="line"/>
+      <point x="460" y="698" type="line"/>
+      <point x="438" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjIzOS
+      Igd2lkdGg9IjE5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NDAiIHdpZHRoPSIxOSIgLz4
+      KICAgICAgPGhzdGVtIHBvcz0iNjk4IiB3aWR0aD0iLTIxIiAvPgogICAgICA8dnN0ZW0g
+      cG9zPSIyMiIgd2lkdGg9IjU1NiIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMa
+      XN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

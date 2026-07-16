@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowup" format="2">
+  <advance width="600"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="300" y="710" type="line"/>
+      <point x="93" y="503" type="line"/>
+      <point x="141" y="454" type="line"/>
+      <point x="227" y="541" type="line"/>
+      <point x="269" y="591" type="line"/>
+      <point x="272" y="590" type="line"/>
+      <point x="266" y="493" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="334" y="493" type="line"/>
+      <point x="328" y="590" type="line"/>
+      <point x="331" y="591" type="line"/>
+      <point x="373" y="541" type="line"/>
+      <point x="459" y="454" type="line"/>
+      <point x="507" y="503" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjcxMC
+      Igd2lkdGg9Ii0yMSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjY2IiB3aWR0aD0iNjgiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2191</string>
+      <key>com.type-invaders.name.production</key>
+      <string>arrowup</string>
+    </dict>
+  </lib>
+</glyph>

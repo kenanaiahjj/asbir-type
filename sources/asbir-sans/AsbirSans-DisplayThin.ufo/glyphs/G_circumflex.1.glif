@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcircumflex.1" format="2">
+  <advance width="1422"/>
+  <unicode hex="E005"/>
+  <anchor x="692" y="0" name="bottom"/>
+  <anchor x="996" y="354" name="cross"/>
+  <anchor x="692" y="1949" name="top"/>
+  <anchor x="1272" y="1024" name="topr"/>
+  <outline>
+    <component base="G.1"/>
+    <component base="circumflexcomb" xOffset="340" yOffset="434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

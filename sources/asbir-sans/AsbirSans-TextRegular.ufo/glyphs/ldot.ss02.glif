@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.ss02" format="2">
+  <advance width="804"/>
+  <unicode hex="E055"/>
+  <anchor x="311" y="0" name="bottom"/>
+  <anchor x="338" y="745" name="centerr"/>
+  <anchor x="249" y="769" name="cross"/>
+  <anchor x="481" y="1490" name="raccent"/>
+  <anchor x="248" y="1490" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="periodcentered" xOffset="306" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.ss02</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04BD" format="2">
+  <advance width="600"/>
+  <unicode hex="04BD"/>
+  <outline>
+    <contour>
+      <point x="345" y="-12" type="curve" smooth="yes"/>
+      <point x="458" y="-12"/>
+      <point x="510" y="52"/>
+      <point x="564" y="129" type="curve"/>
+      <point x="473" y="188" type="line"/>
+      <point x="432" y="122"/>
+      <point x="398" y="100"/>
+      <point x="356" y="100" type="curve" smooth="yes"/>
+      <point x="307" y="100"/>
+      <point x="290" y="131"/>
+      <point x="290" y="186" type="curve" smooth="yes"/>
+      <point x="290" y="191"/>
+      <point x="290" y="195"/>
+      <point x="291" y="203" type="curve"/>
+      <point x="546" y="216"/>
+      <point x="581" y="309"/>
+      <point x="581" y="386" type="curve" smooth="yes"/>
+      <point x="581" y="481"/>
+      <point x="499" y="528"/>
+      <point x="421" y="528" type="curve" smooth="yes"/>
+      <point x="282" y="528"/>
+      <point x="185" y="436"/>
+      <point x="156" y="287" type="curve"/>
+      <point x="110" y="287" type="line"/>
+      <point x="133" y="399" type="line"/>
+      <point x="32" y="399" type="line"/>
+      <point x="13" y="302" type="line" smooth="yes"/>
+      <point x="11" y="292"/>
+      <point x="9" y="281"/>
+      <point x="9" y="267" type="curve" smooth="yes"/>
+      <point x="9" y="238"/>
+      <point x="20" y="203"/>
+      <point x="72" y="203" type="curve" smooth="yes"/>
+      <point x="147" y="203" type="line"/>
+      <point x="149" y="69"/>
+      <point x="217" y="-12"/>
+    </contour>
+    <contour>
+      <point x="395" y="425" type="curve" smooth="yes"/>
+      <point x="419" y="425"/>
+      <point x="440" y="408"/>
+      <point x="440" y="376" type="curve" smooth="yes"/>
+      <point x="440" y="344"/>
+      <point x="429" y="297"/>
+      <point x="301" y="287" type="curve"/>
+      <point x="304" y="301" type="line" smooth="yes"/>
+      <point x="323" y="390"/>
+      <point x="355" y="425"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMiIgd2lkdGg9IjExMiIgLz4KICAgICAgPGhzdGVtIHBvcz0iMj
+      AzIiB3aWR0aD0iODQiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQyNSIgd2lkdGg9IjEwMyI
+      gLz4KICAgICAgPHZzdGVtIHBvcz0iMTQ3IiB3aWR0aD0iMTQzIiAvPgogICAgICA8dnN0
+      ZW0gcG9zPSI0NDAiIHdpZHRoPSIxNDEiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U
+      2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

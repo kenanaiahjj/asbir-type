@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="600"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="463" y="-128" type="line"/>
+      <point x="93" y="-128" type="line"/>
+      <point x="398" y="224" type="line"/>
+      <point x="406" y="276" type="line"/>
+      <point x="209" y="626" type="line"/>
+      <point x="589" y="626" type="line"/>
+      <point x="601" y="698" type="line"/>
+      <point x="138" y="698" type="line"/>
+      <point x="125" y="623" type="line"/>
+      <point x="329" y="262" type="line"/>
+      <point x="329" y="256" type="line"/>
+      <point x="0" y="-125" type="line"/>
+      <point x="-12" y="-200" type="line"/>
+      <point x="451" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0yMDAiIHdpZHRoPSI3MiIgLz4KICAgICAgPGhzdGVtIHBvcz0iNj
+      I2IiB3aWR0aD0iNzIiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ii0xMiIgd2lkdGg9IjYxMyI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

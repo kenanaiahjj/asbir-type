@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikavaria.ss07" format="2">
+  <advance width="1100"/>
+  <unicode hex="E2BC"/>
+  <anchor x="550" y="1056" name="_top"/>
+  <anchor x="752" y="1362" name="top"/>
+  <outline>
+    <component base="dieresistonos.ss07" xScale="-1" xOffset="1100"/>
+  </outline>
+</glyph>

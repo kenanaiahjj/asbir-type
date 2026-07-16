@@ -1,0 +1,41 @@
+{
+  "name": "asbir-sans-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run build:fonts && vite build",
+    "preview": "vite preview",
+    "sources:generate": "python3 tools/generate_ufo_sources.py",
+    "sources:import-authored": "python3 tools/import_authored_sources.py --replace",
+    "sources:import-mono": "python3 tools/import_authored_sources.py --family mono --replace",
+    "sources:asbir-identity": "python3 tools/apply_asbir_sans_identity.py",
+    "sources:expand-sans": "python3 tools/expand_asbir_sans_sources.py",
+    "sources:redraw-companions": "python3 tools/optical_redraw_companions.py",
+    "sources:redraw-serif": "python3 tools/optical_redraw_serif.py",
+    "sources:generate-companions": "python3 tools/generate_companion_sources.py",
+    "sources:expand-latin": "python3 tools/expand_latin_sources.py",
+    "sources:expand-vietnamese": "python3 tools/expand_vietnamese_sources.py",
+    "sources:expand-greek-cyrillic": "python3 tools/expand_greek_cyrillic_sources.py",
+    "sources:add-features": "python3 tools/add_opentype_features.py",
+    "sources:expand-symbols": "python3 tools/expand_symbols.py",
+    "test:sources": "python3 tools/source_qa.py",
+    "test:shaping": "python3 tools/shaping_qa.py",
+    "build:fonts": "python3 tools/build_fonts.py",
+    "test:fonts": "npm run test:sources && npm run build:fonts && python3 tools/font_qa.py --mode review && npm run test:shaping",
+    "test:fonts:production": "npm run build:fonts && python3 tools/font_qa.py --mode production",
+    "test:fontbakery": "npm run build:fonts && python3 tools/run_fontbakery.py"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.2.9",
+    "@fontsource-variable/geist": "^5.2.9",
+    "@fontsource-variable/geist-mono": "^5.2.8",
+    "@fontsource-variable/inter": "^5.2.8",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@fontsource/instrument-serif": "^5.2.8"
+  }
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="370" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="710" type="line"/>
+      <point x="370" y="710" type="line"/>
+      <point x="370" y="418" type="line"/>
+      <point x="348" y="396"/>
+      <point x="314" y="384"/>
+      <point x="278" y="384" type="curve" smooth="yes"/>
+      <point x="238" y="384"/>
+      <point x="210" y="406"/>
+      <point x="210" y="456" type="curve" smooth="yes"/>
+      <point x="210" y="710" type="line"/>
+      <point x="30" y="710" type="line"/>
+      <point x="30" y="426" type="line" smooth="yes"/>
+      <point x="30" y="270"/>
+      <point x="105" y="227"/>
+      <point x="218" y="227" type="curve" smooth="yes"/>
+      <point x="306" y="227"/>
+      <point x="365" y="256"/>
+      <point x="410" y="288" type="curve"/>
+      <point x="370" y="326" type="line"/>
+    </contour>
+  </outline>
+</glyph>

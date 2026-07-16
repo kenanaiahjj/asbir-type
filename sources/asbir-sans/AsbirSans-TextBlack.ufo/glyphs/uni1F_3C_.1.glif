@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F3C.1" format="2">
+  <advance width="1951"/>
+  <unicode hex="E022"/>
+  <anchor x="1432" y="0" name="bottom"/>
+  <anchor x="1430" y="788" name="cross"/>
+  <anchor x="1893" y="0" name="ogonek"/>
+  <anchor x="1919" y="0" name="right"/>
+  <anchor x="971" y="1490" name="tonos"/>
+  <anchor x="1432" y="1490" name="top"/>
+  <outline>
+    <component base="I.1" xOffset="913"/>
+    <component base="uni1FCE.tonos" xOffset="-24" yOffset="-105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FCE.tonos</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

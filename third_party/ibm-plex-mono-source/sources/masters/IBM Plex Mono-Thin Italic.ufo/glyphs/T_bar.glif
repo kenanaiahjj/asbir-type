@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="600"/>
+  <unicode hex="0166"/>
+  <anchor x="257.0" y="0.0" name="bottom"/>
+  <anchor x="373.0" y="698.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="520" y="365" type="line"/>
+      <point x="523" y="384" type="line"/>
+      <point x="332" y="384" type="line"/>
+      <point x="381" y="678" type="line"/>
+      <point x="629" y="678" type="line"/>
+      <point x="632" y="698" type="line"/>
+      <point x="114" y="698" type="line"/>
+      <point x="111" y="678" type="line"/>
+      <point x="359" y="678" type="line"/>
+      <point x="310" y="384" type="line"/>
+      <point x="119" y="384" type="line"/>
+      <point x="116" y="365" type="line"/>
+      <point x="307" y="365" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="329" y="365" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM2NS
+      Igd2lkdGg9IjE5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI2NzgiIHdpZHRoPSIyMCIgLz4
+      KICAgICAgPHZzdGVtIHBvcz0iMTExIiB3aWR0aD0iNTIxIiAvPgogICAgPC9oaW50c2V0
+      PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

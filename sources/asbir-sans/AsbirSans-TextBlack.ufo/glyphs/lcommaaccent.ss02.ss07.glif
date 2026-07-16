@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent.ss02.ss07" format="2">
+  <advance width="691"/>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="504" y="745" name="centerr"/>
+  <anchor x="302" y="788" name="cross"/>
+  <anchor x="620" y="1490" name="raccent"/>
+  <anchor x="303" y="1490" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="commaaccent.ss07" xOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.ss02</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent.ss07</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

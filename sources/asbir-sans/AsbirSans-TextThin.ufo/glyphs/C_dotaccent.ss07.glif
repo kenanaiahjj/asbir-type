@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent.ss07" format="2">
+  <advance width="1480"/>
+  <unicode hex="E1EA"/>
+  <anchor x="766" y="0" name="cedilla"/>
+  <anchor x="760" y="745" name="center"/>
+  <anchor x="766" y="1806" name="top"/>
+  <anchor x="1336" y="1024" name="topr"/>
+  <outline>
+    <component base="C"/>
+    <component base="dotaccentcomb.ss07" xOffset="580" yOffset="372"/>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="600"/>
+  <unicode hex="20BD"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="84" type="line"/>
+      <point x="400" y="84" type="line"/>
+      <point x="400" y="174" type="line"/>
+      <point x="20" y="174" type="line"/>
+    </contour>
+    <component base="P" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>P</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

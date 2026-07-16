@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="1530"/>
+  <unicode hex="00D8"/>
+  <anchor x="766" y="0" name="bottom"/>
+  <anchor x="766" y="745" name="center"/>
+  <anchor x="1382" y="744" name="ogonek"/>
+  <anchor x="286" y="1490" name="tonos"/>
+  <anchor x="766" y="1490" name="top"/>
+  <anchor x="766" y="1510" name="tophorn"/>
+  <outline>
+    <component base="O"/>
+    <component base="_part.Oslash" xOffset="190"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

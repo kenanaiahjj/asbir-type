@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni034A" format="2">
+  <unicode hex="034A"/>
+  <outline>
+    <contour>
+      <point x="-460" y="1306" type="curve" smooth="yes"/>
+      <point x="-372" y="1306"/>
+      <point x="-289" y="1366"/>
+      <point x="-268" y="1454" type="curve"/>
+      <point x="-314" y="1466" type="line"/>
+      <point x="-329" y="1398"/>
+      <point x="-393" y="1352"/>
+      <point x="-460" y="1352" type="curve" smooth="yes"/>
+      <point x="-567" y="1352"/>
+      <point x="-610" y="1472"/>
+      <point x="-744" y="1472" type="curve" smooth="yes"/>
+      <point x="-844" y="1472"/>
+      <point x="-923" y="1409"/>
+      <point x="-936" y="1318" type="curve"/>
+      <point x="-890" y="1312" type="line"/>
+      <point x="-881" y="1378"/>
+      <point x="-820" y="1426"/>
+      <point x="-744" y="1426" type="curve" smooth="yes"/>
+      <point x="-621" y="1426"/>
+      <point x="-584" y="1306"/>
+    </contour>
+    <contour>
+      <point x="-676" y="1226" type="line"/>
+      <point x="-470" y="1506" type="line"/>
+      <point x="-504" y="1536" type="line"/>
+      <point x="-712" y="1256" type="line"/>
+    </contour>
+  </outline>
+</glyph>

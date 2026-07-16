@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trianglebullet" format="2">
+  <advance width="896"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="378" y="396" type="line"/>
+      <point x="706" y="594" type="line"/>
+      <point x="378" y="792" type="line"/>
+    </contour>
+  </outline>
+</glyph>

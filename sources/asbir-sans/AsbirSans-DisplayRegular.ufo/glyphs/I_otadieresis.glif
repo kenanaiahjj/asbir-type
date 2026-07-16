@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadieresis" format="2">
+  <advance width="476"/>
+  <unicode hex="03AA"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="238" y="768" name="cross"/>
+  <anchor x="328" y="0" name="ogonek"/>
+  <anchor x="344" y="0" name="right"/>
+  <anchor x="148" y="1490" name="tonos"/>
+  <anchor x="238" y="1924" name="top"/>
+  <outline>
+    <component base="Idieresis"/>
+  </outline>
+</glyph>

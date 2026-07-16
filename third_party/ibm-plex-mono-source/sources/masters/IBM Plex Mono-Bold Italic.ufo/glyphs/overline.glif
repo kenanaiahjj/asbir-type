@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overline" format="2">
+  <advance width="600"/>
+  <unicode hex="203E"/>
+  <guideline x="8" y="-72" angle="80.5" identifier="J8LXDX0bn2"/>
+  <guideline x="483" y="-72" angle="80.5" identifier="MsaRxUJ7tE"/>
+  <outline>
+    <contour>
+      <point x="602" y="644" type="line"/>
+      <point x="622" y="763" type="line"/>
+      <point x="147" y="763" type="line"/>
+      <point x="127" y="644" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni203E</string>
+      <key>com.type-invaders.name.production</key>
+      <string>overline</string>
+      <key>com.typemytype.robofont.guideline.magnetic.J8LXDX0bn2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.MsaRxUJ7tE</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.showMeasurements.J8LXDX0bn2</key>
+      <false/>
+      <key>com.typemytype.robofont.guideline.showMeasurements.MsaRxUJ7tE</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

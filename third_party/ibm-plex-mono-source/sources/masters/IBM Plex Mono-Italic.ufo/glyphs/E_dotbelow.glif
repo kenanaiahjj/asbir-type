@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotbelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1EB8"/>
+  <anchor x="477.0" y="0.0" name="bottomright"/>
+  <anchor x="379.0" y="698.0" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="279"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EB8</string>
+      <key>com.type-invaders.name.production</key>
+      <string>Edotbelow</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

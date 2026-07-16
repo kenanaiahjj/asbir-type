@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghecyrillic" format="2">
+  <advance width="1387"/>
+  <unicode hex="04A5"/>
+  <anchor x="602" y="0" name="bottom"/>
+  <anchor x="1047" y="0" name="cyrtic"/>
+  <anchor x="867" y="0" name="lfthook"/>
+  <anchor x="602" y="1118" name="top"/>
+  <outline>
+    <contour>
+      <point x="963" y="972" type="line"/>
+      <point x="1355" y="972" type="line"/>
+      <point x="1355" y="1118" type="line"/>
+      <point x="963" y="1118" type="line"/>
+    </contour>
+    <component base="encyrillic"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arighthalfring" format="2">
+  <advance width="1150"/>
+  <unicode hex="1E9A"/>
+  <anchor x="557" y="0" name="bottom"/>
+  <anchor x="992" y="0" name="ogonek"/>
+  <anchor x="558" y="1118" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="righthalfringabovecomb" xOffset="411"/>
+  </outline>
+</glyph>

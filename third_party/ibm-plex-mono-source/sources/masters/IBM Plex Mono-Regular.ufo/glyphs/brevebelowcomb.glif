@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="0" y="-218" type="curve" smooth="yes"/>
+      <point x="107" y="-218"/>
+      <point x="142" y="-128"/>
+      <point x="161" y="-67" type="curve"/>
+      <point x="110" y="-45" type="line"/>
+      <point x="89" y="-79" type="line" smooth="yes"/>
+      <point x="58" y="-129"/>
+      <point x="44" y="-153"/>
+      <point x="0" y="-153" type="curve" smooth="yes"/>
+      <point x="-44" y="-153"/>
+      <point x="-58" y="-129"/>
+      <point x="-89" y="-79" type="curve" smooth="yes"/>
+      <point x="-110" y="-45" type="line"/>
+      <point x="-161" y="-67" type="line"/>
+      <point x="-142" y="-128"/>
+      <point x="-107" y="-218"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjU5NSIgd2lkdGg9IjY1IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMz
+      kiIHdpZHRoPSIzMjIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni032E</string>
+      <key>com.type-invaders.name.production</key>
+      <string>brevebelowcomb</string>
+    </dict>
+  </lib>
+</glyph>

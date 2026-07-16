@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgrave" format="2">
+  <anchor x="0.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-154" y="712" type="line"/>
+      <point x="-105" y="735" type="line"/>
+      <point x="-190" y="905" type="line"/>
+      <point x="-260" y="871" type="line"/>
+    </contour>
+    <contour>
+      <point x="-50" y="755" type="line"/>
+      <point x="-160" y="611" type="line"/>
+      <point x="-118" y="581" type="line"/>
+      <point x="-1" y="700" type="line"/>
+      <point x="116" y="581" type="line"/>
+      <point x="160" y="611" type="line"/>
+      <point x="50" y="755" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjU4MSIgd2lkdGg9IjMyNCIgLz4KICAgICAgPHZzdGVtIHBvcz0iLT
+      I2MCIgd2lkdGg9IjQyMCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo
+      =
+      </data>
+    </dict>
+  </lib>
+</glyph>

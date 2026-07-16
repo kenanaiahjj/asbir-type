@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehook" format="2">
+  <advance width="600"/>
+  <unicode hex="1EBB"/>
+  <anchor x="271.0" y="0.0" name="bottom"/>
+  <anchor x="346.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="e"/>
+    <component base="hookcomb" xOffset="341"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EBB</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ehook</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

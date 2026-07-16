@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deleteLeftKey" format="2">
+  <advance width="600"/>
+  <unicode hex="232B"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="592" y="710" type="line"/>
+      <point x="158" y="710" type="line"/>
+      <point x="4" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="69" type="line"/>
+      <point x="80" y="354" type="line"/>
+      <point x="205" y="641" type="line"/>
+      <point x="523" y="641" type="line"/>
+      <point x="523" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="208" type="line"/>
+      <point x="472" y="445" type="line"/>
+      <point x="418" y="500" type="line"/>
+      <point x="181" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="207" type="line"/>
+      <point x="473" y="263" type="line"/>
+      <point x="236" y="501" type="line"/>
+      <point x="180" y="445" type="line"/>
+    </contour>
+  </outline>
+</glyph>

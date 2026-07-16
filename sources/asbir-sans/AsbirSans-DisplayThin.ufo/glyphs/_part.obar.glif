@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.obar" format="2">
+  <advance width="1058"/>
+  <anchor x="531" y="528" name="_center"/>
+  <outline>
+    <contour>
+      <point x="966" y="551" type="line"/>
+      <point x="96" y="551" type="line"/>
+      <point x="96" y="505" type="line"/>
+      <point x="966" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

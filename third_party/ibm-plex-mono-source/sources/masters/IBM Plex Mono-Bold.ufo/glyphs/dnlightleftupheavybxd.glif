@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dnlightleftupheavybxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2529"/>
+  <outline>
+    <contour>
+      <point x="-34" y="232" type="line"/>
+      <point x="266" y="232" type="line"/>
+      <point x="266" y="-350" type="line"/>
+      <point x="334" y="-350" type="line"/>
+      <point x="334" y="232" type="line"/>
+      <point x="368" y="232" type="line"/>
+      <point x="368" y="950" type="line"/>
+      <point x="232" y="950" type="line"/>
+      <point x="232" y="368" type="line"/>
+      <point x="-34" y="368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMj
+      MyIiB3aWR0aD0iMTM2IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2529</string>
+      <key>com.type-invaders.name.production</key>
+      <string>dnlightleftupheavybxd</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>840</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>descender</key>
+    <integer>-240</integer>
+    <key>familyName</key>
+    <string>Asbir Mono Review</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.100</string>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>840</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-240</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>900</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>840</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>210</integer>
+    <key>postscriptFontName</key>
+    <string>AsbirMonoReview-Black</string>
+    <key>styleName</key>
+    <string>Black</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>xHeight</key>
+    <integer>555</integer>
+  </dict>
+</plist>

@@ -1,0 +1,145 @@
+@KernLeftA = [A V W Y T L F P R uni0391 uni0394 uni039B uni0410 uni0414 uni041B];
+@KernLeftT = [T uni03A4 uni0422 uni0413];
+@KernLeftDiagonal = [V W Y uni03A5 uni0423];
+@KernRightRound = [O C G Q o c e g q d uni039F uni0398 uni03BF uni03B8 uni03C6 uni041E uni0424 uni043E uni0444];
+@KernRightLower = [a e o u y uni03B1 uni03B5 uni03BF uni03C3 uni03C9 uni0430 uni0435 uni043E uni0441 uni044D];
+@KernPunctuation = [uni002C uni002E uni003A uni003B];
+
+feature kern {
+  pos A [V W Y] -55;
+  pos A @KernRightRound -20;
+  pos A @KernPunctuation -18;
+  pos L [T V W Y] -35;
+  pos T [A O C G Q a e o u y] -45;
+  pos T @KernPunctuation -35;
+  pos V [A a e o u] -52;
+  pos V @KernPunctuation -42;
+  pos W [A a e o u] -40;
+  pos W @KernPunctuation -30;
+  pos Y [A a e o u] -60;
+  pos Y @KernPunctuation -48;
+  pos F [A a e o] -24;
+  pos P [A a e o] -18;
+  pos R [V W Y] -18;
+  # Greek and Cyrillic are kerned with their own structural groups rather
+  # than inheriting Latin fallback spacing. This covers the pairs encountered
+  # in editorial Greek/Cyrillic text at display and text sizes.
+  pos [A uni0391 uni0394 uni039B uni0410 uni0414 uni041B] @KernLeftDiagonal -55;
+  pos [A uni0391 uni0394 uni039B uni0410 uni0414 uni041B] @KernRightRound -20;
+  pos @KernLeftT [A uni0391 uni0410] -42;
+  pos @KernLeftT @KernRightRound -45;
+  pos @KernLeftT @KernRightLower -38;
+  pos @KernLeftDiagonal [A uni0391 uni0410] -52;
+  pos @KernLeftDiagonal @KernRightLower -48;
+  pos @KernLeftDiagonal @KernPunctuation -42;
+} kern;
+
+feature liga {
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f by f_f;
+  sub f i by f_i;
+  sub f l by f_l;
+} liga;
+
+feature pnum {
+  sub uni0030 by zero.pnum;
+  sub uni0031 by one.pnum;
+  sub uni0032 by two.pnum;
+  sub uni0033 by three.pnum;
+  sub uni0034 by four.pnum;
+  sub uni0035 by five.pnum;
+  sub uni0036 by six.pnum;
+  sub uni0037 by seven.pnum;
+  sub uni0038 by eight.pnum;
+  sub uni0039 by nine.pnum;
+} pnum;
+
+feature onum {
+  sub uni0030 by zero.onum;
+  sub uni0031 by one.onum;
+  sub uni0032 by two.onum;
+  sub uni0033 by three.onum;
+  sub uni0034 by four.onum;
+  sub uni0035 by five.onum;
+  sub uni0036 by six.onum;
+  sub uni0037 by seven.onum;
+  sub uni0038 by eight.onum;
+  sub uni0039 by nine.onum;
+} onum;
+
+feature tnum {
+  sub zero.pnum by uni0030;
+  sub one.pnum by uni0031;
+  sub two.pnum by uni0032;
+  sub three.pnum by uni0033;
+  sub four.pnum by uni0034;
+  sub five.pnum by uni0035;
+  sub six.pnum by uni0036;
+  sub seven.pnum by uni0037;
+  sub eight.pnum by uni0038;
+  sub nine.pnum by uni0039;
+} tnum;
+
+feature zero {
+  sub uni0030 by zero.slash;
+  sub zero.pnum by zero.pnum.slash;
+  sub zero.onum by zero.onum.slash;
+} zero;
+
+feature numr {
+  sub uni0030 by zero.numr;
+  sub uni0031 by one.numr;
+  sub uni0032 by two.numr;
+  sub uni0033 by three.numr;
+  sub uni0034 by four.numr;
+  sub uni0035 by five.numr;
+  sub uni0036 by six.numr;
+  sub uni0037 by seven.numr;
+  sub uni0038 by eight.numr;
+  sub uni0039 by nine.numr;
+} numr;
+
+feature dnom {
+  sub uni0030 by zero.dnom;
+  sub uni0031 by one.dnom;
+  sub uni0032 by two.dnom;
+  sub uni0033 by three.dnom;
+  sub uni0034 by four.dnom;
+  sub uni0035 by five.dnom;
+  sub uni0036 by six.dnom;
+  sub uni0037 by seven.dnom;
+  sub uni0038 by eight.dnom;
+  sub uni0039 by nine.dnom;
+} dnom;
+
+feature sups {
+  sub uni0030 by zero.sups;
+  sub uni0031 by one.sups;
+  sub uni0032 by two.sups;
+  sub uni0033 by three.sups;
+  sub uni0034 by four.sups;
+  sub uni0035 by five.sups;
+  sub uni0036 by six.sups;
+  sub uni0037 by seven.sups;
+  sub uni0038 by eight.sups;
+  sub uni0039 by nine.sups;
+} sups;
+
+feature subs {
+  sub uni0030 by zero.subs;
+  sub uni0031 by one.subs;
+  sub uni0032 by two.subs;
+  sub uni0033 by three.subs;
+  sub uni0034 by four.subs;
+  sub uni0035 by five.subs;
+  sub uni0036 by six.subs;
+  sub uni0037 by seven.subs;
+  sub uni0038 by eight.subs;
+  sub uni0039 by nine.subs;
+} subs;
+
+feature ordn {
+  sub a by a.ordn;
+  sub o by o.ordn;
+} ordn;

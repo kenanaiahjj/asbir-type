@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotbelow" format="2">
+  <advance width="852"/>
+  <unicode hex="1E5B"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <anchor x="486" y="0" name="bottomr"/>
+  <anchor x="286" y="528" name="cross"/>
+  <anchor x="466" y="1056" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="dotbelow" xOffset="-34"/>
+  </outline>
+</glyph>

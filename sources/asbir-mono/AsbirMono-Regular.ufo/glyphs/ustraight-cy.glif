@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="258" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="550" y="530" type="line"/>
+      <point x="460" y="530" type="line"/>
+      <point x="286" y="70" type="line"/>
+      <point x="314" y="70" type="line"/>
+      <point x="140" y="530" type="line"/>
+      <point x="50" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="-150" type="line"/>
+      <point x="342" y="-150" type="line"/>
+      <point x="342" y="47" type="line"/>
+      <point x="258" y="47" type="line"/>
+    </contour>
+  </outline>
+</glyph>

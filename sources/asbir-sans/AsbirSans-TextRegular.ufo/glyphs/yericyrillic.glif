@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yericyrillic" format="2">
+  <advance width="1508"/>
+  <unicode hex="044B"/>
+  <anchor x="1261" y="0" name="bottom"/>
+  <anchor x="1261" y="595" name="cross"/>
+  <anchor x="1350" y="0" name="ogonek"/>
+  <anchor x="749" y="1118" name="top"/>
+  <outline>
+    <component base="softsigncyrillic"/>
+    <component base="idotless" xOffset="1012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

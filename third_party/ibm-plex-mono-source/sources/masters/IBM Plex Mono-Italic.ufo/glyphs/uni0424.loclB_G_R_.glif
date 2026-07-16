@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0424.loclBGR" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="210" y="-44" type="line"/>
+      <point x="289" y="-44" type="line"/>
+      <point x="304" y="46" type="line"/>
+      <point x="477" y="52"/>
+      <point x="591" y="213"/>
+      <point x="591" y="432" type="curve" smooth="yes"/>
+      <point x="591" y="558"/>
+      <point x="537" y="642"/>
+      <point x="405" y="650" type="curve"/>
+      <point x="421" y="740" type="line"/>
+      <point x="342" y="740" type="line"/>
+      <point x="326" y="650" type="line"/>
+      <point x="153" y="644"/>
+      <point x="39" y="483"/>
+      <point x="39" y="264" type="curve" smooth="yes"/>
+      <point x="39" y="138"/>
+      <point x="93" y="54"/>
+      <point x="225" y="46" type="curve"/>
+    </contour>
+    <contour>
+      <point x="239" y="116" type="line"/>
+      <point x="155" y="124"/>
+      <point x="118" y="173"/>
+      <point x="118" y="273" type="curve" smooth="yes"/>
+      <point x="118" y="289"/>
+      <point x="120" y="311"/>
+      <point x="123" y="329" type="curve" smooth="yes"/>
+      <point x="131" y="377" type="line" smooth="yes"/>
+      <point x="150" y="493"/>
+      <point x="216" y="574"/>
+      <point x="316" y="580" type="curve"/>
+    </contour>
+    <contour>
+      <point x="314" y="116" type="curve"/>
+      <point x="391" y="580" type="line"/>
+      <point x="475" y="572"/>
+      <point x="512" y="523"/>
+      <point x="512" y="423" type="curve" smooth="yes"/>
+      <point x="512" y="407"/>
+      <point x="510" y="385"/>
+      <point x="507" y="367" type="curve" smooth="yes"/>
+      <point x="499" y="319" type="line" smooth="yes"/>
+      <point x="480" y="203"/>
+      <point x="414" y="122"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>300</integer>
+          <key>y</key>
+          <integer>650</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>300</integer>
+          <key>y</key>
+          <integer>46</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

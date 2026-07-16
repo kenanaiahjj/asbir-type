@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="2">
+  <advance width="600"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="625" type="line"/>
+      <point x="438" y="625" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="522" y="698" type="line"/>
+      <point x="78" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjYyNS
+      Igd2lkdGg9IjczIiAvPgogICAgICA8dnN0ZW0gcG9zPSI3OCIgd2lkdGg9Ijg0IiAvPgo
+      gICAgICA8dnN0ZW0gcG9zPSI0MzgiIHdpZHRoPSI4NCIgLz4KICAgIDwvaGludHNldD4K
+      ICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

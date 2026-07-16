@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="234" y="-154" type="line"/>
+      <point x="565" y="414" type="line"/>
+      <point x="589" y="536" type="line"/>
+      <point x="113" y="536" type="line"/>
+      <point x="64" y="292" type="line"/>
+      <point x="183" y="292" type="line"/>
+      <point x="209" y="421" type="line"/>
+      <point x="428" y="421" type="line"/>
+      <point x="83" y="-154" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNTQiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      QyMSIgd2lkdGg9IjExNSIgLz4KICAgICAgPHZzdGVtIHBvcz0iNjQiIHdpZHRoPSI1MjU
+      iIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.LqHPEW7J6n</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.cMPhTPUzaQ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.fqo7O8Q5b7</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.oc9FgpiXa2</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

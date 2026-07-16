@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="600"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="300" y="273" type="curve" smooth="yes"/>
+      <point x="322" y="273"/>
+      <point x="334" y="283"/>
+      <point x="334" y="300" type="curve" smooth="yes"/>
+      <point x="334" y="308" type="line" smooth="yes"/>
+      <point x="334" y="325"/>
+      <point x="322" y="335"/>
+      <point x="300" y="335" type="curve" smooth="yes"/>
+      <point x="278" y="335"/>
+      <point x="266" y="325"/>
+      <point x="266" y="308" type="curve" smooth="yes"/>
+      <point x="266" y="300" type="line" smooth="yes"/>
+      <point x="266" y="283"/>
+      <point x="278" y="273"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI3MyIgd2lkdGg9IjYyIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNj
+      YiIHdpZHRoPSI2OCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

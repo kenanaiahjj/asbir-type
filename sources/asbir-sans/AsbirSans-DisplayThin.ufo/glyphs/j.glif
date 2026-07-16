@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="320"/>
+  <unicode hex="006A"/>
+  <anchor x="446" y="0" name="_right"/>
+  <anchor x="134" y="-442" name="bottom"/>
+  <anchor x="163" y="628" name="cross"/>
+  <anchor x="163" y="1425" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb" xOffset="41"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southEastArrow.case" format="2">
+  <advance width="1404"/>
+  <outline>
+    <component base="southEastArrow" yOffset="225"/>
+  </outline>
+</glyph>

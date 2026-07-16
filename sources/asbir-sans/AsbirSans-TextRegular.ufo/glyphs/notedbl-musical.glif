@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notedbl-musical" format="2">
+  <advance width="2033"/>
+  <unicode hex="266B"/>
+  <outline>
+    <contour>
+      <point x="1853" y="404" type="line"/>
+      <point x="1853" y="1602" type="line"/>
+      <point x="711" y="1373" type="line"/>
+      <point x="711" y="157" type="line"/>
+      <point x="871" y="221" type="line"/>
+      <point x="871" y="1105" type="line"/>
+      <point x="1693" y="1270" type="line"/>
+      <point x="1693" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="1405" y="57" type="curve" smooth="yes"/>
+      <point x="1631" y="57"/>
+      <point x="1853" y="213"/>
+      <point x="1853" y="404" type="curve"/>
+      <point x="1645" y="348" type="line"/>
+      <point x="1614" y="458"/>
+      <point x="1500" y="565"/>
+      <point x="1368" y="565" type="curve" smooth="yes"/>
+      <point x="1219" y="565"/>
+      <point x="1104" y="442"/>
+      <point x="1104" y="302" type="curve" smooth="yes"/>
+      <point x="1104" y="161"/>
+      <point x="1220" y="57"/>
+    </contour>
+    <contour>
+      <point x="423" y="-126" type="curve" smooth="yes"/>
+      <point x="649" y="-126"/>
+      <point x="871" y="30"/>
+      <point x="871" y="221" type="curve"/>
+      <point x="663" y="165" type="line"/>
+      <point x="632" y="275"/>
+      <point x="518" y="382"/>
+      <point x="386" y="382" type="curve" smooth="yes"/>
+      <point x="237" y="382"/>
+      <point x="122" y="259"/>
+      <point x="122" y="119" type="curve" smooth="yes"/>
+      <point x="122" y="-22"/>
+      <point x="238" y="-126"/>
+    </contour>
+  </outline>
+</glyph>

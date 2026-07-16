@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ksicyrillic" format="2">
+  <advance width="941"/>
+  <unicode hex="046F"/>
+  <anchor x="441" y="1056" name="_top"/>
+  <anchor x="441" y="1515" name="top"/>
+  <outline>
+    <contour>
+      <point x="359" y="-418" type="curve"/>
+      <point x="409" y="-418" type="line"/>
+      <point x="409" y="-372" type="line"/>
+      <point x="359" y="-372" type="line"/>
+      <point x="210" y="-372"/>
+      <point x="106" y="-296"/>
+      <point x="106" y="-187" type="curve"/>
+      <point x="106" y="-77"/>
+      <point x="210" y="0"/>
+      <point x="359" y="0" type="curve"/>
+      <point x="461" y="0" type="line"/>
+      <point x="674" y="0"/>
+      <point x="807" y="106"/>
+      <point x="807" y="276" type="curve"/>
+      <point x="807" y="444"/>
+      <point x="674" y="549"/>
+      <point x="461" y="549" type="curve"/>
+      <point x="204" y="549" type="line"/>
+      <point x="204" y="509" type="line"/>
+      <point x="443" y="509" type="line"/>
+      <point x="656" y="509"/>
+      <point x="789" y="617"/>
+      <point x="789" y="790" type="curve"/>
+      <point x="789" y="953"/>
+      <point x="656" y="1056"/>
+      <point x="443" y="1056" type="curve"/>
+      <point x="97" y="1056" type="line"/>
+      <point x="97" y="1010" type="line"/>
+      <point x="443" y="1010" type="line"/>
+      <point x="629" y="1010"/>
+      <point x="743" y="925"/>
+      <point x="743" y="790" type="curve"/>
+      <point x="743" y="643"/>
+      <point x="627" y="551"/>
+      <point x="443" y="551" type="curve"/>
+      <point x="204" y="551" type="line"/>
+      <point x="204" y="505" type="line"/>
+      <point x="461" y="505" type="line"/>
+      <point x="645" y="505"/>
+      <point x="761" y="417"/>
+      <point x="761" y="276" type="curve"/>
+      <point x="761" y="135"/>
+      <point x="645" y="46"/>
+      <point x="461" y="46" type="curve"/>
+      <point x="359" y="46" type="line"/>
+      <point x="183" y="46"/>
+      <point x="60" y="-50"/>
+      <point x="60" y="-187" type="curve"/>
+      <point x="60" y="-323"/>
+      <point x="183" y="-418"/>
+    </contour>
+    <component base="caron" xOffset="89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

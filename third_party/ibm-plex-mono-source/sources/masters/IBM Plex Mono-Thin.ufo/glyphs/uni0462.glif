@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0462" format="2">
+  <advance width="600"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="124" y="0" type="line"/>
+      <point x="360" y="0" type="line" smooth="yes"/>
+      <point x="474" y="0"/>
+      <point x="534" y="74"/>
+      <point x="534" y="188" type="curve" smooth="yes"/>
+      <point x="534" y="302"/>
+      <point x="474" y="376"/>
+      <point x="360" y="376" type="curve" smooth="yes"/>
+      <point x="146" y="376" type="line"/>
+      <point x="146" y="564" type="line"/>
+      <point x="376" y="564" type="line"/>
+      <point x="376" y="584" type="line"/>
+      <point x="146" y="584" type="line"/>
+      <point x="146" y="698" type="line"/>
+      <point x="124" y="698" type="line"/>
+      <point x="124" y="584" type="line"/>
+      <point x="12" y="584" type="line"/>
+      <point x="12" y="564" type="line"/>
+      <point x="124" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="20" type="line"/>
+      <point x="146" y="356" type="line"/>
+      <point x="360" y="356" type="line" smooth="yes"/>
+      <point x="463" y="356"/>
+      <point x="510" y="285"/>
+      <point x="510" y="209" type="curve" smooth="yes"/>
+      <point x="510" y="167" type="line" smooth="yes"/>
+      <point x="510" y="91"/>
+      <point x="463" y="20"/>
+      <point x="360" y="20" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzU2Ii
+      B3aWR0aD0iMjAiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjU2NCIgd2lkdGg9IjIwIiAvPgo
+      gICAgICA8aHN0ZW0gcG9zPSI2OTgiIHdpZHRoPSItMjEiIC8+CiAgICAgIDx2c3RlbSBw
+      b3M9IjEyNCIgd2lkdGg9IjIyIiAvPgogICAgICA8dnN0ZW0gcG9zPSI1MTAiIHdpZHRoP
+      SIyNCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.G6nZm25fC9</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.Ja27OtMm03</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.eLquiNpSnI</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

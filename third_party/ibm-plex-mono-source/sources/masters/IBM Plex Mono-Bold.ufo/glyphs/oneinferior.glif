@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneinferior" format="2">
+  <advance width="600"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="463" y="0" type="line"/>
+      <point x="463" y="79" type="line"/>
+      <point x="382" y="79" type="line"/>
+      <point x="382" y="369" type="line"/>
+      <point x="232" y="369" type="line"/>
+      <point x="147" y="254" type="line"/>
+      <point x="214" y="206" type="line"/>
+      <point x="275" y="289" type="line"/>
+      <point x="281" y="289" type="line"/>
+      <point x="281" y="79" type="line"/>
+      <point x="188" y="79" type="line"/>
+      <point x="188" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3OSIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjg5Ii
+      B3aWR0aD0iODAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjI4MSIgd2lkdGg9IjEwMSIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2081</string>
+      <key>com.type-invaders.name.production</key>
+      <string>oneinferior</string>
+    </dict>
+  </lib>
+</glyph>

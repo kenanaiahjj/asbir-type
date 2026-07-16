@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pemiddlehookcyrillic" format="2">
+  <advance width="2196"/>
+  <unicode hex="04A6"/>
+  <outline>
+    <component base="Pi"/>
+    <component base="largerighthook" xOffset="1024"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Pi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>largerighthook</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

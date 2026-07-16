@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upheavyhorzlightbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2538"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line"/>
+      <point x="634" y="266" type="line"/>
+      <point x="634" y="334" type="line"/>
+      <point x="368" y="334" type="line"/>
+      <point x="368" y="950" type="line"/>
+      <point x="232" y="950" type="line"/>
+      <point x="232" y="334" type="line"/>
+      <point x="-34" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyMz
+      IiIHdpZHRoPSIxMzYiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2538</string>
+      <key>com.type-invaders.name.production</key>
+      <string>upheavyhorzlightbxd</string>
+    </dict>
+  </lib>
+</glyph>

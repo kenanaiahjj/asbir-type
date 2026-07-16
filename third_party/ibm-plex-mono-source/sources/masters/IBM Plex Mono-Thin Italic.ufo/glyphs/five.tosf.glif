@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="540" y="536" type="line"/>
+      <point x="204" y="536" type="line"/>
+      <point x="104" y="163" type="line"/>
+      <point x="128" y="160" type="line"/>
+      <point x="177" y="206"/>
+      <point x="218" y="230"/>
+      <point x="295" y="230" type="curve" smooth="yes"/>
+      <point x="398" y="230"/>
+      <point x="445" y="172"/>
+      <point x="445" y="81" type="curve" smooth="yes"/>
+      <point x="445" y="69"/>
+      <point x="444" y="54"/>
+      <point x="436" y="14" type="curve" smooth="yes"/>
+      <point x="416" y="-86"/>
+      <point x="344" y="-156"/>
+      <point x="226" y="-156" type="curve" smooth="yes"/>
+      <point x="152" y="-156"/>
+      <point x="80" y="-131"/>
+      <point x="49" y="-59" type="curve"/>
+      <point x="32" y="-69" type="line"/>
+      <point x="63" y="-143"/>
+      <point x="141" y="-176"/>
+      <point x="227" y="-176" type="curve" smooth="yes"/>
+      <point x="374" y="-176"/>
+      <point x="467" y="-79"/>
+      <point x="467" y="81" type="curve" smooth="yes"/>
+      <point x="467" y="185"/>
+      <point x="410" y="250"/>
+      <point x="296" y="250" type="curve" smooth="yes"/>
+      <point x="227" y="250"/>
+      <point x="177" y="229"/>
+      <point x="132" y="180" type="curve"/>
+      <point x="129" y="181" type="line"/>
+      <point x="219" y="516" type="line"/>
+      <point x="537" y="516" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNzYiIHdpZHRoPSIyMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMj
+      MwIiB3aWR0aD0iMjAiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUxNiIgd2lkdGg9IjIwIiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSI0NDUiIHdpZHRoPSIyMiIgLz4KICAgIDwvaGludHNl
+      dD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.VPyHbn1A8e</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.bYow7COgDN</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.yqGXDgJ1W8</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

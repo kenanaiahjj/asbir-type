@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupdown" format="2">
+  <advance width="600"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="300" y="-12" type="line"/>
+      <point x="507" y="195" type="line"/>
+      <point x="459" y="244" type="line"/>
+      <point x="373" y="157" type="line"/>
+      <point x="331" y="107" type="line"/>
+      <point x="328" y="108" type="line"/>
+      <point x="334" y="205" type="line"/>
+      <point x="334" y="493" type="line"/>
+      <point x="328" y="590" type="line"/>
+      <point x="331" y="591" type="line"/>
+      <point x="373" y="541" type="line"/>
+      <point x="459" y="454" type="line"/>
+      <point x="507" y="503" type="line"/>
+      <point x="300" y="710" type="line"/>
+      <point x="93" y="503" type="line"/>
+      <point x="141" y="454" type="line"/>
+      <point x="227" y="541" type="line"/>
+      <point x="269" y="591" type="line"/>
+      <point x="272" y="590" type="line"/>
+      <point x="266" y="493" type="line"/>
+      <point x="266" y="205" type="line"/>
+      <point x="272" y="108" type="line"/>
+      <point x="269" y="107" type="line"/>
+      <point x="227" y="157" type="line"/>
+      <point x="141" y="244" type="line"/>
+      <point x="93" y="195" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMiIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNz
+      EwIiB3aWR0aD0iLTIxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNjYiIHdpZHRoPSI2OCI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2195</string>
+      <key>com.type-invaders.name.production</key>
+      <string>arrowupdown</string>
+    </dict>
+  </lib>
+</glyph>

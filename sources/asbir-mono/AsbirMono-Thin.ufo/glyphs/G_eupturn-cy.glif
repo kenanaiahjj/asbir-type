@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Geupturn-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="680" type="line"/>
+      <point x="540" y="680" type="line"/>
+      <point x="540" y="865" type="line"/>
+      <point x="508" y="865" type="line"/>
+      <point x="508" y="696" type="line"/>
+      <point x="522" y="710" type="line"/>
+      <point x="100" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

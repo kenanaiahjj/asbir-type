@@ -1,0 +1,60 @@
+feature zero {
+  sub uni0030 by zero.slash;
+} zero;
+
+feature numr {
+  sub uni0030 by zero.numr;
+  sub uni0031 by one.numr;
+  sub uni0032 by two.numr;
+  sub uni0033 by three.numr;
+  sub uni0034 by four.numr;
+  sub uni0035 by five.numr;
+  sub uni0036 by six.numr;
+  sub uni0037 by seven.numr;
+  sub uni0038 by eight.numr;
+  sub uni0039 by nine.numr;
+} numr;
+
+feature dnom {
+  sub uni0030 by zero.dnom;
+  sub uni0031 by one.dnom;
+  sub uni0032 by two.dnom;
+  sub uni0033 by three.dnom;
+  sub uni0034 by four.dnom;
+  sub uni0035 by five.dnom;
+  sub uni0036 by six.dnom;
+  sub uni0037 by seven.dnom;
+  sub uni0038 by eight.dnom;
+  sub uni0039 by nine.dnom;
+} dnom;
+
+feature sups {
+  sub uni0030 by zero.sups;
+  sub uni0031 by one.sups;
+  sub uni0032 by two.sups;
+  sub uni0033 by three.sups;
+  sub uni0034 by four.sups;
+  sub uni0035 by five.sups;
+  sub uni0036 by six.sups;
+  sub uni0037 by seven.sups;
+  sub uni0038 by eight.sups;
+  sub uni0039 by nine.sups;
+} sups;
+
+feature subs {
+  sub uni0030 by zero.subs;
+  sub uni0031 by one.subs;
+  sub uni0032 by two.subs;
+  sub uni0033 by three.subs;
+  sub uni0034 by four.subs;
+  sub uni0035 by five.subs;
+  sub uni0036 by six.subs;
+  sub uni0037 by seven.subs;
+  sub uni0038 by eight.subs;
+  sub uni0039 by nine.subs;
+} subs;
+
+feature ordn {
+  sub a by a.ordn;
+  sub o by o.ordn;
+} ordn;

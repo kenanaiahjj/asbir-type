@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="115" type="line"/>
+      <point x="428" y="115" type="line"/>
+      <point x="428" y="536" type="line"/>
+      <point x="261" y="536" type="line"/>
+      <point x="59" y="419" type="line"/>
+      <point x="120" y="316" type="line"/>
+      <point x="271" y="407" type="line"/>
+      <point x="280" y="407" type="line"/>
+      <point x="280" y="115" type="line"/>
+      <point x="104" y="115" type="line"/>
+      <point x="104" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUzNi
+      Igd2lkdGg9Ii0yMSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjgwIiB3aWR0aD0iMTQ4IiA
+      vPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

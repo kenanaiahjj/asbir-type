@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0437" format="2">
+  <advance width="600"/>
+  <unicode hex="0437"/>
+  <anchor x="299.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="289" y="-12" type="curve" smooth="yes"/>
+      <point x="449" y="-12"/>
+      <point x="536" y="51"/>
+      <point x="536" y="144" type="curve" smooth="yes"/>
+      <point x="536" y="212"/>
+      <point x="487" y="257"/>
+      <point x="419" y="267" type="curve"/>
+      <point x="419" y="272" type="line"/>
+      <point x="483" y="284"/>
+      <point x="526" y="324"/>
+      <point x="526" y="388" type="curve" smooth="yes"/>
+      <point x="526" y="468"/>
+      <point x="443" y="528"/>
+      <point x="299" y="528" type="curve" smooth="yes"/>
+      <point x="188" y="528"/>
+      <point x="119" y="493"/>
+      <point x="65" y="435" type="curve"/>
+      <point x="147" y="359" type="line"/>
+      <point x="185" y="399"/>
+      <point x="227" y="418"/>
+      <point x="286" y="418" type="curve" smooth="yes"/>
+      <point x="347" y="418"/>
+      <point x="377" y="393"/>
+      <point x="377" y="363" type="curve" smooth="yes"/>
+      <point x="377" y="357" type="line" smooth="yes"/>
+      <point x="377" y="326"/>
+      <point x="360" y="307"/>
+      <point x="318" y="307" type="curve" smooth="yes"/>
+      <point x="210" y="307" type="line"/>
+      <point x="210" y="209" type="line"/>
+      <point x="331" y="209" type="line" smooth="yes"/>
+      <point x="370" y="209"/>
+      <point x="387" y="192"/>
+      <point x="387" y="163" type="curve" smooth="yes"/>
+      <point x="387" y="157" type="line" smooth="yes"/>
+      <point x="387" y="121"/>
+      <point x="354" y="98"/>
+      <point x="293" y="98" type="curve" smooth="yes"/>
+      <point x="220" y="98"/>
+      <point x="176" y="119"/>
+      <point x="136" y="163" type="curve"/>
+      <point x="51" y="84" type="line"/>
+      <point x="95" y="26"/>
+      <point x="181" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbTMgc3RlbTNMaXN0PSItMTIsMTEwLDIwOSw5OCw0MTgsMTEwIiAvPgogICAgIC
+      A8dnN0ZW0gcG9zPSIzNzciIHdpZHRoPSIxNDkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA
+      8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbTMgc3RlbTNMaXN0PSIt
+      MTIsMTEwLDIwOSw5OCw0MTgsMTEwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzODciIHdpZ
+      HRoPSIxNDkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.JLUdqs4R24</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

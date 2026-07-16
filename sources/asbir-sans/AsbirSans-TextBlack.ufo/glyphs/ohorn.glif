@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="1280"/>
+  <unicode hex="01A1"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="640" y="559" name="center"/>
+  <anchor x="1218" y="556" name="ogonek"/>
+  <anchor x="640" y="1118" name="top"/>
+  <anchor x="640" y="1132" name="tophorn"/>
+  <outline>
+    <contour>
+      <point x="640" y="942" type="line"/>
+      <point x="750" y="942"/>
+      <point x="890" y="942"/>
+      <point x="1000" y="942" type="curve" smooth="yes"/>
+      <point x="1184" y="942"/>
+      <point x="1300" y="1044"/>
+      <point x="1300" y="1206" type="curve" smooth="yes"/>
+      <point x="1300" y="1366" type="line"/>
+      <point x="1000" y="1366" type="line"/>
+      <point x="1000" y="1174" type="line" smooth="yes"/>
+      <point x="1000" y="1138"/>
+      <point x="977" y="1118"/>
+      <point x="936" y="1118" type="curve" smooth="yes"/>
+      <point x="883" y="1118"/>
+      <point x="709" y="1132"/>
+      <point x="640" y="1132" type="curve"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

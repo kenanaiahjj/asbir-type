@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blinebelow" format="2">
+  <advance width="1158"/>
+  <unicode hex="1E07"/>
+  <anchor x="608" y="0" name="bottom"/>
+  <anchor x="296" y="1262" name="cross"/>
+  <anchor x="644" y="1262" name="top"/>
+  <anchor x="126" y="1490" name="topbar"/>
+  <outline>
+    <component base="b"/>
+    <component base="macronsub" xOffset="192"/>
+  </outline>
+</glyph>

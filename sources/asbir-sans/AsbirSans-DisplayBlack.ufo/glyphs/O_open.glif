@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oopen" format="2">
+  <advance width="1494"/>
+  <unicode hex="0186"/>
+  <anchor x="744.0" y="1484.0" name="cedilla"/>
+  <anchor x="737.0" y="745.0" name="center"/>
+  <anchor x="747" y="0" name="bottom"/>
+  <anchor x="38.0" y="562.0" name="bottomr"/>
+  <anchor x="747" y="1490" name="top"/>
+  <outline>
+    <component base="C" xScale="-1.0" yScale="-1.0" xOffset="1494" yOffset="1490"/>
+  </outline>
+</glyph>

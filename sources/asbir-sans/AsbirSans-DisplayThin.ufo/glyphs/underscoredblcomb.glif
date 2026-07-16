@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscoredblcomb" format="2">
+  <unicode hex="EEC9"/>
+  <outline>
+    <contour>
+      <point x="-138" y="-126" type="line"/>
+      <point x="-1022" y="-126" type="line"/>
+      <point x="-1022" y="-174" type="line"/>
+      <point x="-138" y="-174" type="line"/>
+    </contour>
+    <contour>
+      <point x="-138" y="-366" type="line"/>
+      <point x="-1022" y="-366" type="line"/>
+      <point x="-1022" y="-412" type="line"/>
+      <point x="-138" y="-412" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

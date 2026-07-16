@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pdotaccent.ss07" format="2">
+  <advance width="1118"/>
+  <unicode hex="E255"/>
+  <anchor x="157" y="-418" name="bottom"/>
+  <anchor x="157" y="-162" name="cross"/>
+  <anchor x="588" y="1362" name="top"/>
+  <anchor x="180" y="1056" name="topr"/>
+  <outline>
+    <component base="p"/>
+    <component base="dotaccentcomb.ss07" xOffset="465"/>
+  </outline>
+</glyph>

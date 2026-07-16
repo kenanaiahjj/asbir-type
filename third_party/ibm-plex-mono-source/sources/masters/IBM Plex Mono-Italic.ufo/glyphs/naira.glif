@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="600"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="507" y="244" type="line"/>
+      <point x="572" y="244" type="line"/>
+      <point x="583" y="309" type="line"/>
+      <point x="518" y="309" type="line"/>
+      <point x="532" y="389" type="line"/>
+      <point x="596" y="389" type="line"/>
+      <point x="607" y="454" type="line"/>
+      <point x="542" y="454" type="line"/>
+      <point x="583" y="698" type="line"/>
+      <point x="513" y="698" type="line"/>
+      <point x="472" y="450" type="line"/>
+      <point x="338" y="450" type="line"/>
+      <point x="294" y="698" type="line"/>
+      <point x="172" y="698" type="line"/>
+      <point x="131" y="454" type="line"/>
+      <point x="67" y="454" type="line"/>
+      <point x="56" y="389" type="line"/>
+      <point x="121" y="389" type="line"/>
+      <point x="107" y="309" type="line"/>
+      <point x="43" y="309" type="line"/>
+      <point x="32" y="244" type="line"/>
+      <point x="96" y="244" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="167" y="248" type="line"/>
+      <point x="301" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="305" type="line"/>
+      <point x="229" y="624" type="line"/>
+      <point x="236" y="624" type="line"/>
+      <point x="292" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="393" type="line"/>
+      <point x="463" y="393" type="line"/>
+      <point x="410" y="74" type="line"/>
+      <point x="403" y="74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3NCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjQ0Ii
+      B3aWR0aD0iNjUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM4OSIgd2lkdGg9IjY1IiAvPgo
+      gICAgICA8aHN0ZW0gcG9zPSI2MjQiIHdpZHRoPSI3NCIgLz4KICAgICAgPHZzdGVtIHBv
+      cz0iMzIiIHdpZHRoPSI1NzUiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzd
+      D4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni20A6</string>
+      <key>com.type-invaders.name.production</key>
+      <string>naira</string>
+    </dict>
+  </lib>
+</glyph>

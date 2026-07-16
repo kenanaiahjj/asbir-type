@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.cyrl" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="315" y="595" type="curve" smooth="yes"/>
+      <point x="376" y="595"/>
+      <point x="424" y="622"/>
+      <point x="466" y="688" type="curve" smooth="yes"/>
+      <point x="502" y="745" type="line"/>
+      <point x="432" y="768" type="line"/>
+      <point x="374" y="662" type="line"/>
+      <point x="359" y="657"/>
+      <point x="336" y="656"/>
+      <point x="317" y="656" type="curve" smooth="yes"/>
+      <point x="304" y="656"/>
+      <point x="277" y="657"/>
+      <point x="264" y="662" type="curve"/>
+      <point x="242" y="768" type="line"/>
+      <point x="168" y="745" type="line"/>
+      <point x="188" y="688" type="line" smooth="yes"/>
+      <point x="209" y="628"/>
+      <point x="244" y="595"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjU5NSIgd2lkdGg9IjYxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNj
+      giIHdpZHRoPSIzMzQiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.EbiPR5CSkD</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.rswHLAvuSp</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

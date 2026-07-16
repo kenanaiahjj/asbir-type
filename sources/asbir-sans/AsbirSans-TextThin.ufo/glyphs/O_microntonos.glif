@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="1611"/>
+  <unicode hex="038C"/>
+  <anchor x="847" y="0" name="bottom"/>
+  <anchor x="847" y="745" name="center"/>
+  <anchor x="1463" y="744" name="ogonek"/>
+  <anchor x="367" y="1490" name="tonos"/>
+  <anchor x="847" y="1490" name="top"/>
+  <anchor x="847" y="1510" name="tophorn"/>
+  <outline>
+    <component base="O" xOffset="81"/>
+    <component base="tonos" xOffset="8" yOffset="-67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

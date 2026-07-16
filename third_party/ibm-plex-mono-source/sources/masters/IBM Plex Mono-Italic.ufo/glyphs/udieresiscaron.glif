@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresiscaron" format="2">
+  <advance width="600"/>
+  <unicode hex="01DA"/>
+  <anchor x="261.0" y="0.0" name="bottom"/>
+  <anchor x="457.0" y="0.0" name="bottomright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscaron" xOffset="340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni01DA</string>
+      <key>com.type-invaders.name.production</key>
+      <string>udieresiscaron</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdieresis.1.ss07" format="2">
+  <advance width="640"/>
+  <unicode hex="E280"/>
+  <anchor x="347" y="0" name="bottom"/>
+  <anchor x="401" y="0" name="cedilla"/>
+  <anchor x="599" y="6" name="lfthook"/>
+  <anchor x="248" y="1756" name="top"/>
+  <anchor x="454" y="1562" name="raccent"/>
+  <outline>
+    <component base="t.1"/>
+    <component base="dieresiscomb.ss07" xOffset="-357" yOffset="266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t.1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

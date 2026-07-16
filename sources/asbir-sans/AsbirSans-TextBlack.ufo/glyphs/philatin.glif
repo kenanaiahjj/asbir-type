@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="philatin" format="2">
+  <advance width="1688"/>
+  <unicode hex="0278"/>
+  <outline>
+    <contour>
+      <point x="154" y="544" type="line"/>
+      <point x="153" y="73"/>
+      <point x="482" y="-20"/>
+      <point x="844" y="-20" type="curve" smooth="yes"/>
+      <point x="1250" y="-20"/>
+      <point x="1533" y="102"/>
+      <point x="1534" y="544" type="curve" smooth="yes"/>
+      <point x="1534" y="568" type="line" smooth="yes"/>
+      <point x="1534" y="1009"/>
+      <point x="1250" y="1132"/>
+      <point x="844" y="1132" type="curve" smooth="yes"/>
+      <point x="439" y="1132"/>
+      <point x="154" y="1009"/>
+      <point x="154" y="568" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="532" y="568" type="line"/>
+      <point x="532" y="829"/>
+      <point x="703" y="832"/>
+      <point x="844" y="832" type="curve" smooth="yes"/>
+      <point x="1006" y="832"/>
+      <point x="1155" y="817"/>
+      <point x="1154" y="568" type="curve" smooth="yes"/>
+      <point x="1154" y="544" type="line" smooth="yes"/>
+      <point x="1154" y="276"/>
+      <point x="985" y="282"/>
+      <point x="844" y="282" type="curve" smooth="yes"/>
+      <point x="700" y="282"/>
+      <point x="532" y="276"/>
+      <point x="532" y="544" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="658" y="-396" type="line"/>
+      <point x="1030" y="-396" type="line"/>
+      <point x="1030" y="1490" type="line"/>
+      <point x="658" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

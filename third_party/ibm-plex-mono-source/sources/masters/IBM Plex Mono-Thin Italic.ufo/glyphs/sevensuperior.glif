@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sevensuperior" format="2">
+  <advance width="600"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="291" y="329" type="line"/>
+      <point x="504" y="679" type="line"/>
+      <point x="507" y="698" type="line"/>
+      <point x="255" y="698" type="line"/>
+      <point x="237" y="591" type="line"/>
+      <point x="255" y="591" type="line"/>
+      <point x="270" y="681" type="line"/>
+      <point x="485" y="681" type="line"/>
+      <point x="271" y="329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjMyOSIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNj
+      gxIiB3aWR0aD0iMTciIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIzNyIgd2lkdGg9IjI3MCI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2077</string>
+      <key>com.type-invaders.name.production</key>
+      <string>sevensuperior</string>
+    </dict>
+  </lib>
+</glyph>

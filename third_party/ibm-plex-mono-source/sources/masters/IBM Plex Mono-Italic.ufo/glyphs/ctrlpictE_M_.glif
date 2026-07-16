@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctrlpictEM" format="2">
+  <advance width="600"/>
+  <unicode hex="2419"/>
+  <outline>
+    <contour>
+      <point x="267" y="240" type="line"/>
+      <point x="267" y="271" type="line"/>
+      <point x="172" y="271" type="line"/>
+      <point x="172" y="345" type="line"/>
+      <point x="264" y="345" type="line"/>
+      <point x="264" y="376" type="line"/>
+      <point x="172" y="376" type="line"/>
+      <point x="172" y="446" type="line"/>
+      <point x="267" y="446" type="line"/>
+      <point x="267" y="477" type="line"/>
+      <point x="135" y="477" type="line"/>
+      <point x="135" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="240" type="line"/>
+      <point x="475" y="240" type="line"/>
+      <point x="475" y="477" type="line"/>
+      <point x="429" y="477" type="line"/>
+      <point x="402" y="384" type="line"/>
+      <point x="400" y="384" type="line"/>
+      <point x="374" y="477" type="line"/>
+      <point x="325" y="477" type="line"/>
+      <point x="325" y="240" type="line"/>
+      <point x="358" y="240" type="line"/>
+      <point x="358" y="354" type="line"/>
+      <point x="356" y="426" type="line"/>
+      <point x="359" y="426" type="line"/>
+      <point x="400" y="304" type="line"/>
+      <point x="441" y="426" type="line"/>
+      <point x="444" y="426" type="line"/>
+      <point x="442" y="354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2419</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ctrlpictEM</string>
+    </dict>
+  </lib>
+</glyph>

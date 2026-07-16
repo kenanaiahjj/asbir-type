@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="600"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="463" y="329" type="line"/>
+      <point x="463" y="408" type="line"/>
+      <point x="382" y="408" type="line"/>
+      <point x="382" y="698" type="line"/>
+      <point x="232" y="698" type="line"/>
+      <point x="147" y="583" type="line"/>
+      <point x="214" y="535" type="line"/>
+      <point x="275" y="618" type="line"/>
+      <point x="281" y="618" type="line"/>
+      <point x="281" y="408" type="line"/>
+      <point x="188" y="408" type="line"/>
+      <point x="188" y="329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjMyOSIgd2lkdGg9Ijc5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI2MT
+      giIHdpZHRoPSI4MCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjgxIiB3aWR0aD0iMTAxIiA
+      vPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.G3bsbEI81C</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorngrave" format="2">
+  <advance width="600"/>
+  <unicode hex="1EEB"/>
+  <anchor x="298.0" y="0.0" name="bottom"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="grave" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1EEB</string>
+      <key>com.type-invaders.name.production</key>
+      <string>uhorngrave</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="600"/>
+  <unicode hex="0237"/>
+  <anchor x="364.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="92" y="-200" type="line"/>
+      <point x="281" y="-200" type="line" smooth="yes"/>
+      <point x="387" y="-200"/>
+      <point x="438" y="-138"/>
+      <point x="438" y="-51" type="curve" smooth="yes"/>
+      <point x="438" y="516" type="line"/>
+      <point x="90" y="516" type="line"/>
+      <point x="90" y="401" type="line"/>
+      <point x="290" y="401" type="line"/>
+      <point x="290" y="-85" type="line"/>
+      <point x="92" y="-85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0yMDAiIHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      QwMSIgd2lkdGg9IjExNSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjkwIiB3aWR0aD0iMTQ
+      4IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni0237</string>
+      <key>com.type-invaders.name.production</key>
+      <string>dotlessj</string>
+    </dict>
+  </lib>
+</glyph>

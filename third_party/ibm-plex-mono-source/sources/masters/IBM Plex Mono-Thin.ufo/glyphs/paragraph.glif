@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="600"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="302" y="-149" type="line"/>
+      <point x="324" y="-149" type="line"/>
+      <point x="324" y="678" type="line"/>
+      <point x="450" y="678" type="line"/>
+      <point x="450" y="-149" type="line"/>
+      <point x="472" y="-149" type="line"/>
+      <point x="472" y="698" type="line"/>
+      <point x="292" y="698" type="line" smooth="yes"/>
+      <point x="158" y="698"/>
+      <point x="67" y="603"/>
+      <point x="67" y="472" type="curve" smooth="yes"/>
+      <point x="67" y="341"/>
+      <point x="158" y="246"/>
+      <point x="302" y="246" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjY3OCIgd2lkdGg9IjIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMD
+      IiIHdpZHRoPSIyMiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDUwIiB3aWR0aD0iMjIiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

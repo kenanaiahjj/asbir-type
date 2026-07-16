@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.alt01" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="226" y="194" type="line"/>
+      <point x="319" y="194" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="428" y="194" type="line"/>
+      <point x="553" y="194" type="line"/>
+      <point x="553" y="296" type="line"/>
+      <point x="446" y="296" type="line"/>
+      <point x="465" y="402" type="line"/>
+      <point x="591" y="402" type="line"/>
+      <point x="591" y="504" type="line"/>
+      <point x="483" y="504" type="line"/>
+      <point x="517" y="698" type="line"/>
+      <point x="408" y="698" type="line"/>
+      <point x="374" y="504" type="line"/>
+      <point x="281" y="504" type="line"/>
+      <point x="315" y="698" type="line"/>
+      <point x="206" y="698" type="line"/>
+      <point x="172" y="504" type="line"/>
+      <point x="47" y="504" type="line"/>
+      <point x="47" y="402" type="line"/>
+      <point x="154" y="402" type="line"/>
+      <point x="135" y="296" type="line"/>
+      <point x="9" y="296" type="line"/>
+      <point x="9" y="194" type="line"/>
+      <point x="117" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="296" type="line"/>
+      <point x="263" y="402" type="line"/>
+      <point x="356" y="402" type="line"/>
+      <point x="337" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjE5NC
+      Igd2lkdGg9IjExMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzk0IiB3aWR0aD0iMTEwIiA
+      vPgogICAgICA8aHN0ZW0gcG9zPSI2OTgiIHdpZHRoPSItMjEiIC8+CiAgICAgIDx2c3Rl
+      bSBwb3M9IjkiIHdpZHRoPSI1ODIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0T
+      GlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

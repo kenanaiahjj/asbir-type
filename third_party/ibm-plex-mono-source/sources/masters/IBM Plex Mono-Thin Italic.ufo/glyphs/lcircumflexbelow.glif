@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcircumflexbelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1E3D"/>
+  <anchor x="339.0" y="698.0" name="top"/>
+  <anchor x="462.0" y="740.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="circumflexbelowcomb" xOffset="216"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni1E3D</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lcircumflexbelow</string>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

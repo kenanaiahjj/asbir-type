@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Te-cy" format="2">
+  <advance width="1406"/>
+  <unicode hex="0422"/>
+  <anchor x="703" y="0" name="bottom"/>
+  <anchor x="905" y="0" name="bottomr"/>
+  <anchor x="704" y="0" name="cedilla"/>
+  <anchor x="703" y="666" name="cross"/>
+  <anchor x="905" y="0" name="cyrtic"/>
+  <anchor x="856" y="0" name="right"/>
+  <anchor x="703" y="1490" name="top"/>
+  <outline>
+    <component base="T"/>
+  </outline>
+</glyph>

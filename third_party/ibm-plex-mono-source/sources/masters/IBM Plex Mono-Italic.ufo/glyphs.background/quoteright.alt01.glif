@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright.alt01" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="260" y="464" type="line"/>
+      <point x="326" y="464" type="line"/>
+      <point x="485" y="740" type="line"/>
+      <point x="358" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

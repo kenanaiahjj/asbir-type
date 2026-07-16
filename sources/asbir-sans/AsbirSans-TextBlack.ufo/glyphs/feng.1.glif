@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="feng.1" format="2">
+  <advance width="1935"/>
+  <unicode hex="EE11"/>
+  <anchor x="1269" y="0" name="bottom"/>
+  <anchor x="302" y="768" name="cross"/>
+  <anchor x="1269" y="1118" name="top"/>
+  <anchor x="1833" y="0" name="bottomr"/>
+  <anchor x="707" y="0" name="lfthook"/>
+  <anchor x="1109" y="1118" name="topr"/>
+  <outline>
+    <component base="f.1"/>
+    <component base="eng" xOffset="605"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>f.1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eng</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

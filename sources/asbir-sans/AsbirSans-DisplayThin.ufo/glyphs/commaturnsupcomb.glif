@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnsupcomb" format="2">
+  <unicode hex="EEB3"/>
+  <anchor x="-606" y="1062" name="_marktop"/>
+  <anchor x="-606" y="1684" name="mkmktop"/>
+  <anchor x="-544" y="1246" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-632" y="994" type="line"/>
+      <point x="-584" y="994" type="line"/>
+      <point x="-584" y="1150" type="line" smooth="yes"/>
+      <point x="-584" y="1310"/>
+      <point x="-519" y="1423"/>
+      <point x="-422" y="1524" type="curve"/>
+      <point x="-448" y="1558" type="line"/>
+      <point x="-564" y="1444"/>
+      <point x="-631" y="1315"/>
+      <point x="-632" y="1144" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

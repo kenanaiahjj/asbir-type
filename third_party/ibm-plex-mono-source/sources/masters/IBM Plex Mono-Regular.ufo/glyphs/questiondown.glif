@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="600"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="299" y="-194" type="curve" smooth="yes"/>
+      <point x="427" y="-194"/>
+      <point x="497" y="-120"/>
+      <point x="523" y="-32" type="curve"/>
+      <point x="448" y="-4" type="line"/>
+      <point x="430" y="-71"/>
+      <point x="382" y="-121"/>
+      <point x="302" y="-121" type="curve" smooth="yes"/>
+      <point x="225" y="-121"/>
+      <point x="177" y="-83"/>
+      <point x="177" y="-9" type="curve" smooth="yes"/>
+      <point x="177" y="5" type="line" smooth="yes"/>
+      <point x="177" y="95"/>
+      <point x="247" y="139"/>
+      <point x="361" y="144" type="curve"/>
+      <point x="361" y="301" type="line"/>
+      <point x="282" y="301" type="line"/>
+      <point x="282" y="200" type="line"/>
+      <point x="188" y="183"/>
+      <point x="90" y="121"/>
+      <point x="90" y="-5" type="curve" smooth="yes"/>
+      <point x="90" y="-120"/>
+      <point x="172" y="-194"/>
+    </contour>
+    <contour>
+      <point x="318" y="387" type="curve" smooth="yes"/>
+      <point x="372" y="387"/>
+      <point x="392" y="413"/>
+      <point x="392" y="447" type="curve" smooth="yes"/>
+      <point x="392" y="465" type="line" smooth="yes"/>
+      <point x="392" y="499"/>
+      <point x="372" y="525"/>
+      <point x="318" y="525" type="curve" smooth="yes"/>
+      <point x="264" y="525"/>
+      <point x="244" y="499"/>
+      <point x="244" y="465" type="curve" smooth="yes"/>
+      <point x="244" y="447" type="line" smooth="yes"/>
+      <point x="244" y="413"/>
+      <point x="264" y="387"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xOTQiIHdpZHRoPSI3MyIgLz4KICAgICAgPGhzdGVtIHBvcz0iMz
+      g3IiB3aWR0aD0iMTM4IiAvPgogICAgICA8dnN0ZW0gcG9zPSI5MCIgd2lkdGg9Ijg3IiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSIyNDQiIHdpZHRoPSIxNDgiIC8+CiAgICA8L2hpbnRz
+      ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

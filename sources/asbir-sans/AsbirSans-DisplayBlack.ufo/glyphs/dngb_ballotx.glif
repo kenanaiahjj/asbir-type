@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dngb_ballotx" format="2">
+  <advance width="1772"/>
+  <unicode hex="2717"/>
+  <outline>
+    <contour>
+      <point x="534" y="30" type="line"/>
+      <point x="1508" y="998" type="line"/>
+      <point x="1240" y="1266" type="line"/>
+      <point x="266" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="1238" y="30" type="line"/>
+      <point x="1506" y="296" type="line"/>
+      <point x="530" y="1266" type="line"/>
+      <point x="264" y="998" type="line"/>
+    </contour>
+  </outline>
+</glyph>

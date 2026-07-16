@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sc" format="2">
+  <advance width="954"/>
+  <unicode hex="1D1B"/>
+  <anchor x="568" y="0" name="cyrtic"/>
+  <anchor x="477" y="1118" name="top"/>
+  <outline>
+    <contour>
+      <point x="388" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="568" y="957" type="line"/>
+      <point x="934" y="957" type="line"/>
+      <point x="934" y="1118" type="line"/>
+      <point x="20" y="1118" type="line"/>
+      <point x="20" y="957" type="line"/>
+      <point x="388" y="957" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Small</string>
+    </dict>
+  </lib>
+</glyph>

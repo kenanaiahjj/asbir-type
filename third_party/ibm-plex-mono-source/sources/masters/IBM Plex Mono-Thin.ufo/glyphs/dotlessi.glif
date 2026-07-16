@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="600"/>
+  <unicode hex="0131"/>
+  <anchor x="332.0" y="0.0" name="bottom"/>
+  <anchor x="535.0" y="0.0" name="bottomright"/>
+  <anchor x="332.0" y="516.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="117" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="535" y="19" type="line"/>
+      <point x="343" y="19" type="line"/>
+      <point x="343" y="516" type="line"/>
+      <point x="117" y="516" type="line"/>
+      <point x="117" y="497" type="line"/>
+      <point x="322" y="497" type="line"/>
+      <point x="322" y="19" type="line"/>
+      <point x="117" y="19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxOSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDk3Ii
+      B3aWR0aD0iMTkiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjMyMiIgd2lkdGg9IjIxIiAvPgo
+      gICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

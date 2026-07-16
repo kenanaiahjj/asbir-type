@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisbelow.ss07" format="2">
+  <advance width="1352"/>
+  <unicode hex="E214"/>
+  <anchor x="676" y="0" name="bottom"/>
+  <anchor x="1212" y="510" name="ogonek"/>
+  <anchor x="738" y="0" name="right"/>
+  <anchor x="1164" y="1490" name="rtophorn"/>
+  <anchor x="676" y="1490" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="dotdblsubcomb.ss07" xOffset="142"/>
+  </outline>
+</glyph>

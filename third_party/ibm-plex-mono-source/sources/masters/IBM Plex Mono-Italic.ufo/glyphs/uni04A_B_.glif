@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AB" format="2">
+  <advance width="600"/>
+  <unicode hex="04AB"/>
+  <anchor x="339.0" y="516.0" name="top"/>
+  <outline>
+    <component base="ccedilla"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xMCIgd2lkdGg9IjY2IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0Nj
+      AiIHdpZHRoPSI2OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNzUiIHdpZHRoPSI3OSIgLz4
+      KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.AsX6VJGlyX</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.986,1,1</string>
+    </dict>
+  </lib>
+</glyph>

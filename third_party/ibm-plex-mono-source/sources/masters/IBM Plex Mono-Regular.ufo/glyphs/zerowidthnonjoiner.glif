@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerowidthnonjoiner" format="2">
+  <unicode hex="200C"/>
+  <outline>
+    <contour>
+      <point x="-9" y="-220" type="line"/>
+      <point x="9" y="-220" type="line"/>
+      <point x="9" y="780" type="line"/>
+      <point x="-9" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0yMjAiIHdpZHRoPSIxMDAwIiAvPgogICAgICA8dnN0ZW0gcG9zPS
+      ItOSIgd2lkdGg9IjE4IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg=
+      =
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni200C</string>
+      <key>com.type-invaders.name.production</key>
+      <string>zerowidthnonjoiner</string>
+    </dict>
+  </lib>
+</glyph>

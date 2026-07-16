@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="600"/>
+  <unicode hex="00B9"/>
+  <guideline x="176.0" y="0.0" angle="90.0" identifier="HUKMJlPUyP"/>
+  <outline>
+    <contour>
+      <point x="446" y="329" type="line"/>
+      <point x="446" y="379" type="line"/>
+      <point x="348" y="379" type="line"/>
+      <point x="348" y="698" type="line"/>
+      <point x="255" y="698" type="line"/>
+      <point x="153" y="595" type="line"/>
+      <point x="189" y="558" type="line"/>
+      <point x="279" y="647" type="line"/>
+      <point x="285" y="647" type="line"/>
+      <point x="285" y="379" type="line"/>
+      <point x="176" y="379" type="line"/>
+      <point x="176" y="329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjMyOSIgd2lkdGg9IjUwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2ND
+      ciIHdpZHRoPSI1MSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjg1IiB3aWR0aD0iNjMiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.HUKMJlPUyP</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

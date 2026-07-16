@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twothirds" format="2">
+  <advance width="2145"/>
+  <unicode hex="2154"/>
+  <anchor x="465" y="1041" name="cross"/>
+  <anchor x="1740" y="842" name="top"/>
+  <outline>
+    <component base="two.numr"/>
+    <component base="fraction" xOffset="847"/>
+    <component base="three.dnom" xOffset="1341"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>three.dnom</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

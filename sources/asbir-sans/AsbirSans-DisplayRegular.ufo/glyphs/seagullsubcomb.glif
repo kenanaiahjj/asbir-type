@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seagullsubcomb" format="2">
+  <unicode hex="EEC5"/>
+  <outline>
+    <contour>
+      <point x="-534" y="-374" type="line"/>
+      <point x="-534" y="-293"/>
+      <point x="-487" y="-250"/>
+      <point x="-406" y="-250" type="curve" smooth="yes"/>
+      <point x="-325" y="-250"/>
+      <point x="-278" y="-293"/>
+      <point x="-278" y="-374" type="curve"/>
+      <point x="-176" y="-374" type="line"/>
+      <point x="-176" y="-231"/>
+      <point x="-265" y="-134"/>
+      <point x="-406" y="-134" type="curve" smooth="yes"/>
+      <point x="-546" y="-134"/>
+      <point x="-636" y="-231"/>
+      <point x="-636" y="-374" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-892" y="-374" type="line"/>
+      <point x="-892" y="-293"/>
+      <point x="-844" y="-250"/>
+      <point x="-764" y="-250" type="curve" smooth="yes"/>
+      <point x="-683" y="-250"/>
+      <point x="-636" y="-293"/>
+      <point x="-636" y="-374" type="curve"/>
+      <point x="-534" y="-374" type="line"/>
+      <point x="-534" y="-231"/>
+      <point x="-623" y="-134"/>
+      <point x="-764" y="-134" type="curve" smooth="yes"/>
+      <point x="-904" y="-134"/>
+      <point x="-993" y="-231"/>
+      <point x="-994" y="-374" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

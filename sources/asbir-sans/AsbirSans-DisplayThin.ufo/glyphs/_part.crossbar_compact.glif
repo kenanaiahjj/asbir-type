@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.crossbar_compact" format="2">
+  <advance width="490"/>
+  <anchor x="245" y="745" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="40" y="723" type="line"/>
+      <point x="450" y="723" type="line"/>
+      <point x="450" y="767" type="line"/>
+      <point x="40" y="767" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightleftheavyrightbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="257C"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line"/>
+      <point x="266" y="266" type="line"/>
+      <point x="266" y="232" type="line"/>
+      <point x="634" y="232" type="line"/>
+      <point x="634" y="368" type="line"/>
+      <point x="266" y="368" type="line"/>
+      <point x="266" y="334" type="line"/>
+      <point x="-34" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4KICAgICAgPHZzdGVtIHBvcz0iLT
+      M0IiB3aWR0aD0iNjY4IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnR
+      UYWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIyNjYiIHdpZHRoPSI2OCIgLz4KICAg
+      ICAgPHZzdGVtIHBvcz0iLTM0IiB3aWR0aD0iNjY4IiAvPgogICAgPC9oaW50c2V0PgogI
+      DwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni257C</string>
+      <key>com.type-invaders.name.production</key>
+      <string>lightleftheavyrightbxd</string>
+    </dict>
+  </lib>
+</glyph>

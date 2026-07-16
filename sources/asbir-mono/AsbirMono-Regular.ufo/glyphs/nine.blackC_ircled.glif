@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.blackCircled" format="2">
+  <advance width="600"/>
+  <unicode hex="277E"/>
+  <outline>
+    <contour>
+      <point x="290" y="152" type="curve" smooth="yes"/>
+      <point x="210" y="152"/>
+      <point x="176" y="184"/>
+      <point x="161" y="248" type="curve"/>
+      <point x="223" y="254" type="line"/>
+      <point x="231" y="224"/>
+      <point x="250" y="210"/>
+      <point x="290" y="210" type="curve" smooth="yes"/>
+      <point x="342" y="210"/>
+      <point x="376" y="252"/>
+      <point x="380" y="324" type="curve"/>
+      <point x="366" y="300"/>
+      <point x="334" y="282"/>
+      <point x="292" y="282" type="curve" smooth="yes"/>
+      <point x="215" y="282"/>
+      <point x="156" y="326"/>
+      <point x="156" y="418" type="curve" smooth="yes"/>
+      <point x="156" y="505"/>
+      <point x="218" y="555"/>
+      <point x="302" y="555" type="curve" smooth="yes"/>
+      <point x="388" y="555"/>
+      <point x="446" y="492"/>
+      <point x="446" y="375" type="curve" smooth="yes"/>
+      <point x="446" y="253"/>
+      <point x="402" y="152"/>
+    </contour>
+    <contour>
+      <point x="300" y="340" type="curve" smooth="yes"/>
+      <point x="347" y="340"/>
+      <point x="379" y="368"/>
+      <point x="380" y="416" type="curve" smooth="yes"/>
+      <point x="381" y="465"/>
+      <point x="351" y="497"/>
+      <point x="301" y="497" type="curve" smooth="yes"/>
+      <point x="249" y="497"/>
+      <point x="220" y="465"/>
+      <point x="220" y="416" type="curve" smooth="yes"/>
+      <point x="220" y="368"/>
+      <point x="247" y="340"/>
+    </contour>
+    <component base="blackCircled"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

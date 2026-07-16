@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="179" y="-158" type="line"/>
+      <point x="551" y="457" type="line"/>
+      <point x="567" y="536" type="line"/>
+      <point x="136" y="536" type="line"/>
+      <point x="95" y="331" type="line"/>
+      <point x="169" y="331" type="line"/>
+      <point x="196" y="467" type="line"/>
+      <point x="473" y="467" type="line"/>
+      <point x="95" y="-158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0xNTgiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9Ij
+      Q2NyIgd2lkdGg9IjY5IiAvPgogICAgICA8dnN0ZW0gcG9zPSI5NSIgd2lkdGg9IjQ3MiI
+      gLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.6SIbtJutPh</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

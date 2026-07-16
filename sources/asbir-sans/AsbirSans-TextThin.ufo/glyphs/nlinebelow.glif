@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlinebelow" format="2">
+  <advance width="1196"/>
+  <unicode hex="1E49"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="998" y="0" name="bottomr"/>
+  <anchor x="198" y="0" name="lfthook"/>
+  <anchor x="600" y="1118" name="top"/>
+  <anchor x="244" y="1118" name="topr"/>
+  <outline>
+    <component base="n"/>
+    <component base="macronsub" xOffset="198"/>
+  </outline>
+</glyph>

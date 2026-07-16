@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="0.0" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-140" y="-159" type="line"/>
+      <point x="140" y="-159" type="line"/>
+      <point x="140" y="-91" type="line"/>
+      <point x="-140" y="-91" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjYzNyIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNj
+      AiIHdpZHRoPSIyODAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni0331</string>
+      <key>com.type-invaders.name.production</key>
+      <string>macronbelowcomb</string>
+    </dict>
+  </lib>
+</glyph>

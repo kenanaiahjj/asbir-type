@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EF5" format="2">
+  <advance width="540"/>
+  <unicode hex="1EF5"/>
+  <outline>
+    <contour>
+      <point x="304.0" y="-42" type="curve" smooth="yes"/>
+      <point x="304.0" y="-23.2223185"/>
+      <point x="288.77768149999997" y="-8.0"/>
+      <point x="270.0" y="-8.0" type="curve" smooth="yes"/>
+      <point x="251.2223185" y="-8.0"/>
+      <point x="236.0" y="-23.2223185"/>
+      <point x="236.0" y="-42" type="curve" smooth="yes"/>
+      <point x="236.0" y="-60.7776815"/>
+      <point x="251.2223185" y="-76.0"/>
+      <point x="270.0" y="-76.0" type="curve" smooth="yes"/>
+      <point x="288.77768149999997" y="-76.0"/>
+      <point x="304.0" y="-60.7776815"/>
+    </contour>
+    <component base="y"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdescend" format="2">
+  <advance width="660"/>
+  <unicode hex="E05E"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="296" y="0" name="bottomr"/>
+  <anchor x="212" y="536" name="cross"/>
+  <anchor x="367" y="1056" name="top"/>
+  <outline>
+    <contour>
+      <point x="126" y="-418" type="line"/>
+      <point x="296" y="-418" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

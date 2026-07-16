@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hhook" format="2">
+  <advance width="1266"/>
+  <unicode hex="0266"/>
+  <anchor x="632" y="0" name="bottom"/>
+  <anchor x="1180" y="0" name="bottomr"/>
+  <anchor x="780" y="0" name="lfthook"/>
+  <anchor x="632" y="1056" name="top"/>
+  <anchor x="486" y="1056" name="topr"/>
+  <outline>
+    <component base="n"/>
+    <component base="_part.top_r_hook" xOffset="2"/>
+  </outline>
+</glyph>

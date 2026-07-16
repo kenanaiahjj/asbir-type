@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dnfiveeighthsblock" format="2">
+  <advance width="600"/>
+  <unicode hex="2585"/>
+  <outline>
+    <contour>
+      <point x="0" y="-350" type="line"/>
+      <point x="600" y="-350" type="line"/>
+      <point x="600" y="463" type="line"/>
+      <point x="0" y="463" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9Ii0zNTAiIHdpZHRoPSI4MTMiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ij
+      AiIHdpZHRoPSI2MDAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2585</string>
+      <key>com.type-invaders.name.production</key>
+      <string>dnfiveeighthsblock</string>
+    </dict>
+  </lib>
+</glyph>

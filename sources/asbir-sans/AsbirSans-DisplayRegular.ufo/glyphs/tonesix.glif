@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonesix" format="2">
+  <advance width="1285"/>
+  <unicode hex="0185"/>
+  <outline>
+    <contour>
+      <point x="168.418" y="604.236" type="line"/>
+      <point x="427" y="1056" type="line"/>
+      <point x="242.805" y="1056" type="line"/>
+      <point x="29.582" y="683.764" type="line"/>
+    </contour>
+    <component base="softsigncyrillic" xOffset="215"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>softsigncyrillic</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

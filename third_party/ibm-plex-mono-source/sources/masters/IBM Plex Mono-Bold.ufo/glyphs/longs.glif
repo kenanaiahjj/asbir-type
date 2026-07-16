@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs" format="2">
+  <advance width="600"/>
+  <unicode hex="017F"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="533" y="115" type="line"/>
+      <point x="371" y="115" type="line"/>
+      <point x="371" y="625" type="line"/>
+      <point x="556" y="625" type="line"/>
+      <point x="556" y="740" type="line"/>
+      <point x="381" y="740" type="line" smooth="yes"/>
+      <point x="273" y="740"/>
+      <point x="223" y="678"/>
+      <point x="223" y="591" type="curve" smooth="yes"/>
+      <point x="223" y="516" type="line"/>
+      <point x="61" y="516" type="line"/>
+      <point x="61" y="401" type="line"/>
+      <point x="223" y="401" type="line"/>
+      <point x="223" y="115" type="line"/>
+      <point x="71" y="115" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQwMS
+      Igd2lkdGg9IjExNSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjI1IiB3aWR0aD0iMTE1IiA
+      vPgogICAgICA8dnN0ZW0gcG9zPSIyMjMiIHdpZHRoPSIxNDgiIC8+CiAgICA8L2hpbnRz
+      ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni017F</string>
+      <key>com.type-invaders.name.production</key>
+      <string>longs</string>
+    </dict>
+  </lib>
+</glyph>

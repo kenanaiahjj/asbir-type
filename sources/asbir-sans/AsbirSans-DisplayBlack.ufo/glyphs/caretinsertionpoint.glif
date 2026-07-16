@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caretinsertionpoint" format="2">
+  <advance width="990"/>
+  <unicode hex="2041"/>
+  <outline>
+    <contour>
+      <point x="932" y="524" type="line"/>
+      <point x="648" y="666" type="line"/>
+      <point x="56" y="-332" type="line"/>
+      <point x="336" y="-474" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="-474" type="line"/>
+      <point x="878" y="-350" type="line"/>
+      <point x="548" y="174" type="line"/>
+      <point x="366" y="-98" type="line"/>
+    </contour>
+  </outline>
+</glyph>

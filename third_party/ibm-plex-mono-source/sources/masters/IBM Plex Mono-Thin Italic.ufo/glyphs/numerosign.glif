@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numerosign" format="2">
+  <advance width="600"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="505" y="366" type="curve" smooth="yes"/>
+      <point x="576" y="366"/>
+      <point x="613" y="418"/>
+      <point x="632" y="535" type="curve" smooth="yes"/>
+      <point x="637" y="562"/>
+      <point x="639" y="586"/>
+      <point x="639" y="606" type="curve" smooth="yes"/>
+      <point x="639" y="673"/>
+      <point x="612" y="704"/>
+      <point x="558" y="704" type="curve" smooth="yes"/>
+      <point x="487" y="704"/>
+      <point x="450" y="652"/>
+      <point x="431" y="535" type="curve" smooth="yes"/>
+      <point x="426" y="508"/>
+      <point x="424" y="484"/>
+      <point x="424" y="464" type="curve" smooth="yes"/>
+      <point x="424" y="397"/>
+      <point x="451" y="366"/>
+    </contour>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="152" y="670" type="line"/>
+      <point x="155" y="670" type="line"/>
+      <point x="201" y="335" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="398" y="698" type="line"/>
+      <point x="377" y="698" type="line"/>
+      <point x="266" y="28" type="line"/>
+      <point x="263" y="28" type="line"/>
+      <point x="217" y="363" type="line"/>
+      <point x="171" y="698" type="line"/>
+      <point x="136" y="698" type="line"/>
+      <point x="20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="384" type="curve" smooth="yes"/>
+      <point x="460" y="384"/>
+      <point x="444" y="413"/>
+      <point x="444" y="464" type="curve" smooth="yes"/>
+      <point x="444" y="475"/>
+      <point x="445" y="492"/>
+      <point x="450" y="521" type="curve" smooth="yes"/>
+      <point x="458" y="565" type="line" smooth="yes"/>
+      <point x="470" y="637"/>
+      <point x="501" y="686"/>
+      <point x="558" y="686" type="curve" smooth="yes"/>
+      <point x="603" y="686"/>
+      <point x="619" y="657"/>
+      <point x="619" y="606" type="curve" smooth="yes"/>
+      <point x="619" y="595"/>
+      <point x="618" y="578"/>
+      <point x="613" y="549" type="curve" smooth="yes"/>
+      <point x="605" y="505" type="line" smooth="yes"/>
+      <point x="593" y="433"/>
+      <point x="562" y="384"/>
+    </contour>
+    <contour>
+      <point x="589" y="296" type="line"/>
+      <point x="592" y="315" type="line"/>
+      <point x="401" y="315" type="line"/>
+      <point x="398" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyOCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjk2Ii
+      B3aWR0aD0iMTkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjY3MCIgd2lkdGg9IjI4IiAvPgo
+      gICAgICA8dnN0ZW0gcG9zPSI0MjQiIHdpZHRoPSIyMCIgLz4KICAgIDwvaGludHNldD4K
+      ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iMCIgd
+      2lkdGg9IjI4IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzNjYiIHdpZHRoPSIxOCIgLz4KIC
+      AgICAgPGhzdGVtIHBvcz0iNjg2IiB3aWR0aD0iMTgiIC8+CiAgICAgIDx2c3RlbSBwb3M
+      9IjYxOSIgd2lkdGg9IjIwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
+      bnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iMjgiIC8+CiAgI
+      CAgIDxoc3RlbSBwb3M9IjI5NiIgd2lkdGg9IjE5IiAvPgogICAgICA8aHN0ZW0gcG9zPS
+      I2NzAiIHdpZHRoPSIyOCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDI0IiB3aWR0aD0iMjA
+      iIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMyI+CiAg
+      ICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyOCIgLz4KICAgICAgPGhzdGVtIHBvcz0iM
+      jk2IiB3aWR0aD0iMTkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM2NiIgd2lkdGg9IjE4Ii
+      AvPgogICAgICA8dnN0ZW0gcG9zPSI0MjQiIHdpZHRoPSIyMCIgLz4KICAgIDwvaGludHN
+      ldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA1Ij4KICAgICAgPGhzdGVtIHBvcz0i
+      MCIgd2lkdGg9IjI4IiAvPgogICAgICA8aHN0ZW0gcG9zPSIyOTYiIHdpZHRoPSIxOSIgL
+      z4KICAgICAgPGhzdGVtIHBvcz0iNjcwIiB3aWR0aD0iMjgiIC8+CiAgICAgIDx2c3RlbS
+      Bwb3M9IjQyNCIgd2lkdGg9IjIwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQ
+      gcG9pbnRUYWc9ImhyMDYiPgogICAgICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iMjgiIC8+
+      CiAgICAgIDxoc3RlbSBwb3M9IjI5NiIgd2lkdGg9IjE5IiAvPgogICAgICA8aHN0ZW0gc
+      G9zPSIzNjYiIHdpZHRoPSIxOCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDI0IiB3aWR0aD
+      0iMjAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwNyI
+      +CiAgICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRoPSIyOCIgLz4KICAgICAgPGhzdGVtIHBv
+      cz0iMjk2IiB3aWR0aD0iMTkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjY3MCIgd2lkdGg9I
+      jI4IiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MjQiIHdpZHRoPSIyMCIgLz4KICAgIDwvaG
+      ludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA4Ij4KICAgICAgPGhzdGVtIHB
+      vcz0iMCIgd2lkdGg9IjI4IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzNjYiIHdpZHRoPSIx
+      OCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjg2IiB3aWR0aD0iMTgiIC8+CiAgICAgIDx2c
+      3RlbSBwb3M9IjQyNCIgd2lkdGg9IjIwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbn
+      RzZXQgcG9pbnRUYWc9ImhyMDkiPgogICAgICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iMjg
+      iIC8+CiAgICAgIDxoc3RlbSBwb3M9IjI5NiIgd2lkdGg9IjE5IiAvPgogICAgICA8aHN0
+      ZW0gcG9zPSIzNjYiIHdpZHRoPSIxOCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNjE5IiB3a
+      WR0aD0iMjAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2116</string>
+      <key>com.type-invaders.name.production</key>
+      <string>numerosign</string>
+    </dict>
+  </lib>
+</glyph>

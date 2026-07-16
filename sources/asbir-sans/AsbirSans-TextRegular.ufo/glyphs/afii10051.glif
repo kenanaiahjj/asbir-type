@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10051" format="2">
+  <advance width="1723"/>
+  <unicode hex="0402"/>
+  <anchor x="662" y="0" name="bottom"/>
+  <anchor x="757" y="0" name="bottomr"/>
+  <anchor x="663" y="0" name="cedilla"/>
+  <anchor x="662" y="763" name="cross"/>
+  <anchor x="757" y="0" name="cyrtic"/>
+  <anchor x="707" y="0" name="right"/>
+  <anchor x="662" y="1490" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="largerighthook" xOffset="600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>largerighthook</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

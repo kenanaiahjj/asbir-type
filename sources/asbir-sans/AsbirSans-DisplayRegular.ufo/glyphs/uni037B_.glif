@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni037B" format="2">
+  <advance width="1071"/>
+  <unicode hex="037B"/>
+  <anchor x="509" y="0" name="bottom"/>
+  <anchor x="509" y="0" name="cedilla"/>
+  <anchor x="509" y="528" name="center"/>
+  <anchor x="509" y="1056" name="top"/>
+  <anchor x="64" y="712" name="topr"/>
+  <outline>
+    <component base="c" xScale="-1" xOffset="1071"/>
+  </outline>
+</glyph>

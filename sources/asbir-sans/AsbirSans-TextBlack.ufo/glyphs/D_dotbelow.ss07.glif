@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ddotbelow.ss07" format="2">
+  <advance width="1480"/>
+  <unicode hex="E1EC"/>
+  <anchor x="674" y="0" name="bottom"/>
+  <anchor x="360" y="745" name="cross"/>
+  <anchor x="594" y="1490" name="top"/>
+  <anchor x="96" y="1490" name="topl"/>
+  <outline>
+    <component base="D"/>
+    <component base="dotbelow.ss07" xOffset="339"/>
+  </outline>
+</glyph>

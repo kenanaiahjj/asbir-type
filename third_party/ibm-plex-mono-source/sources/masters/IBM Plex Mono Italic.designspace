@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+
+    <axes>
+        <axis default="400" maximum="700" minimum="100" name="weight" tag="wght">
+            <map input="100" output="-925" />
+            <map input="200" output="-706" />
+            <map input="300" output="-360" />
+            <map input="400" output="0" />
+            <map input="450" output="191" />
+            <map input="500" output="427" />
+            <map input="600" output="705" />
+            <map input="700" output="1000" />
+        </axis>
+    </axes>
+
+    <sources>
+        <source familyname="IBM Plex Mono" filename="IBM Plex Mono-Thin Italic.ufo" stylename="Thin Italic">
+            <location>
+                <dimension name="weight" xvalue="-925" />
+            </location>
+        </source>
+        <source familyname="IBM Plex Mono" filename="IBM Plex Mono-Italic.ufo" stylename="Italic">
+            <lib copy="1" />
+            <groups copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="IBM Plex Mono" filename="IBM Plex Mono-Bold Italic.ufo" stylename="Bold Italic">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+        </source>
+    </sources>
+
+    <instances>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-ThinItalic" stylemapfamilyname="IBM Plex Mono Thin" stylemapstylename="italic" stylename="Thin Italic">
+            <location>
+                <dimension name="weight" xvalue="-925" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-ExtLtItalic" stylemapfamilyname="IBM Plex Mono ExtLt" stylemapstylename="italic" stylename="Extralight Italic">
+            <location>
+                <dimension name="weight" xvalue="-706" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-LightItalic" stylemapfamilyname="IBM Plex Mono Light" stylemapstylename="italic" stylename="Light Italic">
+            <location>
+                <dimension name="weight" xvalue="-360" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-Italic" stylemapfamilyname="IBM Plex Mono" stylemapstylename="italic" stylename="Italic">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-TextItalic" stylemapfamilyname="IBM Plex Mono Text" stylemapstylename="italic" stylename="Text Italic">
+            <location>
+                <dimension name="weight" xvalue="191" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-MedmItalic" stylemapfamilyname="IBM Plex Mono Medm" stylemapstylename="italic" stylename="Medium Italic">
+            <location>
+                <dimension name="weight" xvalue="427" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-SmBldItalic" stylemapfamilyname="IBM Plex Mono SmBld" stylemapstylename="italic" stylename="SemiBold Italic">
+            <location>
+                <dimension name="weight" xvalue="705" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="IBM Plex Mono" postscriptfontname="IBMPlexMono-BoldItalic" stylemapfamilyname="IBM Plex Mono" stylemapstylename="bold italic" stylename="Bold Italic">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+
+</designspace>

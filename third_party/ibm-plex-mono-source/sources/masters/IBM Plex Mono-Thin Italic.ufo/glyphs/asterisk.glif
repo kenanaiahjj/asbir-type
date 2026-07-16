@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="600"/>
+  <unicode hex="002A"/>
+  <guideline x="318" y="423" angle="80.5" identifier="0Y4ZRnxlqe"/>
+  <outline>
+    <contour>
+      <point x="304" y="275" type="line"/>
+      <point x="427" y="57" type="line"/>
+      <point x="445" y="67" type="line"/>
+      <point x="323" y="284" type="line"/>
+      <point x="572" y="359" type="line"/>
+      <point x="568" y="378" type="line"/>
+      <point x="319" y="304" type="line"/>
+      <point x="361" y="555" type="line"/>
+      <point x="340" y="555" type="line"/>
+      <point x="298" y="303" type="line"/>
+      <point x="74" y="377" type="line"/>
+      <point x="65" y="360" type="line"/>
+      <point x="288" y="286" type="line"/>
+      <point x="94" y="69" type="line"/>
+      <point x="110" y="57" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjUxIiB3aWR0aD0iNDk4IiAvPgogICAgICA8dnN0ZW0gcG9zPSI2NC
+      Igd2lkdGg9IjUwNyIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.0Y4ZRnxlqe</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.showMeasurements.0Y4ZRnxlqe</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightdnheavyleftuplightbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2546"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line"/>
+      <point x="232" y="266" type="line"/>
+      <point x="232" y="-350" type="line"/>
+      <point x="368" y="-350" type="line"/>
+      <point x="368" y="232" type="line"/>
+      <point x="634" y="232" type="line"/>
+      <point x="634" y="368" type="line"/>
+      <point x="334" y="368" type="line"/>
+      <point x="334" y="950" type="line"/>
+      <point x="266" y="950" type="line"/>
+      <point x="266" y="368" type="line"/>
+      <point x="232" y="368" type="line"/>
+      <point x="232" y="334" type="line"/>
+      <point x="-34" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMj
+      MyIiB3aWR0aD0iMTM2IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnR
+      UYWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIyMzIiIHdpZHRoPSIxMzYiIC8+CiAg
+      ICAgIDx2c3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgPC9oaW50c2V0PgogI
+      CAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9zPSIyMzIiIH
+      dpZHRoPSIxMzYiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4
+      KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0Ij4KICAgICAg
+      PGhzdGVtIHBvcz0iMjY2IiB3aWR0aD0iNjgiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIzM
+      iIgd2lkdGg9IjEzNiIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2546</string>
+      <key>com.type-invaders.name.production</key>
+      <string>rightdnheavyleftuplightbxd</string>
+    </dict>
+  </lib>
+</glyph>

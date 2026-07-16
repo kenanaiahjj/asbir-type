@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="253" y="530" name="_top"/>
+  <anchor x="253" y="818" name="top"/>
+  <outline>
+    <contour>
+      <point x="116" y="588" type="line"/>
+      <point x="186" y="588" type="line"/>
+      <point x="264" y="676" type="line"/>
+      <point x="242" y="676" type="line"/>
+      <point x="320" y="588" type="line"/>
+      <point x="390" y="588" type="line"/>
+      <point x="300" y="710" type="line"/>
+      <point x="206" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="690" type="line"/>
+      <point x="408" y="690" type="line"/>
+      <point x="484" y="818" type="line"/>
+      <point x="390" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

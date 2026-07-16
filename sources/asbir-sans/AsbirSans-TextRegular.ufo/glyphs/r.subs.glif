@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.subs" format="2">
+  <advance width="585"/>
+  <unicode hex="1D63"/>
+  <anchor x="204" y="-302" name="bottom"/>
+  <anchor x="288" y="-302" name="bottomr"/>
+  <anchor x="203" y="-9" name="cross"/>
+  <anchor x="327" y="317" name="top"/>
+  <outline>
+    <component base="r.sups" yOffset="-1200"/>
+  </outline>
+</glyph>

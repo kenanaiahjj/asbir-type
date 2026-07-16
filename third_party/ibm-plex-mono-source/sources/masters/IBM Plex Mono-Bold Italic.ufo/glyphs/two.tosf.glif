@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="509" y="111" type="line"/>
+      <point x="210" y="111" type="line"/>
+      <point x="315" y="159" type="line" smooth="yes"/>
+      <point x="394" y="195"/>
+      <point x="516" y="251"/>
+      <point x="516" y="387" type="curve" smooth="yes"/>
+      <point x="516" y="482"/>
+      <point x="435" y="548"/>
+      <point x="311" y="548" type="curve" smooth="yes"/>
+      <point x="198" y="548"/>
+      <point x="111" y="494"/>
+      <point x="64" y="394" type="curve"/>
+      <point x="162" y="331" type="line"/>
+      <point x="190" y="392"/>
+      <point x="241" y="433"/>
+      <point x="296" y="433" type="curve" smooth="yes"/>
+      <point x="342" y="433"/>
+      <point x="372" y="408"/>
+      <point x="372" y="371" type="curve" smooth="yes"/>
+      <point x="372" y="364"/>
+      <point x="371" y="356"/>
+      <point x="369" y="344" type="curve" smooth="yes"/>
+      <point x="357" y="286"/>
+      <point x="296" y="262"/>
+      <point x="249" y="237" type="curve" smooth="yes"/>
+      <point x="38" y="124" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjAiIHdpZHRoPSIxMTEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQzMy
+      Igd2lkdGg9IjExNSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzcyIiB3aWR0aD0iMTQ0IiA
+      vPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+      <key>com.typemytype.robofont.guideline.magnetic.DoziXIsRms</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.PIOG4NNukC</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.glW7QZOgDk</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

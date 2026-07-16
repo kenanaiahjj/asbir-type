@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overline" format="2">
+  <advance width="600"/>
+  <unicode hex="203E"/>
+  <outline>
+    <contour>
+      <point x="540" y="643" type="line"/>
+      <point x="540" y="764" type="line"/>
+      <point x="60" y="764" type="line"/>
+      <point x="60" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni203E</string>
+      <key>com.type-invaders.name.production</key>
+      <string>overline</string>
+    </dict>
+  </lib>
+</glyph>

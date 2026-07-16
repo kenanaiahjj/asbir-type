@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sdotbelowdotaccent.ss07" format="2">
+  <advance width="1010"/>
+  <unicode hex="E25D"/>
+  <anchor x="518" y="0" name="bottom"/>
+  <anchor x="516" y="0" name="cedilla"/>
+  <anchor x="136" y="256" name="rthook"/>
+  <anchor x="518" y="1434" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotbelow.ss07" xOffset="332"/>
+    <component base="dotaccentcomb.ss07" xOffset="332"/>
+  </outline>
+</glyph>

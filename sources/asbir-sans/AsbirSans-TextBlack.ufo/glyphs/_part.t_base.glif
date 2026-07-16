@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.t_base" format="2">
+  <advance width="836"/>
+  <anchor x="464" y="0" name="bottom"/>
+  <anchor x="507" y="0" name="cedilla"/>
+  <anchor x="798" y="15" name="lfthook"/>
+  <anchor x="375" y="1384" name="top"/>
+  <outline>
+    <contour>
+      <point x="174" y="1384" type="line"/>
+      <point x="174" y="322" type="line" smooth="yes"/>
+      <point x="174" y="99"/>
+      <point x="302" y="-17"/>
+      <point x="553" y="-17" type="curve" smooth="yes"/>
+      <point x="625" y="-17"/>
+      <point x="706" y="-10"/>
+      <point x="798" y="15" type="curve"/>
+      <point x="750" y="302" type="line"/>
+      <point x="735" y="297"/>
+      <point x="676" y="289"/>
+      <point x="652" y="289" type="curve" smooth="yes"/>
+      <point x="599" y="289"/>
+      <point x="576" y="312"/>
+      <point x="576" y="359" type="curve" smooth="yes"/>
+      <point x="576" y="1384" type="line"/>
+    </contour>
+  </outline>
+</glyph>

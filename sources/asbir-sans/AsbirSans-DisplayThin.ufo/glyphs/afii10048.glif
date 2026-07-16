@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10048" format="2">
+  <advance width="1866"/>
+  <unicode hex="042E"/>
+  <anchor x="1166" y="0" name="bottom"/>
+  <anchor x="191" y="766" name="cross"/>
+  <anchor x="1782" y="744" name="ogonek"/>
+  <anchor x="222" y="-2" name="right"/>
+  <anchor x="670" y="1490" name="tonos"/>
+  <anchor x="1166" y="1490" name="top"/>
+  <anchor x="1166" y="745" name="center"/>
+  <anchor x="1166" y="1506" name="tophorn"/>
+  <outline>
+    <contour>
+      <point x="578" y="772" type="line"/>
+      <point x="188" y="772" type="line"/>
+      <point x="188" y="726" type="line"/>
+      <point x="578" y="726" type="line"/>
+    </contour>
+    <component base="I" yOffset="-2"/>
+    <component base="O" xOffset="464"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.subs" format="2">
+  <advance width="502"/>
+  <unicode hex="209C"/>
+  <anchor x="278" y="-302" name="bottom"/>
+  <anchor x="305" y="-302" name="cedilla"/>
+  <anchor x="460" y="-294" name="lfthook"/>
+  <anchor x="346" y="558" name="raccent"/>
+  <anchor x="214" y="459" name="top"/>
+  <outline>
+    <component base="t.sups" yOffset="-1200"/>
+  </outline>
+</glyph>

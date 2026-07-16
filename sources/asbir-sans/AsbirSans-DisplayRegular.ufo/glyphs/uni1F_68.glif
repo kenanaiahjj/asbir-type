@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F68" format="2">
+  <advance width="1686"/>
+  <unicode hex="1F68"/>
+  <anchor x="933" y="0" name="bottom"/>
+  <anchor x="421" y="1490" name="tonos"/>
+  <anchor x="933" y="1490" name="top"/>
+  <outline>
+    <component base="Omega" xOffset="180"/>
+    <component base="koronisaccentleft.cn" xOffset="-30" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

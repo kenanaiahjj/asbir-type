@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavytrpldashhorzbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2505"/>
+  <outline>
+    <contour>
+      <point x="33" y="232" type="line"/>
+      <point x="167" y="232" type="line"/>
+      <point x="167" y="368" type="line"/>
+      <point x="33" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="232" type="line"/>
+      <point x="367" y="232" type="line"/>
+      <point x="367" y="368" type="line"/>
+      <point x="233" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="232" type="line"/>
+      <point x="567" y="232" type="line"/>
+      <point x="567" y="368" type="line"/>
+      <point x="433" y="368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjIzMiIgd2lkdGg9IjEzNiIgLz4KICAgICAgPHZzdGVtMyBzdGVtM0
+      xpc3Q9IjMzLDEzNCwyMzMsMTM0LDQzMywxMzQiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9
+      oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2505</string>
+      <key>com.type-invaders.name.production</key>
+      <string>heavytrpldashhorzbxd</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnom" format="2">
+  <advance width="691"/>
+  <unicode hex="E0BD"/>
+  <outline>
+    <contour>
+      <point x="328" y="-10" type="curve" smooth="yes"/>
+      <point x="535" y="-10"/>
+      <point x="611" y="191"/>
+      <point x="611" y="417" type="curve" smooth="yes"/>
+      <point x="611" y="653"/>
+      <point x="501" y="777"/>
+      <point x="339" y="777" type="curve" smooth="yes"/>
+      <point x="185" y="777"/>
+      <point x="80" y="668"/>
+      <point x="80" y="531" type="curve" smooth="yes"/>
+      <point x="80" y="391"/>
+      <point x="194" y="287"/>
+      <point x="337" y="287" type="curve" smooth="yes"/>
+      <point x="441" y="287"/>
+      <point x="534" y="341"/>
+      <point x="561" y="420" type="curve"/>
+      <point x="562" y="420" type="line"/>
+      <point x="565" y="168"/>
+      <point x="475" y="36"/>
+      <point x="326" y="36" type="curve" smooth="yes"/>
+      <point x="228" y="36"/>
+      <point x="157" y="93"/>
+      <point x="142" y="181" type="curve"/>
+      <point x="92" y="181" type="line"/>
+      <point x="107" y="65"/>
+      <point x="203" y="-10"/>
+    </contour>
+    <contour>
+      <point x="341" y="333" type="curve" smooth="yes"/>
+      <point x="222" y="333"/>
+      <point x="129" y="420"/>
+      <point x="129" y="531" type="curve" smooth="yes"/>
+      <point x="129" y="642"/>
+      <point x="219" y="731"/>
+      <point x="339" y="731" type="curve" smooth="yes"/>
+      <point x="444" y="731"/>
+      <point x="527" y="662"/>
+      <point x="548" y="540" type="curve" smooth="yes"/>
+      <point x="567" y="430"/>
+      <point x="469" y="333"/>
+    </contour>
+  </outline>
+</glyph>

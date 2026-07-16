@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vertdblleftsngbxd" format="2">
+  <advance width="600"/>
+  <unicode hex="2562"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line"/>
+      <point x="198" y="266" type="line"/>
+      <point x="198" y="-350" type="line"/>
+      <point x="266" y="-350" type="line"/>
+      <point x="266" y="950" type="line"/>
+      <point x="198" y="950" type="line"/>
+      <point x="198" y="334" type="line"/>
+      <point x="-34" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="-350" type="line"/>
+      <point x="402" y="-350" type="line"/>
+      <point x="402" y="950" type="line"/>
+      <point x="334" y="950" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjI2NiIgd2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxOT
+      giIHdpZHRoPSI2OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzM0IiB3aWR0aD0iNjgiIC8
+      +CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2562</string>
+      <key>com.type-invaders.name.production</key>
+      <string>vertdblleftsngbxd</string>
+    </dict>
+  </lib>
+</glyph>

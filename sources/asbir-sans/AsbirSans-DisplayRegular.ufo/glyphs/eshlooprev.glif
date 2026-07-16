@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eshlooprev" format="2">
+  <advance width="1042"/>
+  <unicode hex="01AA"/>
+  <outline>
+    <contour>
+      <point x="562" y="1134" type="line" name="hr00"/>
+      <point x="562" y="-70" type="line" smooth="yes"/>
+      <point x="562" y="-297"/>
+      <point x="655" y="-418"/>
+      <point x="844" y="-418" type="curve" smooth="yes"/>
+      <point x="879" y="-418"/>
+      <point x="931" y="-413"/>
+      <point x="960" y="-402" type="curve"/>
+      <point x="960" y="-244" type="line"/>
+      <point x="940" y="-250"/>
+      <point x="913" y="-254"/>
+      <point x="896" y="-254" type="curve" smooth="yes"/>
+      <point x="809" y="-254"/>
+      <point x="762" y="-207"/>
+      <point x="762" y="-70" type="curve" smooth="yes"/>
+      <point x="762" y="1218" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="1218" type="curve" smooth="yes"/>
+      <point x="81" y="1033"/>
+      <point x="233" y="878"/>
+      <point x="422" y="878" type="curve" smooth="yes"/>
+      <point x="608" y="878"/>
+      <point x="762" y="1033"/>
+      <point x="762" y="1218" type="curve" smooth="yes"/>
+      <point x="762" y="1408"/>
+      <point x="608" y="1558"/>
+      <point x="422" y="1558" type="curve" smooth="yes"/>
+      <point x="233" y="1558"/>
+      <point x="81" y="1408"/>
+    </contour>
+    <contour>
+      <point x="422" y="1062" type="curve" smooth="yes"/>
+      <point x="335" y="1062"/>
+      <point x="268" y="1114"/>
+      <point x="268" y="1222" type="curve" smooth="yes"/>
+      <point x="268" y="1327"/>
+      <point x="335" y="1382"/>
+      <point x="422" y="1382" type="curve" smooth="yes"/>
+      <point x="506" y="1382"/>
+      <point x="574" y="1327"/>
+      <point x="574" y="1222" type="curve" smooth="yes"/>
+      <point x="574" y="1114"/>
+      <point x="506" y="1062"/>
+    </contour>
+  </outline>
+</glyph>

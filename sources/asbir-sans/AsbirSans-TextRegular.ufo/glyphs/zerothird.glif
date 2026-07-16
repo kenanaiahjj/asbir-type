@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerothird" format="2">
+  <advance width="1958"/>
+  <unicode hex="2189"/>
+  <anchor x="392" y="1084" name="center"/>
+  <anchor x="1579" y="812" name="top"/>
+  <outline>
+    <component base="zero.numr"/>
+    <component base="fraction" xOffset="784"/>
+    <component base="three.dnom" xOffset="1177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>three.dnom</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

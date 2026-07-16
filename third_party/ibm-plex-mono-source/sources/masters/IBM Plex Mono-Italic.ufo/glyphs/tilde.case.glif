@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.case" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="698.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="391" y="782" type="curve" smooth="yes"/>
+      <point x="433" y="782"/>
+      <point x="468" y="808"/>
+      <point x="490" y="834" type="curve"/>
+      <point x="462" y="875" type="line"/>
+      <point x="439" y="857"/>
+      <point x="420" y="846"/>
+      <point x="399" y="846" type="curve" smooth="yes"/>
+      <point x="380" y="846"/>
+      <point x="358" y="855"/>
+      <point x="335" y="869" type="curve" smooth="yes"/>
+      <point x="315" y="881"/>
+      <point x="292" y="897"/>
+      <point x="259" y="897" type="curve" smooth="yes"/>
+      <point x="217" y="897"/>
+      <point x="182" y="871"/>
+      <point x="160" y="845" type="curve"/>
+      <point x="188" y="804" type="line"/>
+      <point x="211" y="822"/>
+      <point x="230" y="833"/>
+      <point x="251" y="833" type="curve" smooth="yes"/>
+      <point x="270" y="833"/>
+      <point x="292" y="824"/>
+      <point x="315" y="810" type="curve" smooth="yes"/>
+      <point x="335" y="798"/>
+      <point x="358" y="782"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAgI
+      Dxoc3RlbSBwb3M9IjgzMyIgd2lkdGg9IjY0IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNj
+      AiIHdpZHRoPSIzMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFR
+      hZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9Ijc4MiIgd2lkdGg9IjY0IiAvPgogICAg
+      ICA8dnN0ZW0gcG9zPSIxNjAiIHdpZHRoPSIzMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgP
+      C9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

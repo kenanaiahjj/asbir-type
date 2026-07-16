@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DE6" format="2">
+  <unicode hex="1DE6"/>
+  <outline>
+    <contour>
+      <point x="-452" y="1344" type="line"/>
+      <point x="-906" y="1344" type="line"/>
+      <point x="-906" y="1202" type="line"/>
+      <point x="-452" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-458" y="1662" type="line"/>
+      <point x="-458" y="1754" type="line"/>
+      <point x="-590" y="1754" type="line"/>
+      <point x="-950" y="1294" type="line"/>
+      <point x="-950" y="1202" type="line"/>
+      <point x="-818" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-520" y="1754" type="line"/>
+      <point x="-938" y="1754" type="line"/>
+      <point x="-938" y="1612" type="line"/>
+      <point x="-520" y="1612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>12</integer>
+    </dict>
+  </lib>
+</glyph>

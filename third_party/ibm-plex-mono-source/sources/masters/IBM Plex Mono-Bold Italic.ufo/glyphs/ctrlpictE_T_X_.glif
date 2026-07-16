@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctrlpictETX" format="2">
+  <advance width="600"/>
+  <unicode hex="2403"/>
+  <outline>
+    <contour>
+      <point x="169" y="240" type="line"/>
+      <point x="169" y="284" type="line"/>
+      <point x="86" y="284" type="line"/>
+      <point x="86" y="338" type="line"/>
+      <point x="166" y="338" type="line"/>
+      <point x="166" y="382" type="line"/>
+      <point x="86" y="382" type="line"/>
+      <point x="86" y="433" type="line"/>
+      <point x="169" y="433" type="line"/>
+      <point x="169" y="477" type="line"/>
+      <point x="33" y="477" type="line"/>
+      <point x="33" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="432" type="line"/>
+      <point x="383" y="477" type="line"/>
+      <point x="217" y="477" type="line"/>
+      <point x="217" y="432" type="line"/>
+      <point x="273" y="432" type="line"/>
+      <point x="273" y="240" type="line"/>
+      <point x="327" y="240" type="line"/>
+      <point x="327" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="362" type="line"/>
+      <point x="585" y="477" type="line"/>
+      <point x="530" y="477" type="line"/>
+      <point x="516" y="440" type="line"/>
+      <point x="502" y="403" type="line"/>
+      <point x="499" y="403" type="line"/>
+      <point x="486" y="440" type="line"/>
+      <point x="471" y="477" type="line"/>
+      <point x="414" y="477" type="line"/>
+      <point x="465" y="363" type="line"/>
+      <point x="410" y="240" type="line"/>
+      <point x="465" y="240" type="line"/>
+      <point x="483" y="285" type="line"/>
+      <point x="497" y="322" type="line"/>
+      <point x="500" y="322" type="line"/>
+      <point x="513" y="285" type="line"/>
+      <point x="532" y="240" type="line"/>
+      <point x="589" y="240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.type-invaders.name.final</key>
+      <string>uni2403</string>
+      <key>com.type-invaders.name.production</key>
+      <string>ctrlpictETX</string>
+    </dict>
+  </lib>
+</glyph>
