@@ -17,6 +17,2904 @@
   },
   "results": [
     {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Thin.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraLight.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Light.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Regular.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Medium.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-SemiBold.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Bold.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-ExtraBold.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.ttf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-Black.otf",
+      "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
       "file": "AsbirMono-Review-Thin.ttf",
       "weight": null,
       "language": "English",
@@ -3289,6 +6187,650 @@
     {
       "file": "AsbirMono-Review-Black.otf",
       "weight": null,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 100,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 400,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 700,
+      "feature": "ordn",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "English",
+      "glyphs": 44,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "French",
+      "glyphs": 27,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "German",
+      "glyphs": 29,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Polish",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Czech",
+      "glyphs": 39,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Turkish",
+      "glyphs": 30,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Romanian",
+      "glyphs": 16,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Hungarian",
+      "glyphs": 23,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Icelandic",
+      "glyphs": 18,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Vietnamese",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Greek",
+      "glyphs": 40,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Cyrillic",
+      "glyphs": 57,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Typography",
+      "glyphs": 26,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "language": "Symbols",
+      "glyphs": 21,
+      "missing": []
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "zero",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "tnum",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "kern",
+      "pair": "AV",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "kern-greek",
+      "pair": "\u03a4\u03bf",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "kern-cyrillic",
+      "pair": "\u0422\u043e",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "numr",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "dnom",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "sups",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
+      "feature": "subs",
+      "passes": true
+    },
+    {
+      "file": "AsbirSans-Review-VF.ttf",
+      "weight": 900,
       "feature": "ordn",
       "passes": true
     },

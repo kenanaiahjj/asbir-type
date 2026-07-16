@@ -1,11 +1,11 @@
 {
   "mode": "review",
   "families": {
-    "mono": [
+    "sans": [
       {
-        "file": "AsbirMono-Review-Thin.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Thin.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -38,8 +38,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -50,14 +52,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Thin.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Thin.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -87,8 +89,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -99,14 +103,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-ExtraLight.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-ExtraLight.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -139,8 +143,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -151,14 +157,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-ExtraLight.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-ExtraLight.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -188,8 +194,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -200,14 +208,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Light.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Light.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -240,8 +248,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -252,14 +262,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Light.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Light.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -289,8 +299,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -301,14 +313,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Regular.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Regular.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -341,8 +353,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -353,14 +367,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Regular.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Regular.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -390,8 +404,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -402,14 +418,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Medium.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Medium.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -442,8 +458,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -454,14 +472,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Medium.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Medium.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -491,8 +509,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -503,14 +523,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-SemiBold.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-SemiBold.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -543,8 +563,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -555,14 +577,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-SemiBold.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-SemiBold.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -592,8 +614,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -604,14 +628,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Bold.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Bold.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -644,8 +668,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -656,14 +682,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Bold.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Bold.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -693,8 +719,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -705,14 +733,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-ExtraBold.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-ExtraBold.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -745,8 +773,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -757,14 +787,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-ExtraBold.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-ExtraBold.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -794,8 +824,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -806,14 +838,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Black.ttf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Black.ttf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -846,8 +878,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -858,14 +892,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-Black.otf",
-        "glyphs": 1162,
-        "cmap": 892,
+        "file": "AsbirSans-Review-Black.otf",
+        "glyphs": 2987,
+        "cmap": 2852,
         "tables": [
           "CFF ",
           "GDEF",
@@ -895,8 +929,10 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
-          "monospaced_advances": true
+          "static_weight_matches_name": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -907,14 +943,14 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       },
       {
-        "file": "AsbirMono-Review-VF.ttf",
-        "glyphs": 1171,
-        "cmap": 897,
+        "file": "AsbirSans-Review-VF.ttf",
+        "glyphs": 3017,
+        "cmap": 2852,
         "tables": [
           "GDEF",
           "GPOS",
@@ -935,7 +971,6 @@
           "hmtx",
           "loca",
           "maxp",
-          "meta",
           "name",
           "post",
           "prep"
@@ -954,11 +989,13 @@
           "mapped_outlines_present": true,
           "mapped_advances_positive": true,
           "mapped_outlines_fit_win_metrics": true,
+          "kerning_feature_present": true,
+          "numeral_features_present": true,
           "vertical_figure_sources_present": true,
           "weight_axis_100_900": true,
           "named_weight_instances": true,
-          "interpolated_outlines_safe_100_900": true,
-          "monospaced_advances": true
+          "optical_size_axis_14_32": true,
+          "interpolated_outlines_safe_100_900": true
         },
         "production_gates": {
           "full_basic_latin": true,
@@ -969,7 +1006,7 @@
           "modern_cyrillic_letters": true,
           "vietnamese_letters": true,
           "spacing_or_kerning": true,
-          "not_review_named": false,
+          "not_review_named": true,
           "human_production_signoff": true
         }
       }
