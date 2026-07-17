@@ -162,7 +162,7 @@ function render() {
   app.className = `app-${state.family}`;
   app.innerHTML = `
     <header class="site-header">
-      <a class="wordmark" href="#top" aria-label="Asbir Tech type studio"><img class="brand-logo" src="https://asbir.tech/assets/asbirtechlogo-BptLBLy6.png" alt="Asbir Tech"><span class="brand-context">/ Type</span></a>
+      <a class="wordmark" href="#top" aria-label="Asbir Tech type studio"><img class="brand-logo" src="https://asbir.tech/assets/asbirtechlogo-BptLBLy6.png" alt="Asbir Tech"></a>
       <div class="header-family">
         <strong>${family.name}</strong>
         <span>Typeface specimen / ${isSans || isMono ? '1.1.0' : 'review'}</span>
