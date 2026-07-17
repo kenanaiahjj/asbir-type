@@ -34,8 +34,8 @@ normal and italic WOFF2 faces plus CSS loading files.
 
 Production archives:
 
-- `public/downloads/AsbirSans-1.0.0.zip`
-- `public/downloads/AsbirMono-1.0.0.zip`
+- `public/downloads/AsbirSans-1.1.0.zip`
+- `public/downloads/AsbirMono-1.1.0.zip`
 
 The Mono archive also includes the separately named Nerd Font / Powerline
 terminal companion in `Terminal/`.

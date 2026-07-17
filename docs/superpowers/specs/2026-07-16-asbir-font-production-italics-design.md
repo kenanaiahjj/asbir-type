@@ -12,7 +12,7 @@ The editable italic UFOs live in `sources/asbir-sans-italic/` and `sources/asbir
 
 ## Production packaging
 
-Asbir Mono becomes `AsbirMono-1.0.0` with `OTF`, `TTF`, `Variable`, `Italic`, and `Terminal` folders. The package includes the production Mono files, both variable italic files, the terminal companion, notices, QA notes, and a Mono-specific human signoff. Existing review artifacts remain available for proofing until the production package is verified.
+Asbir Mono becomes `AsbirMono-1.1.0` with `OTF`, `TTF`, `Variable`, `Italic`, and `Terminal` folders. The package includes the production Mono files, both variable italic files, the terminal companion, notices, QA notes, and a Mono-specific human signoff. Existing review artifacts remain available for proofing until the production package is verified.
 
 ## Web distribution
 

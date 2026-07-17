@@ -148,8 +148,8 @@ Expected: PASS.
 - Modify: `src/main.js`
 - Modify: `src/styles.css` only if italic release cards need layout support
 - Modify: `README.md`
-- Modify: `release/AsbirSans-1.0.0/`
-- Modify: `release/AsbirMono-1.0.0/`
+- Modify: `release/AsbirSans-1.1.0/`
+- Modify: `release/AsbirMono-1.1.0/`
 - Modify: `public/downloads/`
 
 - [ ] **Step 1: Update release copy and download links**

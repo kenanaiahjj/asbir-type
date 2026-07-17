@@ -118,15 +118,15 @@ function render() {
   const isSans = state.family === 'sans';
   const hasItalic = isSans || isMono;
   const heroDownload = isSans
-    ? '<a class="hero-download" href="/downloads/AsbirSans-1.0.0.zip" download>Download Asbir Sans 1.0.0 ZIP <b>↓</b></a>'
-    : '<a class="hero-download" href="/downloads/AsbirMono-1.0.0.zip" download>Download Asbir Mono 1.0.0 ZIP <b>↓</b></a>';
+    ? '<a class="hero-download" href="/downloads/AsbirSans-1.1.0.zip" download>Download Asbir Sans 1.1.0 ZIP <b>↓</b></a>'
+    : '<a class="hero-download" href="/downloads/AsbirMono-1.1.0.zip" download>Download Asbir Mono 1.1.0 ZIP <b>↓</b></a>';
   app.className = `app-${state.family}`;
   app.innerHTML = `
     <header class="site-header">
       <a class="wordmark" href="#top" aria-label="Asbir Tech type studio"><img class="brand-logo" src="https://asbir.tech/assets/asbirtechlogo-BptLBLy6.png" alt="Asbir Tech"><span class="brand-context">/ Type</span></a>
       <div class="header-family">
         <strong>${family.name}</strong>
-        <span>Typeface specimen / ${isSans || isMono ? '1.0.0' : 'review'}</span>
+        <span>Typeface specimen / ${isSans || isMono ? '1.1.0' : 'review'}</span>
       </div>
       <div class="header-actions"><button class="text-button" id="guide-toggle" aria-pressed="${state.guides}">${state.guides ? 'Hide guides' : 'Show guides'} <span class="button-key">G</span></button></div>
     </header>
@@ -197,20 +197,20 @@ function renderFamilyContent(family) {
     label: 'Asbir Mono',
     lede: 'A stable code grid with enough character to belong to Asbir.',
     paragraphs: ['The Geist Mono foundation supplies a dependable variable structure and a complete nine-weight range. Asbir keeps the coding system deliberately distinct from Sans: a two-storey a and a slashed zero.', 'The result stays quiet in a terminal and structured in a table. I, l, and 1 are purposefully distinct; punctuation has enough presence to scan quickly; every encoded visible character keeps the same 600-unit advance.', 'Asbir Mono is now approved for production, with Roman and true italic families, clean release binaries, and a separately packaged terminal companion.'],
-    foot: ['600-unit advance / slashed zero', 'Code + data + technical UI', 'Asbir Mono / 1.0.0'],
+    foot: ['600-unit advance / slashed zero', 'Code + data + technical UI', 'Asbir Mono / 1.1.0'],
   } : {
     heading: 'Built for products. Drawn for presence.', intro: 'Asbir Sans brings the clarity of a product UI into the wider Asbir Tech identity, without flattening the character out of it.', label: 'Asbir Sans', lede: 'One type system for the interface and the identity around it.',
     paragraphs: ['Asbir Sans began with a straightforward need: a clearer, more expressive voice for Asbir products. Instead of separating the functional from the recognizable, the family was developed as one system, quietly precise in the UI and more present in brand moments.', 'Its high x-height and open apertures give dense interface text room to breathe. Measured spacing keeps the texture steady across navigation, tables, and product copy; at display scale, the proportions open into something bolder and more editorial.', 'The result is a family that can carry a button label and a launch headline with the same underlying logic: clear enough to use every day, distinctive enough to belong to Asbir Tech.'],
-    foot: ['High lowercase / open apertures', 'Product UI + brand identity', 'Asbir Sans / 1.0.0'],
+    foot: ['High lowercase / open apertures', 'Product UI + brand identity', 'Asbir Sans / 1.1.0'],
   };
   const release = isMono ? {
-    heading: 'Asbir Mono 1.0.0 is ready to ship.', description: 'The approved Asbir Mono release: Roman and true italic families, default coding ligatures, technical Unicode arrows, clean production binaries, and a separately named Nerd Font / Powerline terminal TTF.',
-    action: '<a class="release-download" href="/downloads/AsbirMono-1.0.0.zip" download>Download all Asbir Mono files <b>↓</b></a>',
-    status: '1.0.0 · approved', axes: 'wght 100—900', coverage: 'Latin / Cyrillic<br>Vietnamese / symbols', license: 'Asbir Mono is an OFL-compliant derivative of Geist Mono. It may be used, studied, modified, embedded, and redistributed under the terms of the license.',
+    heading: 'Asbir Mono 1.1.0 is ready to ship.', description: 'The approved Asbir Mono release: Roman and true italic families, default coding ligatures, technical Unicode arrows, clean production binaries, and a separately named Nerd Font / Powerline terminal TTF.',
+    action: '<a class="release-download" href="/downloads/AsbirMono-1.1.0.zip" download>Download all Asbir Mono files <b>↓</b></a>',
+    status: '1.1.0 · approved', axes: 'wght 100—900', coverage: 'Latin / Cyrillic<br>Vietnamese / symbols', license: 'Asbir Mono is an OFL-compliant derivative of Geist Mono. It may be used, studied, modified, embedded, and redistributed under the terms of the license.',
   } : {
-    heading: 'Asbir Sans 1.0.0 is ready to ship.', description: 'The approved Asbir Sans release for product, brand, and engineering. Download the complete family or choose a format below.',
-    action: '<a class="release-download" href="/downloads/AsbirSans-1.0.0.zip" download>Download all Asbir Sans files <b>↓</b></a>',
-    status: '1.0.0', axes: 'wght 100—900<br>opsz 14—32', coverage: 'Latin / Greek<br>Cyrillic / Vietnamese', license: 'Asbir Sans is an OFL-compliant derivative of Inter. It may be used, studied, modified, embedded, and redistributed under the terms of the license.',
+    heading: 'Asbir Sans 1.1.0 is ready to ship.', description: 'The approved Asbir Sans release for product, brand, and engineering. Download the complete family or choose a format below.',
+    action: '<a class="release-download" href="/downloads/AsbirSans-1.1.0.zip" download>Download all Asbir Sans files <b>↓</b></a>',
+    status: '1.1.0', axes: 'wght 100—900<br>opsz 14—32', coverage: 'Latin / Greek<br>Cyrillic / Vietnamese', license: 'Asbir Sans is an OFL-compliant derivative of Inter. It may be used, studied, modified, embedded, and redistributed under the terms of the license.',
   };
   return `
     <section class="family-section style-showcase" aria-labelledby="styles-heading">

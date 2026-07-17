@@ -8,6 +8,11 @@ from fontTools.ttLib import TTFont
 from fontTools.pens.boundsPen import BoundsPen
 from fontTools.varLib.instancer import instantiateVariableFont
 
+try:
+    from release_version import FONT_VERSION, RELEASE_VERSION
+except ModuleNotFoundError:
+    from tools.release_version import FONT_VERSION, RELEASE_VERSION
+
 ROOT = Path(__file__).resolve().parents[1]
 FAMILIES = {
     'sans': {'prefix': 'AsbirSans', 'xheight': 1118, 'capheight': 1490, 'win_ascent': 2310, 'win_descent': 710},
@@ -56,7 +61,7 @@ def production_signoff_present(family='sans'):
 def font_paths(spec, mode='review'):
     prefix = spec['prefix']
     if mode == 'production':
-        release = ROOT / 'release' / f'{prefix}-1.0.0'
+        release = ROOT / 'release' / f'{prefix}-{RELEASE_VERSION}'
         paths = [release / 'TTF' / f'{prefix}-{style}.ttf' for style in STATIC_INSTANCES]
         paths += [release / 'OTF' / f'{prefix}-{style}.otf' for style in STATIC_INSTANCES]
         paths += [release / 'Variable' / f'{prefix}-Variable.ttf']
@@ -140,7 +145,7 @@ def check_font(path, spec):
         'win_metrics_cover_outlines': os2.usWinAscent >= spec['win_ascent'] and os2.usWinDescent >= spec['win_descent'],
         'latin_codepage_declared': bool(os2.ulCodePageRange1 & 1),
         'windows_names_only': all(record.platformID != 1 for record in font['name'].names),
-        'version_matches_head': names.get(5) == 'Version 1.000',
+        'version_matches_head': names.get(5) == f'Version {FONT_VERSION}',
         # Asbir Mono ships a slashed zero by default, with Geist's ``ss09``
         # exposing the non-slashed fallback. The other families expose the
         # conventional ``zero`` alternate feature.

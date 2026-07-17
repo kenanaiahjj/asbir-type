@@ -31,8 +31,8 @@ class PackageAsbirSansReleaseTests(unittest.TestCase):
 
             packager = load_packager()
             packager.SOURCE = source
-            packager.TARGET = root / 'release' / 'AsbirSans-1.0.0'
-            packager.ARCHIVE = source / 'AsbirSans-1.0.0.zip'
+            packager.TARGET = root / 'release' / 'AsbirSans-1.1.0'
+            packager.ARCHIVE = source / 'AsbirSans-1.1.0.zip'
             packager.NOTICES = notices
             packager.main()
 
@@ -45,10 +45,10 @@ class PackageAsbirSansReleaseTests(unittest.TestCase):
 
             with ZipFile(packager.ARCHIVE) as archive:
                 paths = archive.namelist()
-            self.assertIn('AsbirSans-1.0.0/OTF/AsbirSans-Regular.otf', paths)
-            self.assertIn('AsbirSans-1.0.0/TTF/AsbirSans-Regular.ttf', paths)
-            self.assertIn('AsbirSans-1.0.0/Variable/AsbirSans-Variable.ttf', paths)
-            self.assertIn('AsbirSans-1.0.0/README.md', paths)
+            self.assertIn('AsbirSans-1.1.0/OTF/AsbirSans-Regular.otf', paths)
+            self.assertIn('AsbirSans-1.1.0/TTF/AsbirSans-Regular.ttf', paths)
+            self.assertIn('AsbirSans-1.1.0/Variable/AsbirSans-Variable.ttf', paths)
+            self.assertIn('AsbirSans-1.1.0/README.md', paths)
 
 
 if __name__ == '__main__':

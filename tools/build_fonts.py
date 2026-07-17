@@ -11,11 +11,15 @@ from fontTools.otlLib.builder import buildStatTable
 from fontTools.ttLib import TTFont, newTable
 from fontTools.ttLib.tables.ttProgram import Program
 
+try:
+    from release_version import FONT_VERSION
+except ModuleNotFoundError:
+    from tools.release_version import FONT_VERSION
+
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'public' / 'downloads'
 FONTMAKE = Path.home() / 'Library/Python/3.9/bin/fontmake'
 FONT_TIMESTAMP = timestampSinceEpoch(time.time())
-FONT_VERSION = '1.000'
 FAMILIES = {
     # The Sans source is authored at Inter's native 2048 UPM and retains its
     # Text/Display optical-size masters. Do not downscale or clip it using the

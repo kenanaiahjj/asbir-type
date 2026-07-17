@@ -16,6 +16,11 @@ from fontTools.pens.ttGlyphPen import TTGlyphPen
 from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._c_m_a_p import CmapSubtable
 
+try:
+    from release_version import FONT_VERSION
+except ModuleNotFoundError:
+    from tools.release_version import FONT_VERSION
+
 ROOT = Path(__file__).resolve().parents[1]
 CORE = ROOT / 'public' / 'downloads' / 'AsbirMono-Review-Regular.ttf'
 SYMBOLS = ROOT / 'third_party' / 'nerd-fonts-symbols' / 'SymbolsNerdFontMono-Regular.ttf'
@@ -42,8 +47,8 @@ def set_terminal_names(font):
     full_name = f'{family} Regular'
     postscript = 'AsbirMonoNerdFont-Review'
     for name_id, value in (
-        (1, family), (2, 'Regular'), (3, f'{postscript};Version 1.000'),
-        (4, full_name), (5, 'Version 1.000'), (6, postscript),
+        (1, family), (2, 'Regular'), (3, f'{postscript};Version {FONT_VERSION}'),
+        (4, full_name), (5, f'Version {FONT_VERSION}'), (6, postscript),
         (16, family), (17, 'Regular'), (18, full_name), (25, 'AsbirMonoNerdFont'),
     ):
         set_name(font, name_id, value)

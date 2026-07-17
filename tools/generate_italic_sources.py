@@ -20,6 +20,11 @@ from fontTools.pens.recordingPen import RecordingPen
 from fontTools.pens.transformPen import TransformPen
 from ufoLib2 import Font
 
+try:
+    from release_version import FONT_VERSION
+except ModuleNotFoundError:
+    from tools.release_version import FONT_VERSION
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INTER_ITALIC = Path('/Users/kenanaiahjolmfc/Downloads/inter-master/src/Inter-Italic.glyphspackage')
@@ -136,7 +141,7 @@ def prepare_master(base_path: Path, raw_path: Path, output_path: Path, spec: dic
     base.info.openTypeNamePreferredFamilyName = spec['family_name']
     base.info.openTypeNamePreferredSubfamilyName = source_style
     base.info.openTypeNameCompatibleFullName = f"{spec['family_name']} {source_style}"
-    base.info.openTypeNameVersion = 'Version 1.000; Asbir italic source'
+    base.info.openTypeNameVersion = f'Version {FONT_VERSION}; Asbir italic source'
     base.lib['com.asbir.italicSource'] = 'OFL upstream italic masters with Asbir identity and feature constructions'
     base.save(output_path, overwrite=True)
 
