@@ -262,6 +262,172 @@ select:focus-visible,
 
 .dark-button span { margin-left: 7px; font-size: 14px; line-height: 0; }
 
+.whats-new-dock {
+  position: fixed;
+  right: clamp(16px, 3vw, 44px);
+  bottom: clamp(16px, 3vw, 36px);
+  z-index: 90;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  gap: 9px;
+  width: min(390px, calc(100vw - 32px));
+  pointer-events: none;
+}
+
+.whats-new-dock > * { pointer-events: auto; }
+
+.whats-new-trigger {
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 13px;
+  border: 1px solid var(--control-line);
+  border-radius: 6px;
+  color: var(--ink);
+  background: var(--paper);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  transition: color .18s ease, background-color .18s ease, border-color .18s ease;
+}
+
+.whats-new-trigger:hover {
+  color: var(--paper);
+  border-color: var(--paper);
+  background: var(--surface-2);
+}
+
+.whats-new-trigger b {
+  padding-left: 12px;
+  border-left: 1px solid currentColor;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: .04em;
+}
+
+.whats-new-panel {
+  width: 100%;
+  padding: 17px;
+  border: 1px solid var(--control-line);
+  border-radius: 8px;
+  color: var(--paper);
+  background: rgba(14, 14, 14, .98);
+  transition: opacity .2s ease, transform .2s ease;
+}
+
+.whats-new-panel[hidden] { display: none; }
+
+.whats-new-head,
+.whats-new-update-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.whats-new-head {
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+  color: var(--muted);
+  font: 10px 'Asbir Sans Review', sans-serif;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.whats-new-close {
+  width: 26px;
+  height: 26px;
+  display: inline-grid;
+  place-items: center;
+  margin: -4px -5px -4px 0;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: var(--muted);
+  background: transparent;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1;
+}
+
+.whats-new-close:hover {
+  color: var(--paper);
+  border-color: var(--line);
+  background: var(--surface-2);
+}
+
+.whats-new-intro { padding: 17px 0 14px; }
+
+.whats-new-intro h2 {
+  margin: 0;
+  color: var(--paper);
+  font-size: 29px;
+  font-weight: 550;
+  letter-spacing: -.045em;
+  line-height: 1;
+}
+
+.whats-new-intro h2 em {
+  color: var(--muted);
+  font-size: .56em;
+  font-style: normal;
+  font-weight: 450;
+  letter-spacing: -.01em;
+  vertical-align: .16em;
+}
+
+.whats-new-intro p {
+  max-width: 31ch;
+  margin: 11px 0 0;
+  color: var(--ink-soft);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.whats-new-updates { border-top: 1px solid var(--line); }
+
+.whats-new-update {
+  padding: 14px 0 13px;
+}
+
+.whats-new-update + .whats-new-update { border-top: 1px solid var(--line); }
+
+.whats-new-update-head strong {
+  color: var(--paper);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: -.02em;
+}
+
+.whats-new-update-head span {
+  color: var(--muted);
+  font: 10px 'Asbir Sans Review', sans-serif;
+  letter-spacing: .04em;
+}
+
+.whats-new-update p {
+  margin: 8px 0 12px;
+  color: var(--ink-soft);
+  font-size: 11px;
+  line-height: 1.45;
+}
+
+.whats-new-update p b { color: var(--paper); font-weight: 600; }
+
+.whats-new-update a {
+  color: var(--paper);
+  font: 11px 'Asbir Sans Review', sans-serif;
+  text-decoration: none;
+}
+
+.whats-new-update a:hover { color: var(--accent-strong); }
+.whats-new-update a b { margin-left: 6px; font-size: 14px; font-weight: 400; }
+
+@media (prefers-reduced-motion: reduce) {
+  .whats-new-trigger,
+  .whats-new-panel { transition: none; }
+}
+
 main {
   width: min(100%, 1600px);
   margin: 0 auto;
@@ -1776,6 +1942,16 @@ main {
 }
 
 @media (max-width: 600px) {
+  .whats-new-dock {
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 0 12px max(12px, env(safe-area-inset-bottom));
+    align-items: stretch;
+  }
+  .whats-new-trigger { width: 100%; justify-content: space-between; }
+  .whats-new-panel { padding: 15px; }
   .family-section { padding: 64px 16px; }
   .section-heading { margin-bottom: 38px; }
   .section-heading h2 { font-size: 48px; }

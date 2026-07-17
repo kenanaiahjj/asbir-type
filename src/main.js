@@ -104,8 +104,47 @@ const monoFeatureCards = [
 const featureCardsFor = family => family === families.mono ? monoFeatureCards : featureCards;
 
 const state = { family: 'sans', text: sets.Sentence, size: 64, weight: 400, tracking: 0, figures: 'tnum', guides: true, mode: 'Sentence', glyphSet: 'latin' };
+const WHATS_NEW_VERSION = '1.1.0';
+const WHATS_NEW_STORAGE_KEY = 'asbir-whats-new-1.1.0-dismissed';
+const whatsNewState = {
+  open: (() => {
+    try { return localStorage.getItem(WHATS_NEW_STORAGE_KEY) !== '1'; }
+    catch { return true; }
+  })(),
+};
 let monoCountdownTimer = null;
 const active = () => families[state.family];
+
+function renderWhatsNew() {
+  const open = whatsNewState.open;
+  return `<div class="whats-new-dock ${open ? 'is-open' : ''}" data-whats-new>
+    <button class="whats-new-trigger" id="whats-new-trigger" type="button" aria-expanded="${open}" aria-controls="whats-new-panel">
+      <span>What’s new</span><b>1.1.0</b>
+    </button>
+    <aside class="whats-new-panel" id="whats-new-panel" aria-label="What’s new · 1.1.0" aria-labelledby="whats-new-title" ${open ? '' : 'hidden'}>
+      <div class="whats-new-head">
+        <span>Release notes / 01</span>
+        <button class="whats-new-close" id="whats-new-close" type="button" aria-label="Close What’s New">×</button>
+      </div>
+      <div class="whats-new-intro">
+        <h2 id="whats-new-title">What’s new <em>1.1.0</em></h2>
+        <p>Two Asbir families are ready for real product and web delivery.</p>
+      </div>
+      <div class="whats-new-updates">
+        <article class="whats-new-update">
+          <div class="whats-new-update-head"><strong>Asbir Sans</strong><span>01</span></div>
+          <p>True italic family, Roman + italic variable fonts, and WOFF2 + CSS kit.</p>
+          <a href="/downloads/AsbirSans-1.1.0.zip" download>Download Sans 1.1.0 <b>↓</b></a>
+        </article>
+        <article class="whats-new-update">
+          <div class="whats-new-update-head"><strong>Asbir Mono</strong><span>02</span></div>
+          <p><b>Approved production family.</b> True italic family, Fixed-cell terminal companion, and WOFF2 + CSS kit.</p>
+          <a href="/downloads/AsbirMono-1.1.0.zip" download>Download Mono 1.1.0 <b>↓</b></a>
+        </article>
+      </div>
+    </aside>
+  </div>`;
+}
 
 function render() {
   if (monoCountdownTimer) {
@@ -146,6 +185,7 @@ function render() {
       <section class="notes"><div><span class="note-number">01</span><p><b>Family connection</b><br>Asbir Sans, Serif, and Mono share a high lowercase footprint, measured spacing, and a quiet, firm baseline.</p></div><div><span class="note-number">02</span><p><b>${family.name} focus</b><br>${family === families.serif ? 'Contrast and serif tension without losing the practical Asbir rhythm.' : family === families.mono ? 'Character differentiation, stable texture, and compact code density.' : 'Open counters, clear ambiguity control, and calm UI texture.'}</p></div><div class="proof-status"><span class="status-dot"></span><p><b>Proof mode is live</b><br>Click into any specimen and type your own text.</p></div></section>
       ${renderFamilyContent(family)}
     </main>
+    ${renderWhatsNew()}
     <div class="toast" role="status" aria-live="polite"></div>`;
   bind();
   if (isMono) {
@@ -163,6 +203,7 @@ function proof(css, name, type, detail) {
 function renderFamilyContent(family) {
   const familyClass = state.family;
   const isMono = familyClass === 'mono';
+  const hasItalic = state.family === 'sans' || state.family === 'mono';
   const mappedTotal = (glyphCodepoints[state.family]?.length || 0).toLocaleString();
   const glyphDescription = state.family === 'sans'
     ? `2,987 glyph repertoire / ${mappedTotal} mapped characters across Latin, Greek, Cyrillic, Vietnamese, figures, symbols, and OpenType construction parts.`
@@ -290,6 +331,12 @@ function escapeHtml(value) {
   return value.replace(/[&<>'"]/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[character]));
 }
 
+function closeWhatsNew() {
+  try { localStorage.setItem(WHATS_NEW_STORAGE_KEY, '1'); } catch {}
+  whatsNewState.open = false;
+  render();
+}
+
 function bind() {
   ['size', 'weight', 'tracking'].forEach(key => document.querySelector(`#${key}`).addEventListener('input', event => { state[key] = Number(event.target.value); render(); }));
   document.querySelector('#figures').addEventListener('change', event => { state.figures = event.target.value; render(); });
@@ -297,8 +344,10 @@ function bind() {
   document.querySelectorAll('[data-family]:not(:disabled)').forEach(button => button.addEventListener('click', () => { state.family = button.dataset.family; if (state.family === 'mono' && state.glyphSet === 'greek') state.glyphSet = 'latin'; if (state.family === 'mono' && state.figures !== 'tnum') state.figures = 'tnum'; render(); }));
   document.querySelectorAll('[data-glyph-set]').forEach(button => button.addEventListener('click', () => { state.glyphSet = button.dataset.glyphSet; render(); }));
   document.querySelector('#guide-toggle').addEventListener('click', () => { state.guides = !state.guides; render(); });
+  document.querySelector('#whats-new-trigger').addEventListener('click', () => { if (whatsNewState.open) closeWhatsNew(); else { whatsNewState.open = true; render(); } });
+  document.querySelector('#whats-new-close').addEventListener('click', closeWhatsNew);
   document.querySelectorAll('.proof-copy, .hero-copy').forEach(proof => proof.addEventListener('input', event => { state.text = event.currentTarget.textContent.replace(/\n/g, ' '); document.querySelectorAll('.proof-copy, .hero-copy').forEach(other => { if (other !== event.currentTarget) other.textContent = state.text; }); }));
-  document.onkeydown = event => { const target = document.activeElement; const isTyping = target?.isContentEditable || ['INPUT', 'SELECT', 'TEXTAREA'].includes(target?.tagName); if (event.key.toLowerCase() === 'g' && !isTyping) { state.guides = !state.guides; render(); } };
+  document.onkeydown = event => { const target = document.activeElement; const isTyping = target?.isContentEditable || ['INPUT', 'SELECT', 'TEXTAREA'].includes(target?.tagName); if (event.key === 'Escape' && whatsNewState.open) { closeWhatsNew(); return; } if (event.key.toLowerCase() === 'g' && !isTyping) { state.guides = !state.guides; render(); } };
 }
 
 function bindMonoCountdown() {

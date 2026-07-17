@@ -27,6 +27,9 @@ class WhatsNewPanelTests(unittest.TestCase):
         self.assertIn("event.key === 'Escape'", self.source)
         self.assertIn('localStorage.setItem', self.source)
 
+    def test_family_release_has_explicit_italic_guard(self):
+        self.assertIn("const hasItalic = state.family === 'sans' || state.family === 'mono';", self.source)
+
 
 if __name__ == '__main__':
     unittest.main()
