@@ -1,0 +1,4972 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "packs": [
+    {
+      "id": "soft",
+      "name": "Soft",
+      "version": "1.0.0",
+      "description": "A soft-rounded UI icon pack for web and product interfaces.",
+      "iconCount": 180
+    }
+  ],
+  "icons": [
+    {
+      "pack": "soft",
+      "slug": "add",
+      "name": "Add",
+      "category": "Actions",
+      "aliases": [
+        "create",
+        "new",
+        "plus"
+      ],
+      "keywords": [
+        "actions",
+        "add",
+        "create",
+        "new",
+        "plus"
+      ],
+      "outlineAsset": "/icons/soft/add/outline.svg",
+      "filledAsset": "/icons/soft/add/filled.svg",
+      "related": [
+        "remove",
+        "edit",
+        "delete"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "remove",
+      "name": "Remove",
+      "category": "Actions",
+      "aliases": [
+        "subtract",
+        "minus"
+      ],
+      "keywords": [
+        "actions",
+        "minus",
+        "remove",
+        "subtract"
+      ],
+      "outlineAsset": "/icons/soft/remove/outline.svg",
+      "filledAsset": "/icons/soft/remove/filled.svg",
+      "related": [
+        "edit",
+        "delete",
+        "save"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "edit",
+      "name": "Edit",
+      "category": "Actions",
+      "aliases": [
+        "write",
+        "pencil"
+      ],
+      "keywords": [
+        "actions",
+        "edit",
+        "pencil",
+        "write"
+      ],
+      "outlineAsset": "/icons/soft/edit/outline.svg",
+      "filledAsset": "/icons/soft/edit/filled.svg",
+      "related": [
+        "delete",
+        "save",
+        "refresh"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "delete",
+      "name": "Delete",
+      "category": "Actions",
+      "aliases": [
+        "trash",
+        "discard"
+      ],
+      "keywords": [
+        "actions",
+        "delete",
+        "discard",
+        "trash"
+      ],
+      "outlineAsset": "/icons/soft/delete/outline.svg",
+      "filledAsset": "/icons/soft/delete/filled.svg",
+      "related": [
+        "save",
+        "refresh",
+        "undo"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "save",
+      "name": "Save",
+      "category": "Actions",
+      "aliases": [],
+      "keywords": [
+        "actions",
+        "save"
+      ],
+      "outlineAsset": "/icons/soft/save/outline.svg",
+      "filledAsset": "/icons/soft/save/filled.svg",
+      "related": [
+        "refresh",
+        "undo",
+        "redo"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "refresh",
+      "name": "Refresh",
+      "category": "Actions",
+      "aliases": [
+        "reload",
+        "sync"
+      ],
+      "keywords": [
+        "actions",
+        "refresh",
+        "reload",
+        "sync"
+      ],
+      "outlineAsset": "/icons/soft/refresh/outline.svg",
+      "filledAsset": "/icons/soft/refresh/filled.svg",
+      "related": [
+        "undo",
+        "redo",
+        "copy"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "undo",
+      "name": "Undo",
+      "category": "Actions",
+      "aliases": [],
+      "keywords": [
+        "actions",
+        "undo"
+      ],
+      "outlineAsset": "/icons/soft/undo/outline.svg",
+      "filledAsset": "/icons/soft/undo/filled.svg",
+      "related": [
+        "redo",
+        "copy",
+        "paste"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "redo",
+      "name": "Redo",
+      "category": "Actions",
+      "aliases": [],
+      "keywords": [
+        "actions",
+        "redo"
+      ],
+      "outlineAsset": "/icons/soft/redo/outline.svg",
+      "filledAsset": "/icons/soft/redo/filled.svg",
+      "related": [
+        "copy",
+        "paste",
+        "move"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "copy",
+      "name": "Copy",
+      "category": "Actions",
+      "aliases": [
+        "duplicate"
+      ],
+      "keywords": [
+        "actions",
+        "copy",
+        "duplicate"
+      ],
+      "outlineAsset": "/icons/soft/copy/outline.svg",
+      "filledAsset": "/icons/soft/copy/filled.svg",
+      "related": [
+        "paste",
+        "move",
+        "more"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "paste",
+      "name": "Paste",
+      "category": "Actions",
+      "aliases": [],
+      "keywords": [
+        "actions",
+        "paste"
+      ],
+      "outlineAsset": "/icons/soft/paste/outline.svg",
+      "filledAsset": "/icons/soft/paste/filled.svg",
+      "related": [
+        "move",
+        "more",
+        "arrow-up"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "move",
+      "name": "Move",
+      "category": "Actions",
+      "aliases": [],
+      "keywords": [
+        "actions",
+        "move"
+      ],
+      "outlineAsset": "/icons/soft/move/outline.svg",
+      "filledAsset": "/icons/soft/move/filled.svg",
+      "related": [
+        "more",
+        "arrow-up",
+        "arrow-down"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "more",
+      "name": "More",
+      "category": "Actions",
+      "aliases": [],
+      "keywords": [
+        "actions",
+        "more"
+      ],
+      "outlineAsset": "/icons/soft/more/outline.svg",
+      "filledAsset": "/icons/soft/more/filled.svg",
+      "related": [
+        "arrow-up",
+        "arrow-down",
+        "arrow-left"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "arrow-up",
+      "name": "Arrow Up",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrow up",
+        "arrows"
+      ],
+      "outlineAsset": "/icons/soft/arrow-up/outline.svg",
+      "filledAsset": "/icons/soft/arrow-up/filled.svg",
+      "related": [
+        "arrow-down",
+        "arrow-left",
+        "arrow-right"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "arrow-down",
+      "name": "Arrow Down",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrow down",
+        "arrows"
+      ],
+      "outlineAsset": "/icons/soft/arrow-down/outline.svg",
+      "filledAsset": "/icons/soft/arrow-down/filled.svg",
+      "related": [
+        "arrow-left",
+        "arrow-right",
+        "chevron-up"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "arrow-left",
+      "name": "Arrow Left",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrow left",
+        "arrows"
+      ],
+      "outlineAsset": "/icons/soft/arrow-left/outline.svg",
+      "filledAsset": "/icons/soft/arrow-left/filled.svg",
+      "related": [
+        "arrow-right",
+        "chevron-up",
+        "chevron-down"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "arrow-right",
+      "name": "Arrow Right",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrow right",
+        "arrows"
+      ],
+      "outlineAsset": "/icons/soft/arrow-right/outline.svg",
+      "filledAsset": "/icons/soft/arrow-right/filled.svg",
+      "related": [
+        "chevron-up",
+        "chevron-down",
+        "chevron-left"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "chevron-up",
+      "name": "Chevron Up",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "chevron up"
+      ],
+      "outlineAsset": "/icons/soft/chevron-up/outline.svg",
+      "filledAsset": "/icons/soft/chevron-up/filled.svg",
+      "related": [
+        "chevron-down",
+        "chevron-left",
+        "chevron-right"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "chevron-down",
+      "name": "Chevron Down",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "chevron down"
+      ],
+      "outlineAsset": "/icons/soft/chevron-down/outline.svg",
+      "filledAsset": "/icons/soft/chevron-down/filled.svg",
+      "related": [
+        "chevron-left",
+        "chevron-right",
+        "external-link"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "chevron-left",
+      "name": "Chevron Left",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "chevron left"
+      ],
+      "outlineAsset": "/icons/soft/chevron-left/outline.svg",
+      "filledAsset": "/icons/soft/chevron-left/filled.svg",
+      "related": [
+        "chevron-right",
+        "external-link",
+        "expand"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "chevron-right",
+      "name": "Chevron Right",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "chevron right"
+      ],
+      "outlineAsset": "/icons/soft/chevron-right/outline.svg",
+      "filledAsset": "/icons/soft/chevron-right/filled.svg",
+      "related": [
+        "external-link",
+        "expand",
+        "collapse"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "external-link",
+      "name": "External Link",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "external link"
+      ],
+      "outlineAsset": "/icons/soft/external-link/outline.svg",
+      "filledAsset": "/icons/soft/external-link/filled.svg",
+      "related": [
+        "expand",
+        "collapse",
+        "swap"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "expand",
+      "name": "Expand",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "expand"
+      ],
+      "outlineAsset": "/icons/soft/expand/outline.svg",
+      "filledAsset": "/icons/soft/expand/filled.svg",
+      "related": [
+        "collapse",
+        "swap",
+        "mail"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "collapse",
+      "name": "Collapse",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "collapse"
+      ],
+      "outlineAsset": "/icons/soft/collapse/outline.svg",
+      "filledAsset": "/icons/soft/collapse/filled.svg",
+      "related": [
+        "swap",
+        "mail",
+        "send"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "swap",
+      "name": "Swap",
+      "category": "Arrows",
+      "aliases": [],
+      "keywords": [
+        "arrows",
+        "swap"
+      ],
+      "outlineAsset": "/icons/soft/swap/outline.svg",
+      "filledAsset": "/icons/soft/swap/filled.svg",
+      "related": [
+        "mail",
+        "send",
+        "message"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "mail",
+      "name": "Mail",
+      "category": "Communication",
+      "aliases": [
+        "email",
+        "envelope"
+      ],
+      "keywords": [
+        "communication",
+        "email",
+        "envelope",
+        "mail"
+      ],
+      "outlineAsset": "/icons/soft/mail/outline.svg",
+      "filledAsset": "/icons/soft/mail/filled.svg",
+      "related": [
+        "send",
+        "message",
+        "chat"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "send",
+      "name": "Send",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "send"
+      ],
+      "outlineAsset": "/icons/soft/send/outline.svg",
+      "filledAsset": "/icons/soft/send/filled.svg",
+      "related": [
+        "message",
+        "chat",
+        "phone"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "message",
+      "name": "Message",
+      "category": "Communication",
+      "aliases": [
+        "chat",
+        "conversation"
+      ],
+      "keywords": [
+        "chat",
+        "communication",
+        "conversation",
+        "message"
+      ],
+      "outlineAsset": "/icons/soft/message/outline.svg",
+      "filledAsset": "/icons/soft/message/filled.svg",
+      "related": [
+        "chat",
+        "phone",
+        "video-call"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "chat",
+      "name": "Chat",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "chat",
+        "communication"
+      ],
+      "outlineAsset": "/icons/soft/chat/outline.svg",
+      "filledAsset": "/icons/soft/chat/filled.svg",
+      "related": [
+        "phone",
+        "video-call",
+        "mic"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "phone",
+      "name": "Phone",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "phone"
+      ],
+      "outlineAsset": "/icons/soft/phone/outline.svg",
+      "filledAsset": "/icons/soft/phone/filled.svg",
+      "related": [
+        "video-call",
+        "mic",
+        "voicemail"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "video-call",
+      "name": "Video call",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "video call"
+      ],
+      "outlineAsset": "/icons/soft/video-call/outline.svg",
+      "filledAsset": "/icons/soft/video-call/filled.svg",
+      "related": [
+        "mic",
+        "voicemail",
+        "at-sign"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "mic",
+      "name": "Mic",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "mic"
+      ],
+      "outlineAsset": "/icons/soft/mic/outline.svg",
+      "filledAsset": "/icons/soft/mic/filled.svg",
+      "related": [
+        "voicemail",
+        "at-sign",
+        "mention"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "voicemail",
+      "name": "Voicemail",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "voicemail"
+      ],
+      "outlineAsset": "/icons/soft/voicemail/outline.svg",
+      "filledAsset": "/icons/soft/voicemail/filled.svg",
+      "related": [
+        "at-sign",
+        "mention",
+        "bell"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "at-sign",
+      "name": "At sign",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "at sign",
+        "communication"
+      ],
+      "outlineAsset": "/icons/soft/at-sign/outline.svg",
+      "filledAsset": "/icons/soft/at-sign/filled.svg",
+      "related": [
+        "mention",
+        "bell",
+        "inbox"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "mention",
+      "name": "Mention",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "mention"
+      ],
+      "outlineAsset": "/icons/soft/mention/outline.svg",
+      "filledAsset": "/icons/soft/mention/filled.svg",
+      "related": [
+        "bell",
+        "inbox",
+        "cart"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "bell",
+      "name": "Bell",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "bell",
+        "communication"
+      ],
+      "outlineAsset": "/icons/soft/bell/outline.svg",
+      "filledAsset": "/icons/soft/bell/filled.svg",
+      "related": [
+        "inbox",
+        "cart",
+        "bag"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "inbox",
+      "name": "Inbox",
+      "category": "Communication",
+      "aliases": [],
+      "keywords": [
+        "communication",
+        "inbox"
+      ],
+      "outlineAsset": "/icons/soft/inbox/outline.svg",
+      "filledAsset": "/icons/soft/inbox/filled.svg",
+      "related": [
+        "cart",
+        "bag",
+        "credit-card"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "cart",
+      "name": "Cart",
+      "category": "Commerce",
+      "aliases": [
+        "basket",
+        "shopping"
+      ],
+      "keywords": [
+        "basket",
+        "cart",
+        "commerce",
+        "shopping"
+      ],
+      "outlineAsset": "/icons/soft/cart/outline.svg",
+      "filledAsset": "/icons/soft/cart/filled.svg",
+      "related": [
+        "bag",
+        "credit-card",
+        "wallet"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "bag",
+      "name": "Bag",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "bag",
+        "commerce"
+      ],
+      "outlineAsset": "/icons/soft/bag/outline.svg",
+      "filledAsset": "/icons/soft/bag/filled.svg",
+      "related": [
+        "credit-card",
+        "wallet",
+        "receipt"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "credit-card",
+      "name": "Credit card",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "credit card"
+      ],
+      "outlineAsset": "/icons/soft/credit-card/outline.svg",
+      "filledAsset": "/icons/soft/credit-card/filled.svg",
+      "related": [
+        "wallet",
+        "receipt",
+        "tag"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "wallet",
+      "name": "Wallet",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "wallet"
+      ],
+      "outlineAsset": "/icons/soft/wallet/outline.svg",
+      "filledAsset": "/icons/soft/wallet/filled.svg",
+      "related": [
+        "receipt",
+        "tag",
+        "price"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "receipt",
+      "name": "Receipt",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "receipt"
+      ],
+      "outlineAsset": "/icons/soft/receipt/outline.svg",
+      "filledAsset": "/icons/soft/receipt/filled.svg",
+      "related": [
+        "tag",
+        "price",
+        "gift"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "tag",
+      "name": "Tag",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "tag"
+      ],
+      "outlineAsset": "/icons/soft/tag/outline.svg",
+      "filledAsset": "/icons/soft/tag/filled.svg",
+      "related": [
+        "price",
+        "gift",
+        "coupon"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "price",
+      "name": "Price",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "price"
+      ],
+      "outlineAsset": "/icons/soft/price/outline.svg",
+      "filledAsset": "/icons/soft/price/filled.svg",
+      "related": [
+        "gift",
+        "coupon",
+        "cash"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "gift",
+      "name": "Gift",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "gift"
+      ],
+      "outlineAsset": "/icons/soft/gift/outline.svg",
+      "filledAsset": "/icons/soft/gift/filled.svg",
+      "related": [
+        "coupon",
+        "cash",
+        "barcode"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "coupon",
+      "name": "Coupon",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "coupon"
+      ],
+      "outlineAsset": "/icons/soft/coupon/outline.svg",
+      "filledAsset": "/icons/soft/coupon/filled.svg",
+      "related": [
+        "cash",
+        "barcode",
+        "store"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "cash",
+      "name": "Cash",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "cash",
+        "commerce"
+      ],
+      "outlineAsset": "/icons/soft/cash/outline.svg",
+      "filledAsset": "/icons/soft/cash/filled.svg",
+      "related": [
+        "barcode",
+        "store",
+        "file"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "barcode",
+      "name": "Barcode",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "barcode",
+        "commerce"
+      ],
+      "outlineAsset": "/icons/soft/barcode/outline.svg",
+      "filledAsset": "/icons/soft/barcode/filled.svg",
+      "related": [
+        "store",
+        "file",
+        "file-text"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "store",
+      "name": "Store",
+      "category": "Commerce",
+      "aliases": [],
+      "keywords": [
+        "commerce",
+        "store"
+      ],
+      "outlineAsset": "/icons/soft/store/outline.svg",
+      "filledAsset": "/icons/soft/store/filled.svg",
+      "related": [
+        "file",
+        "file-text",
+        "folder"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "file",
+      "name": "File",
+      "category": "Content",
+      "aliases": [
+        "document"
+      ],
+      "keywords": [
+        "content",
+        "document",
+        "file"
+      ],
+      "outlineAsset": "/icons/soft/file/outline.svg",
+      "filledAsset": "/icons/soft/file/filled.svg",
+      "related": [
+        "file-text",
+        "folder",
+        "image"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "file-text",
+      "name": "File text",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "content",
+        "file text"
+      ],
+      "outlineAsset": "/icons/soft/file-text/outline.svg",
+      "filledAsset": "/icons/soft/file-text/filled.svg",
+      "related": [
+        "folder",
+        "image",
+        "video"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "folder",
+      "name": "Folder",
+      "category": "Content",
+      "aliases": [
+        "directory"
+      ],
+      "keywords": [
+        "content",
+        "directory",
+        "folder"
+      ],
+      "outlineAsset": "/icons/soft/folder/outline.svg",
+      "filledAsset": "/icons/soft/folder/filled.svg",
+      "related": [
+        "image",
+        "video",
+        "music"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "image",
+      "name": "Image",
+      "category": "Content",
+      "aliases": [
+        "photo",
+        "picture"
+      ],
+      "keywords": [
+        "content",
+        "image",
+        "photo",
+        "picture"
+      ],
+      "outlineAsset": "/icons/soft/image/outline.svg",
+      "filledAsset": "/icons/soft/image/filled.svg",
+      "related": [
+        "video",
+        "music",
+        "link"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "video",
+      "name": "Video",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "content",
+        "video"
+      ],
+      "outlineAsset": "/icons/soft/video/outline.svg",
+      "filledAsset": "/icons/soft/video/filled.svg",
+      "related": [
+        "music",
+        "link",
+        "paperclip"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "music",
+      "name": "Music",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "content",
+        "music"
+      ],
+      "outlineAsset": "/icons/soft/music/outline.svg",
+      "filledAsset": "/icons/soft/music/filled.svg",
+      "related": [
+        "link",
+        "paperclip",
+        "clipboard"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "link",
+      "name": "Link",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "content",
+        "link"
+      ],
+      "outlineAsset": "/icons/soft/link/outline.svg",
+      "filledAsset": "/icons/soft/link/filled.svg",
+      "related": [
+        "paperclip",
+        "clipboard",
+        "archive"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "paperclip",
+      "name": "Paperclip",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "content",
+        "paperclip"
+      ],
+      "outlineAsset": "/icons/soft/paperclip/outline.svg",
+      "filledAsset": "/icons/soft/paperclip/filled.svg",
+      "related": [
+        "clipboard",
+        "archive",
+        "book"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "clipboard",
+      "name": "Clipboard",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "content"
+      ],
+      "outlineAsset": "/icons/soft/clipboard/outline.svg",
+      "filledAsset": "/icons/soft/clipboard/filled.svg",
+      "related": [
+        "archive",
+        "book",
+        "bookmark"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "archive",
+      "name": "Archive",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "archive",
+        "content"
+      ],
+      "outlineAsset": "/icons/soft/archive/outline.svg",
+      "filledAsset": "/icons/soft/archive/filled.svg",
+      "related": [
+        "book",
+        "bookmark",
+        "laptop"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "book",
+      "name": "Book",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "book",
+        "content"
+      ],
+      "outlineAsset": "/icons/soft/book/outline.svg",
+      "filledAsset": "/icons/soft/book/filled.svg",
+      "related": [
+        "bookmark",
+        "laptop",
+        "desktop"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "bookmark",
+      "name": "Bookmark",
+      "category": "Content",
+      "aliases": [],
+      "keywords": [
+        "bookmark",
+        "content"
+      ],
+      "outlineAsset": "/icons/soft/bookmark/outline.svg",
+      "filledAsset": "/icons/soft/bookmark/filled.svg",
+      "related": [
+        "laptop",
+        "desktop",
+        "tablet"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "laptop",
+      "name": "Laptop",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "laptop"
+      ],
+      "outlineAsset": "/icons/soft/laptop/outline.svg",
+      "filledAsset": "/icons/soft/laptop/filled.svg",
+      "related": [
+        "desktop",
+        "tablet",
+        "mobile"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "desktop",
+      "name": "Desktop",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "desktop",
+        "devices"
+      ],
+      "outlineAsset": "/icons/soft/desktop/outline.svg",
+      "filledAsset": "/icons/soft/desktop/filled.svg",
+      "related": [
+        "tablet",
+        "mobile",
+        "keyboard"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "tablet",
+      "name": "Tablet",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "tablet"
+      ],
+      "outlineAsset": "/icons/soft/tablet/outline.svg",
+      "filledAsset": "/icons/soft/tablet/filled.svg",
+      "related": [
+        "mobile",
+        "keyboard",
+        "mouse"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "mobile",
+      "name": "Mobile",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "mobile"
+      ],
+      "outlineAsset": "/icons/soft/mobile/outline.svg",
+      "filledAsset": "/icons/soft/mobile/filled.svg",
+      "related": [
+        "keyboard",
+        "mouse",
+        "printer"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "keyboard",
+      "name": "Keyboard",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "keyboard"
+      ],
+      "outlineAsset": "/icons/soft/keyboard/outline.svg",
+      "filledAsset": "/icons/soft/keyboard/filled.svg",
+      "related": [
+        "mouse",
+        "printer",
+        "camera"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "mouse",
+      "name": "Mouse",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "mouse"
+      ],
+      "outlineAsset": "/icons/soft/mouse/outline.svg",
+      "filledAsset": "/icons/soft/mouse/filled.svg",
+      "related": [
+        "printer",
+        "camera",
+        "headphones"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "printer",
+      "name": "Printer",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "printer"
+      ],
+      "outlineAsset": "/icons/soft/printer/outline.svg",
+      "filledAsset": "/icons/soft/printer/filled.svg",
+      "related": [
+        "camera",
+        "headphones",
+        "speaker"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "camera",
+      "name": "Camera",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "camera",
+        "devices"
+      ],
+      "outlineAsset": "/icons/soft/camera/outline.svg",
+      "filledAsset": "/icons/soft/camera/filled.svg",
+      "related": [
+        "headphones",
+        "speaker",
+        "wifi"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "headphones",
+      "name": "Headphones",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "headphones"
+      ],
+      "outlineAsset": "/icons/soft/headphones/outline.svg",
+      "filledAsset": "/icons/soft/headphones/filled.svg",
+      "related": [
+        "speaker",
+        "wifi",
+        "battery"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "speaker",
+      "name": "Speaker",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "speaker"
+      ],
+      "outlineAsset": "/icons/soft/speaker/outline.svg",
+      "filledAsset": "/icons/soft/speaker/filled.svg",
+      "related": [
+        "wifi",
+        "battery",
+        "upload"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "wifi",
+      "name": "Wifi",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "devices",
+        "wifi"
+      ],
+      "outlineAsset": "/icons/soft/wifi/outline.svg",
+      "filledAsset": "/icons/soft/wifi/filled.svg",
+      "related": [
+        "battery",
+        "upload",
+        "download"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "battery",
+      "name": "Battery",
+      "category": "Devices",
+      "aliases": [],
+      "keywords": [
+        "battery",
+        "devices"
+      ],
+      "outlineAsset": "/icons/soft/battery/outline.svg",
+      "filledAsset": "/icons/soft/battery/filled.svg",
+      "related": [
+        "upload",
+        "download",
+        "cloud"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "upload",
+      "name": "Upload",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "files",
+        "upload"
+      ],
+      "outlineAsset": "/icons/soft/upload/outline.svg",
+      "filledAsset": "/icons/soft/upload/filled.svg",
+      "related": [
+        "download",
+        "cloud",
+        "cloud-upload"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "download",
+      "name": "Download",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "download",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/download/outline.svg",
+      "filledAsset": "/icons/soft/download/filled.svg",
+      "related": [
+        "cloud",
+        "cloud-upload",
+        "cloud-download"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "cloud",
+      "name": "Cloud",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/cloud/outline.svg",
+      "filledAsset": "/icons/soft/cloud/filled.svg",
+      "related": [
+        "cloud-upload",
+        "cloud-download",
+        "database"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "cloud-upload",
+      "name": "Cloud Upload",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "cloud upload",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/cloud-upload/outline.svg",
+      "filledAsset": "/icons/soft/cloud-upload/filled.svg",
+      "related": [
+        "cloud-download",
+        "database",
+        "server"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "cloud-download",
+      "name": "Cloud Download",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "cloud download",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/cloud-download/outline.svg",
+      "filledAsset": "/icons/soft/cloud-download/filled.svg",
+      "related": [
+        "database",
+        "server",
+        "hard-drive"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "database",
+      "name": "Database",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "database",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/database/outline.svg",
+      "filledAsset": "/icons/soft/database/filled.svg",
+      "related": [
+        "server",
+        "hard-drive",
+        "file-plus"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "server",
+      "name": "Server",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "files",
+        "server"
+      ],
+      "outlineAsset": "/icons/soft/server/outline.svg",
+      "filledAsset": "/icons/soft/server/filled.svg",
+      "related": [
+        "hard-drive",
+        "file-plus",
+        "file-minus"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "hard-drive",
+      "name": "Hard drive",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "files",
+        "hard drive"
+      ],
+      "outlineAsset": "/icons/soft/hard-drive/outline.svg",
+      "filledAsset": "/icons/soft/hard-drive/filled.svg",
+      "related": [
+        "file-plus",
+        "file-minus",
+        "file-check"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "file-plus",
+      "name": "File Plus",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "file plus",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/file-plus/outline.svg",
+      "filledAsset": "/icons/soft/file-plus/filled.svg",
+      "related": [
+        "file-minus",
+        "file-check",
+        "file-lock"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "file-minus",
+      "name": "File Minus",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "file minus",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/file-minus/outline.svg",
+      "filledAsset": "/icons/soft/file-minus/filled.svg",
+      "related": [
+        "file-check",
+        "file-lock",
+        "search"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "file-check",
+      "name": "File Check",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "file check",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/file-check/outline.svg",
+      "filledAsset": "/icons/soft/file-check/filled.svg",
+      "related": [
+        "file-lock",
+        "search",
+        "filter"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "file-lock",
+      "name": "File Lock",
+      "category": "Files",
+      "aliases": [],
+      "keywords": [
+        "file lock",
+        "files"
+      ],
+      "outlineAsset": "/icons/soft/file-lock/outline.svg",
+      "filledAsset": "/icons/soft/file-lock/filled.svg",
+      "related": [
+        "search",
+        "filter",
+        "sliders"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "search",
+      "name": "Search",
+      "category": "Interface",
+      "aliases": [
+        "find",
+        "magnify"
+      ],
+      "keywords": [
+        "find",
+        "interface",
+        "magnify",
+        "search"
+      ],
+      "outlineAsset": "/icons/soft/search/outline.svg",
+      "filledAsset": "/icons/soft/search/filled.svg",
+      "related": [
+        "filter",
+        "sliders",
+        "grid"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "filter",
+      "name": "Filter",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "filter",
+        "interface"
+      ],
+      "outlineAsset": "/icons/soft/filter/outline.svg",
+      "filledAsset": "/icons/soft/filter/filled.svg",
+      "related": [
+        "sliders",
+        "grid",
+        "list"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "sliders",
+      "name": "Sliders",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "interface",
+        "sliders"
+      ],
+      "outlineAsset": "/icons/soft/sliders/outline.svg",
+      "filledAsset": "/icons/soft/sliders/filled.svg",
+      "related": [
+        "grid",
+        "list",
+        "settings"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "grid",
+      "name": "Grid",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "grid",
+        "interface"
+      ],
+      "outlineAsset": "/icons/soft/grid/outline.svg",
+      "filledAsset": "/icons/soft/grid/filled.svg",
+      "related": [
+        "list",
+        "settings",
+        "eye"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "list",
+      "name": "List",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "interface",
+        "list"
+      ],
+      "outlineAsset": "/icons/soft/list/outline.svg",
+      "filledAsset": "/icons/soft/list/filled.svg",
+      "related": [
+        "settings",
+        "eye",
+        "eye-off"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "settings",
+      "name": "Settings",
+      "category": "Interface",
+      "aliases": [
+        "preferences",
+        "gear"
+      ],
+      "keywords": [
+        "gear",
+        "interface",
+        "preferences",
+        "settings"
+      ],
+      "outlineAsset": "/icons/soft/settings/outline.svg",
+      "filledAsset": "/icons/soft/settings/filled.svg",
+      "related": [
+        "eye",
+        "eye-off",
+        "lock"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "eye",
+      "name": "Eye",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "eye",
+        "interface"
+      ],
+      "outlineAsset": "/icons/soft/eye/outline.svg",
+      "filledAsset": "/icons/soft/eye/filled.svg",
+      "related": [
+        "eye-off",
+        "lock",
+        "unlock"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "eye-off",
+      "name": "Eye Off",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "eye off",
+        "interface"
+      ],
+      "outlineAsset": "/icons/soft/eye-off/outline.svg",
+      "filledAsset": "/icons/soft/eye-off/filled.svg",
+      "related": [
+        "lock",
+        "unlock",
+        "code"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "lock",
+      "name": "Lock",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "interface",
+        "lock"
+      ],
+      "outlineAsset": "/icons/soft/lock/outline.svg",
+      "filledAsset": "/icons/soft/lock/filled.svg",
+      "related": [
+        "unlock",
+        "code",
+        "map"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "unlock",
+      "name": "Unlock",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "interface",
+        "unlock"
+      ],
+      "outlineAsset": "/icons/soft/unlock/outline.svg",
+      "filledAsset": "/icons/soft/unlock/filled.svg",
+      "related": [
+        "code",
+        "map",
+        "map-pin"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "code",
+      "name": "Code",
+      "category": "Interface",
+      "aliases": [],
+      "keywords": [
+        "code",
+        "interface"
+      ],
+      "outlineAsset": "/icons/soft/code/outline.svg",
+      "filledAsset": "/icons/soft/code/filled.svg",
+      "related": [
+        "map",
+        "map-pin",
+        "compass"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "map",
+      "name": "Map",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "location",
+        "map"
+      ],
+      "outlineAsset": "/icons/soft/map/outline.svg",
+      "filledAsset": "/icons/soft/map/filled.svg",
+      "related": [
+        "map-pin",
+        "compass",
+        "globe"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "map-pin",
+      "name": "Map pin",
+      "category": "Location",
+      "aliases": [
+        "location",
+        "marker"
+      ],
+      "keywords": [
+        "location",
+        "map pin",
+        "marker"
+      ],
+      "outlineAsset": "/icons/soft/map-pin/outline.svg",
+      "filledAsset": "/icons/soft/map-pin/filled.svg",
+      "related": [
+        "compass",
+        "globe",
+        "navigation"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "compass",
+      "name": "Compass",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "compass",
+        "location"
+      ],
+      "outlineAsset": "/icons/soft/compass/outline.svg",
+      "filledAsset": "/icons/soft/compass/filled.svg",
+      "related": [
+        "globe",
+        "navigation",
+        "route"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "globe",
+      "name": "Globe",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "globe",
+        "location"
+      ],
+      "outlineAsset": "/icons/soft/globe/outline.svg",
+      "filledAsset": "/icons/soft/globe/filled.svg",
+      "related": [
+        "navigation",
+        "route",
+        "car"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "navigation",
+      "name": "Navigation",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "location",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/navigation/outline.svg",
+      "filledAsset": "/icons/soft/navigation/filled.svg",
+      "related": [
+        "route",
+        "car",
+        "bus"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "route",
+      "name": "Route",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "location",
+        "route"
+      ],
+      "outlineAsset": "/icons/soft/route/outline.svg",
+      "filledAsset": "/icons/soft/route/filled.svg",
+      "related": [
+        "car",
+        "bus",
+        "train"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "car",
+      "name": "Car",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "car",
+        "location"
+      ],
+      "outlineAsset": "/icons/soft/car/outline.svg",
+      "filledAsset": "/icons/soft/car/filled.svg",
+      "related": [
+        "bus",
+        "train",
+        "airplane"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "bus",
+      "name": "Bus",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "bus",
+        "location"
+      ],
+      "outlineAsset": "/icons/soft/bus/outline.svg",
+      "filledAsset": "/icons/soft/bus/filled.svg",
+      "related": [
+        "train",
+        "airplane",
+        "bicycle"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "train",
+      "name": "Train",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "location",
+        "train"
+      ],
+      "outlineAsset": "/icons/soft/train/outline.svg",
+      "filledAsset": "/icons/soft/train/filled.svg",
+      "related": [
+        "airplane",
+        "bicycle",
+        "parking"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "airplane",
+      "name": "Airplane",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "airplane",
+        "location"
+      ],
+      "outlineAsset": "/icons/soft/airplane/outline.svg",
+      "filledAsset": "/icons/soft/airplane/filled.svg",
+      "related": [
+        "bicycle",
+        "parking",
+        "play"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "bicycle",
+      "name": "Bicycle",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "bicycle",
+        "location"
+      ],
+      "outlineAsset": "/icons/soft/bicycle/outline.svg",
+      "filledAsset": "/icons/soft/bicycle/filled.svg",
+      "related": [
+        "parking",
+        "play",
+        "pause"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "parking",
+      "name": "Parking",
+      "category": "Location",
+      "aliases": [],
+      "keywords": [
+        "location",
+        "parking"
+      ],
+      "outlineAsset": "/icons/soft/parking/outline.svg",
+      "filledAsset": "/icons/soft/parking/filled.svg",
+      "related": [
+        "play",
+        "pause",
+        "stop"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "play",
+      "name": "Play",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "play"
+      ],
+      "outlineAsset": "/icons/soft/play/outline.svg",
+      "filledAsset": "/icons/soft/play/filled.svg",
+      "related": [
+        "pause",
+        "stop",
+        "skip-next"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "pause",
+      "name": "Pause",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "pause"
+      ],
+      "outlineAsset": "/icons/soft/pause/outline.svg",
+      "filledAsset": "/icons/soft/pause/filled.svg",
+      "related": [
+        "stop",
+        "skip-next",
+        "skip-prev"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "stop",
+      "name": "Stop",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "stop"
+      ],
+      "outlineAsset": "/icons/soft/stop/outline.svg",
+      "filledAsset": "/icons/soft/stop/filled.svg",
+      "related": [
+        "skip-next",
+        "skip-prev",
+        "volume"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "skip-next",
+      "name": "Skip next",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "skip next"
+      ],
+      "outlineAsset": "/icons/soft/skip-next/outline.svg",
+      "filledAsset": "/icons/soft/skip-next/filled.svg",
+      "related": [
+        "skip-prev",
+        "volume",
+        "volume-off"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "skip-prev",
+      "name": "Skip previous",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "skip prev"
+      ],
+      "outlineAsset": "/icons/soft/skip-prev/outline.svg",
+      "filledAsset": "/icons/soft/skip-prev/filled.svg",
+      "related": [
+        "volume",
+        "volume-off",
+        "fullscreen"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "volume",
+      "name": "Volume",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "volume"
+      ],
+      "outlineAsset": "/icons/soft/volume/outline.svg",
+      "filledAsset": "/icons/soft/volume/filled.svg",
+      "related": [
+        "volume-off",
+        "fullscreen",
+        "cast"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "volume-off",
+      "name": "Volume Off",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "volume off"
+      ],
+      "outlineAsset": "/icons/soft/volume-off/outline.svg",
+      "filledAsset": "/icons/soft/volume-off/filled.svg",
+      "related": [
+        "fullscreen",
+        "cast",
+        "radio"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "fullscreen",
+      "name": "Fullscreen",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "fullscreen",
+        "media"
+      ],
+      "outlineAsset": "/icons/soft/fullscreen/outline.svg",
+      "filledAsset": "/icons/soft/fullscreen/filled.svg",
+      "related": [
+        "cast",
+        "radio",
+        "tv"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "cast",
+      "name": "Cast",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "cast",
+        "media"
+      ],
+      "outlineAsset": "/icons/soft/cast/outline.svg",
+      "filledAsset": "/icons/soft/cast/filled.svg",
+      "related": [
+        "radio",
+        "tv",
+        "live"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "radio",
+      "name": "Radio",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "radio"
+      ],
+      "outlineAsset": "/icons/soft/radio/outline.svg",
+      "filledAsset": "/icons/soft/radio/filled.svg",
+      "related": [
+        "tv",
+        "live",
+        "home"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "tv",
+      "name": "Tv",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "media",
+        "tv"
+      ],
+      "outlineAsset": "/icons/soft/tv/outline.svg",
+      "filledAsset": "/icons/soft/tv/filled.svg",
+      "related": [
+        "live",
+        "home",
+        "dashboard"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "live",
+      "name": "Live",
+      "category": "Media",
+      "aliases": [],
+      "keywords": [
+        "live",
+        "media"
+      ],
+      "outlineAsset": "/icons/soft/live/outline.svg",
+      "filledAsset": "/icons/soft/live/filled.svg",
+      "related": [
+        "home",
+        "dashboard",
+        "activity"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "home",
+      "name": "Home",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "home",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/home/outline.svg",
+      "filledAsset": "/icons/soft/home/filled.svg",
+      "related": [
+        "dashboard",
+        "activity",
+        "calendar"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "dashboard",
+      "name": "Dashboard",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "dashboard",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/dashboard/outline.svg",
+      "filledAsset": "/icons/soft/dashboard/filled.svg",
+      "related": [
+        "activity",
+        "calendar",
+        "clock"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "activity",
+      "name": "Activity",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "activity",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/activity/outline.svg",
+      "filledAsset": "/icons/soft/activity/filled.svg",
+      "related": [
+        "calendar",
+        "clock",
+        "history"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "calendar",
+      "name": "Calendar",
+      "category": "Navigation",
+      "aliases": [
+        "date",
+        "schedule"
+      ],
+      "keywords": [
+        "calendar",
+        "date",
+        "navigation",
+        "schedule"
+      ],
+      "outlineAsset": "/icons/soft/calendar/outline.svg",
+      "filledAsset": "/icons/soft/calendar/filled.svg",
+      "related": [
+        "clock",
+        "history",
+        "trend-up"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "clock",
+      "name": "Clock",
+      "category": "Navigation",
+      "aliases": [
+        "time"
+      ],
+      "keywords": [
+        "clock",
+        "navigation",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/clock/outline.svg",
+      "filledAsset": "/icons/soft/clock/filled.svg",
+      "related": [
+        "history",
+        "trend-up",
+        "trend-down"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "history",
+      "name": "History",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "history",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/history/outline.svg",
+      "filledAsset": "/icons/soft/history/filled.svg",
+      "related": [
+        "trend-up",
+        "trend-down",
+        "sort"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "trend-up",
+      "name": "Trend up",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "navigation",
+        "trend up"
+      ],
+      "outlineAsset": "/icons/soft/trend-up/outline.svg",
+      "filledAsset": "/icons/soft/trend-up/filled.svg",
+      "related": [
+        "trend-down",
+        "sort",
+        "nav-menu"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "trend-down",
+      "name": "Trend down",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "navigation",
+        "trend down"
+      ],
+      "outlineAsset": "/icons/soft/trend-down/outline.svg",
+      "filledAsset": "/icons/soft/trend-down/filled.svg",
+      "related": [
+        "sort",
+        "nav-menu",
+        "sidebar"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "sort",
+      "name": "Sort",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "navigation",
+        "sort"
+      ],
+      "outlineAsset": "/icons/soft/sort/outline.svg",
+      "filledAsset": "/icons/soft/sort/filled.svg",
+      "related": [
+        "nav-menu",
+        "sidebar",
+        "login"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "nav-menu",
+      "name": "Navigation menu",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "nav menu",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/nav-menu/outline.svg",
+      "filledAsset": "/icons/soft/nav-menu/filled.svg",
+      "related": [
+        "sidebar",
+        "login",
+        "user"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "sidebar",
+      "name": "Sidebar",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "navigation",
+        "sidebar"
+      ],
+      "outlineAsset": "/icons/soft/sidebar/outline.svg",
+      "filledAsset": "/icons/soft/sidebar/filled.svg",
+      "related": [
+        "login",
+        "user",
+        "users"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "login",
+      "name": "Login",
+      "category": "Navigation",
+      "aliases": [],
+      "keywords": [
+        "login",
+        "navigation"
+      ],
+      "outlineAsset": "/icons/soft/login/outline.svg",
+      "filledAsset": "/icons/soft/login/filled.svg",
+      "related": [
+        "user",
+        "users",
+        "user-plus"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "user",
+      "name": "User",
+      "category": "People",
+      "aliases": [
+        "account",
+        "person"
+      ],
+      "keywords": [
+        "account",
+        "people",
+        "person",
+        "user"
+      ],
+      "outlineAsset": "/icons/soft/user/outline.svg",
+      "filledAsset": "/icons/soft/user/filled.svg",
+      "related": [
+        "users",
+        "user-plus",
+        "user-minus"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "users",
+      "name": "Users",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "users"
+      ],
+      "outlineAsset": "/icons/soft/users/outline.svg",
+      "filledAsset": "/icons/soft/users/filled.svg",
+      "related": [
+        "user-plus",
+        "user-minus",
+        "user-check"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "user-plus",
+      "name": "User plus",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "user plus"
+      ],
+      "outlineAsset": "/icons/soft/user-plus/outline.svg",
+      "filledAsset": "/icons/soft/user-plus/filled.svg",
+      "related": [
+        "user-minus",
+        "user-check",
+        "user-x"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "user-minus",
+      "name": "User minus",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "user minus"
+      ],
+      "outlineAsset": "/icons/soft/user-minus/outline.svg",
+      "filledAsset": "/icons/soft/user-minus/filled.svg",
+      "related": [
+        "user-check",
+        "user-x",
+        "team"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "user-check",
+      "name": "User check",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "user check"
+      ],
+      "outlineAsset": "/icons/soft/user-check/outline.svg",
+      "filledAsset": "/icons/soft/user-check/filled.svg",
+      "related": [
+        "user-x",
+        "team",
+        "profile"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "user-x",
+      "name": "User remove",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "user x"
+      ],
+      "outlineAsset": "/icons/soft/user-x/outline.svg",
+      "filledAsset": "/icons/soft/user-x/filled.svg",
+      "related": [
+        "team",
+        "profile",
+        "id-card"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "team",
+      "name": "Team",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "team"
+      ],
+      "outlineAsset": "/icons/soft/team/outline.svg",
+      "filledAsset": "/icons/soft/team/filled.svg",
+      "related": [
+        "profile",
+        "id-card",
+        "accessibility"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "profile",
+      "name": "Profile",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "profile"
+      ],
+      "outlineAsset": "/icons/soft/profile/outline.svg",
+      "filledAsset": "/icons/soft/profile/filled.svg",
+      "related": [
+        "id-card",
+        "accessibility",
+        "baby"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "id-card",
+      "name": "Id Card",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "id card",
+        "people"
+      ],
+      "outlineAsset": "/icons/soft/id-card/outline.svg",
+      "filledAsset": "/icons/soft/id-card/filled.svg",
+      "related": [
+        "accessibility",
+        "baby",
+        "smile"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "accessibility",
+      "name": "Accessibility",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "accessibility",
+        "people"
+      ],
+      "outlineAsset": "/icons/soft/accessibility/outline.svg",
+      "filledAsset": "/icons/soft/accessibility/filled.svg",
+      "related": [
+        "baby",
+        "smile",
+        "shield"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "baby",
+      "name": "Baby",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "baby",
+        "people"
+      ],
+      "outlineAsset": "/icons/soft/baby/outline.svg",
+      "filledAsset": "/icons/soft/baby/filled.svg",
+      "related": [
+        "smile",
+        "shield",
+        "shield-check"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "smile",
+      "name": "Smile",
+      "category": "People",
+      "aliases": [],
+      "keywords": [
+        "people",
+        "smile"
+      ],
+      "outlineAsset": "/icons/soft/smile/outline.svg",
+      "filledAsset": "/icons/soft/smile/filled.svg",
+      "related": [
+        "shield",
+        "shield-check",
+        "shield-alert"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "shield",
+      "name": "Shield",
+      "category": "Security",
+      "aliases": [
+        "protection",
+        "security"
+      ],
+      "keywords": [
+        "protection",
+        "security",
+        "shield"
+      ],
+      "outlineAsset": "/icons/soft/shield/outline.svg",
+      "filledAsset": "/icons/soft/shield/filled.svg",
+      "related": [
+        "shield-check",
+        "shield-alert",
+        "key"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "shield-check",
+      "name": "Shield Check",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "security",
+        "shield check"
+      ],
+      "outlineAsset": "/icons/soft/shield-check/outline.svg",
+      "filledAsset": "/icons/soft/shield-check/filled.svg",
+      "related": [
+        "shield-alert",
+        "key",
+        "password"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "shield-alert",
+      "name": "Shield Alert",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "security",
+        "shield alert"
+      ],
+      "outlineAsset": "/icons/soft/shield-alert/outline.svg",
+      "filledAsset": "/icons/soft/shield-alert/filled.svg",
+      "related": [
+        "key",
+        "password",
+        "fingerprint"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "key",
+      "name": "Key",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "key",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/key/outline.svg",
+      "filledAsset": "/icons/soft/key/filled.svg",
+      "related": [
+        "password",
+        "fingerprint",
+        "scan"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "password",
+      "name": "Password",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "password",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/password/outline.svg",
+      "filledAsset": "/icons/soft/password/filled.svg",
+      "related": [
+        "fingerprint",
+        "scan",
+        "verified"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "fingerprint",
+      "name": "Fingerprint",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "fingerprint",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/fingerprint/outline.svg",
+      "filledAsset": "/icons/soft/fingerprint/filled.svg",
+      "related": [
+        "scan",
+        "verified",
+        "security-warning"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "scan",
+      "name": "Scan",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "scan",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/scan/outline.svg",
+      "filledAsset": "/icons/soft/scan/filled.svg",
+      "related": [
+        "verified",
+        "security-warning",
+        "danger"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "verified",
+      "name": "Verified",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "security",
+        "verified"
+      ],
+      "outlineAsset": "/icons/soft/verified/outline.svg",
+      "filledAsset": "/icons/soft/verified/filled.svg",
+      "related": [
+        "security-warning",
+        "danger",
+        "privacy"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "security-warning",
+      "name": "Security warning",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "security",
+        "security warning"
+      ],
+      "outlineAsset": "/icons/soft/security-warning/outline.svg",
+      "filledAsset": "/icons/soft/security-warning/filled.svg",
+      "related": [
+        "danger",
+        "privacy",
+        "safe"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "danger",
+      "name": "Danger",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "danger",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/danger/outline.svg",
+      "filledAsset": "/icons/soft/danger/filled.svg",
+      "related": [
+        "privacy",
+        "safe",
+        "check"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "privacy",
+      "name": "Privacy",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "privacy",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/privacy/outline.svg",
+      "filledAsset": "/icons/soft/privacy/filled.svg",
+      "related": [
+        "safe",
+        "check",
+        "check-circle"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "safe",
+      "name": "Safe",
+      "category": "Security",
+      "aliases": [],
+      "keywords": [
+        "safe",
+        "security"
+      ],
+      "outlineAsset": "/icons/soft/safe/outline.svg",
+      "filledAsset": "/icons/soft/safe/filled.svg",
+      "related": [
+        "check",
+        "check-circle",
+        "close"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "check",
+      "name": "Check",
+      "category": "Status",
+      "aliases": [
+        "confirm",
+        "done"
+      ],
+      "keywords": [
+        "check",
+        "confirm",
+        "done",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/check/outline.svg",
+      "filledAsset": "/icons/soft/check/filled.svg",
+      "related": [
+        "check-circle",
+        "close",
+        "close-circle"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "check-circle",
+      "name": "Check Circle",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "check circle",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/check-circle/outline.svg",
+      "filledAsset": "/icons/soft/check-circle/filled.svg",
+      "related": [
+        "close",
+        "close-circle",
+        "info"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "close",
+      "name": "Close",
+      "category": "Status",
+      "aliases": [
+        "cancel",
+        "dismiss"
+      ],
+      "keywords": [
+        "cancel",
+        "close",
+        "dismiss",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/close/outline.svg",
+      "filledAsset": "/icons/soft/close/filled.svg",
+      "related": [
+        "close-circle",
+        "info",
+        "question"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "close-circle",
+      "name": "Close Circle",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "close circle",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/close-circle/outline.svg",
+      "filledAsset": "/icons/soft/close-circle/filled.svg",
+      "related": [
+        "info",
+        "question",
+        "alert"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "info",
+      "name": "Info",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "info",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/info/outline.svg",
+      "filledAsset": "/icons/soft/info/filled.svg",
+      "related": [
+        "question",
+        "alert",
+        "success"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "question",
+      "name": "Question",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "question",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/question/outline.svg",
+      "filledAsset": "/icons/soft/question/filled.svg",
+      "related": [
+        "alert",
+        "success",
+        "pending"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "alert",
+      "name": "Alert",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "alert",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/alert/outline.svg",
+      "filledAsset": "/icons/soft/alert/filled.svg",
+      "related": [
+        "success",
+        "pending",
+        "error"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "success",
+      "name": "Success",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "status",
+        "success"
+      ],
+      "outlineAsset": "/icons/soft/success/outline.svg",
+      "filledAsset": "/icons/soft/success/filled.svg",
+      "related": [
+        "pending",
+        "error",
+        "offline"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "pending",
+      "name": "Pending",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "pending",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/pending/outline.svg",
+      "filledAsset": "/icons/soft/pending/filled.svg",
+      "related": [
+        "error",
+        "offline",
+        "online"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "error",
+      "name": "Error",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "error",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/error/outline.svg",
+      "filledAsset": "/icons/soft/error/filled.svg",
+      "related": [
+        "offline",
+        "online",
+        "status-dot"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "offline",
+      "name": "Offline",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "offline",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/offline/outline.svg",
+      "filledAsset": "/icons/soft/offline/filled.svg",
+      "related": [
+        "online",
+        "status-dot",
+        "calendar-add"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "online",
+      "name": "Online",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "online",
+        "status"
+      ],
+      "outlineAsset": "/icons/soft/online/outline.svg",
+      "filledAsset": "/icons/soft/online/filled.svg",
+      "related": [
+        "status-dot",
+        "calendar-add",
+        "calendar-check"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "status-dot",
+      "name": "Status dot",
+      "category": "Status",
+      "aliases": [],
+      "keywords": [
+        "status",
+        "status dot"
+      ],
+      "outlineAsset": "/icons/soft/status-dot/outline.svg",
+      "filledAsset": "/icons/soft/status-dot/filled.svg",
+      "related": [
+        "calendar-add",
+        "calendar-check",
+        "calendar-close"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "calendar-add",
+      "name": "Calendar add",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "calendar add",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/calendar-add/outline.svg",
+      "filledAsset": "/icons/soft/calendar-add/filled.svg",
+      "related": [
+        "calendar-check",
+        "calendar-close",
+        "stopwatch"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "calendar-check",
+      "name": "Calendar check",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "calendar check",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/calendar-check/outline.svg",
+      "filledAsset": "/icons/soft/calendar-check/filled.svg",
+      "related": [
+        "calendar-close",
+        "stopwatch",
+        "timer"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "calendar-close",
+      "name": "Calendar close",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "calendar close",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/calendar-close/outline.svg",
+      "filledAsset": "/icons/soft/calendar-close/filled.svg",
+      "related": [
+        "stopwatch",
+        "timer",
+        "hourglass"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "stopwatch",
+      "name": "Stopwatch",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "stopwatch",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/stopwatch/outline.svg",
+      "filledAsset": "/icons/soft/stopwatch/filled.svg",
+      "related": [
+        "timer",
+        "hourglass",
+        "schedule"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "timer",
+      "name": "Timer",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "time",
+        "timer"
+      ],
+      "outlineAsset": "/icons/soft/timer/outline.svg",
+      "filledAsset": "/icons/soft/timer/filled.svg",
+      "related": [
+        "hourglass",
+        "schedule",
+        "sun"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "hourglass",
+      "name": "Hourglass",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "hourglass",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/hourglass/outline.svg",
+      "filledAsset": "/icons/soft/hourglass/filled.svg",
+      "related": [
+        "schedule",
+        "sun",
+        "moon"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "schedule",
+      "name": "Schedule",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "schedule",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/schedule/outline.svg",
+      "filledAsset": "/icons/soft/schedule/filled.svg",
+      "related": [
+        "sun",
+        "moon",
+        "sunrise"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "sun",
+      "name": "Sun",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "sun",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/sun/outline.svg",
+      "filledAsset": "/icons/soft/sun/filled.svg",
+      "related": [
+        "moon",
+        "sunrise",
+        "sunset"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "moon",
+      "name": "Moon",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "moon",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/moon/outline.svg",
+      "filledAsset": "/icons/soft/moon/filled.svg",
+      "related": [
+        "sunrise",
+        "sunset",
+        "timezone"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "sunrise",
+      "name": "Sunrise",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "sunrise",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/sunrise/outline.svg",
+      "filledAsset": "/icons/soft/sunrise/filled.svg",
+      "related": [
+        "sunset",
+        "timezone",
+        "add"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "sunset",
+      "name": "Sunset",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "sunset",
+        "time"
+      ],
+      "outlineAsset": "/icons/soft/sunset/outline.svg",
+      "filledAsset": "/icons/soft/sunset/filled.svg",
+      "related": [
+        "timezone",
+        "add",
+        "remove"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    },
+    {
+      "pack": "soft",
+      "slug": "timezone",
+      "name": "Timezone",
+      "category": "Time",
+      "aliases": [],
+      "keywords": [
+        "time",
+        "timezone"
+      ],
+      "outlineAsset": "/icons/soft/timezone/outline.svg",
+      "filledAsset": "/icons/soft/timezone/filled.svg",
+      "related": [
+        "add",
+        "remove",
+        "edit"
+      ],
+      "contextExamples": [
+        "sidebar",
+        "buttons",
+        "metric",
+        "notification",
+        "input",
+        "tabs"
+      ],
+      "introducedIn": "1.0.0"
+    }
+  ]
+}

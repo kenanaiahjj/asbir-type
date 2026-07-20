@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/icons", "destination": "/index.html" },
+    { "source": "/icons/:path*", "destination": "/index.html" },
+    { "source": "/icon/:path*", "destination": "/index.html" }
+  ]
+}

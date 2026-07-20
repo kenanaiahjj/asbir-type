@@ -7,6 +7,7 @@ import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/ibm-plex-mono/700.css';
 import './styles.css';
 import { glyphCodepoints } from './glyphs.js';
+import { mountIconRoute } from './icons/app.js';
 
 const app = document.querySelector('#app');
 
@@ -396,4 +397,10 @@ function bindMonoExamples() {
 }
 
 function toast(message) { const element = document.querySelector('.toast'); element.textContent = message; element.classList.add('show'); setTimeout(() => element.classList.remove('show'), 2500); }
-render();
+
+function renderCurrentRoute() {
+  if (!mountIconRoute(app)) render();
+}
+
+window.addEventListener('popstate', renderCurrentRoute);
+renderCurrentRoute();

@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
 
 async function loadHelpers() {
   try {
@@ -80,4 +81,11 @@ test('detail markup includes exports, code tabs, props, context, and related lin
     assert.match(html, new RegExp(label));
   }
   assert.match(html, /aria-label="Outline or filled variant"/);
+});
+
+test('main entry delegates routes while retaining the existing studio renderer', async () => {
+  const source = await readFile(new URL('../src/main.js', import.meta.url), 'utf8');
+  assert.match(source, /mountIconRoute/);
+  assert.match(source, /function renderCurrentRoute\(\)/);
+  assert.match(source, /if \(!mountIconRoute\(app\)\) render\(\);/);
 });
