@@ -14,6 +14,18 @@ async function loadHelpers() {
   }
 }
 
+async function loadPageRenderers() {
+  try {
+    const [browse, detail] = await Promise.all([
+      import('../src/icons/browse.js'),
+      import('../src/icons/detail.js'),
+    ]);
+    return { ...browse, ...detail };
+  } catch (error) {
+    assert.fail(`icon page renderers are not implemented: ${error.message}`);
+  }
+}
+
 test('parses browse filters and default detail routes', async () => {
   const { parseRoute } = await loadHelpers();
   assert.deepEqual(parseRoute('/icons', '?pack=soft&category=Navigation&q=arrow'), {
@@ -50,4 +62,22 @@ test('normalizes SVG size and color without losing the Asbir viewBox', async () 
 test('rejects unsafe SVG markup', async () => {
   const { renderInlineSvg } = await loadHelpers();
   assert.throws(() => renderInlineSvg('<svg><script>alert(1)</script></svg>', { size: 24, color: 'currentColor' }), /unsafe SVG/i);
+});
+
+test('browse markup includes accessible search, filters, grid links, and pack metadata', async () => {
+  const { renderBrowsePage } = await loadPageRenderers();
+  const html = renderBrowsePage({ kind: 'browse', pack: 'soft', category: 'all', query: '', variant: 'all' });
+  assert.match(html, /aria-label="Search icons"/);
+  assert.match(html, /data-icon-grid/);
+  assert.match(html, /href="\/icon\//);
+  assert.match(html, /Soft/);
+});
+
+test('detail markup includes exports, code tabs, props, context, and related links', async () => {
+  const { renderDetailPage } = await loadPageRenderers();
+  const html = renderDetailPage({ kind: 'detail', pack: 'soft', slug: 'search' });
+  for (const label of ['Copy Name', 'Copy SVG', 'SVG', 'PNG', 'WebP', 'React', 'Props', 'In context', 'Related icons']) {
+    assert.match(html, new RegExp(label));
+  }
+  assert.match(html, /aria-label="Outline or filled variant"/);
 });
