@@ -105,8 +105,8 @@ const monoFeatureCards = [
 const featureCardsFor = family => family === families.mono ? monoFeatureCards : featureCards;
 
 const state = { family: 'sans', text: sets.Sentence, size: 64, weight: 400, tracking: 0, figures: 'tnum', guides: true, mode: 'Sentence', glyphSet: 'latin' };
-const WHATS_NEW_VERSION = '1.1.1';
-const WHATS_NEW_STORAGE_KEY = 'asbir-whats-new-1.1.1-dismissed';
+const WHATS_NEW_VERSION = '1.2.0';
+const WHATS_NEW_STORAGE_KEY = 'asbir-whats-new-1.2.0-dismissed';
 const whatsNewState = {
   open: (() => {
     try { return localStorage.getItem(WHATS_NEW_STORAGE_KEY) !== '1'; }
@@ -120,25 +120,30 @@ function renderWhatsNew() {
   const open = whatsNewState.open;
   return `<div class="whats-new-dock ${open ? 'is-open' : ''}" data-whats-new>
     <button class="whats-new-trigger" id="whats-new-trigger" type="button" aria-expanded="${open}" aria-controls="whats-new-panel">
-      <span>What’s new</span><b>1.1.1</b>
+      <span>What’s new</span><b>1.2.0</b>
     </button>
-    <aside class="whats-new-panel" id="whats-new-panel" aria-label="What’s new · 1.1.1" aria-labelledby="whats-new-title" ${open ? '' : 'hidden'}>
+    <aside class="whats-new-panel" id="whats-new-panel" aria-label="What’s new · 1.2.0" aria-labelledby="whats-new-title" ${open ? '' : 'hidden'}>
       <div class="whats-new-head">
         <span>Release notes / 01</span>
         <button class="whats-new-close" id="whats-new-close" type="button" aria-label="Close What’s New">×</button>
       </div>
       <div class="whats-new-intro">
-        <h2 id="whats-new-title">What’s new <em>1.1.1</em></h2>
-        <p>Two Asbir families are ready for real product and web delivery.</p>
+        <h2 id="whats-new-title">What’s new <em>1.2.0</em></h2>
+        <p>Asbir design system expanded with Asbir Icons Soft pack and refined typeface releases.</p>
       </div>
       <div class="whats-new-updates">
         <article class="whats-new-update">
-          <div class="whats-new-update-head"><strong>Asbir Sans</strong><span>01</span></div>
-          <p>True italic family, Roman + italic variable fonts, and WOFF2 + CSS kit.</p>
+          <div class="whats-new-update-head"><strong>Asbir Icons</strong><span>01</span></div>
+          <p><b>New Soft icon library!</b> 180+ vector icons in outline and filled variants with interactive search, SVG/PNG export, and code snippets.</p>
+          <a href="/icons">Browse Icons <b>↗</b></a>
+        </article>
+        <article class="whats-new-update">
+          <div class="whats-new-update-head"><strong>Asbir Sans</strong><span>02</span></div>
+          <p>Refined legibility with uppercase ‘I’ distinction, True italic variable fonts, and WOFF2 + CSS kit.</p>
           <a href="/downloads/AsbirSans-1.1.1.zip" download>Download Sans 1.1.1 <b>↓</b></a>
         </article>
         <article class="whats-new-update">
-          <div class="whats-new-update-head"><strong>Asbir Mono</strong><span>02</span></div>
+          <div class="whats-new-update-head"><strong>Asbir Mono</strong><span>03</span></div>
           <p><b>Approved production family.</b> True italic family, Fixed-cell terminal companion, and WOFF2 + CSS kit.</p>
           <a href="/downloads/AsbirMono-1.1.1.zip" download>Download Mono 1.1.1 <b>↓</b></a>
         </article>
