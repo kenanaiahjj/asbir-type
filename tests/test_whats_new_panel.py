@@ -13,10 +13,10 @@ class WhatsNewPanelTests(unittest.TestCase):
         for expected in (
             "What’s new · 1.2.0",
             'asbir-whats-new-1.2.0-dismissed',
-            '/icons',
+            'whats-new-badge',
+            'Coming soon',
             '/downloads/AsbirSans-1.1.1.zip',
             '/downloads/AsbirMono-1.1.1.zip',
-            'New Soft icon library!',
             'True italic family',
             'WOFF2 + CSS kit',
             'Approved production family',

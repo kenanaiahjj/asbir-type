@@ -129,13 +129,13 @@ function renderWhatsNew() {
       </div>
       <div class="whats-new-intro">
         <h2 id="whats-new-title">What’s new <em>1.2.0</em></h2>
-        <p>Asbir design system expanded with Asbir Icons Soft pack and refined typeface releases.</p>
+        <p>Asbir design system previews and refined typeface releases.</p>
       </div>
       <div class="whats-new-updates">
         <article class="whats-new-update">
           <div class="whats-new-update-head"><strong>Asbir Icons</strong><span>01</span></div>
-          <p><b>New Soft icon library!</b> 180+ vector icons in outline and filled variants with interactive search, SVG/PNG export, and code snippets.</p>
-          <a href="/icons">Browse Icons <b>↗</b></a>
+          <p><b>Coming soon!</b> Original vector icon library featuring 180+ outline and filled variants. Icon catalog and developer tools in active design preview.</p>
+          <span class="whats-new-badge">Coming soon</span>
         </article>
         <article class="whats-new-update">
           <div class="whats-new-update-head"><strong>Asbir Sans</strong><span>02</span></div>

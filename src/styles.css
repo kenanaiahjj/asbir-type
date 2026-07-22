@@ -423,6 +423,17 @@ select:focus-visible,
 .whats-new-update a:hover { color: var(--accent-strong); }
 .whats-new-update a b { margin-left: 6px; font-size: 14px; font-weight: 400; }
 
+.whats-new-badge {
+  display: inline-block;
+  padding: 3px 8px;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--line);
+  font: 10px 'Asbir Sans Review', sans-serif;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .whats-new-trigger,
   .whats-new-panel { transition: none; }
