@@ -14,10 +14,10 @@ def load_release_version():
 
 
 class ReleaseVersionTests(unittest.TestCase):
-    def test_current_release_uses_semver_1_1_0_and_font_revision_1_100(self):
+    def test_current_release_uses_semver_1_1_1_and_font_revision_1_101(self):
         version = load_release_version()
-        self.assertEqual(version.RELEASE_VERSION, '1.1.0')
-        self.assertEqual(version.FONT_VERSION, '1.100')
+        self.assertEqual(version.RELEASE_VERSION, '1.1.1')
+        self.assertEqual(version.FONT_VERSION, '1.101')
 
 
 if __name__ == '__main__':

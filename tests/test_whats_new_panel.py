@@ -11,10 +11,10 @@ class WhatsNewPanelTests(unittest.TestCase):
 
     def test_panel_has_versioned_copy_links_and_storage_key(self):
         for expected in (
-            "What’s new · 1.1.0",
-            'asbir-whats-new-1.1.0-dismissed',
-            '/downloads/AsbirSans-1.1.0.zip',
-            '/downloads/AsbirMono-1.1.0.zip',
+            "What’s new · 1.1.1",
+            'asbir-whats-new-1.1.1-dismissed',
+            '/downloads/AsbirSans-1.1.1.zip',
+            '/downloads/AsbirMono-1.1.1.zip',
             'True italic family',
             'WOFF2 + CSS kit',
             'Approved production family',
