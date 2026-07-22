@@ -10,18 +10,10 @@
   <anchor x="448" y="1490" name="top"/>
   <outline>
     <contour>
-      <point x="708" y="1490" type="line"/>
-      <point x="188" y="1490" type="line"/>
-      <point x="170" y="1382" type="line"/>
-      <point x="222" y="1382" type="line"/>
-      <point x="11" y="108" type="line"/>
-      <point x="-41" y="108" type="line"/>
-      <point x="-59" y="0" type="line"/>
-      <point x="461" y="0" type="line"/>
-      <point x="479" y="108" type="line"/>
-      <point x="427" y="108" type="line"/>
-      <point x="638" y="1382" type="line"/>
-      <point x="690" y="1382" type="line"/>
+      <point x="656" y="1490" type="line"/>
+      <point x="240" y="1490" type="line"/>
+      <point x="-7" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
